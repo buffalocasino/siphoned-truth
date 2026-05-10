@@ -9,9 +9,14 @@ function safeTime(v: any): number {
 }
 
 export const load: PageServerLoad = () => {
-	const raw = Object.values(articleFiles);
-	const articles = raw
-		.map((mod: any) => mod?.default ?? mod)
-		.sort((a: any, b: any) => safeTime(b) - safeTime(a));
-	return { articles };
+	try {
+		const raw = Object.values(articleFiles);
+		const articles = raw
+			.map((mod: any) => mod?.default ?? mod)
+			.sort((a: any, b: any) => safeTime(b) - safeTime(a));
+		return { articles };
+	} catch (e) {
+		console.error('Article load error:', e);
+		return { articles: [] };
+	}
 };

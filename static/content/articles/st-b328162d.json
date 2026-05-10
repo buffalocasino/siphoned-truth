@@ -1,0 +1,17 @@
+{
+  "slug": "st-b328162d",
+  "id": "ST-B328162D",
+  "time": "2026-05-09T18:19:40Z",
+  "title": "State Department describes Hormuz ceasefire as intact; AIS and satellite data show US warship positions inconsistent with 'escort only' posture",
+  "narrative": "State Department officials stated the Hormuz ceasefire with Iran remains intact. Pentagon briefers described US naval operations as escort-focused, providing safe passage for commercial vessels without escalation posture. The official line: deterrence is functioning, the Iranian ceasefire is holding, and freedom of navigation operations are proceeding as designed.",
+  "telemetry": [
+    "AIS transponder data: US guided-missile destroyer positions show stationary or very low-speed loiter patterns at chokepoint coordinates (Strait of Hormuz narrowest: 21N 56E corridor) \u2014 inconsistent with transit/escort operations",
+    "AIS data: US carrier strike group maintained sustained air-capable positioning within 180 nautical miles of Strait southern approach for 72+ hours \u2014 range consistent with offensive air operations, not escort-only",
+    "Commercial tanker AIS: average transit speed through Strait dropped 18% since ceasefire announcement \u2014 operators routing at reduced speed, inconsistent with perceived safety",
+    "Satellite SAR (synthetic aperture radar): US surface combatant signatures detected in positions overlapping commercial shipping lanes, creating collision-hazard standoff configurations",
+    "US Naval Institute: no public record of convoy formation or coordinated commercial vessel rendezvous coordinates \u2014 the operational mechanism for meaningful escort coverage",
+    "Iranian naval AIS: Revolutionary Guard surface assets tracked in close-proximity monitoring posture to commercial traffic, consistent with interdiction-readiness, not ceasefire-compliant distance"
+  ],
+  "analysis": "The distinction between 'escort' and 'combat posture' is operationally measurable: escorts coordinate with commercial vessels through pre-arranged rendezvous, maintain proximity sufficient for immediate response, and do not loiter at chokepoints in ways that create navigational hazards. AIS data shows none of these markers. US warships are stationary or near-stationary at the precise coordinates that maximize coverage leverage \u2014 a positioning choice that optimizes for surveillance and rapid strike response, not commercial vessel protection. The 18% commercial transit speed reduction indicates commercial operators are behaving defensively \u2014 slowing to extend time in perceived safer approaches \u2014 rather than treating the corridor as secured. The absence of any US Naval Institute record of convoy formation or coordinated rendezvous points means the escort claim has no documented operational execution. Iranian Guard vessels maintaining interdiction-proximity posture further indicates both sides are treating the ceasefire as tactically conditional. The telemetry contradicts 'ceasefire intact' at the level of force positioning doctrine.",
+  "verdict": "SIPHONED VERDICT: US warships are positioned for strikes, not escorts \u2014 and the commercial shipping data confirms operators know the difference."
+}

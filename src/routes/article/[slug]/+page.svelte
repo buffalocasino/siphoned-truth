@@ -4,13 +4,15 @@
 	let { data }: { data: PageData } = $props();
 
 	const article = data.article;
+	const narrative = article.narrative ?? article.article_body ?? '';
+	const getText = (field: string | undefined) => field ?? '';
 </script>
 
 <svelte:head>
 	<title>{article.title} | The Siphoned Truth</title>
-	<meta name="description" content={article.narrative.slice(0, 160)} />
+	<meta name="description" content={narrative.slice(0, 160)} />
 	<meta property="og:title" content={article.title} />
-	<meta property="og:description" content={article.narrative.slice(0, 200)} />
+	<meta property="og:description" content={narrative.slice(0, 200)} />
 	<meta property="og:type" content="article" />
 	<meta property="og:url" content={`https://blog-iota-gray-35.vercel.app/article/${article.id.toLowerCase()}`} />
 	<meta property="og:image" content={`https://blog-iota-gray-35.vercel.app/covers/${article.id.toLowerCase()}.jpg`} />
@@ -20,7 +22,7 @@
 	<meta property="article:section" content={article.category || 'OSINT'} />
 	<meta name="twitter:card" content="summary_large_image" />
 	<meta name="twitter:title" content={article.title} />
-	<meta name="twitter:description" content={article.narrative.slice(0, 200)} />
+	<meta name="twitter:description" content={narrative.slice(0, 200)} />
 	<meta name="twitter:image" content={`https://blog-iota-gray-35.vercel.app/covers/${article.id.toLowerCase()}.jpg`} />
 	<link rel="canonical" href={`https://blog-iota-gray-35.vercel.app/article/${article.id.toLowerCase()}`} />
 </svelte:head>
@@ -43,29 +45,29 @@
 			<img src="/covers/{article.id.toLowerCase()}.jpg" alt={article.title} />
 		</div>
 
-		<section class="section">
-			<h2>I. PUBLIC NARRATIVE</h2>
-			<p>{article.narrative}</p>
-		</section>
+<section class="section">
+		<h2>I. PUBLIC NARRATIVE</h2>
+		<p>{narrative}</p>
+	</section>
 
-		<section class="section telemetry">
-			<h2>II. TELEMETRY FEED</h2>
-			<ul>
-				{#each article.telemetry as item}
-					<li>{item}</li>
-				{/each}
-			</ul>
-		</section>
+	<section class="section telemetry">
+		<h2>II. TELEMETRY FEED</h2>
+		<ul>
+			{#each (article.telemetry ?? []) as item}
+				<li>{item}</li>
+			{/each}
+		</ul>
+	</section>
 
-		<section class="section">
-			<h2>III. ADVERSARIAL ANALYSIS</h2>
-			<p>{article.analysis}</p>
-		</section>
+	<section class="section">
+		<h2>III. ADVERSARIAL ANALYSIS</h2>
+		<p>{getText(article.analysis)}</p>
+	</section>
 
-		<section class="section verdict">
-			<h2>IV. THE VERDICT</h2>
-			<blockquote>{article.verdict}</blockquote>
-		</section>
+	<section class="section verdict">
+		<h2>IV. THE VERDICT</h2>
+		<blockquote>{getText(article.verdict)}</blockquote>
+	</section>
 
 		<section class="section sources">
 			<h2>V. SOURCE TELEMETRY</h2>

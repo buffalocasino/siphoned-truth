@@ -1,30 +1,8 @@
 <script lang="ts">
-	import { onMount } from 'svelte';
+	import { page } from '$app/stores';
 
-	let articles: Array<{
-		slug: string;
-		title: string;
-		id: string;
-		time: string;
-		narrative: string;
-		telemetry: string[];
-		analysis: string;
-		verdict: string;
-	}> = $state([]);
-
-	let loading = $state(true);
-
-	onMount(async () => {
-		try {
-			const res = await fetch('/api/articles');
-			const data = await res.json();
-			articles = data.articles;
-		} catch {
-			articles = [];
-		} finally {
-			loading = false;
-		}
-	});
+	let { data } = $props();
+	let articles = $derived(data.articles ?? []);
 </script>
 
 <svelte:head>
@@ -46,9 +24,7 @@
 		</div>
 	</header>
 
-	{#if loading}
-		<div class="loading">INITIALIZING TELEMETRY STREAM...</div>
-	{:else if articles.length === 0}
+	{#if articles.length === 0}
 		<div class="empty">
 			<p>[NO ACTIVE REPORTS]</p>
 			<p>ShadowBroker telemetry feed pending. Reports generate at 0800, 1200, 1600 EST.</p>
@@ -56,13 +32,13 @@
 	{:else}
 		<div class="grid">
 			{#each articles as article}
-				<a href="/article/{article.slug}" class="card">
+				<a href="/article/{article.slug ?? article.id}" class="card">
 					<div class="card-id">{article.id}</div>
 					<h2>{article.title}</h2>
-					<p class="card-narrative">{article.narrative.slice(0, 120)}...</p>
+					<p class="card-narrative">{(article.narrative ?? article.article_body ?? '').slice(0, 120)}...</p>
 					<div class="card-meta">
 						<span>{article.time}</span>
-						<span class="verdict-tag">{article.verdict.slice(0, 60)}...</span>
+						<span class="verdict-tag">{(article.verdict ?? '').slice(0, 60)}...</span>
 					</div>
 				</a>
 			{/each}
