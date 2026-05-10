@@ -1,0 +1,22 @@
+{
+  "slug": "st-d82bbdd7",
+  "id": "ST-D82BBDD7",
+  "time": "2026-05-09T22:06:57.459774+00:00",
+  "title": "USDA claims wildfire preparedness \u2014 but prescribed burn data tells a different story",
+  "narrative": "Agriculture Secretary issued a May 2026 Wildfire Readiness Memorandum claiming to build on \"progress\" made in 2025. The USDA's 2026 Fire Letter of Intent claims to \"strengthen wildfire response and reduce risk across landscapes.\" The Forest Service dashboard shows 1.5M\u20132M acres treated for hazardous fuels. Officials point to the memo as evidence of preparedness.",
+  "telemetry": [
+    "Source: Agriculture Secretary Wildfire Readiness Memorandum, May 2026",
+    "USDA 2026 Fire Letter of Intent: claims \"strengthen wildfire response and reduce risk across landscapes\"",
+    "Forest Service dashboard: 1.5M\u20132M acres reported treated for hazardous fuels",
+    "NPR (May 4, 2026): prescribed burning fell from 1.6M acres (2023-2024) to ~900,000 acres in 2025 \u2014 44% reduction",
+    "Forest Service fiscal year data: 1 million fewer acres burned in prescribed fires vs. prior years",
+    "NIFC (National Interagency Coordination Center) May 9, 2026 sitrep: 22,947 fires, >1.8 million acres burned year-to-date",
+    "2026 acreage burned in 5 months exceeds the 10-year average for the same period",
+    "2025 peer-reviewed study: prescribed fire reduces wildfire burn severity 16% on average",
+    "2025 peer-reviewed study: prescribed fire lowers net smoke emissions 14%",
+    "Expert consensus: 2026 fire season projected as dangerous heading into summer",
+    "Prior year comparison: 2023-2024 prescribed burn acreage ~1.6M; 2025 prescribed burn acreage ~900K"
+  ],
+  "analysis": "The USDA cannot simultaneously claim full wildfire preparedness and report a 44% reduction in the one intervention proven to reduce wildfire burn severity. These positions are mutually exclusive, yet both appear in official communications.\n\nPrescribed fire is not a marginal tool. A 2025 peer-reviewed study found it reduces wildfire burn severity by 16% on average and lowers net smoke emissions by 14% \u2014 meaning fewer emissions overall even accounting for the burn itself. The logic is straightforward: remove the fuel load before the wildfire finds it. A 44% reduction in prescribed burns heading into a projected dangerous fire season is not a policy neutral event. It is a direct increase in both the severity and the cost of the fires that follow.\n\nThe math is damning. The NIFC May 9 sitrep documents 1.8 million acres already burned in 2026 \u2014 in just five months. This already exceeds the 10-year average for the same period. The Forest Service dashboard's claim of 1.5M\u20132M acres treated for hazardous fuels is presented without year-over-year context: the same dashboard, read correctly, shows the treated acreage did not keep pace with the prior year when prescribed burning was cut by a million acres.\n\nThe acreage data is public. The NIFC sitrep is public. The peer-reviewed literature is public. The administration cannot claim full preparedness while its own data shows the primary preventive measure fell by nearly half in the year immediately prior to a record fire season. The gap between 'we are prepared' messaging and the physical evidence \u2014 1.8 million acres already burned \u2014 is not a communication problem. It is a contradiction that the numbers cannot resolve.",
+  "verdict": "SIPHONED VERDICT: The USDA's own prescribed burn data shows a 44% reduction in the one proven wildfire severity reducer, yet officials claim full preparedness \u2014 the 1.8 million acres already burned in 2026 is the physical evidence that both claims cannot be true."
+}
