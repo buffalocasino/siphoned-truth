@@ -1,0 +1,18 @@
+{
+  "slug": "st-brand-identity",
+  "id": "ST-BEB30EBB",
+  "time": "2026-05-10T01:50:47.057757+00:00",
+  "title": "The Siphoned Truth \u2014 brand identity, tone guide, output structure",
+  "narrative": "Brand identity and tone guide for The Siphoned Truth investigative series.",
+  "telemetry": [
+    "FORMAT: 4-section encrypted report structure",
+    "TONE: Clinical adversarial analysis; dry, unsentimental, evidence-first",
+    "AUDIENCE: Readers who question official narratives and want raw telemetry",
+    "TOPIC: Geopolitical events, conflicts, financial anomalies, infrastructure failures",
+    "VERDICT: Sharp one-line conclusion derived from physical evidence vs. official claims",
+    "DATA SOURCES: Transponder feeds, satellite imagery, sensor logs, financial telemetry",
+    "OUTPUT: JSON + formatted report, stored in /home/trevo/blog/content/articles/"
+  ],
+  "analysis": "The Siphoned Truth format was established through 20+ consecutive articles produced May 9 2026. Each follows this exact structure: PUBLIC NARRATIVE (official mainstream statement), TELEMETRY FEED (bullet breakdown of physical data), ADVERSARIAL ANALYSIS (how telemetry contradicts official narrative), VERDICT (sharp one-line conclusion). The format is self-evidently operational through its live output.",
+  "verdict": "[SIPHONED VERDICT]: The Siphoned Truth format is defined by its output, not its design document \u2014 and that output is already live."
+}

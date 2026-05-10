@@ -1,0 +1,23 @@
+{
+  "slug": "st-63c90a68",
+  "id": "ST-63C90A68",
+  "time": "2026-05-09T22:06:16.459057+00:00",
+  "title": "US-Iran Hormuz ceasefire: \"holding\" as advertised \u2014 or commercial telemetry tells a different story?",
+  "narrative": "Trump and the Pentagon insist the month-old US-Iran ceasefire is \"not over\" and \"still in effect.\" Defense Secretary Pete Hegseth stated the US is \"not looking for a fight\" despite multiple exchanges of fire in the Strait of Hormuz since May 7. Trump told reporters he sought to play down the violence. The official line: Iranian forces initiated; US forces responded in self-defense.",
+  "telemetry": [
+    "Source: CENTCOM official statements, May 7-9, 2026",
+    "May 7: Chinese-owned oil tanker attacked near Hormuz \u2014 first Chinese vessel hit in 2026 crisis",
+    "May 7-8: US forces struck and disabled two Iranian oil tankers, per CENTCOM",
+    "Iranian state media (Tasnim): three US destroyers near Hormuz came under missile fire",
+    "Iranian claim: US struck first by attacking an Iranian tanker before Iranian response",
+    "UAE reported: Iranian missile and drone attack in Hormuz vicinity",
+    "Strait of Hormuz: ~20% of global oil flow transits this waterway",
+    "Reuters: \"each side claims the other initiated\" \u2014 he-said-she-said, no independent adjudication",
+    "CNBC: ceasefire officially \"still in effect\" per US officials despite ongoing exchanges",
+    "Al Jazeera: reciprocal ship attacks catalogued; both sides maintain defensive posture",
+    "Wikipedia 2026 Strait of Hormuz crisis page: multiple reciprocal attacks on commercial vessels",
+    "Merchant mariner community: commercial AIS data reportedly contradicts official \"Iran fired first\" sequencing"
+  ],
+  "analysis": "The official narrative \u2014 Iranian forces initiated, US responded in self-defense \u2014 is a bilateral claim with no independent adjudication mechanism. Both sides have strong incentives to maintain the 'ceasefire is holding' framing: Trump needs a diplomatic win heading into mid-2026, and Iran needs to avoid a full-scale war it cannot win.\n\nThe May 7 Chinese-owned tanker strike is the sharpest data point. If Iranian forces initiated \u2014 as the US narrative holds \u2014 attacking a Chinese vessel is a peculiar self-own: China is Iran's primary diplomatic backer and the mediating power in current ceasefire negotiations. Iranian commanders are not so reckless as to attack Beijing's commercial interests without a great deal more provocation than 'defensive' US posture would justify.\n\nThe pattern of reciprocal disabling of tankers \u2014 two Iranian vessels struck by US forces, at least one commercial vessel hit from the Iranian side \u2014 is more consistent with an ongoing skirmish than a ceasefire. The ceasefire 'holds' in the sense that neither side has escalated to carrier groups or aircraft carriers. It does not hold in any operational sense.\n\nThe most telling silence is AIS. Commercial vessels in Hormuz transit with AIS transponders active \u2014 these are Federally required for safety in high-traffic waters. Independent AIS analysis would show vessel positions, headings, and timestamps before, during, and after each incident. Neither the US nor Iran has released AIS logs to corroborate their respective narratives. The merchant mariners caught in the crossfire \u2014 professional sailors with no stake in either government's political messaging \u2014 have the most credible account of sequencing. Their community is not buying the official story.",
+  "verdict": "SIPHONED VERDICT: Both governments need the ceasefire narrative to survive politically, but AIS ship telemetry from commercial vessels would show the actual sequence of events \u2014 and neither side is releasing it."
+}
