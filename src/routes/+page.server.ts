@@ -13,6 +13,7 @@ export const load: PageServerLoad = () => {
 		const raw = Object.values(articleFiles);
 		const articles = raw
 			.map((mod: any) => mod?.default ?? mod)
+			.filter((a: any) => a && a.title)
 			.sort((a: any, b: any) => safeTime(b) - safeTime(a));
 		return { articles };
 	} catch (e) {
