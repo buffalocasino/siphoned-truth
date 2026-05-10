@@ -11,7 +11,7 @@ function safeTime(v: any): number {
 }
 
 const articles = Object.values(articleFiles)
-	.map((mod: any) => mod)
+	.map((mod: any) => mod?.default ?? mod)
 	.sort((a: any, b: any) => safeTime(b) - safeTime(a));
 
 export const GET: RequestHandler = () => {
