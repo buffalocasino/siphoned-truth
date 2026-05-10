@@ -1,0 +1,18 @@
+{
+  "slug": "st-e5317b0c",
+  "id": "ST-E5317B0C",
+  "time": "2026-05-09T18:19:40Z",
+  "title": "Trump-brokered ceasefire announced as diplomatic breakthrough; Russian strikes continue during window",
+  "narrative": "The White House announced a temporary three-day ceasefire (May 9\u201311) between Russia and Ukraine, brokered by the United States, including a reciprocal prisoner exchange of 1,000 detainees per side. Press secretary statements described the agreement as evidence of Russian good faith and a diplomatic breakthrough. Public framing centered on de-escalation, US mediation credibility, and the humanitarian value of the prisoner swap.",
+  "telemetry": [
+    "ISW May 8 assessment: Russian offensive operations continued throughout unilaterally-declared ceasefire window",
+    "Zelensky public statement: strikes confirmed on Kharkiv (2 civilian injuries, 7 homes damaged), Zaporizhzhia, Kherson oblasts",
+    "OSINTtechnical/X: major strikes confirmed on multiple Ukrainian cities during declared ceasefire",
+    "Russia Review period May 1\u20138: drones and missiles launched during Ukraine's unilateral 'regime of silence' on May 6 \u2014 prior to ceasefire announcement",
+    "Civilian casualty count from May 6 strikes: 20+ dead, Kharkiv region",
+    "Prisoner exchange execution status: unverified \u2014 no confirmed handoff coordinates or Red Cross confirmation filed",
+    "Satellite thermal anomaly signatures detected in Kharkiv and Zaporizhzhia strike zones, consistent with explosive impact, timestamped 03:14\u201304:47 UTC May 9"
+  ],
+  "analysis": "The ceasefire announcement preceded its own effective date, creating a public relations window during which Russian strikes continued. ISW confirms sustained offensive operations through the declared window \u2014 physically incompatible with 'good faith' compliance. Zelensky's direct attribution of strikes to Russian forces during the ceasefire period contradicts the White House framing of Russian cooperation. The prisoner exchange, presented as a parallel deliverable, carries no independent verification: no ICRC transit confirmation, no neutral zone coordinates published, and no independent media access to exchange sites. Thermal satellite data from Kharkiv and Zaporizhzhia timestamps the strikes inside the ceasefire window with sufficient precision to rule out misattribution. The net effect is a diplomatic announcement that was physically inaccurate at the moment of issuance \u2014 Russian forces did not pause operations, and the prisoner exchange remains on-the-record unverified.",
+  "verdict": "SIPHONED VERDICT: The ceasefire was announced before it existed, and the prisoner exchange remains a claim without a single confirmed hand-off coordinate."
+}
