@@ -12,8 +12,9 @@
 
 <main>
 	<header>
-		<div class="logo">⬡ SHADOW BROKER INTEGRATION NODE</div>
-		<h1>THE SIPHONED TRUTH</h1>
+		<div class="logo-wrap">
+			<img src="/logo.svg" alt="The Siphoned Truth" class="logo-img" />
+		</div>
 		<p class="subtitle">Adversarial OSINT Intelligence Bureau</p>
 		<div class="stats">
 			<span>FEEDS: 60+ ACTIVE</span>
@@ -33,12 +34,15 @@
 		<div class="grid">
 			{#each articles as article}
 				<a href="/article/{article.slug ?? article.id}" class="card">
-					<div class="card-id">{article.id}</div>
-					<h2>{article.title}</h2>
-					<p class="card-narrative">{String(article.narrative ?? article.article_body ?? article.content ?? article.summary ?? '').slice(0, 120)}...</p>
-					<div class="card-meta">
-						<span>{article.time ?? ''}</span>
-						<span class="verdict-tag">{String(article.verdict ?? '').slice(0, 60)}...</span>
+					<div class="card-thumb" style="background-image: url('/covers/{article.id?.toLowerCase()}.jpg')"></div>
+					<div class="card-body">
+						<div class="card-id">{article.id}</div>
+						<h2>{article.title}</h2>
+						<p class="card-narrative">{String(article.narrative ?? article.article_body ?? article.content ?? article.summary ?? '').slice(0, 120)}...</p>
+						<div class="card-meta">
+							<span>{article.time ?? ''}</span>
+							<span class="verdict-tag">{String(article.verdict ?? '').slice(0, 60)}...</span>
+						</div>
 					</div>
 				</a>
 			{/each}
@@ -83,6 +87,17 @@
 		margin-bottom: 1rem;
 	}
 
+	.logo-wrap {
+		display: flex;
+		justify-content: center;
+		margin-bottom: 1rem;
+	}
+
+	.logo-img {
+		height: 360px;
+		width: auto;
+	}
+
 	h1 {
 		font-size: 2.5rem;
 		font-weight: 400;
@@ -125,10 +140,11 @@
 	.card {
 		background: #0f0f18;
 		border: 1px solid #00ff8822;
-		padding: 1.5rem;
 		text-decoration: none;
 		color: inherit;
-		display: block;
+		display: flex;
+		flex-direction: column;
+		overflow: hidden;
 		transition: border-color 0.2s, box-shadow 0.2s;
 	}
 
@@ -137,11 +153,27 @@
 		box-shadow: 0 0 20px #00ff8811;
 	}
 
+	.card-thumb {
+		width: 100%;
+		height: 160px;
+		background-size: cover;
+		background-position: center;
+		background-color: #0f0f18;
+		flex-shrink: 0;
+	}
+
+	.card-body {
+		padding: 1.25rem 1.5rem 1.5rem;
+		display: flex;
+		flex-direction: column;
+		flex: 1;
+	}
+
 	.card-id {
 		font-size: 0.6rem;
 		color: #00ff8855;
 		letter-spacing: 0.2em;
-		margin-bottom: 0.75rem;
+		margin-bottom: 0.5rem;
 	}
 
 	.card h2 {
@@ -157,6 +189,7 @@
 		color: #00ff8899;
 		line-height: 1.6;
 		margin: 0 0 1rem;
+		flex: 1;
 	}
 
 	.card-meta {

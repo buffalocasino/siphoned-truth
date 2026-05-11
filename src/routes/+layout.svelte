@@ -15,6 +15,7 @@
 		</script>
 	{/if}
 	<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1032028091690286" crossorigin="anonymous"></script>
+	<meta name="google-adsense-account" content="ca-pub-1032028091690286" />
 	<link rel="icon" href={favicon} />
 	<meta property="og:site_name" content="The Siphoned Truth" />
 	<meta property="og:type" content="website" />
