@@ -1,0 +1,27 @@
+{
+  "slug": "st-hormuz-ais-gap-2026-05-11",
+  "id": "ST-HORMUZ-AIS-GAP-EA6A1B",
+  "title": "The Strait of Hormuz Is Open \u2014 Except for the 77 Ships Not Transponding",
+  "narrative": "President Trump and CENTCOM declared the Strait of Hormuz \"open for business\" following the April 2026 ceasefire agreement with Iran. The White House stated ships were \"flowing freely\" and cited \"unprecedented success.\" US officials claimed AIS shipping data confirmed rapid recovery to normal traffic levels. The physical reality on the water tells a different story.",
+  "telemetry": [
+    "IMO (April 21): ~20,000 mariners and 2,000 ships stranded in Persian Gulf due to the closure",
+    "Normal Hormuz daily transits: 120\u2013140 vessels/day",
+    "Ceasefire period AIS data: 84 dry bulk crossings in first 7 days (April 1\u20137) \u2014 vs. normal ~840/week",
+    "Windward EO imagery (May 6, 13:50 UTC): 77 vessels operating with AIS transmission OFF in northern corridor",
+    "800+ ships still backed up in and around the Strait per Al Jazeera tracking",
+    "Discovery Alert: traffic collapsed to 3\u20136 vessels/24hr during peak closure vs. 120\u2013140 baseline",
+    "51 vessels, 41 confirmed maritime incidents tracked by United Against Nuclear Iran (May 5)",
+    "Core AIS gap: vessels are physically in the Strait but transponder-dark, making \"open\" claim unverifiable from public tracking data"
+  ],
+  "analysis": "Turning off AIS in a known maritime chokepoint is not a neutral act. AIS is not required to be on at all times by vessels in international waters, but the pattern here is what's informative: 77 ships in the northern corridor \u2014 a month after the ceasefire was announced \u2014 operating with their transponders dark. That is the behavioral signature of ships that don't want to be seen.\n\nWhy would that be? The Strait of Hormuz sits between Oman and Iran and carries roughly 20% of the world's oil. It's also the route through which Iranian oil flows despite US sanctions, and the corridor through which tankers carrying Russian crude have historically routed after moving cargo ship-to-ship in the Gulf. Anonymized AIS in a known sanctions-evasion corridor is not a coincidence \u2014 it's an operational necessity. If you're moving oil you're not supposed to be moving, you do not broadcast your identity and position.\n\nThe \"84 dry bulk crossings in seven days\" figure is the one AIS number officials are citing. But that number is carefully chosen: dry bulk is the least controversial cargo to cite. It's also the traffic that recovered fastest because dry bulk operators have the least to hide. The tankers \u2014 the ones carrying the cargo where AIS-off matters \u2014 are absent from the official narrative.\n\nThe 800+ ships backed up per Al Jazeera's tracking represent real economic cost sitting outside the Strait. If the waterway were truly flowing freely, that queue would be moving. It's not. What the imagery shows on May 6 is a northern corridor populated by dark vessels: ships present, ships waiting, ships doing whatever they do when no one can see them. The declaration that Hormuz is open is technically accurate in the same way a highway is open when cars are on it \u2014 it ignores every meaningful metric about whether commerce is actually moving.\n\nThe insurance implications are also immediate. Lloyd's and other maritime insurers price risk based on transit data. A corridor with documented AIS gaps and 41 tracked maritime incidents in a single week is not a low-risk corridor. Ships that are there but not transmitting are ships whose insurers cannot price them accurately, and that pricing gap filters directly into the cost of every barrel of oil that does move through.",
+  "category": "geopolitics",
+  "tags": [
+    "#Hormuz",
+    "#DarkFleet",
+    "#AIS",
+    "#Iran",
+    "#StraitOfHormuz",
+    "#OilShipping",
+    "#Maritime"
+  ]
+}
