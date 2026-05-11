@@ -1,0 +1,16 @@
+{
+  "slug": "st-646b93ec",
+  "id": "ST-646B93EC",
+  "time": "2026-05-11T13:36:13.129448+00:00",
+  "title": "Epstein files partial release \u2014 coverup vs. limited disclosure pattern",
+  "narrative": "Federal prosecutors announced the partial release of documents related to the Jeffrey Epstein investigation. The release covers approximately 30% of the total document set, with redactions on names, locations, and financial details cited as 'ongoing investigations' and 'privacy interests of uninvolved parties.' Justice Department officials described the release as the largest single disclosure in the matter to date.",
+  "telemetry": [
+    "30% of total documents released \u2014 70% remains sealed under 'ongoing investigation' designation",
+    "Names redacted citing 'privacy interests of uninvolved parties' \u2014 legal standard normally requires specific harm demonstration, not blanket category",
+    "All financial transaction records, flight logs, and property records entirely absent from release",
+    "Scheduled release date slipped three times in 14 months \u2014 last delay cited 'technical processing'",
+    "Release coincides with two unrelated federal investigations entering jury selection phase"
+  ],
+  "analysis": "The 'ongoing investigation' carve-out is the primary mechanism for the 70% holdback. But federal investigations that have been ongoing for 14 months with no charges filed face a heightened standard for continued secrecy \u2014 courts have consistently ruled that indefinite invocations of 'ongoing investigation' without prosecutorial specificity constitute\u82df\u5ef6\u671f, not genuine investigative necessity. The 'privacy of uninvolved parties' standard is more suspicious. Under FRE 505 and comparable state equivalents, third-party privacy requires a showing that specifically identifiable individuals face a credible risk of harm \u2014 not a blanket category that covers every name in every document. The pattern of the release date slipping three times, each with a different cited reason, is consistent with tactical timing rather than procedural difficulty: the final delay reason ('technical processing') is the vaguest and required the least internal documentation. The coincidence with two jury selections is a correlation that does not prove causation, but it is the kind of timing that would be explicitly flagged in any DOJ public affairs review of a document release decision.",
+  "verdict": "SIPHONED VERDICT: The 70% holdback on 'ongoing investigation' grounds without charges filed in 14 months, combined with three unexplained date slips and the privacy carve-out applied categorically rather than to specific identifiable individuals, suggests the release was shaped for timing purposes, not legal necessity."
+}
