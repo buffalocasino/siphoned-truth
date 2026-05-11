@@ -4,15 +4,15 @@
 	let { data }: { data: PageData } = $props();
 
 	const article = data.article;
-	const narrative = article.narrative ?? article.article_body ?? '';
+	const narrative = (article.narrative ?? article.article_body ?? article.content ?? article.summary ?? '').toString();
 	const getText = (field: string | undefined) => field ?? '';
 </script>
 
 <svelte:head>
 	<title>{article.title} | The Siphoned Truth</title>
-	<meta name="description" content={narrative.slice(0, 160)} />
-	<meta property="og:title" content={article.title} />
-	<meta property="og:description" content={narrative.slice(0, 200)} />
+	<meta name="description" content={(narrative || '').slice(0, 160)} />
+	<meta property="og:title" content={article.title || 'Article'} />
+	<meta property="og:description" content={(narrative || '').slice(0, 200)} />
 	<meta property="og:type" content="article" />
 	<meta property="og:url" content={`https://blog-iota-gray-35.vercel.app/article/${article.id.toLowerCase()}`} />
 	<meta property="og:image" content={`https://blog-iota-gray-35.vercel.app/covers/${article.id.toLowerCase()}.jpg`} />
@@ -77,7 +77,7 @@
 				<span>•</span>
 				<span>AUTH: HERMES_AGENT_V4</span>
 				<span>•</span>
-				<span>CROSS-REFERENCED: {article.telemetry.length} DATA POINTS</span>
+				<span>CROSS-REFERENCED: {(article.telemetry ?? []).length} DATA POINTS</span>
 			</div>
 		</section>
 

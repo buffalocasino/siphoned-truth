@@ -35,10 +35,10 @@
 				<a href="/article/{article.slug ?? article.id}" class="card">
 					<div class="card-id">{article.id}</div>
 					<h2>{article.title}</h2>
-					<p class="card-narrative">{(article.narrative ?? article.article_body ?? article.content ?? article.summary ?? '').slice(0, 120)}...</p>
+					<p class="card-narrative">{String(article.narrative ?? article.article_body ?? article.content ?? article.summary ?? '').slice(0, 120)}...</p>
 					<div class="card-meta">
-						<span>{article.time}</span>
-						<span class="verdict-tag">{(article.verdict ?? '').slice(0, 60)}...</span>
+						<span>{article.time ?? ''}</span>
+						<span class="verdict-tag">{String(article.verdict ?? '').slice(0, 60)}...</span>
 					</div>
 				</a>
 			{/each}

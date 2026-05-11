@@ -14,6 +14,10 @@ export const load: PageServerLoad = async ({ params }) => {
 		throw error(404, 'Article not found');
 	}
 
-	const article = articleFiles[fileKey] as any;
+	const raw = articleFiles[fileKey] as any;
+	const article = raw?.default ?? raw;
+	if (!article || !article.title) {
+		throw error(404, 'Article not found');
+	}
 	return { article };
 };
