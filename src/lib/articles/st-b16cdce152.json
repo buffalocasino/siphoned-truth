@@ -1,0 +1,18 @@
+{
+  "slug": "st-b16cdce152",
+  "id": "ST-B16CDCE152",
+  "time": "2026-05-12T19:48:27.247231+00:00",
+  "title": "The Cruise Ship, the Hantavirus, and the Politics of \"Not Covid\"",
+  "narrative": "A hantavirus outbreak on the MV Hondius prompted full evacuation of 120 passengers and monitoring of 24 Americans across three countries \u2014 while France24 and the WHO ran 'this is not Covid' as their lead framing. The specific strain has not been named.",
+  "telemetry": [
+    "120 passengers evacuated from MV Hondius \u2014 Spain reports a new case in someone already evacuated, meaning spread continued post-disembarkation",
+    "24 American passengers dispersed to three separate locations: Nebraska, Atlanta, and Canada \u2014 not the protocol for a 'nearly impossible' human-to-human virus",
+    "WHO director-general praised Spain's 'compassion and solidarity' \u2014 the same language used for Covid coordination, not typically applied to low-risk outbreaks",
+    "Andes hantavirus strain (Argentina, 1990s) demonstrated confirmed human-to-human transmission \u2014 WHO's 'nearly impossible' framing treats all strains as equivalent without specifying which strain this is",
+    "MV Hondius port history not disclosed \u2014 rodent exposure source unknown; AIS vessel tracking data not available in major wire reports",
+    "Ship total passenger and crew capacity not reported \u2014 120+ evacuated leaves attack rate impossible to calculate without a denominator",
+    "France24 headline ran 'This is not Covid' \u2014 tone management, not medical classification; officials executed full containment playbook while telling press it was not a Covid-level threat"
+  ],
+  "analysis": "The contradiction between 'this is not Covid' and the operational response is not subtle. Dispersing 24 passengers to three separate countries for monitoring is not the protocol for a virus transmission between humans that officials describe as 'nearly impossible.' Quarantine the infected; monitor close contacts. Scattering passengers across Nebraska, Atlanta, and Canada implies you're watching for spread you expect might happen. The WHO's decision not to name the specific strain is the most telling omission. Hantavirus is not a monolithic risk category \u2014 the Andes strain showed human-to-human transmission was possible. Without strain identification, the 'not Covid' framing is doing more reassurance work than medical work. After Covid, the political cost of overreacting is lower than the cost of underreacting. The visible response \u2014 evacuation, multi-country coordination, strict measures \u2014 may be genuinely prudent public health practice. But it also means officials are not taking their own reassurances at face value. The gap between the press release and the operational protocol is where the interesting questions live.",
+  "verdict": "SIPHONED VERDICT: The \"not Covid\" framing is tone management, not medical certainty \u2014 120 evacuated, 24 Americans scattered across three countries, strain unnamed. Officials are running a full containment playbook while telling the press there is nothing to see."
+}
