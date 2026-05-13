@@ -10,7 +10,7 @@ COVERS.mkdir(parents=True, exist_ok=True)
 
 # Track processed slugs so we don't re-generate images on every run
 PROCESSED_MARKER = BLOG / ".deployed_slugs"
-FB_POSTS_DIR = BLOG / "content" / "fb-posts"
+FB_POSTS_DIR = BLOG / "static" / "fb-posts"
 
 MINIMAX_MEDIA_KEY = 'sk-cp-iwiL6pOy3nspdEU5U-a0v6wrSKxo06qIBf8GsagrC7yx6TIIq6vf7x7c2ay09lOPbZ2S2jEnM4LPv0TeyElzqIoK3_9coTDkKeJIPZBJSG2Kjhahe1LD2tU'
 GROUP_ID = '2038430040336634210'
@@ -196,7 +196,7 @@ def main():
 
     # 4. Stage and commit
     result = subprocess.run(
-        ["git", "status", "--porcelain", "-uall", "--", "src/", "static/covers/", "content/fb-posts/", ".deployed_slugs"],
+        ["git", "status", "--porcelain", "-uall", "--", "src/", "static/covers/", "static/fb-posts/", ".deployed_slugs"],
         cwd=BLOG, capture_output=True, text=True
     )
     uncommitted = [l for l in result.stdout.splitlines()
@@ -209,7 +209,7 @@ def main():
     new_count = len([l for l in uncommitted if l.startswith("??")])
     print(f"Staging {len(uncommitted)} file(s) ({new_count} new)")
 
-    if not run("git", "add", "src/", "static/covers/", "content/fb-posts/", ".deployed_slugs"):
+    if not run("git", "add", "src/", "static/covers/", "static/fb-posts/", ".deployed_slugs"):
         return
 
     # Commit
