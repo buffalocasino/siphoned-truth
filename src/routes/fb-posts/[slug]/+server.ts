@@ -1,23 +1,33 @@
 import { error } from '@sveltejs/kit';
 import { readFileSync, existsSync } from 'fs';
-import { join } from 'path';
+import { resolve } from 'path';
 
 export async function GET({ params }) {
   const { slug } = params;
   if (!slug) throw error(400, 'Missing slug');
 
-  // Vercel serverless functions run from /var/task — resolve project root
-  // via the VERCEL environment variable, falling back to cwd
-  const isVercel = !!process.env.VERCEL;
-  const base = isVercel
-    ? join(process.env.VERCEL_PROJECT_ROOT_PATH ?? process.cwd())
-    : process.cwd();
+  // Serverless functions on Vercel run from /var/task or similar.
+  // Try known Vercel paths in order of likelihood.
+  const candidates = [
+    resolve('/var/task/static/fb-posts', `${slug}.txt`),
+    resolve(process.cwd(), 'static/fb-posts', `${slug}.txt`),
+    resolve(process.cwd(), '..', 'static/fb-posts', `${slug}.txt`),
+    resolve(process.cwd(), '..', '..', 'static/fb-posts', `${slug}.txt`),
+    resolve('/home/trevo/blog/static/fb-posts', `${slug}.txt`),
+  ];
 
-  const filePath = join(base, 'static', 'fb-posts', `${slug}.txt`);
-  if (!existsSync(filePath)) {
+  let content = null;
+  for (const p of candidates) {
+    if (existsSync(p)) {
+      content = readFileSync(p, 'utf-8');
+      break;
+    }
+  }
+
+  if (content === null) {
     throw error(404, `FB post not found: ${slug}`);
   }
-  const content = readFileSync(filePath, 'utf-8');
+
   return new Response(content, {
     headers: {
       'Content-Type': 'text/plain; charset=utf-8',
