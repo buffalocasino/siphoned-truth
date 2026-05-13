@@ -1,0 +1,11 @@
+⬡ Cruise ship quarantine in Bordeaux: what AIS and port records reveal that 'contained' doesn't
+
+More than 1,000 passengers were held aboard a cruise vessel in Bordeaux on May 13, 2026, after a gastrointestinal illness outbreak that the ship operator described as "contained.
+
+The telemetry doesn't lie.
+
+▸ The "contained" narrative collapses on contact with the operational facts. Restricting 1,000 people to a ship after arrival is not a containment measure — it is a quarantine. Containment isolates known cases; quarantine restricts all potential contacts. The distinction matters, and the ship's operator either knows it and chose the softer word for public consumption, or does not understand the difference. Either is disqualifying. The AIS track and the Bordeaux MDH will establish the factual sequence; either the ship deviated before French waters in a pattern consistent with managing a larger outbreak, or French port authorities imposed restrictions that contradicted the operator's own assessment. One of those two things happened. The public record will show which.
+
+→ https://siphonedtruth.online/article/st-f505e35a
+
+#SiphonedTruth #OSINT #ShadowBroker
