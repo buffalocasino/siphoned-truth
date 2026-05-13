@@ -1,13 +1,38 @@
 import { json, error } from '@sveltejs/kit';
+import { readFileSync, existsSync } from 'fs';
+import { resolve, join } from 'path';
 
-export async function GET() {
-  return json({
-    cwd: process.cwd(),
-    env_VERCEL: process.env.VERCEL,
-    env_VERCEL_PROJECT_ROOT: process.env.VERCEL_PROJECT_ROOT_PATH,
-    env_VERCEL_SYSTEM_HOME: process.env.VERCEL_SYSTEM_HOME,
-    env_AWS_LAMBDA_FUNCTION_NAME: process.env.AWS_LAMBDA_FUNCTION_NAME,
-    env_LD_LIBRARY_PATH: process.env.LD_LIBRARY_PATH,
-    env_PATH: (process.env.PATH || '').split(':').slice(0, 5),
+export async function GET({ params }) {
+  const { slug } = params;
+  if (!slug) throw error(400, 'Missing slug');
+
+  // Vercel serverless runs at /var/task
+  const base = '/var/task';
+  const candidates = [
+    resolve(base, 'static', 'fb-posts', `${slug}.txt`),
+    resolve(base, '..', 'static', 'fb-posts', `${slug}.txt`),
+    resolve(base, '..', '..', 'static', 'fb-posts', `${slug}.txt`),
+    resolve(process.cwd(), 'static', 'fb-posts', `${slug}.txt`),
+  ];
+
+  let content = null;
+  let tried = [];
+  for (const p of candidates) {
+    tried.push(p + ' → ' + (existsSync(p) ? 'EXISTS' : 'MISSING'));
+    if (existsSync(p)) {
+      content = readFileSync(p, 'utf-8');
+      break;
+    }
+  }
+
+  if (content === null) {
+    return json({ tried, cwd: process.cwd(), base });
+  }
+
+  return new Response(content, {
+    headers: {
+      'Content-Type': 'text/plain; charset=utf-8',
+      'Cache-Control': 'public, max-age=3600',
+    },
   });
 }
