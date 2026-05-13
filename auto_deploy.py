@@ -10,6 +10,7 @@ COVERS.mkdir(parents=True, exist_ok=True)
 
 # Track processed slugs so we don't re-generate images on every run
 PROCESSED_MARKER = BLOG / ".deployed_slugs"
+FB_POSTS_DIR = BLOG / "content" / "fb-posts"
 
 MINIMAX_MEDIA_KEY = 'sk-cp-iwiL6pOy3nspdEU5U-a0v6wrSKxo06qIBf8GsagrC7yx6TIIq6vf7x7c2ay09lOPbZ2S2jEnM4LPv0TeyElzqIoK3_9coTDkKeJIPZBJSG2Kjhahe1LD2tU'
 GROUP_ID = '2038430040336634210'
@@ -102,6 +103,36 @@ def generate_cover(slug, title, category='default'):
         print(f"  Cover generation failed for {slug}: {e}")
         return None
 
+def generate_fb_post(article):
+    """Generate a ready-to-paste Facebook post for an article."""
+    title = article.get('title', '')
+    narrative = article.get('narrative', '')
+    verdict = article.get('verdict', '')
+    category = article.get('category', 'OSINT')
+    slug = article.get('slug', article.get('id', ''))
+    url = f"https://siphonedtruth.online/article/{slug}"
+
+    first_sentence = narrative.split('.')[0] + '.' if narrative else ''
+    if verdict.startswith('[SIPHONED VERDICT]:'):
+        verdict = verdict[len('[SIPHONED VERDICT]:'):].strip()
+    elif verdict.startswith('[SIPHONED VERDICT]'):
+        verdict = verdict[len('[SIPHONED VERDICT]'):].strip()
+
+    lines = [
+        f"⬡ {title}",
+        "",
+        f"{first_sentence}",
+        "",
+        "The telemetry doesn't lie.",
+        "",
+        f"▸ {verdict}",
+        "",
+        f"→ {url}",
+        "",
+        "#SiphonedTruth #OSINT #ShadowBroker",
+    ]
+    return '\n'.join(lines)
+
 def validate_json(filepath):
     """Remove corrupt JSON files before staging."""
     try:
@@ -143,9 +174,29 @@ def main():
         print(f"Generated {len(new_articles)} cover image(s): {new_articles}")
     save_processed(processed)
 
+    # 3b. Generate FB post drafts for new articles
+    FB_POSTS_DIR.mkdir(parents=True, exist_ok=True)
+    new_fb_posts = []
+    for slug in new_articles:
+        # find the article file
+        for f in (BLOG / "content/articles").glob("*.json"):
+            try:
+                article = json.load(open(f))
+                if article.get('slug') == slug or article.get('id', '').lower() == slug:
+                    post = generate_fb_post(article)
+                    out_path = FB_POSTS_DIR / f"{slug}.txt"
+                    out_path.write_text(post)
+                    new_fb_posts.append(slug)
+                    break
+            except:
+                pass
+
+    if new_fb_posts:
+        print(f"Generated {len(new_fb_posts)} FB post draft(s): {new_fb_posts}")
+
     # 4. Stage and commit
     result = subprocess.run(
-        ["git", "status", "--porcelain", "-uall", "--", "src/", "static/covers/", ".deployed_slugs"],
+        ["git", "status", "--porcelain", "-uall", "--", "src/", "static/covers/", "content/fb-posts/", ".deployed_slugs"],
         cwd=BLOG, capture_output=True, text=True
     )
     uncommitted = [l for l in result.stdout.splitlines()
@@ -158,7 +209,7 @@ def main():
     new_count = len([l for l in uncommitted if l.startswith("??")])
     print(f"Staging {len(uncommitted)} file(s) ({new_count} new)")
 
-    if not run("git", "add", "src/", "static/covers/", ".deployed_slugs"):
+    if not run("git", "add", "src/", "static/covers/", "content/fb-posts/", ".deployed_slugs"):
         return
 
     # Commit
