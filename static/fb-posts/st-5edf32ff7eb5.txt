@@ -1,0 +1,11 @@
+⬡ Meta's 145 billion dollar AI bet — the gap between market cap and physical reality
+
+Meta announced a 145 billion dollar capital expenditure program for AI infrastructure in 2026 — the largest single corporate AI investment in history.
+
+The telemetry doesn't lie.
+
+▸ 145 billion dollars is a large number. The gap between that number and the actual compute that will be operational in 2026-2027 is not a shortfall — it's a feature of how AI infrastructure spending is currently being communicated vs. how long it actually takes to build.
+
+→ https://siphonedtruth.online/article/st-5edf32ff7eb5
+
+#SiphonedTruth #OSINT #ShadowBroker

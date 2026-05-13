@@ -1,0 +1,19 @@
+{
+  "task_id": "t_05969f73",
+  "title": "Golden Dome missile defense \u2014 the cost estimate that keeps growing",
+  "narrative": "The Golden Dome missile defense architecture, announced by the Trump administration as a cornerstone of US national security policy, has a cost problem that its proponents have not been able to contain. Initial estimates were in the tens of billions. Congressional Budget Office analysis put the realistic range in the low hundreds of billions. Independent assessments from defense analysts suggest that a system designed to provide comprehensive missile defense against the current threat landscape \u2014 which now includes hypersonic glide vehicles, advanced cruise missiles, and saturated launch scenarios from near-peer adversaries \u2014 may not be achievable at any realistic budget.",
+  "telemetry": [
+    "Initial administration estimate: 'tens of billions' \u2014 no specific figure",
+    "CBO preliminary analysis: realistic range likely exceeds 100 billion dollars over development lifetime",
+    "GAO capability assessment: no existing US system can reliably intercept hypersonic glide vehicles in their terminal phase",
+    "Current threat landscape: Russia, China, and North Korea all possess or are developing hypersonic weapons specifically to defeat existing missile defense architectures",
+    "Satellite-based sensor layer: identified by experts as essential for hypersonic tracking but adds significant cost and timeline risk",
+    "Historical analog: US missile defense total lifecycle costs consistently underestimated by 50-100% vs. initial projections",
+    "Theater missile defense systems (Patriot, THAAD): have never been tested against realistic saturated attack scenarios"
+  ],
+  "analysis": "The Golden Dome proposal has a structural problem that isn't about engineering \u2014 it's about the nature of the threat it was designed against. The US missile defense establishment spent decades building systems optimized against ballistic missiles. The threat has evolved to include hypersonic glide vehicles and cruise missiles that fly low, fast, and maneuverable. Defending against the 2026 threat landscape with a system designed around the 1990 threat model requires either new physics or a budget that reflects genuinely novel capability development. Neither has been specified honestly.",
+  "verdict": "[SIPHONED VERDICT]: The Golden Dome cost estimate is a moving target because the actual cost of the mission \u2014 defending against a threat that's evolved beyond the system's design assumptions \u2014 hasn't been honestly stated. What gets quoted as the program cost is usually the press release number, not the real number.",
+  "slug": "st-55e9031ce72b",
+  "id": "ST55E9031CE72B",
+  "time": "2026-05-13T22:35:30Z"
+}
