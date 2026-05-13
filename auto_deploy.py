@@ -143,15 +143,38 @@ def validate_json(filepath):
         filepath.unlink()
         return False
 
+def validate_verdict(filepath):
+    """Flag articles missing or lacking proper [SIPHONED VERDICT]: prefix."""
+    try:
+        d = json.load(open(filepath))
+        verdict = d.get('verdict', '')
+        if not verdict:
+            print(f"  MISSING VERDICT: {filepath.name}")
+            return False
+        if not verdict.startswith('[SIPHONED VERDICT]'):
+            print(f"  MISSING PREFIX: {filepath.name} — verdict: {verdict[:50]}")
+            return False
+        return True
+    except:
+        return False
+
 def main():
     # 1. Sync articles (always overwrite to fix stale file bug)
     synced = sync_articles()
     if synced:
         print(f"Synced {synced} article(s) from content/articles/")
 
-    # 2. Validate JSON files
+    # 2. Validate JSON files and verdict format
+    bad_verdicts = []
     for f in (BLOG / "src/lib/articles").glob("*.json"):
         validate_json(f)
+        if not validate_verdict(f):
+            bad_verdicts.append(f.name)
+
+    if bad_verdicts:
+        print(f"WARNING: {len(bad_verdicts)} article(s) with bad/missing verdicts — fix before publishing:")
+        for name in bad_verdicts:
+            print(f"  {name}")
 
     # 3. Generate covers for new articles
     processed = load_processed()
