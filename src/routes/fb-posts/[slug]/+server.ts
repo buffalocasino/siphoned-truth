@@ -1,37 +1,13 @@
-import { error } from '@sveltejs/kit';
-import { readFileSync, existsSync } from 'fs';
-import { resolve } from 'path';
+import { json, error } from '@sveltejs/kit';
 
-export async function GET({ params }) {
-  const { slug } = params;
-  if (!slug) throw error(400, 'Missing slug');
-
-  // Serverless functions on Vercel run from /var/task or similar.
-  // Try known Vercel paths in order of likelihood.
-  const candidates = [
-    resolve('/var/task/static/fb-posts', `${slug}.txt`),
-    resolve(process.cwd(), 'static/fb-posts', `${slug}.txt`),
-    resolve(process.cwd(), '..', 'static/fb-posts', `${slug}.txt`),
-    resolve(process.cwd(), '..', '..', 'static/fb-posts', `${slug}.txt`),
-    resolve('/home/trevo/blog/static/fb-posts', `${slug}.txt`),
-  ];
-
-  let content = null;
-  for (const p of candidates) {
-    if (existsSync(p)) {
-      content = readFileSync(p, 'utf-8');
-      break;
-    }
-  }
-
-  if (content === null) {
-    throw error(404, `FB post not found: ${slug}`);
-  }
-
-  return new Response(content, {
-    headers: {
-      'Content-Type': 'text/plain; charset=utf-8',
-      'Cache-Control': 'public, max-age=3600',
-    },
+export async function GET() {
+  return json({
+    cwd: process.cwd(),
+    env_VERCEL: process.env.VERCEL,
+    env_VERCEL_PROJECT_ROOT: process.env.VERCEL_PROJECT_ROOT_PATH,
+    env_VERCEL_SYSTEM_HOME: process.env.VERCEL_SYSTEM_HOME,
+    env_AWS_LAMBDA_FUNCTION_NAME: process.env.AWS_LAMBDA_FUNCTION_NAME,
+    env_LD_LIBRARY_PATH: process.env.LD_LIBRARY_PATH,
+    env_PATH: (process.env.PATH || '').split(':').slice(0, 5),
   });
 }
