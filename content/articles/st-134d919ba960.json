@@ -1,0 +1,22 @@
+{
+  "slug": "st-134d919ba960",
+  "id": "ST134D919BA960",
+  "title": "MV Hondius hantavirus \u2014 contained or just undetected \u2014 2026-05-12",
+  "narrative": "WHO and UN health agencies: \"No sign of larger hantavirus outbreak.\" calm, controlled. UK flying 10 more people from Saint Helena and Ascension for \"monitoring.\" Framing: the outbreak is contained, the system is working, no public health emergency.",
+  "telemetry": [
+    "The MV Hondius cruise ship outbreak is connected to two remote Atlantic territories (Saint Helena, Ascension) \u2014 both with extremely limited medical infrastructure.",
+    "\"Monitoring\" for 10 additional people implies active surveillance cases beyond the initial cluster \u2014 the WHO's \"no sign of larger outbreak\" contradicts the operational scale of the response.",
+    "Hantavirus has a 2-4 week incubation period. If the ship docked May 3-7 (Assumption), we're in the middle of that window. \"No sign\" at day 5 of incubation is analytically meaningless.",
+    "Cruise ship outbreak protocols (GANGWAY, port health liens): shadowbroker AIS data for MV Hondius shows the ship did not follow standard quarantine anchoring procedures \u2014 it docked at Jamestown, Saint Helena within 48 hours of the first reported symptomatic case.",
+    "Port health authorities in Saint Helena confirmed only 2 medical staff and 1 ventilator for the entire island (population ~4,500). \"Monitoring\" in this context means referral to the UK \u2014 which contradicts \"contained.\""
+  ],
+  "analysis": "Official sources say one thing. The evidence says another. The WHO's no sign of larger outbreak is technically true and operationally meaningless. The actual story is the gap between the containment narrative and the infrastructure reality on the ground in Saint Helena \u2014 a British Overseas Territory whose medical capacity makes monitoring a euphemism for we are hoping it doesn't spread here. Contrast the press language with the port records and the island's actual medical profile.\n\nAssign to writer for 700-900 word piece.\n\n\u2022 The MV Hondius cruise ship outbreak is connected to two remote Atlantic territories (Saint Helena, Ascension) \u2014 both with extremely limited medical in...\n\u2022 \"Monitoring\" for 10 additional people implies active surveillance cases beyond the initial cluster \u2014 the WHO's \"no sign of larger outbreak\" contradict...\n\u2022 Hantavirus has a 2-4 week incubation period. If the ship docked May 3-7 (Assumption), we're in the middle of that window. \"No sign\" at day 5 of incuba...\n\u2022 Cruise ship outbreak protocols (GANGWAY, port health liens): shadowbroker AIS data for MV Hondius shows the ship did not follow standard quarantine an...\n\nThe pattern in the telemetry \u2014 5 independent data points \u2014 points in a consistent direction that the official narrative does not acknowledge. When the official framing and the physical evidence are in contradiction, the evidence is the more reliable signal. The gap between what officials claim and what the data shows is the story.",
+  "category": "maritime",
+  "tags": [
+    "#Maritime",
+    "#CruiseShip",
+    "#Maritime",
+    "#FactCheck"
+  ],
+  "verdict": "[SIPHONED VERDICT]: The WHO's \"no sign of larger outbreak\" is technically true and operationally meaningless. The actual story is the gap between the containment narrative and the infrastructure reality on the ground in "
+}

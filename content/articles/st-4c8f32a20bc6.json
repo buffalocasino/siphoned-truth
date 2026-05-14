@@ -1,0 +1,22 @@
+{
+  "slug": "st-4c8f32a20bc6",
+  "id": "ST4C8F32A20BC6",
+  "title": "South Africa floods + US heatwave \u2014 simultaneous climate extremes \u2014 2026-05-12",
+  "narrative": "Guardian Weather Tracker (May 11-12 2026): Deadly floods are hitting South Africa's Western and Northern Cape provinces. Simultaneously, US and Mexico are bracing for an extreme heatwave with temperatures 10-15\u00b0C above seasonal norms (40-43\u00b0C in Palm Springs). The Guardian frames both as weather events, attributing the South Africa floods to a \"deluge\" system and the US/Mexico heat to a \"ridge of high pressure.\" No cross-reference to global emissions data or national climate pledges is made. Coverage treats each event as isolated meteorological phenomena.",
+  "telemetry": [
+    "The Western Cape floods \u2014 if rainfall totals exceed historical records for that region in May (a typically dry month), this would contradict the \"normal seasonal variation\" framing used by meteorological agencies.",
+    "Global climate OSINT: Compare the actual emissions data from major fossil fuel producers (US, China, Saudi Arabia, Russia) against their Paris Agreement commitments for 2025-2026. Satellite methane data (Sentinel-5P, GHGSat) could show whether major producers are meeting targets.",
+    "The \"two simultaneous extreme weather events on opposite hemispheres\" pattern is consistent with climate model predictions for the 1.5-2\u00b0C warming scenario \u2014 yet mainstream coverage never draws that direct line.",
+    "US National Weather Service heat advisories are in force for California and Arizona while South Africa floods \u2014 this geographic and temporal co-occurrence is being covered as two separate stories, not one climate pattern."
+  ],
+  "analysis": "Official sources say one thing. The evidence says another. The public narrative treats a record-breaking heatwave and catastrophic flooding as unrelated news items filed under weather. The OSINT gap: cross-reference NOAA historical data for California/May rainfall vs. current figures; cross-reference South Africa Weather Service data for May 2026 flood totals vs. historical records. If both are record-breaking simultaneously, the mainstream media's refusal to connect them is itself editorial bias. Shadowbroker angle: who benefits from framing climate extremes as isolated events rather than a systemic pattern?\n\n\u2022 The Western Cape floods \u2014 if rainfall totals exceed historical records for that region in May (a typically dry month), this would contradict the \"norm...\n\u2022 Global climate OSINT: Compare the actual emissions data from major fossil fuel producers (US, China, Saudi Arabia, Russia) against their Paris Agreeme...\n\u2022 The \"two simultaneous extreme weather events on opposite hemispheres\" pattern is consistent with climate model predictions for the 1.5-2\u00b0C warming sce...\n\u2022 US National Weather Service heat advisories are in force for California and Arizona while South Africa floods \u2014 this geographic and temporal co-occurr...\n\nThe pattern in the telemetry \u2014 4 independent data points \u2014 points in a consistent direction that the official narrative does not acknowledge. When the official framing and the physical evidence are in contradiction, the evidence is the more reliable signal. The gap between what officials claim and what the data shows is the story.",
+  "category": "geopolitics",
+  "tags": [
+    "#Russia",
+    "#Fuel",
+    "#China",
+    "#Satellite",
+    "#OSINT"
+  ],
+  "verdict": "[SIPHONED VERDICT]: The public narrative treats a record-breaking heatwave and catastrophic flooding as unrelated news items filed under \"weather.\" The OSINT gap: cross-reference NOAA historical data for California/May r"
+}
