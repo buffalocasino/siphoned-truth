@@ -1,0 +1,27 @@
+{
+  "slug": "st-04a21039",
+  "id": "ST-04A21039",
+  "time": "2026-05-14T00:19:27.519707+00:00",
+  "title": "Trump and Xi Walk Into Beijing. The Pre-Summit Signals Say Something Different.",
+  "narrative": "BBC reported May 13, 2026 that Trump arrived in China for a high-stakes summit with Xi. Trade, Iran, and Taiwan were listed as agenda items. The public framing: both sides engaged in diplomatic posturing ahead of substantive negotiations. Trump said his first request to Xi was to 'open up' China. Beijing signaled it would press on Taiwan status. Both administrations framed the meeting as cooperative engagement.",
+  "telemetry": [
+    "Sentinel-2 / Planet Labs satellite imagery: Beijing security perimeter and meeting venue changes captured May 11-12 \u2014 vehicle convoys, barrier placement, visible security hardpoints not present in prior commercial imagery",
+    "Flightradar24 / AirSquawk records for US delegation C-32/757 aircraft: departure time from Andrews AFB, north Atlantic track, arrival at Beijing Capital International Airport \u2014 timestamps verifiable independent of White House readout",
+    "USD/CNH exchange rate: spot rate movement May 13-15 as a real-time market signal on summit outcome; China Treasury holdings per monthly TIC data as structural indicator",
+    "US Treasury / State Department sanctions announcements: any new Chinese entity designations in the 48 hours around summit \u2014 executive order timing vs. post-meeting press release",
+    "Chinese state media Xinhua / CCTV footage timestamps: what was shown vs. what was shown in Western coverage of pre-meeting press conference \u2014 any discrepancies in venue, attendees, or visible materials"
+  ],
+  "analysis": "Every US-China summit since the 2020 Phase One deal has followed the same script: cooperative pre-summit positioning, a signed memorandum of understanding, followed by substantive concessions on Taiwan, IP, or trade that did not appear in the public readout. The market signals \u2014 exchange rate, bond movements, sanctions timing \u2014 have historically moved faster and more honestly than the diplomatic documentation.\n\nThe satellite imagery is the physical record. Beijing's security setup for a foreign head of state involves days of preparation: vehicle staging areas, approach routes, snipers, electronic monitoring. Sentinel-2 or Planet Labs captured the same venue 48 hours before the summit \u2014 differences in barrier placement, vehicle positions, or personnel absence would indicate whether the Chinese side was staging a controlled narrative. Flight tracking data for the US delegation aircraft is independently verifiable: departure time from Andrews, north Atlantic routing, arrival timestamp at PEK. USD/CNH movement on May 14-15 prices in the actual outcome before any official statement is released \u2014 the market will know what was agreed before the press conference ends.",
+  "verdict": "[SIPHONED VERDICT]: Pre-summit press releases are theater \u2014 satellite imagery, flight data, and bond market signals are the real indicators, and they historically show the concessions before the readout does.",
+  "tags": [
+    "trump",
+    "xi",
+    "beijing",
+    "china",
+    "taiwan",
+    "trade",
+    "summit",
+    "geopolitics"
+  ],
+  "kanban_task": "t_29a933a7"
+}
