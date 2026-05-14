@@ -1,0 +1,20 @@
+{
+  "slug": "india-pakistan-drone-war-official-claims-vs-incident-data",
+  "id": "T_CD1B6BB58B03",
+  "time": "2026-05-11T14:48:36Z",
+  "title": "India-Pakistan Drone War: Official Claims vs. Incident Data",
+  "narrative": "India's Defence Ministry reported 791 drone intrusions along the western border in 2025, with 237 neutralized by Indian forces. Of those neutralized, only five carried \"war-like stores\" \u2014 two pistols, three magazines, 16 bullets, and a grenade in the most widely cited incident. Pakistan categorically rejects the figures, calling them \"baseless fabrication\" without publishing a competing count or methodology. No independently verifiable incident log, wreckage coordinates, or third-party radar data has been published by either side. Both governments use the unverified figures for domestic political and military positioning.",
+  "telemetry": [
+    "INDIA-INTRUSIONS: 791 drone intrusions claimed along International Border in 2025 \u2014 9 in Jammu and Kashmir, 782 in Punjab and Rajasthan",
+    "INDIA-NEUTRALIZED: 237 drones neutralized per Indian Defence Ministry year-end statement 2025",
+    "INDIA-WEAPONS-RECOVERED: Only 5 of 237 neutralized drones carried war-like stores \u2014 5 carried narcotics, 161 carried no payload",
+    "INDIA-DROPS: One widely reported incident \u2014 2 pistols, 3 ammunition magazines, 16 bullets, 1 grenade dropped in Samba district",
+    "INDIA-INTERCEPTIONS: Indian Army Chief said at least 8 drones sighted since Saturday, described them as \"defensive drones\" attempting to identify gaps in Indian army deployments",
+    "PAK-DENIAL: Pakistan issued categorical rejection through The Nation, calling allegations \"provocative and baseless\" and \"fabrication of facts\" \u2014 no competing methodology or count published",
+    "PAK-CLAIMS-REVERSE: Pakistan claimed to neutralize 77 Indian drones since May 6, 2025; shot down multiple Indian aircraft including Rafales and Su-30MKIs; struck 16 Indian air bases \u2014 none independently verified",
+    "OSAC-DOMESTIC: OSAC (U.S. State Department) documented 90+ drone-related incidents inside Pakistan during 2025 \u2014 domestic militant category, not cross-border",
+    "INDIA-300-400: India claimed Pakistan deployed 300\u2013400 drones across 36 locations during May 2025 four-day conflict \u2014 no wreckage coordinates or third-party radar data published"
+  ],
+  "analysis": "",
+  "verdict": "[SIPHONED VERDICT]: India published 791 intrusions and 5 recovered weapons. Pakistan published zero. Neither side provided wreckage coordinates, radar tracks, or third-party verification \u2014 and both governments continue to cite their numbers as settled fact."
+}
