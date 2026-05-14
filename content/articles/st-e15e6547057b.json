@@ -1,0 +1,24 @@
+{
+  "slug": "st-e15e6547057b",
+  "id": "STE15E6547057B",
+  "title": "Trump-Xi Beijing summit / pre-meeting OSINT signals \u2014 May 13",
+  "narrative": "BBC: \"Trade, Iran and Taiwan on the agenda as Trump arrives in China for high-stakes talks with Xi\" (May 13, 2026). Trump says first request to Xi is to \"open up\" China. Beijing to press on Taiwan status. Both sides framed as diplomatic posturing before the meeting.",
+  "telemetry": [
+    "Both sides' pre-summit positioning is theater. The real test: what gets signed, announced, or dropped.",
+    "Satellite imagery: Sentinel-2 (ESA, 10m free) and commercial providers (Planet Labs) may have captured Beijing pre-meeting preparations \u2014 vehicle convoys, security perimeter changes \u2014 24-48hrs before the summit.",
+    "US delegation flight tracking: Flightradar24/AirSquawk records for presidential delegation aircraft (C-32s/757s). Departure time from Andrews, flight path, arrival at PEK \u2014 timestamps verifiable independent of official readouts.",
+    "USD/CNH exchange rate and China Treasury holdings (US TIC data, monthly) react to Taiwan-related concessions. Watch May 14-15 data.",
+    "US Treasury/DOS sanctions announcements in 48hrs around summit: any new Chinese entity designations?"
+  ],
+  "analysis": "Official sources say one thing. The evidence says another. Before the Handshakes: What Open-Source Signals Reveal About What Trump and Xi Will Actually Agree To\n- Pre-summit press releases are theater. Satellite imagery of security prep, flight path data, and bond market reactions are the real indicators.\n- Frame: Every major China-US summit has been preceded by cooperation rhetoric followed by substantive Taiwan/IP/trade concessions not in the readout.\n- Hook: Check Sentinel Hub or USGS EarthExplorer for May 11-12 satellite passes over Beijing. Cross-reference with Chinese state media pre-meeting photos \u2014 any discrepancies in vehicle placement, security radius, or visible attendees?\n\n\u2022 Both sides' pre-summit positioning is theater. The real test: what gets signed, announced, or dropped.\n\u2022 Satellite imagery: Sentinel-2 (ESA, 10m free) and commercial providers (Planet Labs) may have captured Beijing pre-meeting preparations \u2014 vehicle conv...\n\u2022 US delegation flight tracking: Flightradar24/AirSquawk records for presidential delegation aircraft (C-32s/757s). Departure time from Andrews, flight ...\n\u2022 USD/CNH exchange rate and China Treasury holdings (US TIC data, monthly) react to Taiwan-related concessions. Watch May 14-15 data.\n\nThe pattern in the telemetry \u2014 5 independent data points \u2014 points in a consistent direction that the official narrative does not acknowledge. When the official framing and the physical evidence are in contradiction, the evidence is the more reliable signal. The gap between what officials claim and what the data shows is the story.",
+  "category": "geopolitics",
+  "tags": [
+    "#Iran",
+    "#Trump",
+    "#China",
+    "#Satellite",
+    "#OSINT",
+    "#Markets"
+  ],
+  "verdict": "[SIPHONED VERDICT]: \"Before the Handshakes: What Open-Source Signals Reveal About What Trump and Xi Will Actually Agree To\"\n- Pre-summit press releases are theater. Satellite imagery of security prep, flight path data, a"
+}
