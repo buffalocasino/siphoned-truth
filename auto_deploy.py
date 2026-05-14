@@ -286,6 +286,14 @@ def main():
             if not dest.exists() or f.stat().st_mtime > dest.stat().st_mtime:
                 shutil.copy2(f, dest)
 
+    # 1d. Sync root index.html (homepage card grid with correct slug-based cover URLs)
+    for name in ["index.html", "index.html.br", "index.html.gz"]:
+        src = BLOG / "build" / name
+        dst = BLOG / ".vercel/output/static" / name
+        if src.exists():
+            if not dst.exists() or src.stat().st_mtime > dst.stat().st_mtime:
+                shutil.copy2(src, dst)
+
     # 2. Patch .vercel/output/config.json to route /article/{slug} → .html files
     #    Without this, Vercel routes /article/foo to /article/[slug] (SvelteKit
     #    filesystem route) which doesn't exist on the static host → 404.
