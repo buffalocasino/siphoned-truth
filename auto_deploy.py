@@ -264,6 +264,28 @@ def main():
             if not (build_covers / f.name).exists():
                 f.unlink()
 
+    # 1c. Sync pre-rendered article HTML from build/ to .vercel/output/static/
+    #     The article pages are pre-rendered with correct slug-based cover paths.
+    #     Without this sync the old HTML (with id-based paths) gets uploaded.
+    vercel_article = BLOG / ".vercel/output/static/article"
+    build_article  = BLOG / "build/article"
+    if build_article.exists() and vercel_article.exists():
+        for f in build_article.glob("*.html"):
+            dest = vercel_article / f.name
+            if not dest.exists() or f.stat().st_mtime > dest.stat().st_mtime:
+                shutil.copy2(f, dest)
+        for f in vercel_article.glob("*.html"):
+            if not (build_article / f.name).exists():
+                f.unlink()
+        for f in build_article.glob("*.html.br"):
+            dest = vercel_article / f.name
+            if not dest.exists() or f.stat().st_mtime > dest.stat().st_mtime:
+                shutil.copy2(f, dest)
+        for f in build_article.glob("*.html.gz"):
+            dest = vercel_article / f.name
+            if not dest.exists() or f.stat().st_mtime > dest.stat().st_mtime:
+                shutil.copy2(f, dest)
+
     # 2. Patch .vercel/output/config.json to route /article/{slug} → .html files
     #    Without this, Vercel routes /article/foo to /article/[slug] (SvelteKit
     #    filesystem route) which doesn't exist on the static host → 404.

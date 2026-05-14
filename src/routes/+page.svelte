@@ -34,7 +34,7 @@
 		<div class="grid">
 			{#each articles as article}
 				<a href="/article/{article.slug ?? article.id}" class="card">
-					<div class="card-thumb" style="background-image: url('/covers/{article.id?.toLowerCase()}.jpg')"></div>
+					<div class="card-thumb" style="background-image: url('/covers/{article.slug?.toLowerCase() ?? article.id?.toLowerCase()}.jpg')"></div>
 					<div class="card-body">
 						<div class="card-id">{article.id}</div>
 						<h2>{article.title}</h2>
