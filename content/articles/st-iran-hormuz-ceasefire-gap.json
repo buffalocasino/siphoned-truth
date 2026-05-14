@@ -1,0 +1,31 @@
+{
+  "slug": "st-iran-hormuz-ceasefire-gap",
+  "id": "ST-IRAN-HORMUZ-20260514",
+  "time": "2026-05-14T20:03:14.052284+00:00",
+  "title": "US Claims Iran Ceasefire Is Holding. The Oil Markets Are Laughing.",
+  "narrative": "The Trump administration declared a month-long ceasefire with Iran in May 2026, framing Iran as the recalcitrant party whose counteroffer \u2014 lifting the US naval blockade, recognition of Strait of Hormuz sovereignty, war damage compensation \u2014 was dismissed as 'unbelievably weak' and 'totally unacceptable.' US officials insist the ceasefire is active and negotiations are proceeding. Iran's counteroffer confirms a naval blockade is in effect and is a core point of contention, not a resolved item.",
+  "telemetry": [
+    "Brent crude oil futures remain above $100/barrel (JP Morgan, BBC Business, 2026-05-12), structurally elevated rather than reflecting trading volatility \u2014 consistent with a sustained Strait of Hormuz closure rather than a flowing transit corridor.",
+    "US CPI surged to 3.8% in May 2026, highest since May 2023. The US government explicitly attributed the inflation spike to energy costs stemming from the Iran conflict (BBC, 2026-05-12).",
+    "A major snack manufacturer switched to black-and-white packaging due to ink supply disruption. BBC noted 'the effective closure of the Strait of Hormuz has severely disrupted global supplies of energy and petrochemicals.'",
+    "Ships have been rerouted around Cape of Good Hope since 2023 to avoid Middle East conflicts. This rerouting has intensified, consistent with continued Hormuz interdiction rather than a ceasefire-related normalization of shipping lanes.",
+    "Iran's listed ceasefire counteroffer explicitly demands lifting of the US naval blockade \u2014 confirming that a blockade is physically active and is a contested item, not a resolved one under the ceasefire framework.",
+    "Heathrow Airport reported a passenger dip in April attributed to the Iran conflict, consistent with reduced regional aviation activity amid active naval operations."
+  ],
+  "verdict": "The physical telemetry \u2014 sustained $100+ oil, 3.8% US inflation, petrochemical supply disruptions, active naval blockade, and intensifying Cape rerouting \u2014 is irreconcilable with a ceasefire that has restored normal flow through the Strait of Hormuz. Either the blockade is excluded from ceasefire terms and continues as a parallel enforcement action, or the ceasefire narrative is political theater while kinetic restrictions persist.",
+  "confidence": "HIGH",
+  "tags": [
+    "iran",
+    "hormuz",
+    "ceasefire",
+    "oil",
+    "inflation",
+    "naval",
+    "geopolitical"
+  ],
+  "sources": [
+    "BBC World RSS 2026-05-12",
+    "JP Morgan Oil Outlook 2026-05-12",
+    "BBC Business Inflation Data 2026-05-12"
+  ]
+}
