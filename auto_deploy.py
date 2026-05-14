@@ -242,28 +242,52 @@ def main():
     if not run("git", "commit", "-m", msg):
         return
 
-    # Push to GitHub
+    # 1. Build locally (required for --prebuilt flag)
+    print("Building locally...")
+    if not run("npm", "run", "build"):
+        print("Local build failed, aborting deploy.")
+        return
+
+    # 2. Patch .vercel/output/config.json to route /article/{slug} → .html files
+    #    Without this, Vercel routes /article/foo to /article/[slug] (SvelteKit
+    #    filesystem route) which doesn't exist on the static host → 404.
+    #    The .html files exist at /article/foo.html — this rewrites the route
+    #    dest from the placeholder token to the actual file.
+    vercel_config = BLOG / ".vercel" / "output" / "config.json"
+    if vercel_config.exists():
+        import re
+        cfg = vercel_config.read_text()
+        cfg = cfg.replace('"dest": "/article/[slug]"', '"dest": "/article/$1.html"')
+        cfg = cfg.replace('"dest": "/fb-posts/[slug]"', '"dest": "/fb-posts/$1.txt"')
+        vercel_config.write_text(cfg)
+        print("Patched Vercel routing config: /article/{slug} → .html")
+
+    # 2. Push to GitHub
     if not run("git", "push", "origin", "master"):
         print("GitHub push failed, continuing with Vercel deploy...")
 
-    print("Committed + pushed. Deploying to Vercel...")
+    print("Pushed. Deploying to Vercel (--prebuilt)...")
 
-    # Vercel --prod deploy
+    # Vercel --prod deploy with --prebuilt to bypass server-side build
+    # BUG FIX: --prebuilt uploads the pre-rendered static output without
+    # triggering a serverless build. The old --force path ran `npm run build`
+    # on Vercel's servers which hit size/compute limits on this project.
     r = subprocess.run(
-        ["npx", "vercel", "--prod", "--force"],
+        ["npx", "vercel", "--prod", "--prebuilt", "--yes"],
         cwd=BLOG, capture_output=True, text=True, timeout=180
     )
     if r.returncode != 0:
-        print(f"Vercel deploy FAILED: {r.stderr[-300:]}")
+        print(f"Vercel deploy FAILED: {r.stderr[-500:]}")
         return
 
     # Extract URL from output
     for line in r.stdout.splitlines():
-        if "https://blog-iota-gray-35.vercel.app" in line:
-            print(f"✅ LIVE: {line.strip()}")
+        if "vercel.app" in line and "Completing" in r.stdout:
+            # New project alias: siphonedtruth.online
+            print(f"✅ LIVE: https://siphonedtruth.online")
             break
     else:
-        print(f"✅ Deploy complete: {r.stdout[-200:]}")
+        print(f"✅ Deploy complete: {r.stdout[-300:]}")
 
 if __name__ == "__main__":
     main()

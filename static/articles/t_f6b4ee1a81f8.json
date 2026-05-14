@@ -1,0 +1,19 @@
+{
+  "slug": "epstein-files-release-coverup-vs-partial-disclosure",
+  "id": "T_F6B4EE1A81F8",
+  "time": "2026-05-11T14:40:55Z",
+  "title": "Epstein Files Release: Full Disclosure or Calculated Coverup?",
+  "narrative": "Attorney General Pam Bondi stated the DOJ has \"fully released\" or \"completed\" the Epstein files per the Epstein Files Transparency Act. The DOJ published over 3 million additional pages on January 30, 2026, following an initial December 2025 batch of approximately 125,575 pages. Bondi told Congress the files were \"complete\" and earlier accusations of a cover-up were \"disinformation.\" A January 30 DOJ/FBI memo concluded there is no evidence of a \"client list\" and no credible evidence that Epstein blackmailed prominent individuals.",
+  "telemetry": [
+    "DOJ-RELEASE-JAN: Over 3 million pages, 180,000+ images, 2,000+ videos released January 30, 2026 \u2014 per DOJ press statement",
+    "DOJ-RELEASE-DEC: Approximately 125,575 pages released December 19, 2025 \u2014 Guardian reported this was less than 1% of total responsive material",
+    "BONGI-ADMISSION: Pam Bondi letter to federal judge acknowledged DOJ has \"not released 99%\" of Epstein files \u2014 directly contradicting her public Congressional testimony",
+    "REDACTION-FAILURE: Initial December release used flawed redaction method \u2014 copying and pasting blacked-out text in PDF documents revealed underlying content; traced to a 2021 Virgin Islands attorney general filing",
+    "DOJ-SELF-ASSESSMENT: DOJ/FBI memo concluded \"no evidence of a 'client list'\" and \"no credible evidence that Epstein blackmailed prominent individuals\"",
+    "FLIGHT-LOGS: DOJ states flight logs and \"black book\" documents do not exist in the produced files \u2014 transparency advocates dispute whether these were produced or withheld",
+    "MAXWELL-CASE: Documents sourced from five primary cases: Florida and New York Epstein cases, Maxwell case, Epstein death investigation, former butler case, multiple FBI investigations, and OIG probe",
+    "TRUMP-POSITION: Candidate Trump pledged to release files; President Trump called them a \"SCAM\" created by political opponents; administration now claims full compliance with Transparency Act"
+  ],
+  "analysis": "",
+  "verdict": "[SIPHONED VERDICT]: AG Bondi told Congress \"everything has been released.\" Her own letter to a federal judge stated 99% was not released. Both cannot be true simultaneously \u2014 and the DOJ's January 30 release of 3 million pages came 42 days after the December 19 statutory deadline."
+}

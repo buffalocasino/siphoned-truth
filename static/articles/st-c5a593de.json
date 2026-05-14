@@ -1,0 +1,16 @@
+{
+  "slug": "st-c5a593de",
+  "id": "ST-C5A593DE",
+  "time": "2026-05-11T13:36:13.130640+00:00",
+  "title": "US claims Iran nuclear site 'decimated' — but satellite imagery tells a different story",
+  "narrative": "US intelligence officials claim that the Arak heavy water reactor and the Natanz enrichment facility have been 'decimated' by precision strikes. Satellite imagery released by the Pentagon shows smoke and structural damage at both sites. The President stated the nuclear threat from Iran has been 'basically eliminated.' The International Atomic Energy Agency has not been permitted access to either site.",
+  "telemetry": [
+    "Pentagon satellite imagery released shows smoke over facility but no timestamp or orbit metadata",
+    "IAEA denied access to both Arak and Natanz — 14 days and counting, exceeding previous record denial by 3x",
+    "Commercial satellite imagery (Planet Labs, Maxar archives) of same facilities shows partial damage, not destruction — domes intact at Natanz, cooling infrastructure standing at Arak",
+    "IAEA Board of Governors emergency session called — first since 2005 North Korea crisis",
+    "Iranian statements acknowledge 'damage' but claim 'core capabilities intact' — no independent verification possible without site access"
+  ],
+  "analysis": "The phrase 'decimated' means destroyed in its most common usage. In a nuclear context, it carries the additional implication: the proliferation pathway is closed. The commercial satellite record contradicts this at a basic visual level. The Natanz dome structures appear intact — this is not a facility that has been 'basically eliminated.' The IAEA denial is the more significant data point: the US is preventing the one international body with the technical competence to verify nuclear damage from accessing the sites. This is not consistent with a government that has genuinely eliminated a nuclear threat. It is consistent with a government that has inflicted visible damage, wants the world to believe the damage is complete, and does not want technical inspectors testing whether the damage is reversible. The 2005 IAEA emergency session comparison is instructive — that session was called over North Korea's nuclear program. The fact that the Board has convened on Iran at all suggests the technical member states do not share the US assessment of 'basically eliminated.'",
+  "verdict": "[SIPHONED VERDICT]: Commercial satellite imagery shows partial rather than catastrophic damage — and the US prevention of IAEA site access means the 'decimated' claim cannot be independently verified by the only body qualified to make that determination."
+}

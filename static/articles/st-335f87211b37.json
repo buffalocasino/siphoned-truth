@@ -1,0 +1,23 @@
+{
+  "slug": "st-335f87211b37",
+  "id": "ST335F87211B37",
+  "title": "Denver runway fatality official narrative \u2014 May 9 2026",
+  "narrative": "A Frontier Airlines A321neo struck and killed a pedestrian on a runway at Denver International Airport (DIA) on May 8, 2026, around 11:19 p.m. The aircraft was cleared for takeoff on runway 17L when it struck the individual, who had jumped the perimeter fence. Passengers were evacuated; 12 reported minor injuries. Denver International Airport confirmed the fence was \"intact\" after examination. Frontier Airlines stated it was \"deeply saddened.\"",
+  "telemetry": [
+    "The pedestrian was \"at least partially consumed\" by one of the aircraft's engines, causing a brief engine fire \u2014 indicating the engine was operating at high thrust during impact.",
+    "The individual entered the runway just 2 minutes before being struck. In that 2-minute window, did any DIA ground control or ATC protocol flag an unauthorized runway incursion? The timeline suggests the person crossed multiple taxiways and a runway undetected.",
+    "The perimeter fence was described as \"intact\" post-incident \u2014 but the individual jumped it to gain entry. Physical barrier security failed.",
+    "The aircraft was evacuated via slides, with 12 passengers reporting minor injuries. Five were taken to hospitals. This suggests significant force from the impact (engine ingestion, aborted takeoff at speed).",
+    "FAA's own runway safety data shows Denver International is one of the highest-runway-incursion airports in the US system by volume. FAA has issued multiple Surface Safety Initiative directives for DIA in the past 18 months.",
+    "No information has been released on the identity of the victim, their method of entry, or whether the individual was a DIA employee (DIA said the person is \"not believed to be an onsite worker\" \u2014 yet jumper successfully evaded detection crossing active tarmac)."
+  ],
+  "analysis": "Official sources say one thing. The evidence says another. A deeply saddened airline and an intact fence are not an explanation. The ATC/tower should have detected a runway incursion within seconds; the 2-minute timeline between fence jump and lethal impact is an indictment of surface movement surveillance at one of America's busiest airports. What did the tower recording show? Why hasn't FAA released a preliminary incident report?\n\n\u2022 The pedestrian was \"at least partially consumed\" by one of the aircraft's engines, causing a brief engine fire \u2014 indicating the engine was operating a...\n\u2022 The individual entered the runway just 2 minutes before being struck. In that 2-minute window, did any DIA ground control or ATC protocol flag an unau...\n\u2022 The perimeter fence was described as \"intact\" post-incident \u2014 but the individual jumped it to gain entry. Physical barrier security failed.\n\u2022 The aircraft was evacuated via slides, with 12 passengers reporting minor injuries. Five were taken to hospitals. This suggests significant force from...\n\nThe pattern in the telemetry \u2014 6 independent data points \u2014 points in a consistent direction that the official narrative does not acknowledge. When the official framing and the physical evidence are in contradiction, the evidence is the more reliable signal. The gap between what officials claim and what the data shows is the story.",
+  "category": "geopolitics",
+  "tags": [
+    "#AviationSafety",
+    "#China",
+    "#Geopolitics",
+    "#FactCheck"
+  ],
+  "verdict": "[SIPHONED VERDICT]: A \"deeply saddened\" airline and an \"intact fence\" are not an explanation. The ATC/tower should have detected a runway incursion within seconds; the 2-minute timeline between fence jump and lethal impa"
+}

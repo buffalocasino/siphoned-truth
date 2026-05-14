@@ -1,0 +1,29 @@
+{
+  "slug": "st-climate-extremes-simultaneous-086911ae",
+  "id": "ST-CLIMATE-EXTREMES-SIMULTANEOUS-086911AE",
+  "time": "2026-05-12T06:48:06.945197+00:00",
+  "title": "Record Floods in South Africa. Record Heat in California. Same Week. Nobody's Connecting the Dots.",
+  "narrative": "Two extreme weather events occurred on opposite sides of the planet in the same 48-hour window. Catastrophic floods hit South Africa's Western and Northern Cape provinces. Extreme heat hit California and Mexico — 10 to 15 degrees above seasonal norms, 40 to 43 degrees in Palm Springs. The Guardian covered them as two separate weather stories. No mainstream outlet drew the direct line between them.\n\nThat line exists. The simultaneous occurrence of extreme events on opposite hemispheres is precisely what climate models predict for the 1.5 to 2 degree warming scenario. The mainstream coverage is treating the symptoms as isolated news items instead of reading the pattern. The pattern is the story.",
+  "telemetry": [
+    "South Africa Western and Northern Cape provinces: deadly floods, May 11-12, 2026 — Guardian Weather Tracker",
+    "US/Mexico heatwave: temperatures 10-15°C above seasonal norms, 40-43°C in Palm Springs, May 11-12, 2026",
+    "Guardian attribution framing: South Africa floods from 'deluge system,' US heat from 'ridge of high pressure' — no cross-reference",
+    "Simultaneous opposite-hemisphere extremes consistent with 1.5-2°C warming scenario climate model predictions",
+    "May is typically a dry month in South Africa's Western Cape — record rainfall would contradict 'normal seasonal variation' framing",
+    "Global emissions data from major producers (US, China, Saudi Arabia, Russia) vs. Paris Agreement 2025-2026 commitments: not referenced in coverage",
+    "Satellite methane data (Sentinel-5P, GHGSat) on major producer compliance: not referenced in coverage",
+    "US National Weather Service heat advisories in force for California and Arizona during South Africa floods coverage"
+  ],
+  "analysis": "The editorial decision to cover two simultaneous extreme weather events as isolated stories is itself a journalistic choice worth examining. The Guardian's Weather Tracker is a respected publication — it has the data to make the connection between record-breaking extremes and the broader emissions picture. The fact that it didn't make that connection suggests either editorial constraints or a deliberate decision to treat each event on its own terms. Neither explanation is flattering.\n\nThe South Africa angle has a specific factual question that OSINT can partially answer: if the floods in the Western Cape exceeded historical May totals, that's a statistical anomaly being described as normal weather. Historical NOAA data for California May rainfall versus current figures is publicly available. South Africa Weather Service data for May 2026 flood totals versus historical records is publicly available. If both are record-breaking simultaneously — and the Guardian's own reporting suggests both are in extreme territory — the 'isolated weather events' framing is a factual error, not just an editorial judgment.\n\nThe climate OSINT angle runs deeper. Major fossil fuel producers have Paris Agreement commitments for 2025-2026. Satellite methane data from Sentinel-5P and GHGSat shows actual emissions trajectories. The Shadowbroker framework asks who benefits from framing climate extremes as isolated events rather than a systemic pattern. The answer — fossil fuel producers, state actors with fossil fuel revenues, and political actors who oppose climate policy — is well-established. The question is whether the media's silence on the systemic picture is complicity or negligence. The distinction matters for how the story is framed, but the outcome is the same: the public is being told two lies about the same event, one meteorological and one systemic.",
+  "tags": [
+    "climate-change",
+    "south-africa",
+    "floods",
+    "heatwave",
+    "paris-agreement",
+    "osint",
+    "weather"
+  ],
+  "kanban_task": "t_086911ae",
+  "verdict": "[SIPHONED VERDICT]: Covering simultaneous climate extremes as separate stories is a framing choice that protects the official narrative that no single event is attributable."
+}

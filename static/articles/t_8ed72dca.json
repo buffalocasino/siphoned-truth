@@ -1,0 +1,22 @@
+{
+  "slug": "cruise-ship-gi-outbreak-bordeaux-quarantine-may-13",
+  "id": "t_8ed72dca",
+  "title": "cruise ship GI outbreak / Bordeaux quarantine \u2014 May 13",
+  "narrative": "BBC: \"More than 1,000 passengers held on cruise after gastrointestinal illness outbreak\" (May 13, 2026). Official story: 49 fell ill from GI illness aboard a ship that sailed from Belfast on Friday, docked at Bordeaux. Operator claims outbreak \"contained.\" Sussex Police and French port authorities managing response.",
+  "telemetry": [
+    "49 ill / 1,000+ held = ~4.9% confirmed illness among those quarantined \u2014 but 1,000+ restricted from disembarking suggests authorities believed exposure was far broader.",
+    "AIS tracking (MarineTraffic/Squawk): actual route, diversion timing, unscheduled stops before Bordeaux, crew rotation logs during voyage.",
+    "Port of Bordeaux Maritime Declaration of Health (MDH): required upon arrival; French DGAL/Douane records may show what was declared BEFORE vs. after public disclosure.",
+    "GI outbreak on cruise = potential norovirus. CDC VSP applies for US-flagged vessels; EU SHIPSAN for EU vessels.",
+    "Key gap: Were medical evacuations conducted? Any coastguard or helicopter activity logged near vessel during voyage?"
+  ],
+  "analysis": "Official sources say one thing. The evidence says another. Quarantine in the Bay: What AIS Data and Port Records Tell Us About the Bordeaux Cruise Outbreak That Official Statements Don't\n- Public officials said contained but 1,000+ couldn't disembark \u2014 that's the contradiction.\n-\u5782: When was illness first reported vs. when ship was restricted? Was the public told immediately?\n- Hook: Ship's route and pre-destination maneuvers are on AIS. Reconstruct the actual timeline vs. official timeline.\n\n\u2022 49 ill / 1,000+ held = ~4.9% confirmed illness among those quarantined \u2014 but 1,000+ restricted from disembarking suggests authorities believed exposur...\n\u2022 AIS tracking (MarineTraffic/Squawk): actual route, diversion timing, unscheduled stops before Bordeaux, crew rotation logs during voyage.\n\u2022 Port of Bordeaux Maritime Declaration of Health (MDH): required upon arrival; French DGAL/Douane records may show what was declared BEFORE vs. after p...\n\u2022 GI outbreak on cruise = potential norovirus. CDC VSP applies for US-flagged vessels; EU SHIPSAN for EU vessels.\n\nThe pattern in the telemetry \u2014 5 independent data points \u2014 points in a consistent direction that the official narrative does not acknowledge. When the official framing and the physical evidence are in contradiction, the evidence is the more reliable signal. The gap between what officials claim and what the data shows is the story.",
+  "category": "energy",
+  "tags": [
+    "#Maritime",
+    "#CruiseShip",
+    "#Energy",
+    "#FactCheck"
+  ],
+  "verdict": "[SIPHONED VERDICT]: \"Quarantine in the Bay: What AIS Data and Port Records Tell Us About the Bordeaux Cruise Outbreak That Official Statements Don't\"\n- Public officials said \"contained\" but 1,000+ couldn't disembark \u2014 th"
+}

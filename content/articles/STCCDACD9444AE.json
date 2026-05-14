@@ -1,0 +1,19 @@
+{
+  "slug": "st-ccdacd9444ae",
+  "id": "STCCDACD9444AE",
+  "time": "2026-05-14T15:48:30Z",
+  "task_id": "t_e59cdc72",
+  "title": "Meta's $145 billion AI bet \u2014 the gap between market cap and physical reality",
+  "narrative": "Meta announced a $145 billion capital expenditure program for AI infrastructure in 2026 \u2014 the largest single corporate AI investment in history. The number was presented as a statement of ambition and capability. What it also reflected, more than any previous tech capex cycle, was the growing gap between the financial architecture of AI investment and the physical infrastructure required to actually deliver it. Data centers take years to build. Power grids take even longer. The gap between the market's pricing of AI capability and the physical timeline of its delivery is wider than at any previous point in the cloud computing era.",
+  "telemetry": [
+    "Meta 2026 capex guidance: $145 billion, predominantly AI infrastructure",
+    "NVIDIA H100/H200 supply: constrained by TSMC CoWoS packaging capacity, not GPU design \u2014 allocation waitlists extend 12+ months",
+    "US data center power consumption: projected to reach 400 TWh annually by 2026 per BloombergNEF \u2014 equivalent to Japan's total electricity consumption",
+    "Grid interconnection timelines: new data center power connections in PJM and WECC markets running 18-36 months due to transmission queue backlog",
+    "Hyperscaler data center completion timelines: 3-5 years from groundbreaking to full operational capacity for large facilities",
+    "AI model training runs: GPT-4 class training consumed approximately 50 GWh; frontier model training runs are 10-100x larger",
+    "Nuclear power deals: multiple hyperscalers signing 20-year nuclear agreements directly \u2014 a signal that renewable builds can't keep pace with demand timeline"
+  ],
+  "analysis": "The $145 billion is a financial commitment, not a delivery timeline. The physical infrastructure of AI \u2014 land, power, cooling, networking, construction labor \u2014 operates on multi-year timelines that the capital markets are not currently pricing in. The hyperscalers know this. The nuclear power procurement spree isn't about environmental positioning \u2014 it's about securing long-lead power commitments that renewable builds genuinely cannot deliver in the required timeframe. The market is pricing the announcement. The grid is pricing reality.",
+  "verdict": "[SIPHONED VERDICT]: $145 billion is a large number. The gap between that number and the actual compute that will be operational in 2026-2027 is not a shortfall \u2014 it's a feature of how AI infrastructure spending is currently being communicated vs. how long it actually takes to build."
+}

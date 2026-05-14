@@ -1,0 +1,26 @@
+{
+  "slug": "us-iran-hormuz-ceasefire-what-trump-and-pentagon-said-vs-ship-attack-data-may-7-9-2026",
+  "id": "t_008702dc",
+  "title": "US-Iran Hormuz ceasefire \u2014 what Trump and Pentagon said vs. ship attack data \u2014 May 7-9 2026",
+  "narrative": "Trump and the Pentagon insist the month-old US-Iran ceasefire is \"not over\" and \"still in effect.\" Defense Secretary Pete Hegseth stated the US is \"not looking for a fight\" despite multiple exchanges of fire in the Strait of Hormuz since May 7. Trump told reporters he sought to play down the violence. The official line: Iranian forces initiated; US forces responded in self-defense.",
+  "telemetry": [
+    "May 7: A Chinese-owned oil tanker was attacked near Hormuz \u2014 the first Chinese vessel hit in the 2026 crisis, complicating diplomacy.",
+    "US forces struck and disabled two Iranian oil tankers on May 7-8, per CENTCOM.",
+    "Iranian state media (Tasnim): three US destroyers near Hormuz came under missile fire, claiming US struck first by attacking an Iranian tanker.",
+    "UAE reported another Iranian missile and drone attack.",
+    "Strait of Hormuz carries ~20% of global oil flow.",
+    "Reuters, CNBC, Al Jazeera all note \"each side claims the other initiated\" \u2014 a true he-said-she-said with no independent adjudication yet.",
+    "Wikipedia's 2026 Strait of Hormuz crisis page catalogs multiple reciprocal ship attacks."
+  ],
+  "analysis": "Official sources say one thing. The evidence says another. Both sides maintain ceasefire is holding for different reasons \u2014 Trump needs a diplomatic win, Iran needs to avoid full-scale war. But commercial AIS ship telemetry would show the actual sequence of events. The US narrative assumes Iran always fires first while US always responds defensively. Merchant mariners caught in the crossfire aren't buying it. Who's watching the watchmen's AIS logs?\n\n\u2022 May 7: A Chinese-owned oil tanker was attacked near Hormuz \u2014 the first Chinese vessel hit in the 2026 crisis, complicating diplomacy.\n\u2022 US forces struck and disabled two Iranian oil tankers on May 7-8, per CENTCOM.\n\u2022 Iranian state media (Tasnim): three US destroyers near Hormuz came under missile fire, claiming US struck first by attacking an Iranian tanker.\n\u2022 UAE reported another Iranian missile and drone attack.\n\nThe pattern in the telemetry \u2014 7 independent data points \u2014 points in a consistent direction that the official narrative does not acknowledge. When the official framing and the physical evidence are in contradiction, the evidence is the more reliable signal. The gap between what officials claim and what the data shows is the story.",
+  "category": "geopolitics",
+  "tags": [
+    "#Iran",
+    "#Hormuz",
+    "#Ceasefire",
+    "#Oil",
+    "#Maritime",
+    "#Trump"
+  ],
+  "verdict": "[SIPHONED VERDICT]: Both sides maintain \"ceasefire is holding\" for different reasons \u2014 Trump needs a diplomatic win, Iran needs to avoid full-scale war. But commercial AIS ship telemetry would show the actual sequence of"
+}

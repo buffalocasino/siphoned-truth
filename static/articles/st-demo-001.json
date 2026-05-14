@@ -1,0 +1,17 @@
+{
+  "slug": "st-demo-001",
+  "id": "ST-DEMO-001",
+  "time": "2026-05-09T08:00:00Z",
+  "title": "WEF Summit Carbon Pledge Contradicted by Private Jet Surge",
+  "narrative": "World Economic Forum issues mandatory carbon footprint reduction goal for all attendees at Davos 2026, pledging net-zero commitments for participating corporations and governments.",
+  "telemetry": [
+    "Coordinate: Zürich Airport (LSZH) — 114 private aviation arrivals within 24hr window",
+    "Coordinate: Dübendorf Air Base (LSMD) — 23 additional private jet landings",
+    "Transponder N1 = Corporate registration tied to keynote speaker lineup",
+    "Transponder N2 = Executive transport flagged under summit credentials",
+    "ADS-B data: average flight duration 2.1hr — transatlantic crossings logged",
+    "Mission Type: private/corporate — classification UNRESTRICTED"
+  ],
+  "analysis": "The WEF's 2026 carbon reduction mandate declares a 40% attendee flight-emissions reduction target. However, ADS-B telemetry from the designated 48-hour compliance window shows 137 private aviation arrivals at primary summit airfields — a 12% increase over the 2025 reporting period. Transponder cross-reference identifies at minimum 9 aircraft registered to corporations with active net-zero pledges in their public ESG filings. The divergence between stated reduction targets and measured private aviation volume represents a 12-sigma calibration failure against the mandate's own baseline..payload.",
+  "verdict": "[SIPHONED VERDICT]: The telemetry confirms the carbon pledge is performative — actual private aviation activity contradicts the stated reduction mandate by measurable margin."
+}

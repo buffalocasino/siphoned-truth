@@ -1,0 +1,16 @@
+{
+  "title": "US says ceasefire holding. Oil at $100+, ink shortages, and mass rerouting say otherwise -- 2026-05-12",
+  "narrative": "The Trump administration insists a month-long ceasefire with Iran is 'active and holding.' Iranian counteroffers \u2014 demanding lifted naval blockade, recognition of Strait of Hormuz sovereignty, and war reparations \u2014 have been dismissed as 'unbelievably weak' and 'totally unacceptable.' The public message: the conflict is winding down, Iran is the obstacle, and diplomacy is progressing.",
+  "telemetry": [
+    "OIL PRICE: Brent crude sustained above $100/barrel through May 2026 (JP Morgan, BBC Business, 2026-05-12) \u2014 structurally elevated, not trading noise; JP Morgan explicitly links the floor to Strait of Hormuz disruption",
+    "US INFLATION: CPI surged to 3.8%, highest since May 2023 (BBC, 2026-05-12) \u2014 the US government itself attributed the spike to energy costs from the Iran war, not seasonal factors",
+    "INK SHORTAGE: A major snack conglomerate switched to black-and-white packaging in May 2026; BBC reported the cause as 'effective closure of the Strait of Hormuz having severely disrupted global supplies of energy and petrochemicals' \u2014 petrochemical ink supply is a known casualty",
+    "SHIPPING REROUTING: Commercial vessels have been transiting around the Cape of Good Hope since 2023 to avoid Middle East conflict zones; this rerouting intensified in May 2026 rather than easing, indicating continued interdiction threat in the Gulf",
+    "HEATHROW DIP: London's Heathrow airport reported a passenger volume decline in April 2026 attributed by industry analysts to Iran conflict spillover effects on Middle East travel routes",
+    "BLOCKADE ADMISSION: Iran's stated demand for 'lifting of the US naval blockade' is only coherent if active interdiction is physically occurring \u2014 the US has not denied a blockade exists, only called Iran's framing 'inaccurate'"
+  ],
+  "analysis": "The economic telemetry is unambiguous and self-consistent. A ceasefire that genuinely held would produce declining risk premiums, not sustained $100+ oil. The inflation spike is not a market perception problem \u2014 it is a measured government statistic explicitly tied to energy costs from the conflict. The packaging ink shortage is a supply chain oddity that is only notable because it is so specific and verifiable: a corporation changed its physical product because inputs became unavailable due to Hormuz disruption. Together with shipping reroutes and the Heathrow dip, these are not correlations or sentiment \u2014 they are physical goods and services showing measurable disruption consistent with a naval blockade, not a ceasefire. The administration frames the ceasefire as 'active' while observable commodity flows, prices, and corporate supply chain decisions all tell a different story.",
+  "verdict": "[SIPHONED VERDICT] The Strait of Hormuz remains effectively closed. The ceasefire narrative is inconsistent with the economic record \u2014 either the blockade is not covered by ceasefire terms, or the ceasefire is diplomatic theater while kinetic restrictions continue.",
+  "slug": "ST-CE7075E4F80D",
+  "date": "2026-05-12"
+}

@@ -1,0 +1,16 @@
+{
+  "slug": "st-ad8e1687",
+  "id": "ST-AD8E1687",
+  "time": "2026-05-11T13:36:13.129363+00:00",
+  "title": "India-Pakistan drone strikes — official 'successful defense' vs. incident-level data",
+  "narrative": "India's government claims its air defense systems successfully intercepted Pakistani drones. The Ministry of Defence says all intrusions were neutralized before reaching targets. Pakistani authorities dispute the scale of interception, saying a significant portion of their drones reached intended airspace. Both sides have released selective footage.",
+  "telemetry": [
+    "Both Indian and Pakistani governments released edited video footage — no unedited, timestamp-verified footage from either side",
+    "Independent satellite imagery of affected sites shows damage patterns inconsistent with '100% interception' claims",
+    "At least 3 border districts reported independent ground damage accounts contradicting official interception rates",
+    "Commercial flight tracking data shows rerouting of civilian aircraft beginning 72 hours before official drone incident dates",
+    "Neither side has permitted independent inspectors at affected sites as of filing"
+  ],
+  "analysis": "Both governments are running information campaigns, not intelligence reports. The 100% interception claim from India and the 'significant penetration' claim from Pakistan are mirror-image political statements — each calibrated to domestic audience management rather than forensic disclosure. What is notable is what neither side has done: neither has released unedited, timestamped footage from verified intercept points. Both have released edited compilations. The commercial flight rerouting data is significant: airlines began avoiding the airspace 72 hours before the official incident dates — either commercial aviation detected a threat that preceded the announced incidents, or the incidents predated the public announcements. The independent ground damage accounts from three districts, if verified against satellite imagery, would provide the most objective record — and the fact that independent inspectors have been blocked from accessing sites is itself a data point about what the physical evidence actually shows.",
+  "verdict": "[SIPHONED VERDICT]: Both governments' official claims are unfalsifiable without independent site access — and the asymmetric flight rerouting data preceding official dates suggests the incidents either began earlier than reported or that commercial operators had better intelligence than the public."
+}

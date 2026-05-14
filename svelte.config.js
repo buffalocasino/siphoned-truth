@@ -1,4 +1,4 @@
-import adapter from '@sveltejs/adapter-vercel';
+import adapter from '@sveltejs/adapter-static';
 
 /** @type {import('@sveltejs/kit').Config} */
 const config = {
@@ -7,9 +7,14 @@ const config = {
 	},
 	kit: {
 		adapter: adapter({
-			runtime: 'nodejs22.x',
-			regions: ['iad1']
-		})
+			pages: 'build',
+			assets: 'build',
+			fallback: '404.html',
+			precompress: true
+		}),
+		prerender: {
+			handleHttpError: 'warn'
+		}
 	}
 };
 

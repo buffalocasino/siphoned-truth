@@ -1,0 +1,18 @@
+{
+  "slug": "st-c68adb84",
+  "id": "ST-C68ADB84",
+  "time": "2026-05-11T13:36:13.129249+00:00",
+  "title": "Jet fuel 'no shortage' — official reassurances vs. IEA structural shortage warning",
+  "narrative": "UK Department for Transport and Transport Secretary Heidi Alexander say no change to travel plans is needed. Airlines UK states no flights are being cancelled due to fuel shortages. Industry groups say impact is 'marginal.' Abta says holidays should proceed as planned. Official message: situation under control, supply stable, only cost has increased.",
+  "telemetry": [
+    "Jet fuel prices up 84% since February 2026 — from $831/tonne to approximately $1,500/tonne (EASA data)",
+    "IEA warning: Europe faces jet fuel shortages by June if supply is not secured",
+    "Airlines cut 13,000 flights globally in May (Cirium data)",
+    "Munich and Istanbul worst-hit destinations; Lufthansa removing 20,000 flights from summer schedule",
+    "EU formally authorized importing US jet fuel — an implicit admission domestic supply cannot meet demand",
+    "EASA guidance explicitly warns of potential fuel rationing during peak summer season",
+    "UK imports 65% of jet fuel, heavily dependent on Middle Eastern supply routes now disrupted"
+  ],
+  "analysis": "The DfT and industry statements are technically accurate in a present-tense, static-tank sense: the storage tanks are not empty today. The IEA warning is a forward projection about structural supply: in four to six weeks, absent secured supply, the shortage manifests. These are not contradictory statements about the same moment — they describe two different moments in time. The gap between them is the story. The EU's decision to authorize US jet fuel imports is the most revealing data point: a regulator does not loosen import rules for a commodity that is 'marginally' affected. The Lufthansa 20,000-flight reduction is not a scheduling quirk — it is a forced contraction driven by cost and availability. The question to put to the DfT is: given that you are aware of the IEA's June shortage warning, at what reserve level does 'no shortage today' become insufficient grounds for reassuring the public?",
+  "verdict": "[SIPHONED VERDICT]: The 'no shortage' framing describes current tank levels while obscuring a structural shortage projected for June — and the EU's own import authorization is an implicit admission the current supply model is not sustainable."
+}
