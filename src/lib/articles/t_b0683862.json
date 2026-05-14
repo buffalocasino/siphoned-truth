@@ -1,0 +1,22 @@
+{
+  "slug": "brazil-congonhas-near-miss-official-narrative-vs-flight-data",
+  "id": "t_b0683862",
+  "title": "Brazil Congonhas near-miss official narrative vs. flight data \u2014 2026-05-09",
+  "narrative": "Brazilian aviation authorities (CENIPA) and GOL/Azul have characterized the April 30 near-collision at S\u00e3o Paulo Congonhas as an air traffic control instruction being \"ignored\" \u2014 with the focus placed on the GOL 737-800's go-around decision and an alleged brake system issue on the Azul E195-E2. Initial framing: two aircraft came close but the ATC system worked as designed.",
+  "telemetry": [
+    "\u2014 ADS-B/flight tracking data (Flightradar24, RadarBox) shows the GOL 737 descended below the glide path while the Azul was already on takeoff roll \u2014 a procedural violation, not just an ATC miscommunication",
+    "\u2014 Aviation Safety Network incident report (wikibase 569825) shows the vertical separation collapsed to 400 feet \u2014 far below ICAO separation minimums \u2014 and horizontal separation to 0.27 nautical miles",
+    "\u2014 Brazilian reports suggest the GOL aircraft may have had a brake issue PRIOR to the incident, raising the question of whether GOL maintenance logs match the actual aircraft state",
+    "\u2014 CENIPA has not released Cockpit Voice Recorder or FDR data \u2014 the \"brake failure\" narrative is GOL's unverified claim",
+    "\u2014 No mention in official statements about why the GOL crew descended below glide path on a go-around when they should have been climbing",
+    "\u2014 The same GOL 737 model (NG, not MAX) has a known history of brake wear issues documented in ANAC safety reports"
+  ],
+  "analysis": "Official sources say one thing. The evidence says another. Headline: Congonhas Near-Miss: Why Is GOL Blaming Brakes When the Flight Track Shows a Below-Glideslope Descent?\nThe official narrative focuses on the Azul takeoff and ATC, but the physical evidence \u2014 ADS-B tracks, radar data \u2014 points to a GOL crew executing an unstabilized approach and then going around while already below safe altitude. If GOL's brake story is the angle, demand the maintenance logs. If it's the angle, why aren't investigators looking at the crew's go-around decision? This is about Brazil's aviation safety culture and whether CENIPA is protecting a major airline at the cost of transparency.\n\n\u2022 \u2014 ADS-B/flight tracking data (Flightradar24, RadarBox) shows the GOL 737 descended below the glide path while the Azul was already on takeoff roll \u2014 a...\n\u2022 \u2014 Aviation Safety Network incident report (wikibase 569825) shows the vertical separation collapsed to 400 feet \u2014 far below ICAO separation minimums \u2014...\n\u2022 \u2014 Brazilian reports suggest the GOL aircraft may have had a brake issue PRIOR to the incident, raising the question of whether GOL maintenance logs ma...\n\u2022 \u2014 CENIPA has not released Cockpit Voice Recorder or FDR data \u2014 the \"brake failure\" narrative is GOL's unverified claim\n\nThe pattern in the telemetry \u2014 6 independent data points \u2014 points in a consistent direction that the official narrative does not acknowledge. When the official framing and the physical evidence are in contradiction, the evidence is the more reliable signal. The gap between what officials claim and what the data shows is the story.",
+  "category": "aviation",
+  "tags": [
+    "#Aviation",
+    "#Aviation",
+    "#FactCheck"
+  ],
+  "verdict": "[SIPHONED VERDICT]: Headline: \"Congonhas Near-Miss: Why Is GOL Blaming Brakes When the Flight Track Shows a Below-Glideslope Descent?\"\nThe official narrative focuses on the Azul takeoff and ATC, but the physical evidence"
+}

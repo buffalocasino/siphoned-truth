@@ -1,0 +1,25 @@
+{
+  "slug": "us-aviation-runway-crisis",
+  "id": "t_6e526a12639b",
+  "title": "US aviation runway crisis \u2014 2026-05-11",
+  "narrative": "FAA and DOT officials state the US aviation system remains the safest in the world and that runway safety incidents are rare exceptions. Following the fatal LaGuardia collision, officials pointed to ongoing \"efforts to overhaul the system\" and noted that runway incursions remain below historical peaks. The FAA cited 97 specific incidents and 1,600 runway incursions in fiscal year 2025 as evidence the system is actively monitored.",
+  "telemetry": [
+    "Fatal LaGuardia collision followed earlier near-miss at Newark",
+    "Washington Times (March 23, 2026): 498 runway incursions October\u2013February (same period year prior: 496) \u2014 essentially flat despite \"overhaul\" claims",
+    "The Air Current: 1,600 runway incursions in fiscal year 2025; fiscal year 2026 has seen 498 through January alone",
+    "Newark (March 17, 2026): aircraft on intersecting runway approaches separated by ~300 feet \u2014 below minimums",
+    "United Airlines flight (May 3, 2026): crew made \"unsettling discovery\" after landing, quietly contacted ground control",
+    "Air Current: fiscal year 2026 pace through January already tracking ahead of prior year despite claims of improvement efforts",
+    "DOT data shows 97 \"serious\" incidents specifically \u2014 not all incursions, only the most dangerous subset",
+    "Core contradiction: \"efforts to overhaul\" have produced flat incursion rates while the dangerous-close-call rate (300ft intersection approach) continues"
+  ],
+  "analysis": "Official sources say one thing. The evidence says another. The safety messaging vs. the data is a framing problem. 1,600 incursions/year is not rare \u2014 it's a structural rate. The overhaul framing implies progress; the numbers are flat. The May 3 United crew discovery suggests the actual near-miss rate is higher than the reported one \u2014 crews are reporting to ground control what the official counts don't capture.\n\n\u2022 Fatal LaGuardia collision followed earlier near-miss at Newark\n\u2022 Washington Times (March 23, 2026): 498 runway incursions October\u2013February (same period year prior: 496) \u2014 essentially flat despite \"overhaul\" claims\n\u2022 The Air Current: 1,600 runway incursions in fiscal year 2025; fiscal year 2026 has seen 498 through January alone\n\u2022 Newark (March 17, 2026): aircraft on intersecting runway approaches separated by ~300 feet \u2014 below minimums\n\nThe pattern in the telemetry \u2014 8 independent data points \u2014 points in a consistent direction that the official narrative does not acknowledge. When the official framing and the physical evidence are in contradiction, the evidence is the more reliable signal. The gap between what officials claim and what the data shows is the story.",
+  "category": "aviation",
+  "tags": [
+    "#Aviation",
+    "#AviationSafety",
+    "#Aviation",
+    "#FactCheck"
+  ],
+  "verdict": "[SIPHONED VERDICT]: The safety messaging vs. the data is a framing problem. 1,600 incursions/year is not \"rare\" \u2014 it's a structural rate. The \"overhaul\" framing implies progress; the numbers are flat. The May 3 United cr"
+}

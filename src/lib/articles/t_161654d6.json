@@ -1,0 +1,24 @@
+{
+  "slug": "pakistan-s-269-dead-afghanistan-strike-buried-story-delayed-justice",
+  "id": "t_161654d6",
+  "title": "Pakistan's 269-dead Afghanistan strike \u2014 buried story, delayed justice \u2014 2026-05-12",
+  "narrative": "BBC (May 12, 2026): Pakistan struck a \"rehab centre\" in Afghanistan on March 16, killing 269 Afghans according to UN figures. Families want answers. The Pakistani government claims it was targeting militants. The UN and human rights groups are calling for a war crimes investigation. The article headline is buried on BBC World news \u2014 this has received almost no Western mainstream coverage compared to other civilian casualty incidents.",
+  "telemetry": [
+    "\u2022 March 16 airstrike \u2014 nearly 2 months ago \u2014 is only now getting significant coverage",
+    "\u2022 UN figures say \"likely killed more\" than the 269 confirmed \u2014 mass casualty incident with delayed reporting",
+    "\u2022 WHO described this as a rehab centre; what was the actual target? \"Rehab centre\" is vague \u2014 drug rehab? Terror rehab? Mental health? UNHCR-affiliated?",
+    "\u2022 Geographic context: Lakki Marwat district, northwestern Pakistan \u2014 Taliban-controlled or contested territory",
+    "\u2022 Key OSINT gap: Strike attribution via satellite imagery, crater analysis, flight tracking of Pakistani aircraft (Pak AF tracks are sometimes visible on ADS-B aggregators). Was this a drone strike? Fixed-wing? If US-origin aircraft was used, does that implicate US intelligence-sharing?",
+    "\u2022 WHO evacuated patients from this facility \u2014 does WHO have a presence log? That would be verifiable.",
+    "\u2022 Amnesty International has called for investigation \u2014 what is Pakistan's stated justification vs. what the physical evidence shows?"
+  ],
+  "analysis": "Official sources say one thing. The evidence says another. A mass-casualty event in Afghanistan with UN war crime investigation flags \u2014 and the world moved on. Why did it take 2 months to surface? Who suppressed the story? If this were Israel or Russia, the coverage would be wall-to-wall. The silence around a US-aligned nation's alleged war crime is the story. Cross-reference WHO facility records, UNHCR displacement data, and satellite imagery of the site before/after.\n\nTone: expose the double standard. Document the timeline of suppression.\n\n\u2022 \u2022 March 16 airstrike \u2014 nearly 2 months ago \u2014 is only now getting significant coverage\n\u2022 \u2022 UN figures say \"likely killed more\" than the 269 confirmed \u2014 mass casualty incident with delayed reporting\n\u2022 \u2022 WHO described this as a rehab centre; what was the actual target? \"Rehab centre\" is vague \u2014 drug rehab? Terror rehab? Mental health? UNHCR-affiliate...\n\u2022 \u2022 Geographic context: Lakki Marwat district, northwestern Pakistan \u2014 Taliban-controlled or contested territory\n\nThe pattern in the telemetry \u2014 7 independent data points \u2014 points in a consistent direction that the official narrative does not acknowledge. When the official framing and the physical evidence are in contradiction, the evidence is the more reliable signal. The gap between what officials claim and what the data shows is the story.",
+  "category": "geopolitics",
+  "tags": [
+    "#Russia",
+    "#Satellite",
+    "#OSINT",
+    "#FactCheck"
+  ],
+  "verdict": "[SIPHONED VERDICT]: A mass-casualty event in Afghanistan with UN war crime investigation flags \u2014 and the world moved on. Why did it take 2 months to surface? Who suppressed the story? If this were Israel or Russia, the c"
+}

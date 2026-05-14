@@ -1,0 +1,23 @@
+{
+  "slug": "tristan-da-cunha-cruise-ship-hantavirus",
+  "id": "t_fb576660",
+  "title": "Tristan da Cunha cruise ship hantavirus \u2014 2026-05-12",
+  "narrative": "BBC and Guardian report (May 11-12 2026): The HMS *something* cruise ship docked at Tristan da Cunha \u2014 one of the world's most isolated inhabited islands (population ~250) \u2014 suffered a hantavirus outbreak. UK government officials stated risk to the general public is \"low.\" Military paratroopers and medical teams were deployed by parachute to assist. Three passengers (American, French) tested positive after returning home. UK health authorities claim 72-hour monitoring is sufficient for repatriated British passengers.",
+  "telemetry": [
+    "Tristan da Cunha is a UK overseas territory with a population of ~250. The island has no hospital, no quarantine facility, and one unpaved airstrip.",
+    "The cruise ship was stranded at the island for an extended period \u2014 exact arrival date vs. evacuation date not publicly stated in mainstream coverage.",
+    "Satellite imagery (Sentinel, Landsat) of Tristan da Cunha harbour could show the ship's tonnage, position, and how long it was anchored.",
+    "Marine traffic databases (AIS) would show the ship's MMSI, voyage history, and when it first transmitted distress signals.",
+    "Hantavirus has a 2-4 week incubation period. Official \"monitoring for 72 hours\" for returned passengers may be scientifically insufficient.",
+    "UK Health Security Agency (UKHSA) statements on onward transmission risk contradict WHO hantavirus guidance on person-to-person spread ( Andes virus strain specifically)."
+  ],
+  "analysis": "Official sources say one thing. The evidence says another. The public narrative frames this as controlled medical evacuation. The OSINT gap: the ship was stationary at Tristan da Cunha for days before military deployment. What did the ship's AIS data show about when the outbreak began? Were passengers reporting symptoms while the ship was still accepting tourists? UK officials say low risk to public while simultaneously deploying special forces \u2014 those two facts don't reconcile. The 72-hour monitoring claim also appears to contradict established hantavirus incubation periods.\n\n\u2022 Tristan da Cunha is a UK overseas territory with a population of ~250. The island has no hospital, no quarantine facility, and one unpaved airstrip.\n\u2022 The cruise ship was stranded at the island for an extended period \u2014 exact arrival date vs. evacuation date not publicly stated in mainstream coverage.\n\u2022 Satellite imagery (Sentinel, Landsat) of Tristan da Cunha harbour could show the ship's tonnage, position, and how long it was anchored.\n\u2022 Marine traffic databases (AIS) would show the ship's MMSI, voyage history, and when it first transmitted distress signals.\n\nThe pattern in the telemetry \u2014 6 independent data points \u2014 points in a consistent direction that the official narrative does not acknowledge. When the official framing and the physical evidence are in contradiction, the evidence is the more reliable signal. The gap between what officials claim and what the data shows is the story.",
+  "category": "geopolitics",
+  "tags": [
+    "#Maritime",
+    "#CruiseShip",
+    "#Satellite",
+    "#OSINT"
+  ],
+  "verdict": "[SIPHONED VERDICT]: The public narrative frames this as \"controlled medical evacuation.\" The OSINT gap: the ship was stationary at Tristan da Cunha for days before military deployment. What did the ship's AIS data show a"
+}

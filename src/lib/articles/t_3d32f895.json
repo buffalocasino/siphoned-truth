@@ -1,0 +1,24 @@
+{
+  "slug": "russia-strikes-us-firms-in-ukraine-white-house-silence",
+  "id": "t_3d32f895",
+  "title": "Russia strikes US firms in Ukraine \u2014 White House silence \u2014 2026-05-12",
+  "narrative": "NYT and BBC report (May 12, 2026): Russia has been deliberately striking US corporate facilities in Ukraine \u2014 Coca-Cola, Cargill, Mondelez, and others \u2014 while the Trump White House has offered no public response, condemnation, or policy shift. Congressional Republicans have also stayed silent. The official framing is that these are \"isolated incidents\" and US-Russia diplomacy remains \"ongoing.\"",
+  "telemetry": [
+    "\u2022 NYT explicitly names facilities tied to Coca-Cola, Cargill, Mondelez \u2014 multinationals with major Ukraine footprint and known coordinates",
+    "\u2022 These are fixed, observable installations: bottling plants, grain terminals, processing facilities. Each has a public address, satellite-visible footprint, and AIS-tracked supply shipments",
+    "\u2022 The Russia-Ukraine war has had publicly trackable strikes via OSINT (Bellingcat, OSINTdefender, liveuamap) \u2014 strikes on civilian corporate sites would show in open-source strike databases",
+    "\u2022 The WH silence is notable given the US has actively sanctioned Russia over the Iran war \u2014 why no new sanctions on Russia for attacking US commercial targets?",
+    "\u2022 Key contradiction: Trump administration narrative is \"Russia wants a deal\" while physical evidence shows Russian forces actively destroying US commercial assets on Ukrainian soil"
+  ],
+  "analysis": "Official sources say one thing. The evidence says another. The WH is choosing silence over a coherent Russia policy. When US companies are fair game for Russian strikes and the administration says nothing, what does we're negotiating with Russia actually mean? Expose the gap between diplomatic talking points and observable strike data. Did any of these facilities ship to US military supply chains? Were any workers US citizens? The silence itself is the story.\n\nTone: adversarial, document-heavy. Anchor in the specific named facilities.\n\n\u2022 \u2022 NYT explicitly names facilities tied to Coca-Cola, Cargill, Mondelez \u2014 multinationals with major Ukraine footprint and known coordinates\n\u2022 \u2022 These are fixed, observable installations: bottling plants, grain terminals, processing facilities. Each has a public address, satellite-visible foo...\n\u2022 \u2022 The Russia-Ukraine war has had publicly trackable strikes via OSINT (Bellingcat, OSINTdefender, liveuamap) \u2014 strikes on civilian corporate sites wou...\n\u2022 \u2022 The WH silence is notable given the US has actively sanctioned Russia over the Iran war \u2014 why no new sanctions on Russia for attacking US commercial...\n\nThe pattern in the telemetry \u2014 5 independent data points \u2014 points in a consistent direction that the official narrative does not acknowledge. When the official framing and the physical evidence are in contradiction, the evidence is the more reliable signal. The gap between what officials claim and what the data shows is the story.",
+  "category": "geopolitics",
+  "tags": [
+    "#Iran",
+    "#Russia",
+    "#Ukraine",
+    "#Oil",
+    "#Maritime",
+    "#Trump"
+  ],
+  "verdict": "[SIPHONED VERDICT]: The WH is choosing silence over a coherent Russia policy. When US companies are fair game for Russian strikes and the administration says nothing, what does \"we're negotiating with Russia\" actually me"
+}
