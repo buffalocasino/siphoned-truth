@@ -248,6 +248,22 @@ def main():
         print("Local build failed, aborting deploy.")
         return
 
+    # 1b. Sync covers from build/ to .vercel/output/static/
+    #     SvelteKit's static adapter outputs to build/, but --prebuilt uploads
+    #     from .vercel/output/static/. If covers were added since last deploy,
+    #     they exist in build/ but not in .vercel/output/static/ → broken images.
+    vercel_covers = BLOG / ".vercel/output/static/covers"
+    build_covers  = BLOG / "build/covers"
+    if build_covers.exists() and vercel_covers.exists():
+        for f in build_covers.glob("*.jpg"):
+            dest = vercel_covers / f.name
+            if not dest.exists() or f.stat().st_mtime > dest.stat().st_mtime:
+                shutil.copy2(f, dest)
+        # Remove covers from .vercel/output that no longer exist in build/
+        for f in vercel_covers.glob("*.jpg"):
+            if not (build_covers / f.name).exists():
+                f.unlink()
+
     # 2. Patch .vercel/output/config.json to route /article/{slug} → .html files
     #    Without this, Vercel routes /article/foo to /article/[slug] (SvelteKit
     #    filesystem route) which doesn't exist on the static host → 404.
