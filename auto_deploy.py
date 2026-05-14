@@ -294,12 +294,12 @@ def main():
             if not dst.exists() or src.stat().st_mtime > dst.stat().st_mtime:
                 shutil.copy2(src, dst)
 
-    # 2. Patch .vercel/output/config.json to route /article/{slug} → .html files
+# 2. Patch .vercel/output/config.json to route /article/{slug} → .html files
     #    Without this, Vercel routes /article/foo to /article/[slug] (SvelteKit
     #    filesystem route) which doesn't exist on the static host → 404.
     #    The .html files exist at /article/foo.html — this rewrites the route
     #    dest from the placeholder token to the actual file.
-    vercel_config = BLOG / ".vercel" / "output" / "config.json"
+    vercel_config = BLOG / ".vercel/output/config.json"
     if vercel_config.exists():
         import re
         cfg = vercel_config.read_text()
@@ -308,7 +308,7 @@ def main():
         vercel_config.write_text(cfg)
         print("Patched Vercel routing config: /article/{slug} → .html")
 
-    # 2. Push to GitHub
+    # 3. Push to GitHub
     if not run("git", "push", "origin", "master"):
         print("GitHub push failed, continuing with Vercel deploy...")
 
