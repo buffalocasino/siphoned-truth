@@ -1,33 +1,37 @@
 import type { PageServerLoad } from './$types';
 import { error } from '@sveltejs/kit';
-
-// Vite glob import — bundles all JSON files at build time
-const articleFiles = import.meta.glob('/src/lib/articles/*.json', { eager: true });
+import { readdir } from 'fs/promises';
+import { join } from 'path';
 
 export const load: PageServerLoad = async ({ params }) => {
 	const { slug } = params;
 	const normalizedSlug = slug.toLowerCase();
 
-	// Find by slug field OR by filename match (handles slug ≠ filename)
-	const fileKey = Object.keys(articleFiles).find(key => {
-		const keyLower = key.toLowerCase();
-		const mod = (articleFiles[key] as any);
-		const article = mod?.default ?? mod;
-		// Match by slug field first
-		if (article?.slug?.toLowerCase() === normalizedSlug) return true;
-		// Fallback: filename contains the slug segments
-		const fileBase = keyLower.replace('/src/lib/articles/', '').replace('.json', '');
-		return fileBase.includes(normalizedSlug) || normalizedSlug.includes(fileBase);
-	});
+	const articlesDir = join(process.cwd(), 'src/lib/articles');
+	let files: string[];
 
-	if (!fileKey) {
+	try {
+		files = await readdir(articlesDir);
+	} catch {
 		throw error(404, 'Article not found');
 	}
 
-	const raw = articleFiles[fileKey] as any;
-	const article = raw?.default ?? raw;
-	if (!article || !article.title) {
-		throw error(404, 'Article not found');
+	for (const file of files) {
+		if (!file.endsWith('.json')) continue;
+		const filePath = join(articlesDir, file);
+		try {
+			const { readFile } = await import('fs/promises');
+			const content = await readFile(filePath, 'utf-8');
+			const article = JSON.parse(content);
+			const articleSlug = (article.slug || article.id || '').toLowerCase();
+			if (articleSlug === normalizedSlug || file.replace('.json', '').toLowerCase() === normalizedSlug) {
+				if (!article.title) throw error(404, 'Article not found');
+				return { article };
+			}
+		} catch (e) {
+			if ((e as any)?.status === 404) throw e;
+		}
 	}
-	return { article };
+
+	throw error(404, 'Article not found');
 };

@@ -1,6 +1,6 @@
 import type { PageServerLoad } from './$types';
-
-const articleFiles = import.meta.glob('/src/lib/articles/*.json', { eager: true });
+import { readdir, readFile } from 'fs/promises';
+import { join } from 'path';
 
 function safeTime(v: any): number {
 	const t = v?.time || v?.date;
@@ -8,16 +8,28 @@ function safeTime(v: any): number {
 	try { return new Date(t).getTime(); } catch { return 0; }
 }
 
-export const load: PageServerLoad = () => {
+export const load: PageServerLoad = async () => {
+	const articlesDir = join(process.cwd(), 'src/lib/articles');
+	let files: string[] = [];
+
 	try {
-		const raw = Object.values(articleFiles);
-		const articles = raw
-			.map((mod: any) => mod?.default ?? mod)
-			.filter((a: any) => a && a.title)
-			.sort((a: any, b: any) => safeTime(b) - safeTime(a));
-		return { articles };
-	} catch (e) {
-		console.error('Article load error:', e);
+		files = await readdir(articlesDir);
+	} catch {
 		return { articles: [] };
 	}
+
+	const articles = [];
+	for (const file of files) {
+		if (!file.endsWith('.json')) continue;
+		try {
+			const content = await readFile(join(articlesDir, file), 'utf-8');
+			const article = JSON.parse(content);
+			if (article && article.title) {
+				articles.push(article);
+			}
+		} catch { /* skip bad files */ }
+	}
+
+	articles.sort((a: any, b: any) => safeTime(b) - safeTime(a));
+	return { articles };
 };
