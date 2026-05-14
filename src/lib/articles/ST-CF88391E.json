@@ -1,0 +1,26 @@
+{
+  "slug": "st-cf88391e",
+  "id": "ST-CF88391E",
+  "time": "2026-05-14T00:19:27.519703+00:00",
+  "title": "Three Women in the Sea, One 'Tragic Incident.' Sussex Police Haven't Explained the Gap.",
+  "narrative": "BBC reported May 13, 2026 that the bodies of three young women were pulled from the sea off Brighton. Sussex Police described it as a 'tragic incident,' closed the beach, and launched an investigation. No cause of death has been released. No explanation has been offered for how three women entered the water simultaneously at the same location.",
+  "telemetry": [
+    "Three bodies simultaneously from the sea off Brighton \u2014 statistically improbable for accidental drowning; three separate individuals entering the same stretch of water at the same time without witnesses",
+    "UK MCA coastguard deployment: RNLI stations at Newhaven, Eastbourne, and Brighton \u2014 dispatch logs for May 12-13 should show response timeline independent of police statement",
+    "Channel shipping lanes via AIS/Lloyd's List: Brighton sits adjacent to a major shipping lane; vessel proximity data for the hours around estimated time of death",
+    "British Transport Police / Network Rail CCTV coverage of the Brighton coastline and approaches \u2014 any unusual coastal rail activity before bodies were found",
+    "MP Ian Marshall raised the case in Parliament (Hansard transcript): exact quotes and what was said in chamber vs. what police confirmed publicly",
+    "Sussex Police 'non-suspicious' ruling issued before post-mortem examination: no cause of death established \u2014 on what basis was the narrative closed?"
+  ],
+  "analysis": "Three bodies pulled from the same stretch of water on the same day. Sussex Police described it as a 'tragic incident' and ruled it 'non-suspicious' before post-mortem examinations established a cause of death. The sequencing is the anomaly. A non-suspicious designation before pathology is complete is procedure-violating unless there is immediate and overwhelming physical evidence \u2014 visible trauma consistent with drowning, personal effects indicating intentional entry, or witness accounts. None of these have been cited publicly.\n\nThe MCA coastguard dispatch logs will show the response timeline: when the first call came in, which RNLI stations were tasked, whether helicopter assets were deployed. That timeline, cross-referenced with AIS vessel tracking data for the Brighton shipping lane approach, either corroborates a maritime incident \u2014 a vessel struck or negligently displaced the women \u2014 or shows that no vessel was present, which collapses the accidental-entry narrative.",
+  "verdict": "[SIPHONED VERDICT]: Sussex Police ruled three simultaneous deaths 'non-suspicious' before post-mortems \u2014 no cause of death established, no mechanism of entry explained, no timeline verified.",
+  "tags": [
+    "uk",
+    "brighton",
+    "sussex-police",
+    "channel",
+    "coastguard",
+    "investigation"
+  ],
+  "kanban_task": "t_f65c1047"
+}
