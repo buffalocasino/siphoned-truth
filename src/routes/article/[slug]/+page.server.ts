@@ -1,35 +1,34 @@
 import type { PageServerLoad } from './$types';
 import { error } from '@sveltejs/kit';
-import { readdir } from 'fs/promises';
-import { join } from 'path';
+
+export const prerender = true;
+
+export async function entries() {
+	const raw = import.meta.glob('/src/lib/articles/*.json', { eager: true, import: 'default' });
+	const slugs: string[] = [];
+
+	for (const [path, mod] of Object.entries<any>(raw)) {
+		const article = mod;
+		if (!article?.title) continue;
+		const slug = (article.slug || article.id || path.replace('/src/lib/articles/', '').replace('.json', '')).toLowerCase();
+		slugs.push(slug);
+	}
+
+	return slugs.map(slug => ({ slug }));
+}
 
 export const load: PageServerLoad = async ({ params }) => {
 	const { slug } = params;
 	const normalizedSlug = slug.toLowerCase();
 
-	const articlesDir = join(process.cwd(), 'src/lib/articles');
-	let files: string[];
+	const raw = import.meta.glob('/src/lib/articles/*.json', { eager: true, import: 'default' });
 
-	try {
-		files = await readdir(articlesDir);
-	} catch {
-		throw error(404, 'Article not found');
-	}
-
-	for (const file of files) {
-		if (!file.endsWith('.json')) continue;
-		const filePath = join(articlesDir, file);
-		try {
-			const { readFile } = await import('fs/promises');
-			const content = await readFile(filePath, 'utf-8');
-			const article = JSON.parse(content);
-			const articleSlug = (article.slug || article.id || '').toLowerCase();
-			if (articleSlug === normalizedSlug || file.replace('.json', '').toLowerCase() === normalizedSlug) {
-				if (!article.title) throw error(404, 'Article not found');
-				return { article };
-			}
-		} catch (e) {
-			if ((e as any)?.status === 404) throw e;
+	for (const [path, mod] of Object.entries<any>(raw)) {
+		const article = mod;
+		if (!article?.title) continue;
+		const articleSlug = (article.slug || article.id || path.replace('/src/lib/articles/', '').replace('.json', '')).toLowerCase();
+		if (articleSlug === normalizedSlug) {
+			return { article };
 		}
 	}
 

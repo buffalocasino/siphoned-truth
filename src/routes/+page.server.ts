@@ -1,35 +1,34 @@
 import type { PageServerLoad } from './$types';
-import { readdir, readFile } from 'fs/promises';
-import { join } from 'path';
+import { error } from '@sveltejs/kit';
 
-function safeTime(v: any): number {
-	const t = v?.time || v?.date;
-	if (!t) return 0;
-	try { return new Date(t).getTime(); } catch { return 0; }
-}
-
-export const load: PageServerLoad = async () => {
-	const articlesDir = join(process.cwd(), 'src/lib/articles');
-	let files: string[] = [];
-
+export const load: PageServerLoad = async ({ fetch: fetchFn }) => {
 	try {
-		files = await readdir(articlesDir);
+		const res = await fetchFn('/articles/');
+		if (!res.ok) return { articles: [] };
+
+		// Vercel serverless can use fs for static files in the deployment
+		const { readFileSync, readdirSync } = await import('fs');
+		const { join } = await import('path');
+		const articlesDir = join(process.cwd(), 'static', 'articles');
+		const files = readdirSync(articlesDir).filter(f => f.endsWith('.json'));
+		const articles: any[] = [];
+
+		for (const file of files) {
+			try {
+				const content = readFileSync(join(articlesDir, file), 'utf-8');
+				const article = JSON.parse(content);
+				if (article?.title) articles.push(article);
+			} catch { /* skip bad files */ }
+		}
+
+		articles.sort((a: any, b: any) => {
+			const ta = new Date(a?.time || a?.date || 0).getTime();
+			const tb = new Date(b?.time || b?.date || 0).getTime();
+			return tb - ta;
+		});
+
+		return { articles };
 	} catch {
 		return { articles: [] };
 	}
-
-	const articles = [];
-	for (const file of files) {
-		if (!file.endsWith('.json')) continue;
-		try {
-			const content = await readFile(join(articlesDir, file), 'utf-8');
-			const article = JSON.parse(content);
-			if (article && article.title) {
-				articles.push(article);
-			}
-		} catch { /* skip bad files */ }
-	}
-
-	articles.sort((a: any, b: any) => safeTime(b) - safeTime(a));
-	return { articles };
 };
