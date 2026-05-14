@@ -1,0 +1,27 @@
+{
+  "slug": "hormuz-open-or-closed",
+  "id": "t_8c1181e4",
+  "title": "hormuz-open-or-closed \u2014 2026-05-10",
+  "narrative": "The White House and US Central Command have publicly declared the Strait of Hormuz \"open for business\" under Operation Freedom, claiming the US naval blockade has successfully restored safe passage for international shipping. President Trump stated ships are \"flowing freely\" and cited \"unprecedented success\" in opening the waterway. CENTCOM reports that vessels are transiting safely.",
+  "telemetry": [
+    "AIS ship-tracking data (BBC Verify, NBC News) shows only 15 vessels crossed in the first days of the \"open\" period \u2014 against a historical baseline of 138/day",
+    "9 of those 15 vessels had direct links to Iran (Iranian-flagged, Iran-port departures)",
+    "No tanker carrying a full oil/gas load was documented exiting the Gulf during this period",
+    "Lloyd's List reports ~800 ships remain stuck inside the Gulf for weeks",
+    "Ships that ARE transiting are taking a northerly route hugging Iran's coastline \u2014 inside IRGC permitted corridors \u2014 rather than the normal central shipping lane",
+    "US Navy is actively clearing sea mines laid by Iran's IRGC, contradicting the \"safe passage\" narrative",
+    "GPS spoofing is documented; exact vessel counts are unknowable",
+    "Gas prices hit $4+/gallon in the US (40% March spike), contradicting official \"operations successful\" framing"
+  ],
+  "analysis": "Official sources say one thing. The evidence says another. The Strait is not open. The 15-vessel trickle \u2014 9 Iran-linked, hugging Iran's shoreline, with active minesweeping operations ongoing \u2014 is a managed corridor, not a restored waterway. The ~800 ships stuck inside represent a dam that hasn't broken. This is a managed narrative for domestic political consumption while the economic pain compounds.\n\n\u2022 AIS ship-tracking data (BBC Verify, NBC News) shows only 15 vessels crossed in the first days of the \"open\" period \u2014 against a historical baseline of ...\n\u2022 9 of those 15 vessels had direct links to Iran (Iranian-flagged, Iran-port departures)\n\u2022 No tanker carrying a full oil/gas load was documented exiting the Gulf during this period\n\u2022 Lloyd's List reports ~800 ships remain stuck inside the Gulf for weeks\n\nThe pattern in the telemetry \u2014 8 independent data points \u2014 points in a consistent direction that the official narrative does not acknowledge. When the official framing and the physical evidence are in contradiction, the evidence is the more reliable signal. The gap between what officials claim and what the data shows is the story.",
+  "category": "geopolitics",
+  "tags": [
+    "#Iran",
+    "#Hormuz",
+    "#Oil",
+    "#Maritime",
+    "#Trump",
+    "#China"
+  ],
+  "verdict": "[SIPHONED VERDICT]: The Strait is not open. The 15-vessel trickle \u2014 9 Iran-linked, hugging Iran's shoreline, with active minesweeping operations ongoing \u2014 is a managed corridor, not a restored waterway. The ~800 ships st"
+}

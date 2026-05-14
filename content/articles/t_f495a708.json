@@ -1,0 +1,25 @@
+{
+  "slug": "strait-of-hormuz-safe-passage-claims-vs-evidence",
+  "id": "t_f495a708",
+  "title": "Strait of Hormuz safe-passage claims vs. evidence \u2014 2026-05-09",
+  "narrative": "US Central Command publicly stated it is providing \"escorts\" for commercial vessels through the Strait of Hormuz under Operation Project Freedom. Officials described the operation as ensuring safe passage and maintaining freedom of navigation. The ceasefire with Iran is described as \"still in effect\" by State Department officials. Marco Rubio called the situation \"problematic but manageable.\"",
+  "telemetry": [
+    "\u2022 IMO official statement: \"security situations remain volatile\" \u2014 maritime risks remain HIGH despite US Navy escorts. IMO launched a task force for a safe-passage framework, noting naval escorts are NOT a sustainable long-term solution.",
+    "\u2022 IMO: at least FOUR ship attacks reported since the US escort operation began, plus one attack on UAE's Fujairah oil hub.",
+    "\u2022 Intertanko (tanker industry association): \"Details remain limited, and the threat to merchant vessels from Iran persists... It is unclear whether the United States would intervene in the event of an Iranian response.\"",
+    "\u2022 Satellite imagery shows suspected large oil slicks near Iran's Kharg Island \u2014 consistent with tanker damage not reflected in US casualty reports.",
+    "\u2022 Three empty Iranian cargo tankers crossed the US blockade in the past 48 hours \u2014 suggesting the blockade is porous, contradicting Pentagon framing of \"control.\"",
+    "\u2022 Iranian state media: US strike hit a civilian cargo vessel near the Strait; 5 sailors missing, 10 injured."
+  ],
+  "analysis": "Official sources say one thing. The evidence says another. The gap between safe passage operation and the actual attack/integrity data. Compare IMO's own volatility warning against the public-facing escort success narrative. What do commercial vessel AIS tracks show about actual routing decisions vs. official claims?\n\n\u2022 \u2022 IMO official statement: \"security situations remain volatile\" \u2014 maritime risks remain HIGH despite US Navy escorts. IMO launched a task force for a ...\n\u2022 \u2022 IMO: at least FOUR ship attacks reported since the US escort operation began, plus one attack on UAE's Fujairah oil hub.\n\u2022 \u2022 Intertanko (tanker industry association): \"Details remain limited, and the threat to merchant vessels from Iran persists... It is unclear whether th...\n\u2022 \u2022 Satellite imagery shows suspected large oil slicks near Iran's Kharg Island \u2014 consistent with tanker damage not reflected in US casualty reports.\n\nThe pattern in the telemetry \u2014 6 independent data points \u2014 points in a consistent direction that the official narrative does not acknowledge. When the official framing and the physical evidence are in contradiction, the evidence is the more reliable signal. The gap between what officials claim and what the data shows is the story.",
+  "category": "geopolitics",
+  "tags": [
+    "#Iran",
+    "#Hormuz",
+    "#Ceasefire",
+    "#Oil",
+    "#Maritime",
+    "#Satellite"
+  ],
+  "verdict": "[SIPHONED VERDICT]: The gap between \"safe passage operation\" and the actual attack/integrity data. Compare IMO's own volatility warning against the public-facing \"escort success\" narrative. What do commercial vessel AIS "
+}
