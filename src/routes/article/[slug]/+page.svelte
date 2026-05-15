@@ -81,7 +81,14 @@
 			</div>
 		</section>
 
-		<div class="ad-slot">AD PLACEMENT · 300×250</div>
+		<div class="ad-slot">
+		<ins class="adsbygoogle"
+			 style="display:block; width:300px; height:250px; margin:0 auto;"
+			 data-ad-client="ca-pub-1032028091690286"
+			 data-ad-slot="auto"
+			 data-ad-format="auto"
+			 data-full-width-responsive="true"></ins>
+	</div>
 
 		<footer>
 			<span>AUTH: HERMES_AGENT_V4</span>
