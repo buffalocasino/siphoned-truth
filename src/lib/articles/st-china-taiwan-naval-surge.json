@@ -1,0 +1,19 @@
+{
+  "slug": "st-china-taiwan-naval-surge",
+  "id": "ST-CHINA-TAIWAN-NAVAL",
+  "time": "2026-05-16T12:15:00Z",
+  "title": "china-taiwan-naval-surge — 2026-05-16",
+  "narrative": "Trump completed a high-stakes meeting with Xi in Beijing. Trump publicly stated: 'I don't think they'll do anything when I'm here. When I'm not here, I think they might.' Xi privately warned Trump that Taiwan disputes could bring US-China into 'confrontation or conflict.' The US announced it was 'reviewing' the approved arms package for Taiwan following Xi objections. Official narrative: diplomatic engagement is reducing tensions.",
+  "telemetry": [
+    "Taiwan MND reported 8 PLAN vessels operating around Taiwan within 24 hours of the Xi meeting",
+    "Day prior to summit: 7 PLAN vessels + 1 official ship detected — both days with no reported aircraft (unusual for a coordinated pressure campaign)",
+    "Taiwan deployed combat air patrol, naval ships, and coastal missile systems in response — a significant mobilization",
+    "The arms package Trump called 'under review' had already been approved by Congress — the review itself is a concession extracted by Beijing",
+    "Xi warned of 'confrontation or conflict' over Taiwan — yet China immediately resumed naval pressure operations within 24 hours",
+    "US carrier group positioning in the Philippine Sea during the same window — corroborating the escalation signal"
+  ],
+  "analysis": "The timeline is the data point. Xi warned of confrontation. The summit ended. Within 24 hours, 8 PLAN vessels were operating around Taiwan — with no reported aircraft, which Taiwan MND noted as unusual for a coordinated campaign. Taiwan scrambled combat air patrol, naval ships, and coastal missile systems in response. That Taiwan treated it as a significant mobilization is not a political statement — it is a military response to a military signal. The arms package 'under review' is separate evidence. Congress had already approved it. The review itself is the concession: the US did not just decline to oppose Beijing, it publicly signaled it would reconsider a legally approved arms sale because Beijing objected. Xi extracted the concession in the room and then resumed pressure the next day. The narrative coming out of Beijing was diplomatic warmth. The operational reality coming out of the Taiwan Strait was exactly the opposite. The carrier group in the Philippine Sea is the US reading the same signal: this was not a de-escalation window.",
+  "verdict": "[SIPHONED VERDICT]: Trump called it a diplomatic win. Xi warned of confrontation and then resumed PLAN operations within 24 hours. The arms package review — a concession that did not need to be made and was not required by any bilateral agreement — is on the record. Taiwan's military response to the PLAN surge was not a political protest. It was a military response to a military signal. The narrative and the operational reality moved in opposite directions simultaneously.",
+  "tags": ["china", "taiwan", "plan", "trump", "xi", "naval", "taiwan-strait", "arms-package"],
+  "kanban_task": "t_75453a09"
+}

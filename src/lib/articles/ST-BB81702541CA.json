@@ -1,0 +1,25 @@
+{
+  "slug": "st-5fde3de42131",
+  "id": "ST-BB81702541CA",
+  "time": "2026-05-15T22:04:36.729599+00:00",
+  "title": "Deleting the Storm Data: How the Admin Is Blindfolding Hurricane Forecasters",
+  "narrative": "The Trump administration has deleted or taken offline massive amounts of federal climate data, including DoD satellite weather data feeds used by hurricane forecasters. NOAA and other agencies have been directed to remove climate references from agency websites. The stated position: the climate crisis is exaggerated or fabricated, and federal resources shouldn't prioritize 'climate advocacy.' Officials are acting on that position by removing the data infrastructure that tracks climate. The hurricane season begins June 1.",
+  "telemetry": [
+    "AP: hurricane forecasters specifically warned that cutting DoD satellite data feeds will 'severely hamper' forecast accuracy \u2014 this is not theoretical, this is the 2026 hurricane season starting in weeks",
+    "SEJ (Society of Environmental Journalists): federal climate disaster data is being systematically deleted or hidden while billion-dollar weather disasters continue at historic rates",
+    "Carbon Brief: Trump's official climate report contains 100+ false or misleading claims, verified by independent scientists \u2014 the administration is not just ignoring climate data, it's actively publishing counterfacts",
+    "The Guardian (May 7): the admin is deleting raw datasets, not just changing website language \u2014 the underlying data infrastructure is being dismantled",
+    "EU Copernicus Climate Change Service: now the primary tracker of US temperature and emissions data \u2014 the US government is ceding scientific authority to foreign and independent entities while denying the need for the data",
+    "Private weather firms (DTN, Weather Company): stepping in to fill forecast gaps left by degraded NOAA data feeds \u2014 this is a privatization of hurricane forecasting, paid for by commercial customers instead of taxpayers"
+  ],
+  "analysis": "The logic is circular and the timeline is cruel. Hurricane season starts June 1. The DoD satellite data feeds that hurricane models depend on are being cut now. The stated rationale is that climate concerns are exaggerated. The evidence being cited for that claim is being deleted at the same time. The administration is simultaneously claiming there's no climate crisis AND ensuring that the data infrastructure to observe and predict climate-driven extreme weather events is degraded. EU Copernicus and private firms are now the primary real-time trackers of US climate data \u2014 the US government has outsourced its own atmospheric observation to foreign entities while denying the need for it. If a Category 4 hits the Gulf coast this season and the forecast was off because the DoD feed was cut, the admin's position will be 'the models weren't reliable anyway.' The data deletion is the precondition for that argument.",
+  "verdict": "[SIPHONED VERDICT]: The admin is removing the fire hoses while the house burns \u2014 and scheduling it for the start of hurricane season. The data deletion isn't about saving money. It's about ensuring no future data can contradict the current position.",
+  "tags": [
+    "Climate",
+    "NOAA",
+    "Hurricane",
+    "OSINT",
+    "Data"
+  ],
+  "kanban_task": "t_19ba9299"
+}

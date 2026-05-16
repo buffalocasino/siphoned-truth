@@ -1,0 +1,23 @@
+{
+  "id": "ST-0A47A06E0001",
+  "slug": "st-2d6c7e9a15",
+  "task_id": "t_0a47a06e",
+  "title": "Denver runway death \u2014 'intact fence' and 'deeply saddened' are not an explanation",
+  "time": "2026-05-15T23:58:00Z",
+  "narrative": "A Frontier Airlines A321neo struck and killed a pedestrian on a runway at Denver International Airport (DIA) on May 8, 2026, around 11:19 p.m. The aircraft was cleared for takeoff on runway 17L when it struck the individual, who had jumped the perimeter fence. Passengers were evacuated; 12 reported minor injuries. Denver International Airport confirmed the fence was \"intact\" after examination. Frontier Airlines stated it was \"deeply saddened.\"",
+  "telemetry": [
+    "The pedestrian was 'at least partially consumed' by one of the aircraft's engines, causing a brief engine fire \u2014 the engine was operating at high thrust during impact",
+    "The individual entered the runway just 2 minutes before being struck \u2014 did any DIA ground control or ATC protocol flag an unauthorized runway incursion in that 2-minute window?",
+    "FAA's own runway safety data: Denver International is one of the highest-runway-incursion airports in the US system by volume",
+    "FAA has issued multiple Surface Safety Initiative directives for DIA in the past 18 months \u2014 this airport has a documented surface movement surveillance problem",
+    "No information released on victim identity, entry method, or whether the individual was a DIA employee \u2014 'not believed to be an onsite worker' is not an explanation"
+  ],
+  "analysis": "A 'deeply saddened' airline and an 'intact fence' are not an explanation. The ATC/tower should have detected a runway incursion within seconds; the 2-minute timeline between fence jump and lethal impact is an indictment of surface movement surveillance at one of America's busiest airports. What did the tower recording show? Why hasn't FAA released a preliminary incident report? FAA's own data says DIA has a runway safety problem \u2014 this was a predictable tragedy waiting to happen.",
+  "verdict": "[SIPHONED VERDICT]: FAA has issued multiple directives for this airport. Two minutes on an active runway. 'Intact fence' doesn't explain how someone crossed multiple taxiways and a runway undetected.",
+  "tags": [
+    "Aviation",
+    "Safety",
+    "Denver",
+    "FAA"
+  ]
+}

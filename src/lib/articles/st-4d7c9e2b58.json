@@ -1,0 +1,24 @@
+{
+  "id": "ST-05969F730002",
+  "slug": "st-4d7c9e2b58",
+  "task_id": "t_05969f73",
+  "title": "Golden Dome \u2014 the $800B missile defense system that might not work",
+  "time": "2026-05-15T23:51:00Z",
+  "narrative": "Trump's 'Golden Dome' missile defence system has been costed by the Congressional Budget Office at $800B \u2014 nearly seven times the initial estimate. The CBO also found the system as described 'might not stop an all-out missile attack.' Congressional Republicans are pushing for expedited funding.",
+  "telemetry": [
+    "Ground-based Midcourse Defense (GMD) \u2014 the only US ICBM interceptor \u2014 has ~50% test intercept rate per Missile Defense Agency public test data",
+    "Described capability: intercept ICBMs, hypersonics, and cruise missiles simultaneously \u2014 no existing US system can do any one of those reliably",
+    "Israeli Arrow / Iron Beam cited as groundwork \u2014 Arrow has been in development for 20+ years and isn't complete",
+    "CBO $800B estimate vs. White House claimed cost \u2014 what methodology did each use? The delta is the story",
+    "Raytheon, Lockheed, Northrop Grumman published capacity reports \u2014 can they actually build this in proposed timeline? Industrial base constraints are physical limits",
+    "MDA annual unclassified budget requests show operational capability timelines that don't match the political schedule"
+  ],
+  "analysis": "The President says it will protect America. The CBO says it might not work. The Agency's own test data shows 50% intercept rates. Contractors say they need 20 years. This is a $800B narrative with no engineering evidence behind it. The gap between what the system is claimed to do and what US missile defense actually does today is the story. You can't intercept what you can't track, and hypersonics are specifically designed to defeat systems like GMD.",
+  "verdict": "[SIPHONED VERDICT]: The only US ICBM interceptor has a 50% test record. The system described doesn't exist in any deployed form. $800B for a capability the US doesn't currently have.",
+  "tags": [
+    "Defense",
+    "Budget",
+    "Missile",
+    "Accountability"
+  ]
+}

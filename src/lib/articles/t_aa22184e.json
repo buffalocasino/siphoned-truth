@@ -1,0 +1,19 @@
+{
+  "slug": "article-iranvesselseizure-huichuanfloatingarmoury-2026-05-14",
+  "id": "T_AA22184E",
+  "time": "2026-05-15T19:17:28Z",
+  "title": "Iran vessel seizure - Hui Chuan floating armoury - 2026-05-14",
+  "narrative": "BBC Verify (May 14, 2026): Iranian military personnel seized a Honduras-flagged vessel identified as the Hui Chuan in the Gulf of Oman. UK Maritime Trade Operations (UKMTO) confirms the ship is now bound for Iranian territorial waters. Iranian state media has not commented. The vessel operators told Vanguard (maritime risk management firm) it was operating as a floating armoury - storing weapons for private security firms protecting ships from pirates. The ship last broadcast its location 70km NE of Fujairah (UAE) on Wednesday before going silent.\n\nPublic narrative: Iran seized a commercial vessel operating legally in international waters under the guise of anti-piracy operations.",
+  "telemetry": [
+    "BBC Verify checked MarineTraffic AIS data showing Hui Chuan last position 70km NE of Fujairah - BEFORE the seizure, not AFTER. The vessel position post-seizure is NOT confirmed by any AIS feed.",
+    "UK government has issued NO formal statement beyond what UKMTO reported. No sanctions, no diplomatic escalation.",
+    "Iranian state media: SILENT. No confirmation or denial from Tehran.",
+    "Floating armoury vessels operate in legal grey zone - not illegal per se, but widely understood as allowing security guards to access weapons without port customs declaration. Not regulated under arms export laws.",
+    "UN Panel of Experts reports on Yemen sanctions have documented floating armoury vessels near Fujairah.",
+    "AIS coverage at Fujairah is DENSE (major bunkering hub). A vessel going dark there is anomalous - not like going dark in open ocean. Cross-reference: did any other AIS feed (Rigbo, FleetMon, VesselFinder archive) catch Hui Chuan transmitting after Wednesday?"
+  ],
+  "analysis": "",
+  "category": "geopolitical",
+  "tags": [],
+  "verdict": "[SIPHONED VERDICT] Official narrative is incomplete. AIS data, satellite imagery, and operational details contradict or remain unconfirmed. The 'floating armoury' framing has not been independently verified."
+}

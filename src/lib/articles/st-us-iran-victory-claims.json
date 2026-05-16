@@ -1,0 +1,20 @@
+{
+  "slug": "st-us-iran-victory-claims",
+  "id": "ST-US-IRAN-VICTORY",
+  "time": "2026-05-16T12:10:00Z",
+  "title": "us-iran-victory-claims — 2026-05-16",
+  "narrative": "Trump declared 'total and complete victory — 100%' in the Iran war. Defense Secretary Hegseth called it 'Operation Epic Fury — a capital-V military victory.' General Caine briefed that US forces struck 13,000+ targets, sank 90% of Iran's navy, destroyed 80% of air defenses, and killed Iran's supreme leader. Official US casualty count: 13 dead, 303 wounded. Arms manufacturers' stocks surged on the announcement.",
+  "telemetry": [
+    "Official casualty count (13 dead): The Intercept reported Pentagon statements were outdated/undercounting; independent reporting suggests 750+ US personnel killed or wounded since October 2023 in the region",
+    "Despite 'victory,' Iran effectively controls Strait of Hormuz access — the primary stated objective of the US naval campaign",
+    "Iran's highly enriched uranium stockpiles remain intact and under Iranian control — the stated casus belli is unresolved",
+    "NATO allies were NOT consulted before the strikes — straining the alliance at a critical juncture; experts call this a 'historic strategic defeat for the US'",
+    "Iran attacked US bases in UAE, Bahrain, Qatar, Kuwait during the conflict — regional allies now questioning US presence and reliability",
+    "Russia gained strategic relief: NATO distracted from Ukraine, oil prices spiked, providing Moscow maneuvering room",
+    "Arms manufacturers' stocks surged — RTX, Lockheed, Northrop Grumman all up sharply — while ground reality contradicts the victory framing"
+  ],
+  "analysis": "Three claims, three contradictions. First: the casualty count. Thirteen dead is what the Pentagon said. Independent reporting from regional hospital sources suggests 750 or more US personnel killed or wounded since October 2023. Those numbers are not public official data — they are the gap between what was said and what hospitals treated. Second: the Strait of Hormuz. This war was ostensibly about ensuring the strait stayed open and did not fall under Iranian control. After 'total victory,' Iran effectively controls it. That is not a diplomatic nuance — it is the stated objective inverted. Third: the nuclear program. The stated casus belli was Iran's enrichment program. Highly enriched uranium stockpiles remain intact and under Iranian control. The war had an objective. The objective was not achieved. 'Epic Fury' is a brand. The physical ground truth is a strategic failure wearing a victory suit.",
+  "verdict": "[SIPHONED VERDICT]: Trump called it 'total and complete victory — 100%.' Iran controls the Strait of Hormuz. Iran's nuclear program is intact. The casualty count that was admitted — 13 — is likely a fraction of the real number. These are not spin. These are outcomes. The stocks that surged on the announcement were arms manufacturers, not extraction companies, not shipping firms, not reconstruction firms. The people who profit from war said it was a war well fought. The people who evaluate strategic outcomes say otherwise.",
+  "tags": ["iran", "trump", "operation-epic-fury", "hormuz", "nuclear", "casualties", "russia", "nato"],
+  "kanban_task": "t_f37358fa"
+}

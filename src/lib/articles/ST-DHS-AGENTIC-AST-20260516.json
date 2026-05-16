@@ -1,0 +1,109 @@
+{
+  "article_id": "ST-DHS-AGENTIC-AST-20260516",
+  "title": "DHS Is Deploying 890 AI Towers That Decide Who Looks Suspicious \u2014 And Congress Funded It",
+  "slug": "dhs-agentic-ai-surveillance-towers",
+  "date": "2026-05-16",
+  "category": "surveillance",
+  "narrative": "DHS ismodernizing border security with autonomous AI surveillance towers that can detect, track, and report without human oversight. The Anduril-built Sentry towers represent the future of border enforcement \u2014 persistent, solar-powered, and indistinguishable from war-zone technology transferred to domestic use.",
+  "thesis": "The official narrative frames these towers as cost-effective border security. The evidence \u2014 $363M contracts, 890 planned towers, autonomous drone-dispatch architecture, and academic data on migrants dying from surveillance-induced rerouting \u2014 suggests something closer to a permanent, AI-driven surveillance state at the southern border.",
+  "sources": [
+    {
+      "name": "Anduril Press Release",
+      "url": "https://www.anduril.com/news/anduril-deploys-300th-autonomous-surveillance-tower-ast-advancing-capability-for-border-security",
+      "type": "press_release"
+    },
+    {
+      "name": "OrangeSlices AI \u2014 Anduril $363M Contract",
+      "url": "https://orangeslices.ai/anduril-scores-1-year-363m-sbir-phase-iii-autonomous-surveillance-towers-idiq-task-with-dhs-border-patrol/",
+      "type": "govcon"
+    },
+    {
+      "name": "WIRED \u2014 M2S2 Surveillance Trucks",
+      "url": "https://www.wired.com/story/dhs-wants-a-fleet-of-ai-powered-surveillance-trucks/",
+      "type": "journalism"
+    },
+    {
+      "name": "The Intercept \u2014 Anduril CBP Deal",
+      "url": "https://theintercept.com/2025/07/09/trump-big-beautiful-bill-anduril/",
+      "type": "journalism"
+    },
+    {
+      "name": "DHS AI Use Case Inventory",
+      "url": "https://www.dhs.gov/ai/use-case-inventory/cbp",
+      "type": "government"
+    },
+    {
+      "name": "RAND RR-4348 \u2014 Tower Impact Study",
+      "url": "https://www.rand.org/content/dam/rand/pubs/research_reports/RR4300/RR4348/RAND_RR4348.pdf",
+      "type": "academic"
+    },
+    {
+      "name": "Political Geography 2025 \u2014 Surveillance Mortality",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S0962629825000642",
+      "type": "academic"
+    },
+    {
+      "name": "DHS FY27 CBP Budget Justification",
+      "url": "https://www.dhs.gov/sites/default/files/2026-04/26_0403_ocfo_fy27-budget-customs-and-border-protection.pdf",
+      "type": "government"
+    }
+  ],
+  "key_findings": [
+    {
+      "finding": "$362,974,500 SBIR Phase III IDIQ contract to Anduril Industries, December 2025, for Autonomous Surveillance Towers (AST) with DHS Border Patrol",
+      "source": "OrangeSlices AI / GovConWire",
+      "confidence": "high",
+      "category": "funding"
+    },
+    {
+      "finding": "300+ Anduril Sentry towers deployed by late 2024, covering ~30% of US land border; target is 890 total autonomous towers",
+      "source": "Anduril press release / FedScoop",
+      "confidence": "high",
+      "category": "scale"
+    },
+    {
+      "finding": "M2S2 (Modular Mobile Surveillance System) \u2014 rolling AI towers on 4x4 vehicles, unattended/autonomous mode, detection range several miles, may cue kinetic systems including interceptor drones",
+      "source": "WIRED / GovConWire / SAM.gov",
+      "confidence": "high",
+      "category": "technology"
+    },
+    {
+      "finding": "Academic study (RAND RR-4348): Integrated Fixed Towers reduce apprehensions ~27% in treated zones \u2014 strong deterrence effect, but pushes crossings to more dangerous routes",
+      "source": "RAND Corporation Research Report RR-4348",
+      "confidence": "high",
+      "category": "academic"
+    },
+    {
+      "finding": "2025 Political Geography study: migrants rerouted by surveillance suffer double the water loss \u2014 surveillance-induced rerouting increases mortality risk",
+      "source": "Political Geography, Volume 120, May 2025",
+      "confidence": "high",
+      "category": "academic"
+    },
+    {
+      "finding": "CBP Commissioner Rodney Scott: four vendors have passed the 'autonomy test' \u2014 meaning autonomous border surveillance is now certified operational",
+      "source": "Facebook/Dylan Schmidt",
+      "confidence": "high",
+      "category": "policy"
+    },
+    {
+      "finding": "One Big Beautiful Bill Act (2025) requires all new border towers to be certified 'autonomous' \u2014 only Anduril currently meets spec per The Intercept",
+      "source": "The Intercept",
+      "confidence": "high",
+      "category": "policy"
+    },
+    {
+      "finding": "Anduril systems also contracted by UK Home Office \u2014 domestic surveillance tech expanding internationally",
+      "source": "Contractor summary",
+      "confidence": "medium",
+      "category": "geopolitical"
+    }
+  ],
+  "tension": "The official framing is border security modernization \u2014 smarter, more efficient surveillance to protect the border. The evidence points to: (1) autonomous AI systems with no human-in-the-loop for initial detection decisions, (2) architecture designed to dispatch drones without human authorization, (3) academic evidence that the technology increases migrant deaths by forcing rerouting, (4) $2.7B in congressional funding for a system targeting 890 fixed towers plus mobile units, and (5) no published federal policy governing when machine decisions escalate to kinetic engagement.",
+  "confidence": {
+    "high": "Contract figures, tower counts, M2S2 technical specs, academic studies, policy requirements",
+    "medium": "FY25/FY26 appropriations figures from budget documents",
+    "low": "False-positive AI detection rates (not publicly disclosed); specific authorization for drone dispatch"
+  },
+  "article_type": "investigative",
+  "verdict": "[SIPHONED VERDICT] The narrative of efficient border security collides with the reality of autonomous surveillance infrastructure, academic evidence of harm, and a funding trajectory aimed at 890 machine eyes on the southern border \u2014 with no published rules for when those machines decide to act."
+}

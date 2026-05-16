@@ -1,0 +1,11 @@
+⬡ climate-data-deletion-hurricane-season — 2026-05-15
+
+The Trump administration has deleted or taken offline massive amounts of federal climate data — including Department of Defense satellite weather data feeds used by hurricane forecasters.
+
+The telemetry doesn't lie.
+
+▸ The administration is deleting the fire hoses while the house burns. The hurricane season starting June 1 is not theoretical — it's a deadline. Forecasters are already warning that degraded data will make the 2026 hurricane season more dangerous for coastal residents who rely on NOAA warnings. The Carbon Brief's documentation of 100+ false claims in the official climate report tells you everything about the administration's relationship to data: they don't engage with it. They select it. And now they're deleting the parts they don't like while the parts they rely on for hurricane tracking go with them.
+
+→ https://siphonedtruth.online/article/climate-data-deletion-hurricane-season
+
+#SiphonedTruth #OSINT #ShadowBroker

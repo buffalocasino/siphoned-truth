@@ -1,0 +1,23 @@
+{
+  "id": "ST-35C248130001",
+  "slug": "st-3e9f2a7c81",
+  "task_id": "t_35c24813",
+  "title": "De-escalation in Washington, war zone in the Strait \u2014 AIS data tells the truth",
+  "time": "2026-05-15T23:55:00Z",
+  "narrative": "The US announced it was pausing strikes and entering indirect nuclear talks with Iran. Trump officials declared the Hormuz shipping lane \"secure enough.\" Meanwhile, commercial tanker operators and seafarer unions report zero change in real danger on the water.",
+  "telemetry": [
+    "On May 13, a Chinese supertanker carrying 2 million barrels of Iraqi crude transited the Strait after being stranded for days \u2014 AIS shows it exited only after a convoy/escort",
+    "JV Innovation (Chinese-owned tanker) was attacked near Hormuz \u2014 the first confirmed Chinese tanker hit in this conflict cycle",
+    "Instagram footage from marine operators: 11 seafarers killed, 38 ship attacks reported",
+    "~20,000 crew still trapped or unable to transit \u2014 commercial shipping data shows no meaningful traffic recovery",
+    "Reuters AIS data (May 13): the supertanker 'exited' only after military convoy \u2014 normal traffic is not returning"
+  ],
+  "analysis": "'De-escalation in Washington, War Zone in the Strait.' The official narrative says talks are happening and the waterway is secure. AIS data says a Chinese supertanker needed a military escort to move 2 million barrels of oil. You don't need an escort when the route is safe. The 11 seafarers killed and 38 attacks are the physical record that 'secure enough' is not the same as safe.",
+  "verdict": "[SIPHONED VERDICT]: A supertanker doesn't need a military escort through safe waters. 'Secure enough' means the risks haven't changed \u2014 the briefing language has.",
+  "tags": [
+    "Hormuz",
+    "Maritime",
+    "Iran",
+    "Geopolitics"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "article-latviadroneincursion-ukraineattributionquestioned-2026-05-14",
+  "id": "T_419D0DBD",
+  "time": "2026-05-15T19:17:28Z",
+  "title": "Latvia drone incursion - Ukraine attribution questioned - 2026-05-14",
+  "narrative": "Latvian PM Evika Silina resigned May 14, 2026 following a political crisis triggered by three Ukrainian drones straying into Latvian airspace on May 7. Two drones crashed in eastern Latvia. Both Latvia and Ukraine acknowledged the drones may have been Ukrainian UAVs intended for Russia whose signals were lost. Silina fired Defence Minister Andris Spruds over his response. His Progressives party withdrew support, collapsing the coalition months before a planned October election.\n\nPublic narrative: Ukraine's allies are experiencing accidental spillover from legitimate strikes on Russian territory. Silina called it a political crisis caused by windbags.",
+  "telemetry": [
+    "This is the SECOND such incident in 2026. First incident date/location not reported in BBC coverage - needs cross-reference.",
+    "Distance from Ukrainian launch positions to eastern Latvia: approximately 600-700km. Current Ukrainian drone inventory (Shahed-136, domestic FPVs) cannot reach that range from Ukrainian territory. Exception: extended-range Shahed variants with additional fuel tanks - documented by Russian MoD but unverified.",
+    "Alternative explanation not in coverage: RUSSIAN drones. Latvia borders Russia and Belarus. Russian Lancet drones or modified commercial UAVs from Russian territory near Pskov/Novgorod could reach Latvian airspace easily.",
+    "NATO Article 5 implications: Three armed UAV incursions into NATO territory = test of Article 5 readiness. No statement from NATO Supreme Allied Commander cited.",
+    "OSINT check: adsbexchange and flightradar24 historical archives for May 7-14 near Latvian eastern border.",
+    "Political timing: coalition collapsed months before a scheduled election. Convenient for opposition parties? Who benefits from framing this as Ukrainian error rather than Russian provocation?"
+  ],
+  "analysis": "",
+  "category": "geopolitical",
+  "tags": [],
+  "verdict": "[SIPHONED VERDICT] Ukraine attribution claimed but unverified. Second such incident in 2026 with no clear accountability chain. The silence from Kyiv is notable."
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "iran-sky-vs-ground",
+  "id": "iran-sky-vs-ground",
+  "time": "2026-05-16T16:00:00+00:00",
+  "title": "Iran War: Satellite Evidence vs. the Official Narrative",
+  "narrative": "The Trump administration has repeatedly claimed Operation Epic Fury 'decimated' Iran's military \u2014 destroying ballistic missile facilities, naval assets, and IRGC infrastructure. Officials say all objectives were achieved. Trump stated the US 'could destroy Iran's infrastructure in two days.' White House: 'Iran's ballistic missiles are destroyed, their production facilities are demolished, their navy is sunk, and their proxies are weakened.'",
+  "telemetry": [
+    "Washington Post (May 6, 2026): 217 structures and 11 pieces of equipment damaged or destroyed at 15 US military sites \u2014 far exceeding CENTCOM disclosures. Hardest hit: 5th Fleet HQ (Bahrain), three Kuwait bases. Pentagon initially disclosed zero damage at several sites.",
+    "Bloomberg satellite analysis: 2,816 buildings hit in Tehran. Land use breakdown: 32% military, 21% civilian, 25% industrial, 19% commercial, 21% government \u2014 a wide urban footprint beyond 'military targets.'",
+    "Minab school strike: at least 150 children killed.",
+    "$270B estimated damage to Iran \u2014 approximately equal to Iran's entire 2026 GDP of $300B (IMF).",
+    "US air defense expenditure: 190 THAAD interceptors (53% of prewar stock) and 1,060 Patriot interceptors (43%) used in 40 days.",
+    "CENTCOM declined to confirm WaPo findings; called damage assessments 'complex and potentially misleading.'"
+  ],
+  "analysis": "The gap between 'precision strikes on military targets' and the forensic satellite record is not a rounding error. Bloomberg's independent analysis identified 2,816 buildings struck in Tehran with a land-use breakdown that does not support the 'military-only' framing. Only 32% of destroyed structures were military facilities. The Minab school strike \u2014 150 children \u2014 is not a civilian-adjacent mistake; it is a category error.\n\nThe asymmetry in damage reporting is itself a data point. Iranian damage to US bases was systematically underreported by CENTCOM, which initially disclosed zero damage at several sites. Meanwhile, the WaPo investigation documented 217 structures and 11 pieces of equipment destroyed or damaged at 15 US sites. One side's 'decimation' is the other's 'complex and potentially misleading.' Who controls the official damage count controls the narrative.\n\nThe $270B damage figure \u2014 roughly equal to Iran's annual GDP \u2014 is framed as a fiscal line item rather than a humanitarian catastrophe. That framing choice is editorial complicity.\n\nThe air defense expenditure tells a story of extraordinary consumption: 53% of THAAD stock and 43% of Patriot interceptors used in 40 days. This is not a story of superior capability; it is a story of rapid depletion.",
+  "verdict": "[SIPHONED VERDICT]: The official narrative of precision military strikes is inconsistent with independent satellite analysis. The forensic record shows a wide civilian and industrial footprint, systematic underreporting of US base damage, and an air defense expenditure rate that suggests a nation depleting its defenses at historic speed. When the Pentagon calls independent damage assessments 'complex and potentially misleading,' notice what they didn't say: 'incorrect.'",
+  "tags": [
+    "iran",
+    "satellite",
+    "centcom",
+    "civilian-casualties",
+    "pentagon",
+    "trump",
+    "operation-epic-fury"
+  ],
+  "kanban_task": "t_129ed9b2"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "ST-EA6A1BFE5F01",
+  "slug": "st-7b2d4e6a83",
+  "task_id": "t_ea6a1bfe5f01",
+  "title": "Hormuz AIS gap \u2014 ships are there but transponders are off",
+  "time": "2026-05-15T23:42:00Z",
+  "narrative": "President Trump and CENTCOM declared the Strait of Hormuz \"open for business\" following the April 2026 ceasefire agreement with Iran. The White House stated ships are \"flowing freely\" and cited \"unprecedented success\" in reopening the waterway. US officials claim AIS shipping data confirms rapid recovery to normal traffic levels.",
+  "telemetry": [
+    "International Maritime Organization (April 21): ~20,000 mariners and 2,000 ships stranded in Persian Gulf due to closure",
+    "Normal Hormuz daily transits: 120\u2013140 vessels/day; Ceasefire period AIS: 84 dry bulk crossings in first 7 days vs. normal ~840/week",
+    "Windward EO imagery (May 6, 13:50 UTC): 77 vessels operating with AIS transmission OFF in northern corridor \u2014 a known evasion indicator",
+    "800+ ships still backed up in and around the Strait per Al Jazeera tracking",
+    "Traffic collapsed to 3\u20136 vessels/24hr during peak closure vs. 120\u2013140 baseline \u2014 AIS doesn't show recovery to normal",
+    "Core AIS gap: vessels are in the Strait but transponder-dark, making 'open' claim unverifiable from tracking data"
+  ],
+  "analysis": "Official 'open for business' framing masks a physical reality: ships are there but not transmitting. Dark AIS in a known maritime chokepoint is a known evasion indicator. The 77-vessel dark fleet in the northern corridor on May 6 \u2014 a month after ceasefire \u2014 contradicts the 'flowing freely' narrative directly. Ships go dark when they don't want to be identified doing something. In a war zone, that means they're running cargo the US doesn't want them running.",
+  "verdict": "[SIPHONED VERDICT]: 77 vessels transponder-dark in the northern corridor, a month after ceasefire. Ships go dark in a chokepoint for one reason: they're doing something they'd be stopped for if they showed up on radar. 'Open for business' is what you say when you can't say 'the smugglers are winning.'",
+  "tags": [
+    "Hormuz",
+    "Maritime",
+    "AIS",
+    "Iran",
+    "Geopolitics"
+  ]
+}

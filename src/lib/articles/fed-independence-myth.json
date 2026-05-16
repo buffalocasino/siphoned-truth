@@ -1,0 +1,27 @@
+{
+  "slug": "fed-independence-myth",
+  "id": "fed-independence-myth",
+  "time": "2026-05-16T16:00:00+00:00",
+  "title": "The Fed Independence Myth: From Powell to Warsh",
+  "narrative": "The White House described Jerome Powell's departure and Kevin Warsh's confirmation as a routine leadership transition preserving Federal Reserve independence. Trump called Warsh 'the right man for this moment.' Senate Republicans framed the 54-45 party-line confirmation as merit-based. Markets were told Warsh will continue Powell's inflation-fighting mandate.",
+  "telemetry": [
+    "Kevin Warsh is son-in-law of billionaire Stanley Druckenmiller \u2014 deep Wall Street ties to an establishment Trump publicly feuded with.",
+    "Trump publicly pressured Powell 40+ times to cut rates, calling him 'the enemy' and threatening to fire him.",
+    "Warsh has documented dovish views and has written that the Fed should be more responsive to financial markets.",
+    "Nomination confirmed 54-45 on strict party-line vote \u2014 no crossover support.",
+    "Post-confirmation: 10-year Treasury yields hit multi-year highs (inflation concerns); equities rallied on easier-policy expectations; yield curve further inverted.",
+    "Multiple former Fed officials and economists published analyses questioning whether Warsh can credibly claim independence when his appointment was a direct political decision by an administration that spent years attacking his predecessor."
+  ],
+  "analysis": "The Federal Reserve's independence is a structural norm, not a personal trait. What makes it credible is the process: appointments insulated from political pressure, chairs who serve fixed terms, and institutional resistance to political interference. Every one of those norms was violated in sequence.\n\nTrump pressured Powell publicly more than 40 times \u2014 calling him 'the enemy' and threatening removal. Warsh's documented views align with what Trump publicly demanded: a Fed more responsive to financial markets and more accommodating of political preferences. His family connection to Druckenmiller is not incidental; it is a signal of which constituencies the new chair is actually accountable to.\n\nThe market reaction is the most honest data point. Yields rose on inflation concerns while equities rallied on easier-policy expectations. This is not pricing continuity with Powell \u2014 it is pricing a Fed that will cut when the President wants it to cut. The yield curve inversion that followed confirms traders see the same thing.\n\nThe silence from institutional defenders of Fed independence is notable. Former Fed officials who would normally champion independence as a core value have been largely absent from public debate. Their absence is itself a statement.",
+  "verdict": "[SIPHONED VERDICT]: The Federal Reserve's independence was not preserved in this transition \u2014 it was renegotiated. The selection process was nakedly political, the nominee's views align with the appointing President's stated preferences, and markets immediately priced in a more accommodating policy. The word 'independent' now describes a chair who was chosen specifically because he was expected not to be.",
+  "tags": [
+    "federal-reserve",
+    "kevin-warsh",
+    "powell",
+    "trump",
+    "monetary-policy",
+    "inflation",
+    "yield-curve"
+  ],
+  "kanban_task": "t_5a43f105"
+}

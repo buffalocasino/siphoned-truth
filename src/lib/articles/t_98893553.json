@@ -1,0 +1,23 @@
+{
+  "slug": "hormuz-blockade-claims-vs-ship-tracking",
+  "id": "t_98893553",
+  "title": "hormuz-blockade-claims-vs-ship-tracking \u2014 2026-05-15",
+  "narrative": "The White House and US military officials have declared the Strait of Hormuz naval operation a success \u2014 turning away 58 commercial ships and \"effectively\" blockading Iranian port access. Trump called it \"tightening the noose\" and Pentagon briefers claim Iranian oil exports have \"collapsed.\" The Strait of Hormuz is the world's most critical oil chokepoint, carrying roughly 20% of global oil supply. An effective blockade would ripple through global energy markets within weeks. The question is whether the blockade is actually working \u2014 or whether the official story is fiction.",
+  "telemetry": [
+    "NYT (May 9): US Navy turned away 58 ships \u2014 but Guardian reporting and ship-tracking shows multiple vessels slipping through, including Malta-flagged VLCC Agios Fanourios I that defied US orders",
+    "Reuters (April 23): Iran seized a vessel on video, flaunting control and demonstrating the limits of US naval presence",
+    "Guardian (May 4): 850+ ships trapped in Gulf since Feb 28 attack; shipping bosses say the plan to \"guide vessels\" through is chaotic and unworkable",
+    "Multiple AIS tracking accounts on X showing ships broadcasting destination as Iranian ports despite US \"blockade\" \u2014 AIS is required for vessels over 300 tons and cannot be easily falsified",
+    "Trump himself paused the guidance program to \"finalize an Iran deal\" \u2014 directly contradicting the official \"success\" framing and suggesting the administration knows the blockade is theater"
+  ],
+  "analysis": "The Pentagon's narrative and the maritime data are telling opposite stories. The White House points to 58 turned-away ships as evidence of success. But 58 ships over months is a fraction of the traffic that normally transits Hormuz \u2014 and AIS tracking shows vessels continuing to move in and out of Iranian ports. The Malta-flagged Agios Fanourios I case is particularly damning: a large crude carrier simply ignored US Navy instructions and proceeded. If the world's shipping doesn't fear your blockade, it's not a blockade \u2014 it's a suggestion. The 850+ ships trapped in the Gulf since late February represents a genuine humanitarian and economic crisis: crews stranded, insurance costs\u98d9\u5347, food and supplies running low on anchored vessels. This is being framed as a foreign policy win while sailors suffer the consequences. Trump's simultaneous \"pause for Iran deal negotiations\" is the most revealing data point \u2014 if the blockade were truly working, why would you pause the very pressure designed to force concessions? The administration is treating the American public and allied governments as if they cannot cross-reference two public facts.",
+  "category": "geopolitics",
+  "tags": [
+    "#Hormuz",
+    "#Iran",
+    "#Navy",
+    "#FactCheck",
+    "#Geopolitics"
+  ],
+  "verdict": "[SIPHONED VERDICT]: The official story is a naval operation that's mostly theater. 58 turned-away ships sounds like a lot until you learn 850+ vessels are trapped in the Gulf \u2014 many of them awaiting clearance to proceed to Iranian ports. The AIS data doesn't lie. The Trump administration's own pause of the \"blockade\" to negotiate an Iran deal is a confession: they know the pressure campaign isn't working as advertised. A real blockade strangles an adversary. This one lets ships through, seizes the occasional vessel for propaganda, and leaves 850+ crews marooned at anchor while officials spin victory from the Rose Garden."
+}

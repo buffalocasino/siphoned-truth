@@ -1,0 +1,11 @@
+⬡ The Ceasefire That Wasn't: How OSINT Exposed the Theater of May 2026
+
+On May 9, 2026, the White House announced a three-day ceasefire in the Iran conflict brokered by the Trump administration.
+
+The telemetry doesn't lie.
+
+▸ The ceasefire was theater. The OSINT community tracked it in near-real time and their findings directly contradict the official narrative. The announcement economy celebrated a win. The documentation economy recorded something else entirely. The pattern isn't new — but the gap between the two records has never been this visible.
+
+→ https://siphonedtruth.online/article/st-2e0669a86d65
+
+#SiphonedTruth #OSINT #ShadowBroker

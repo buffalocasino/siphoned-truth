@@ -1,0 +1,24 @@
+{
+  "id": "ST-008702DC0001",
+  "slug": "st-4c8e2f6a39",
+  "task_id": "t_008702dc",
+  "title": "Hormuz ceasefire vs. ship attacks \u2014 'both sides claim the other fired first' is not a story",
+  "time": "2026-05-15T23:59:00Z",
+  "narrative": "Trump and the Pentagon insist the month-old US-Iran ceasefire is \"not over\" and \"still in effect.\" Defense Secretary Pete Hegseth stated the US is \"not looking for a fight\" despite multiple exchanges of fire in the Strait of Hormuz since May 7. Trump told reporters he sought to play down the violence. The official line: Iranian forces initiated; US forces responded in self-defense.",
+  "telemetry": [
+    "May 7: A Chinese-owned oil tanker was attacked near Hormuz \u2014 the first Chinese vessel hit in the 2026 crisis, complicating diplomacy",
+    "US forces struck and disabled two Iranian oil tankers on May 7-8, per CENTCOM",
+    "Iranian state media (Tasnim): three US destroyers near Hormuz came under missile fire, claiming US struck first by attacking an Iranian tanker",
+    "UAE reported another Iranian missile and drone attack",
+    "Strait of Hormuz carries ~20% of global oil flow",
+    "Each side claims the other initiated \u2014 AIS ship telemetry would show the actual sequence of events independent of either party's framing"
+  ],
+  "analysis": "Both sides maintain 'ceasefire is holding' for different reasons \u2014 Trump needs a diplomatic win, Iran needs to avoid full-scale war. But AIS ship telemetry would show the actual sequence of events. The US narrative assumes Iran always fires first while US always responds defensively. Merchant mariners caught in the crossfire aren't buying it. The Chinese tanker being hit first complicates the 'Iran initiated' framing \u2014 Beijing doesn't need encouragement to blame the US when a Chinese ship is attacked near a US blockade.",
+  "verdict": "[SIPHONED VERDICT]: Each side says the other fired first. AIS data exists. The people watching the watchmen's AIS logs are the ones who should be answering this \u2014 not the Pentagon or Iranian state media.",
+  "tags": [
+    "Hormuz",
+    "Iran",
+    "Geopolitics",
+    "Ceasefire"
+  ]
+}

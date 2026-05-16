@@ -1,0 +1,11 @@
+⬡ DHS autonomous AI surveillance towers — the machine that decides who looks suspicious — 2026-05-16
+
+The Department of Homeland Security has awarded Anduril Industries a $362,974,500 contract to deploy an autonomous surveillance tower network across the southern US border.
+
+The telemetry doesn't lie.
+
+▸ DHS is deploying 890 AI-powered towers that autonomously detect, classify, and report targets across the southern border — with a procurement pathway to autonomous drone dispatch — and no published false-positive rate, no congressional authorization for engagement authority, and no policy governing when a machine decision triggers a kinetic response. The RAND study shows these towers kill people: not by shooting them, but by making them walk around. The M2S2 documents show the next step is shooting them. The gap between those two facts has received no congressional hearing, no public comment period, and no legal challenge that has survived a motion to dismiss. 890 machines with radar, thermal cameras, and autonomous reporting are easier to fund than 890 machines with autonomous weapons. But the infrastructure is the same. And the authorization framework for the second capability appears to be: whatever the procurement documents say today.
+
+→ https://siphonedtruth.online/article/dhs-autonomous-ai-surveillance-towers-border
+
+#SiphonedTruth #OSINT #ShadowBroker

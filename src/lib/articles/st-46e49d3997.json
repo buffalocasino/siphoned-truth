@@ -1,0 +1,23 @@
+{
+  "id": "ST-5523EE4597D7",
+  "slug": "st-46e49d3997",
+  "task_id": "t_f65c1047",
+  "title": "Three Women, One Tide, No Answers \u2014 the Brighton bodies story nobody is investigating",
+  "time": "2026-05-15T23:36:00Z",
+  "narrative": "BBC: \"Bodies of three young women pulled from sea off Brighton\" (May 13, 2026). Sussex Police describe it as a \"tragic incident,\" beach closed, investigation launched. No cause of death released, no explanation for how the women entered the water.",
+  "telemetry": [
+    "Three bodies simultaneously from sea off Brighton \u2014 statistically improbable for accidental drowning in the same spot at the same time",
+    "UK MCA coastguard deployment logs: RNLI stations at Newhaven, Eastbourne, Brighton \u2014 any lifeboat dispatch to the Brighton stretch May 12-13 is a public record",
+    "Channel shipping lanes via AIS: Brighton sits adjacent to a major commercial shipping lane \u2014 vessel proximity data is independently verifiable",
+    "Sussex Police classified the incident 'non-suspicious' before post-mortem had established cause of death \u2014 a narrative close, not an investigative conclusion",
+    "MP Ian Marshall raised the case in Parliament \u2014 Hansard record of what was said vs. what police confirmed is on the public record"
+  ],
+  "analysis": "Three women, same tide, same day. Sussex Police called it 'non-suspicious' before the post-mortem was complete. That's not an investigation \u2014 that's a closing. The RNLI coastguard logs for that stretch of the Channel on May 12-13 either exist and corroborate the accidental drowning story, or they exist and show a gap. The AIS data for the shipping lane adjacent to Brighton either shows a vessel in the right place at the right time, or it doesn't. The fact that none of this has been cited in the official narrative is itself a finding. When police close a story before the forensic evidence is in, the question isn't what happened \u2014 it's what they're not looking for.",
+  "verdict": "[SIPHONED VERDICT]: Three bodies, zero explanation, immediate 'non-suspicious' classification. The coastguard logs and AIS data exist. Sussex Police just don't want you to see them.",
+  "tags": [
+    "UK",
+    "Investigation",
+    "Channel",
+    "Maritime"
+  ]
+}

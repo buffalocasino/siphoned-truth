@@ -1,0 +1,19 @@
+{
+  "slug": "st-iran-hormuz-open-claims",
+  "id": "ST-IRAN-HORMUZ-OPEN",
+  "time": "2026-05-16T12:05:00Z",
+  "title": "iran-hormuz-open-claims — 2026-05-16",
+  "narrative": "Iran's Foreign Minister Araghchi declared the Strait of Hormuz 'completely open' to all commercial vessels during the ceasefire. Pentagon and CENTCOM officials endorsed the narrative that the US blockade is 'humane' and 'selective,' allowing lawful commerce. Oil markets rallied on the announcement; Secretary of State frameworks cited it as a diplomatic win.",
+  "telemetry": [
+    "Pre-war baseline: 120+ commercial transits/day (MarineTraffic/Kpler AIS data)",
+    "Post-announcement AIS tracking: ~8 vessels moved Friday afternoon — then ships began turning back within hours",
+    "USS Spruance fired on an Iranian-flagged cargo vessel attempting to run the blockade; vessel was seized",
+    "By Saturday Iran reversed course, returning strait to 'previous state' under its armed forces control",
+    "Current transits: Business Insider and USNI tracking confirm lowest commercial flow since Operation Epic Fury began — ~9 vessels/day, not 100+",
+    "US Central Command claims only 19 vessels turned around — independent AIS aggregation suggests far more attempted and aborted"
+  ],
+  "analysis": "The gap between Araghchi's declaration and what AIS data actually shows is not a rounding error. Eight vessels moved in the hours after the announcement — then the reversal began. By Saturday, Iran had put the strait back under armed forces control. The Spruance engagement on an Iranian-flagged vessel attempting to run the blockade is the clearest single data point: 'selective' blockades do not fire on vessels claiming safe passage. If the strait were genuinely open, there would be nothing to run. The current ~9 vessels per day — down from a 120+ pre-war baseline — is not a minor disruption. It is a functional closure wearing the costume of a diplomatic concession. The official claim of 'humanitarian and selective' and the seizure of a vessel under that same policy are directly contradictory. The US narrative requires the strait to be open enough to claim victory and closed enough to remain leverage. The AIS data shows it is closed enough to matter.",
+  "verdict": "[SIPHONED VERDICT]: Araghchi declared the strait open. The data shows it is functionally closed. Eight vessels moved on announcement day; the rest turned back or were turned back. The Spruance seizure under a 'selective' blockade policy is the contradiction the US narrative cannot survive. Commercial transit is at ~9 vessels per day against a pre-war 120+. The strait is not open. The declaration was theater; the blockade is real.",
+  "tags": ["iran", "hormuz", "us-navy", "blockade", "ais-data", "oil", "trump"],
+  "kanban_task": "t_339e90f9"
+}
