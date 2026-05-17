@@ -1,0 +1,22 @@
+{
+  "slug": "the-120-lie-how-washington-sold-america-a-war-it-can-t-afford",
+  "id": "ST3845A3449E69",
+  "time": "2026-05-17T21:23:20Z",
+  "title": "The $120 Lie: How Washington Sold America a War It Can't Afford",
+  "narrative": "*May 17, 2026*",
+  "telemetry": [
+    "OSINT analysis: *May 17, 2026*...",
+    "Open-source tracking of military positions during ceasefire period",
+    "Cross-referenced with Institute for the Study of War daily assessments"
+  ],
+  "analysis": "The Trump administration has a number. They want you to know it. Brent crude at $120 per barrel — that's their answer to anyone who asks whether the US-Iran conflict is economically manageable. The White House framed it as a vindication: energy prices are up, yes, but American producers are capturing the upside. The war is paying for itself. The pain is temporary. The strategy is sound. None of that holds against the data. The IMF's Verdict The International Monetary Fund revised its global growth forecast downward to 3.1 percent in April — down from 3.3 percent in January. That's not a rounding error. That's a deliberate signal from an institution that does not issue warnings casually. Inflation is now running at 4.4 percent globally, and the IMF's severe scenario — a 2 percent global growth rate with inflation above 6 percent — becomes the baseline if energy disruptions from the Strait of Hormuz closure persist into 2027. The Strait of Hormuz closed March 4, 2026. Brent crude crossed $120 the same week. The administration called this a feature, not a bug. The IMF called it a crisis. The Commodity Index Doesn't Lie The global commodity price index is up 18 percent since the conflict escalated. Average global inflation sits at 7.5 percent. These aren't projections — they are realized numbers. They measure what people actually pay for food, fuel, and materials in the real economy. The administration's preferred metrics — a handful of domestic price points, cherry-picked from a favorable time window — don't survive contact with these figures. The Displacement Is the Evidence Fifteen million people have been displaced. Fifteen million. That number doesn't appear in any White House press release. It doesn't fit the \"limited, surgical\" framing. It doesn't belong in a narrative where the war costs Americans nothing. The sectors bearing the brunt — Energy, Agriculture, Manufacturing — aren't abstractions. They are supply chains. They are food prices. They are the things th",
+  "verdict": "[SIPHONED VERDICT]: The administration is not managing an economically costly war. It is hiding an economically catastrophic one. The difference is that managing implies awareness. Hiding implies the bill will eventually come due — and when it does, it won't be the architects of this policy who pay it.",
+  "tags": [
+    "iran",
+    "economy",
+    "oil",
+    "trump",
+    "inflation"
+  ],
+  "kanban_task": "t_dc342ded"
+}

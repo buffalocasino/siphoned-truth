@@ -1,0 +1,24 @@
+{
+  "slug": "the-hormuz-progress-mirage-every-announcement-zero-tanks",
+  "id": "ST69EA3C5E8771",
+  "time": "2026-05-17T21:23:20Z",
+  "title": "The Hormuz Progress Mirage: Every Announcement, Zero Tanks",
+  "narrative": "*May 16, 2026* The Trump administration announced this week that talks with Iran are \"substantive and productive.\" The State Department says a deal is close. Iran says it's reopening the Strait. And yet, if you look at the actual Strait of Hormuz, nothing has changed at all. This is the fourth time since April that administration officials have signaled imminent progress toward a deal that would lift Iran's blockade of the world's most critical oil chokepoint. Each time, the announcement moves m",
+  "telemetry": [
+    "*May 16, 2026*\n\nThe Trump administration announced this week that talks with Iran are \"substantive and productive.\" The State Department says a deal is close.",
+    "And yet, if you look at the actual Strait of Hormuz, nothing has changed at all.",
+    "This is the fourth time since April that administration officials have signaled imminent progress toward a deal that would lift Iran's blockade of the world's most critical oil chokepoint.",
+    "Each time, the announcement moves markets.",
+    "Each time, the ships stay where they are."
+  ],
+  "analysis": "The Disappearance of 2.5 Million Barrels a Day The Strait of Hormuz moves roughly 2.5 million barrels of crude oil per day. Since February 28, when Iran effectively blockade the Strait, that flow has dropped to zero. Not to a trickle. Not to reduced capacity. Zero. Commercial tanker transits through the Strait — tracked independently by MarineTraffic and FleetMon — remain at exactly zero. Not one vessel has crossed since the blockade began, despite three separate rounds of \"imminent deal\" announcements in April and May. Consider the timeline: - April 16: Officials describe \"major progress\" toward a deal. Oil prices dip on news. No tankers move. - May 5: US pauses naval escorts in the Gulf as a \"goodwill gesture.\" Iran announces \"positive developments.\" Markets respond. Satellite imagery shows Iranian naval positions unchanged. - May 15: State Department calls talks \"substantive and productive.\" Iranian officials propose \"reopening\" the Strait as part of a framework. Brent crude falls 1.2%. The shipping lanes remain empty. Each announcement follows the same pattern: political theater, market response, physical nothing. What the Satellites Actually Show US intelligence officials and independent analysts who examine satellite imagery of Iranian naval positions in the Gulf report the same finding across every \"pause\" period: no reduction in vessel presence. Iranian Revolutionary Guard Navy craft maintain their positions around the Strait's narrows — the approximately 20-mile channel where the majority of Gulf traffic must pass. Their sonar buoys remain laid. Their fast attack craft remain at stations. The US Navy, for its part, paused its escort operations. A goodwill gesture, we're told. But escort operations had been limited to a handful of commercial vessels anyway, and no commercial vessels have attempted passage in four months. You don't need classified telemetry to understand what's happened. Open-source shipping data, freely available, tells the whole story. The ",
+  "verdict": "[SIPHONED VERDICT]: The data says February 28. Everything since then has been words.",
+  "tags": [
+    "hormuz",
+    "iran",
+    "oil",
+    "osint",
+    "trump"
+  ],
+  "kanban_task": "t_dc342ded"
+}

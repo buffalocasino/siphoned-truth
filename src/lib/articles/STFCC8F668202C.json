@@ -1,0 +1,23 @@
+{
+  "slug": "the-ceasefire-that-wasn-t-how-osint-exposed-the-theater-of-may-2026",
+  "id": "STFCC8F668202C",
+  "time": "2026-05-17T21:23:20Z",
+  "title": "The Ceasefire That Wasn't: How OSINT Exposed the Theater of May 2026",
+  "narrative": "The headlines wrote themselves. \"Breakthrough Ceasefire,\" declared major outlets on May 9, 2026, after the White House announced a three-day pause in fighting brokered by the Trump administration. Kyiv and Moscow both agreed, or so the statement went. Trump called it \"a great day for peace.\" The announcement economy did what it always does: maximal fanfare, instant validation, zero skepticism. The ceasefire expired May 11 with no extension. Both sides accused each other within four hours of it t",
+  "telemetry": [
+    "Russian offensive operations continued throughout the ceasefire period, not as isolated incidents but as a steady rhythm documented by independent analysts.",
+    "Ukrainian strikes persisted, confirming that neither side treated the pause as binding.",
+    "Within four hours of the ceasefire taking effect, accusations were already flying — a reliable signal that both parties were gaming the arrangement rather than honoring it.",
+    "Zero extension of the ceasefire when it expired suggests neither side had any real intention to prolong it."
+  ],
+  "analysis": "The headlines wrote themselves. \"Breakthrough Ceasefire,\" declared major outlets on May 9, 2026, after the White House announced a three-day pause in fighting brokered by the Trump administration. Kyiv and Moscow both agreed, or so the statement went. Trump called it \"a great day for peace.\" The announcement economy did what it always does: maximal fanfare, instant validation, zero skepticism. The ceasefire expired May 11 with no extension. Both sides accused each other within four hours of it taking effect. And that, largely, was that. But the OSINT community was watching more carefully than the press corps.",
+  "verdict": "[SIPHONED VERDICT]: The ceasefire was theater. The question worth asking is why we keep treating the curtain call as the story.",
+  "tags": [
+    "ceasefire",
+    "ukraine",
+    "russia",
+    "osint",
+    "trump"
+  ],
+  "kanban_task": "t_dc342ded"
+}
