@@ -1,0 +1,19 @@
+{
+  "slug": "st-hormuz-shipping-collapse-20260517",
+  "id": "ST-HORMUZ-SHIPPING-COLLAPSE-20260517",
+  "time": "2026-05-17T14:06:36.558762Z",
+  "title": "The Strait That Isn't: How Iranian 'Shipping Management' Collapsed Real Traffic by 90%+ While Claiming Control",
+  "narrative": "Iranian officials insist commercial traffic through the Strait of Hormuz is functioning normally under their oversight. The data says otherwise. AIS satellite tracking shows shipping traffic collapsed 87-97% since February 2026 \u2014 dropping from approximately 175 daily transits to between 6 and 22. The UK Maritime Trade Operations office confirms 'extremely limited' commercial traffic, with only three confirmed transits recorded. Meanwhile, 62 vessels have been identified transmitting false AIS positions, a telltale sign of ships attempting to move undetected through contested waters. US Naval forces engaged Iranian tankers directly on May 8. Insurance premiums for Hormuz transit have reportedly spiked more than 400%. And the Pentagon's own assessment \u2014 routing additional carrier groups through the strait it simultaneously declares 'open' \u2014 exposes the gap between verbal hedging and operational reality. Tehran's framing of 'shipping management' is a controlled-narrative answer to an uncontrolled situation on the water.",
+  "telemetry": [
+    "AIS satellite data: shipping traffic collapsed 87-97% since February 2026, from ~175 daily transits to 6-22",
+    "UK Maritime Trade Operations confirms 'extremely limited' commercial traffic with only 3 confirmed transits",
+    "62 vessels identified exhibiting AIS spoofing \u2014 transmitting false positions to disguise actual movements",
+    "Multiple tanker attacks documented in May 2026; US Navy engaged Iranian tankers May 8",
+    "LinkedIn analysis notes AIS data may be 'missing half the picture' \u2014 actual traffic could be even lower than reported",
+    "Insurance premiums for Hormuz transit reportedly spiked 400%+",
+    "Pentagon and US State Department simultaneously declare strait 'open' while deploying additional carrier groups",
+    "Al Jazeera frames Iranian presence as 'orderly control' \u2014 AIS data contradicts the framing"
+  ],
+  "analysis": "The Strait of Hormuz is the world's most critical oil shipping choke point, carrying roughly 20% of global oil trade. The gap between Iran's public narrative of controlled, orderly 'shipping management' and the near-total collapse of actual commercial traffic is not a communications problem \u2014 it is the story. When 62 vessels are spoofing their positions, when the UK government confirms almost no commercial traffic, when US carriers need to be routed through waters the US calls 'open' while Iran's own ships are being engaged \u2014 the verbal framework and the physical reality have completely diverged. The insurance market is already pricing this as a prolonged disruption, not a temporary incident.",
+  "verdict": "[SIPHONED VERDICT]: Iran is managing a strait that shipping has largely abandoned. The 'shipping management' framing is a face-saving narrative for an economic choke point that has effectively closed to commercial traffic \u2014 not through US naval blockade, but through risk calculation by private shipping operators. When Lloyd's of London prices the risk higher than the route is worth, the strait is functionally closed regardless of what either government calls it. The 90%+ traffic collapse did not require a shot fired at every vessel \u2014 it required a few attacks, AIS spoofing on mass, and insurance actuaries doing the math. Iran's 'management' is managing the narrative, not the strait."
+}
