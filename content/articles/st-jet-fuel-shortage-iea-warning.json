@@ -1,0 +1,26 @@
+{
+  "task_id": "t_4cf2c6d32aa9",
+  "slug": "st-jet-fuel-shortage-iea-warning",
+  "id": "ST-JET-FUEL-SHORTAGE-IEA-WARNING",
+  "title": "Jet Fuel Shortage: IEA Warns of 6-Week Clock as EU Insists No Shortage Exists",
+  "time": "2026-05-10T10:00:00.000000Z",
+  "narrative": "April 2026 began with a stark warning from the International Energy Agency: Europe had roughly six weeks of jet fuel remaining. Yet just one day after that alert, the European Commission publicly dismissed concerns, insisting there were \"no fuel shortages.\" Three weeks into the standoff, the aviation industry remains caught between two radically different official narratives \u2014 and passengers may be the ones who pay the price.",
+  "telemetry": [
+    "IEA Executive Director Fatih Birol: Hormuz closure is \"the largest energy crisis we have ever faced\"",
+    "IEA warned Europe had ~6 weeks of jet fuel left as of early April",
+    "75% of Europe's net jet fuel imports previously came from Middle Eastern suppliers \u2014 pipeline severed after Feb 28 US/Israel strikes on Iran",
+    "Strait of Hormuz effectively closed by March 31; reopened mid-April per Euronews",
+    "Jet fuel prices rose 95% from late February through mid-April",
+    "EasyJet: additional \u00a325 million in fuel costs in March vs prior year",
+    "KLM cancelled more than 150 European flights",
+    "IATA Director General Willie Walsh: Europeans could see flight cancellations for lack of fuel by end of May \u2014 already occurring in parts of Asia",
+    "ACI Europe: \"imminent systemic risk\" letter to Commission, April 9, warned of shortage reality within three weeks if Strait didn't reopen significantly",
+    "April 6: rationing triggered at four Italian airports",
+    "European Commission spokesperson Anna-Kaisa Itkonen: \"There are currently no fuel shortages\"",
+    "EU refineries produce ~70% of bloc's jet fuel; Commission cited emergency stocks as buffer",
+    "ACI Europe publicly rebuked Commission's characterization on April 6 \u2014 same day it was offered",
+    "Commission scheduled emergency transport ministers meeting for April 21 \u2014 four days after IEA's six-week warning would have expired"
+  ],
+  "analysis": "The divergence in tone and urgency between Brussels and the IEA is more than rhetorical. The Commission faces political pressure to avoid alarm. The summer tourism season is a critical economic engine for several EU member states, and any admission of fuel scarcity risks triggering bookings drops and market instability.\n\nYet industry operators say the official reassurance obscures conditions on the ground. ACI Europe said the gap between the Commission's message and conditions at airports was \"increasingly untenable.\" For carriers hedging fuel costs and managing forward bookings, the conflicting signals complicate operational planning at a moment when certainty is scarce.\n\nThe IEA's timeline may yet prove conservative or overly alarmist \u2014 the Strait of Hormuz reopened in mid-April according to Euronews reporting, which would ease the pressure. But the episode illustrates a familiar pattern in crisis communication: the gap between what authorities say publicly and what the data shows privately.\n\nFor passengers, the immediate effects \u2014 higher ticket prices, route cuts, sporadic cancellations \u2014 are already real, regardless of which official account is cited. Whether the summer travel season proceeds smoothly or with disruption may ultimately depend not on press statements but on barrels moving through a contested waterway.",
+  "verdict": "[SIPHONED VERDICT]: The EU's insistence that \"no shortages exist\" while rationing was being triggered at Italian airports is not a difference of interpretation \u2014 it's a gap between institutional messaging and physical reality. The IEA's six-week warning was based on the Hormuz closure cutting off 75% of Europe's jet fuel imports. The Commission responded with calm reassurances that its own airport operators called \"increasingly untenable.\" The pattern is consistent: when officialdom has political reasons to minimize a crisis, it produces soothing language that operating conditions immediately contradict."
+}

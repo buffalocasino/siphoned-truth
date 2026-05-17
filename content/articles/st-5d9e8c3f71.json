@@ -1,0 +1,23 @@
+{
+  "id": "ST-EC4187730002",
+  "slug": "st-5d9e8c3f71",
+  "task_id": "t_ec418773",
+  "title": "70 Labour MPs vs. Starmer \u2014 the coordinated defection nobody is explaining",
+  "time": "2026-05-15T23:41:00Z",
+  "narrative": "BBC and Reuters report (May 12, 2026): Over 70 Labour MPs have publicly called on PM Keir Starmer to either resign immediately or set a departure timetable. The rebellion follows weeks of accumulating pressure. Official Labour Party statement frames this as \"internal parliamentary democracy in action.\" Chris Mason (BBC political editor) describes it as \"a dam appears to have broken.\" No specific policy failure is cited as the trigger in most reports.",
+  "telemetry": [
+    "70+ Labour MPs publicly calling for resignation in 24 hours \u2014 exceeds the 2019 Conservative rebellion over Brexit in scale and speed",
+    "No mainstream outlet has published a policy-by-policy breakdown of what triggered the rebellion \u2014 parliamentary voting records from the past 30 days are public record",
+    "Timing (May 12) comes 18 months after Starmer's honeymoon period \u2014 Shadowbroker framework: sudden coordinated elite defections correlate with undisclosed fiscal or intelligence briefings",
+    "Polling data cited in coverage is aggregate \u2014 no breakdown by constituency, demographic, or timeline",
+    "UK GDP data, NHS waiting list figures, and inflation numbers from the past 90 days could correlate with when the rebellion privately began vs. when it went public"
+  ],
+  "analysis": "The public narrative treats this as routine leadership challenge driven by polls. The OSINT gap: 70 coordinated defections in 24 hours suggests something triggered it that hasn't been reported. What do the parliamentary voting records show? Were these MPs quietly voting against the government on key bills for weeks before going public? The framing of 'democracy in action' deflects from the substantive question \u2014 what did the government do, or fail to do, that caused this? The lack of a cited cause in mainstream coverage is itself a story.",
+  "verdict": "[SIPHONED VERDICT]: 70 MPs don't simultaneously conclude a prime minister should resign because of bad polls. Something was in those intelligence briefings or fiscal projections that hasn't been made public. The parliamentary voting record is a public document \u2014 why hasn't anyone cross-referenced it with the defection list?",
+  "tags": [
+    "UK",
+    "Labour",
+    "Politics",
+    "Starmer"
+  ]
+}

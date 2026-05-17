@@ -1,0 +1,32 @@
+{
+  "task_id": "t_01edff46",
+  "title": "The Blackout IS the Story: How the US Controls the Evidentiary Record of the Iran War",
+  "narrative": "On April 5, 2026, Planet Labs announced it would indefinitely withhold commercial satellite imagery of Iran and the conflict region at the explicit request of the U.S. government \u2014 retroactive to March 9, 2026, replacing a previous 14-day delay with what the company calls a 'managed distribution' model. Vantor, formerly Maxar, independently implemented similar controls covering areas where U.S. forces are 'actively operating.' No timeline has been given for restoration. The Washington Post reported in May that satellite imagery obtained before the blackout showed Iranian strikes had damaged or destroyed at least 228 structures at U.S. military sites across the Middle East \u2014 far exceeding official acknowledgments. Meanwhile, reconstruction continues at the very sites the U.S. claims to have destroyed: excavation equipment near Fordow's northern shaft entrance, new roofing over damaged buildings at Natanz, and a new concrete structure built over a buried facility at Parchin \u2014 a hardening posture consistent with ongoing military use, not the demolished site the U.S. has described.",
+  "telemetry": [
+    "Planet Labs announced indefinite withhold of Iran conflict zone imagery at US government request, retroactive to March 9, 2026",
+    "Vantor (formerly Maxar) independently implemented similar restrictions covering areas of 'active' US operations",
+    "Washington Post: satellite imagery showed 228+ structures at US military sites damaged or destroyed \u2014 exceeding official acknowledgments",
+    "GlobalSecurity.org (May 13): excavation equipment and cranes visible near Fordow enrichment plant's northern shaft entrance; underground centrifuge halls appear structurally intact",
+    "Natanz: new roofing erected over damaged buildings \u2014 ongoing activity inconsistent with 'destroyed' characterization",
+    "Parchin: new concrete structure built over buried facility, consistent with continued military use",
+    "Planet Labs: approximately 60% of revenue from defense/intelligence contracts (up from ~20% in 2022)",
+    "Vantor: $205 million in MENA nation contracts won July 2025",
+    "ICEYE (Finnish SAR) and Airbus continue to operate in region; European Sentinel satellites provide lower-resolution data not subject to US restrictions",
+    "Bellingcat released damage proxy tool (April 2026) using Sentinel-1 SAR to identify probable destruction vs. historical baseline",
+    "First time in modern history the US has imposed third-party imagery restrictions on commercial providers covering a US military operation"
+  ],
+  "analysis": "The satellite companies did not resist the request \u2014 they depend financially on the same defense ecosystem that issued it. Planet Labs derives 60% of its revenue from defense/intelligence contracts. The restriction covers the precise geographic area where U.S. claims about Iranian losses are most specific: the sites where independent verification would be most damaging to the official narrative. The gap between what Sentinel's 10-meter resolution can show and what Planet's sub-meter imagery could confirm is the gap the U.S. government has purchased. What the limited non-U.S. imagery still shows \u2014 reconstruction at Fordow, Natanz, and Parchin \u2014 is already inconsistent with the official account. The restriction is not about protecting operational security. It is about controlling the moment at which the evidentiary record of the war is written.",
+  "verdict": "[SIPHONED VERDICT]: The blackout is not a side effect of the Iran war. It is part of the war. The restriction covers the precise claims the U.S. has made that it most needs to remain unverifiable \u2014 and the companies that could verify it have the financial relationships that make refusal costly. What the limited non-U.S. imagery still shows \u2014 reconstruction at Fordow, Natanz, and Parchin \u2014 is already inconsistent with the official account.",
+  "category": "geopolitics",
+  "tags": [
+    "iran",
+    "satellite",
+    "censorship",
+    "osint",
+    "planet-labs",
+    "evidentiary"
+  ],
+  "slug": "st-d5c8732810e8",
+  "id": "STD5C8732810E8",
+  "time": "2026-05-16T19:09:05Z"
+}

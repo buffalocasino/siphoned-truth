@@ -1,0 +1,25 @@
+{
+  "id": "strait-of-hormuz-shipping-collapse-2026",
+  "slug": "strait-of-hormuz-shipping-collapse-2026",
+  "title": "The Strait That Isn't: How Iranian 'Shipping Management' Collapsed Real Traffic by 90%+ While Claiming Control",
+  "category": "maritime",
+  "narrative": "Al Jazeera reports Iran is \"managing shipping\" through the Strait of Hormuz, framing its presence as orderly control of a strategic waterway. Iranian officials claim commercial traffic is functioning normally under their oversight. Pentagon and US State Department statements say the strait remains \"open\" while deploying additional carrier groups. The gap between that narrative and the data on the water is the story.",
+  "findings": [
+    "AIS satellite data shows shipping traffic collapsed 87-97% since February 2026, from ~175 daily transits to just 6-22 vessels",
+    "UK Maritime Trade Operations (UKMTO) confirms \"extremely limited\" commercial traffic with only 3 confirmed transits",
+    "62 vessels identified as exhibiting AIS spoofing \u2014 transmitting false positions to disguise actual movements",
+    "Multiple tanker attacks documented in May 2026; US Navy engaged Iranian tankers on May 8",
+    "LinkedIn maritime analysis notes AIS data may be \"missing half the picture\" \u2014 actual traffic could be even lower",
+    "Insurance premiums for Hormuz transit have reportedly spiked 400%+"
+  ],
+  "verdict": "[SIPHONED VERDICT]: Iran's \"shipping management\" operation has functionally closed the Strait of Hormuz to legitimate commercial traffic. The 87-97% traffic collapse isn't a coincidence \u2014 it's the point. Tehran's \"open\" claim is not merely spin; it's a lie documented in satellite data, naval records, and the insurers' spreadsheets. The US framing of \"open but carrier-enhanced\" is a verbal hedge masking an operational reality neither side wants to name.",
+  "published_at": "2026-05-17T15:32:19.027257Z",
+  "tags": [
+    "Iran",
+    "Hormuz",
+    "OSINT",
+    "AIS",
+    "Maritime",
+    "Sanctions"
+  ]
+}

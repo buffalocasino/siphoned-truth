@@ -1,0 +1,24 @@
+{
+  "id": "ST-84E6440C9214",
+  "slug": "st-84e6440c92",
+  "task_id": "t_f495a708",
+  "title": "Hormuz safe passage \u2014 US says open, ships say otherwise",
+  "time": "2026-05-15T23:37:00Z",
+  "narrative": "US Central Command publicly stated it is providing \"escorts\" for commercial vessels through the Strait of Hormuz under Operation Project Freedom. Officials described the operation as ensuring safe passage and maintaining freedom of navigation. The ceasefire with Iran is described as \"still in effect\" by State Department officials.",
+  "telemetry": [
+    "IMO official statement (April 2026): 'security situations remain volatile' \u2014 maritime risks remain HIGH despite US Navy escorts",
+    "IMO: at least FOUR ship attacks reported since the US escort operation began, plus one attack on UAE's Fujairah oil hub",
+    "Intertanko (tanker industry association): 'The threat to merchant vessels from Iran persists... It is unclear whether the United States would intervene in the event of an Iranian response'",
+    "Satellite imagery shows suspected large oil slicks near Iran's Kharg Island \u2014 consistent with tanker damage not reflected in US casualty reports",
+    "Three empty Iranian cargo tankers crossed the US blockade in 48 hours \u2014 the blockade is porous, contradicting Pentagon 'control' framing",
+    "Iranian state media: US strike hit a civilian cargo vessel near the Strait; 5 sailors missing, 10 injured"
+  ],
+  "analysis": "The IMO says HIGH risk and four attacks since escorts began. CENTCOM says safe passage is working. Those are different descriptions of the same waterway. The Intertanko statement is the commercial mariner's view \u2014 and they're the ones actually sailing through it. Their 'unclear whether the US would intervene' is a diplomatic way of saying the escort is a formality, not a guarantee. The oil slicks near Kharg Island and the three Iranian tankers that slipped through are the physical record. AIS doesn't lie; press releases do. The Strait is open for ships the US wants through it. For everyone else, it's still a war zone.",
+  "verdict": "[SIPHONED VERDICT]: Four attacks, IMO 'high risk,' Intertanko 'unclear if US would intervene.' The safe passage narrative is for public consumption; the AIS data is for the ships actually sailing through.",
+  "tags": [
+    "Hormuz",
+    "Maritime",
+    "Iran",
+    "Geopolitics"
+  ]
+}

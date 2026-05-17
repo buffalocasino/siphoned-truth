@@ -1,0 +1,23 @@
+{
+  "id": "ST-E45F1CE10003",
+  "slug": "st-2f4a8c1d76",
+  "task_id": "t_e45f1ce1",
+  "title": "US inflation 3.8% \u2014 the Iran war excuse doesn't hold up to scrutiny",
+  "time": "2026-05-15T23:47:00Z",
+  "narrative": "US officials and the Fed attribute the sudden jump to 3.8% inflation (highest since May 2023) to \"energy costs surging from the Iran war.\" The framing: this is an externality of defending American interests abroad, a manageable cost of geopolitical leadership. Markets are jittery but the system is functioning.",
+  "telemetry": [
+    "The Iran war has been ongoing approximately 30 days \u2014 energy futures curves show the price spike predates the most intense combat by ~10 days, suggesting speculation or pre-positioning rather than pure supply disruption",
+    "US petroleum reserve releases have been limited despite the price spike \u2014 why is the strategic reserve not being used to dampen the exact inflation officials are now describing?",
+    "The 3.8% figure is a US-core inflation measure \u2014 food and services are also running hot, not just energy, suggesting broader supply chain transmission that pure energy-price-pass-through wouldn't explain",
+    "Shadowbroker telemetry on Gulf of Oman tanker traffic: significant deviation from official 'safe passage' assurances as of May 8-12",
+    "Record manufacturing input costs (ISM 84.6), record food prices (FAO index third consecutive rise), and $120/barrel oil simultaneously \u2014 this is not one war's externality, this is a supply chain crisis"
+  ],
+  "analysis": "The causal chain 'Iran war \u2192 energy \u2192 inflation' is being used to make two things disappear: questions about whether the war was necessary, and the domestic energy industry's role in the price spike. But the timing and breadth of the inflation pulse don't fully fit that narrative. The pre-spike in energy futures, the limited reserve release, and the breadth of the index (food, services, manufacturing inputs) suggest something more structural. The American consumer is absorbing a geopolitical risk premium that wasn't put to a vote.",
+  "verdict": "[SIPHONED VERDICT]: The inflation spike predates the war's peak intensity. Food and services are hot too. The strategic reserve sits full while consumers pay more. 'Iran war' is a convenient label for a price problem that has multiple parents.",
+  "tags": [
+    "Economy",
+    "Inflation",
+    "Iran",
+    "Energy"
+  ]
+}

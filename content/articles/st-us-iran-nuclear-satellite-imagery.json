@@ -1,0 +1,27 @@
+{
+  "task_id": "t_8196cfac5d39",
+  "slug": "st-us-iran-nuclear-satellite-imagery",
+  "id": "ST-US-IRAN-NUCLEAR-SATELLITE-IMAGERY",
+  "title": "US Said It 'Decimated' Iran's Nuclear Program. Satellite Images Tell a Different Story.",
+  "time": "2026-05-10T13:00:00.000000Z",
+  "narrative": "The US government says it has decimated Iran's nuclear capabilities. Satellite imagery says not so fast. An investigation by CNN, published May 5, 2026, found that despite US and Israeli strikes hitting universities, uranium production plants, and other critical nodes in Iran's nuclear supply chain, key elements of the program appear to have survived \u2014 and it's unclear how much even the successful strikes accomplished.",
+  "telemetry": [
+    "CNN investigation (May 5, 2026): satellite imagery shows activity at Natanz and Isfahan contradicting \"decimated\" narrative",
+    "Planet Labs imagery, captured January 28, 2026: new roofs constructed over previously damaged buildings at Natanz enrichment facility (~135 miles south of Tehran)",
+    "Same activity at Isfahan nuclear site \u2014 produces uranium gas fed into centrifuges",
+    "Images from December 3\u20137, 2025: rubble and visible damage at both locations; by late January, coverings erected over damaged structures",
+    "Andrea Stricker (Foundation for Defense of Democracies): construction may be an attempt to conceal what survived",
+    "Iran has not allowed IAEA inspectors access to affected sites since the strikes \u2014 satellite imagery is the only window",
+    "June 2025 US/Israeli strikes targeted nuclear infrastructure: universities, uranium production plants, other supply chain nodes",
+    "IDF claim: operation \"dismantled\" Isfahan facility for producing metallic uranium, infrastructure for reconverting enriched uranium, laboratories",
+    "US used bunker-busting bombs and Tomahawk cruise missiles",
+    "White House NSS brief (November 2025): strikes had \"significantly degraded\" Iran's nuclear program",
+    "BBC Verify (March 4, 2026): at least 11 Iranian naval vessels destroyed or damaged since early March 2026, including IRINS Makran (largest Iranian naval vessel, drone carrier)",
+    "Admiral Brad Cooper (CENTCOM): not a single Iranian vessel remains underway in Arabian Gulf, Strait of Hormuz, or Gulf of Oman",
+    "President Trump (March 3): US was \"annihilating\" the Iranian navy",
+    "Nuclear experts who spoke to CNN: \"not all elements of the process have been struck, and it's unclear how effective some of even the successful strikes have been\"",
+    "Iran denies US claims of having \"obliterated\" nuclear sites"
+  ],
+  "analysis": "Fresh satellite imagery from Planet Labs, captured January 28, 2026, shows activity that contradicts the \"decimated\" narrative. At Natanz \u2014 historically the heart of Iran's nuclear program \u2014 new roofs are being constructed over previously damaged buildings. The same activity was observed at Isfahan. Images taken December 3\u20137 showed rubble and visible damage; by late January, coverings had been erected over damaged structures.\n\nThe surveillance gap is significant: Iran has not allowed IAEA inspectors access to the affected sites since the strikes, making satellite imagery effectively the only window into their current state. According to Iran experts, the construction may be an attempt to conceal what survived \u2014 getting at recovered assets without Israel or the United States seeing what actually survived.\n\nThe disconnect between official claims and observable evidence comes as the US has escalated its pressure campaign. President Trump warned of a \"massive Armada\" heading toward the Middle East. Secretary of War Pete Hegseth declared the administration is \"prepared to deliver whatever the president expects.\"\n\nDespite claims that not a single Iranian vessel remains underway, analysts note Iran retains residual capabilities \u2014 drones, mini-submarines, naval mines \u2014 that could pose threats to shipping in the Strait of Hormuz. The naval destruction is real; the nuclear degradation appears partial.\n\nWith IAEA inspectors locked out and satellite imagery the primary source of independent verification, the gap between US claims and ground truth remains substantial \u2014 and the construction activity now underway at Natanz and Isfahan suggests Tehran may be working to restore capabilities that were degraded but not destroyed.",
+  "verdict": "[SIPHONED VERDICT]: The gap between \"decimated\" and what satellite imagery shows is not a minor discrepancy \u2014 it's the difference between a declared victory over a nuclear threat and a continued capability that the US cannot independently verify. Building new roofs over damaged structures at Natanz and Isfahan while barring IAEA inspectors is consistent with concealment of surviving assets, not the demolition of a program. The phrase \"decimated\" in military communications is doing a lot of work it shouldn't do \u2014 the evidence suggests a degraded but functional program, not a destroyed one."
+}

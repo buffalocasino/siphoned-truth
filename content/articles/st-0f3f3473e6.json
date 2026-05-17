@@ -1,0 +1,25 @@
+{
+  "id": "ST-E34DAAC54311",
+  "slug": "st-0f3f3473e6",
+  "task_id": "t_ff9ffe86",
+  "title": "Alito's Voting Rights destruction was built on faked DOJ data \u2014 the Supreme Court's factfinding failed",
+  "time": "2026-05-15T23:32:07Z",
+  "narrative": "Justice Samuel Alito's Callais v. US ruling gutted the Voting Rights Act using a DOJ filing that claimed Black voter turnout exceeded white voter turnout in two of the last five presidential elections. Alito called the data 'instructive.' The DOJ used this to argue Section 2 of the VRA was 'broad enough already.' The problem: the data is backwards. The actual Census data shows white turnout consistently higher than Black turnout in every election the DOJ cited \u2014 the numbers were either inverted or catastrophically misread. A Supreme Court decision that will reshape American democracy for a generation was built on a factual claim that is verifiably false. This is not a close call. The Guardian, Above The Law, and NPR all identified the error. The DOJ's own empirical backbone for the ruling doesn't hold.",
+  "telemetry": [
+    "Guardian (May 8) \u2014 exclusive investigation found the DOJ data cited in Callais v. US has 'questionable methodology' and doesn't hold under scrutiny",
+    "Above The Law: called the filing 'fake facts in a Supreme Court opinion' \u2014 the empirical backbone of the ruling is fabricated",
+    "NPR (May 2): the DOJ filing was the entire empirical argument for why Section 2 didn't need strengthening",
+    "Census Bureau / Current Population Survey (CPS) data: white voter turnout consistently exceeded Black turnout in all five elections the DOJ cited \u2014 the filing inverted the numbers",
+    "Callais v. US ruling (May 2026): cited the inverted DOJ data as 'instructive' in gutting the Voting Rights Act's coverage formula",
+    "Legal experts: the ruling cannot be cleanly reversed without addressing the factual foundation \u2014 the error is load-bearing"
+  ],
+  "analysis": "The Supreme Court's factfinding failed at the most basic level \u2014 it cited a dataset and got the direction wrong. This isn't a matter of interpretation. The CPS data is public. The numbers are clear. Someone in the DOJ either inverted the numbers when drafting the filing or misread them so severely that the result was the opposite of reality. Alito cited it approvingly, without apparent independent verification. The result is a landmark ruling that eliminated the Voting Rights Act's core enforcement mechanism, based on a factual premise that is verifiably false. There is no intellectually honest way to frame this as a good-faith error \u2014 the direction of the racial turnout gap is not a subtle data point, it's the headline finding. The most charitable reading is institutional collapse at the DOJ and Supreme Court simultaneously. The less charitable one is that someone knew, and it was useful.",
+  "verdict": "[SIPHONED VERDICT]: The opinion that killed the Voting Rights Act was built on doctored data. The DOJ filing inverted voter turnout numbers and the Supreme Court cited them without checking. This is institutional corruption via sloppiness \u2014 or worse.",
+  "tags": [
+    "Supreme Court",
+    "Voting Rights",
+    "DOJ",
+    "Corruption",
+    "Data Integrity"
+  ]
+}

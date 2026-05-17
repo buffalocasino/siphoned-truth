@@ -1,0 +1,24 @@
+{
+  "id": "ST-D4654AC00001",
+  "slug": "st-1f9d7b3c82",
+  "task_id": "t_d4654ac0",
+  "title": "India-Pak drone war \u2014 both sides fabricating victories in an information vacuum",
+  "time": "2026-05-15T23:59:30Z",
+  "narrative": "Both India and Pakistan have claimed military success in the ongoing drone conflict. India's PIB and government spokespeople state Indian strikes destroyed Pakistani military assets at Karachi Port and multiple Pakistani airfields. Pakistan's Defense Minister claimed Pakistani drones were not intercepted to \"avoid escalation,\" while Pakistani military PR claims Pakistan shot down Indian aircraft. Both sides are waging an active information war with competing video evidence.",
+  "telemetry": [
+    "PIB fact-check unit debunked Pakistan's own claim about an Indian airfield attack using selective video cropping",
+    "Indian media fabrications (captured Islamabad, destroyed Karachi Port) independently fact-checked by BOOM and found entirely unsupported by evidence",
+    "CHPM analysis of Operation Sindoor found it 'relies on narrative, not verifiable evidence'",
+    "Defense Minister's claim that Pakistani drones 'weren't intercepted to avoid escalation' was widely mocked as incoherent \u2014 either drones were undetected or Pakistan chose not to engage",
+    "Independent OSINT analysts: neither side has provided geolocated, timestamped combat footage that survives scrutiny",
+    "Both governments have issued contradictory official claims within days, with narratives shifting multiple times"
+  ],
+  "analysis": "Both governments are simultaneously fabricating victories and catastrophizing defeats. The mutually assured disinformation creates a fog where neither side can be held accountable. Independent fact-checks are being dismissed as propaganda by each side's domestic audience. This is a case study in what happens when information warfare becomes indistinguishable from ground truth. The PIB's own debunking of Pakistan's claims while running unverified Indian claims is the dynamic in microcosm: both governments know they're lying, both know the other is lying, and both are betting the domestic audience won't check.",
+  "verdict": "[SIPHONED VERDICT]: India's PIB debunked Pakistan's fabrications while publishing its own. Pakistan's Defense Minister made an incoherent claim. Neither side has survived independent scrutiny. When both governments are caught lying about the same event, assume neither is telling the truth.",
+  "tags": [
+    "India",
+    "Pakistan",
+    "Drone War",
+    "Geopolitics"
+  ]
+}

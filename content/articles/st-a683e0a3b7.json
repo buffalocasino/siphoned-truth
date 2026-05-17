@@ -1,0 +1,23 @@
+{
+  "id": "ST-FF19F89F99C8",
+  "slug": "st-a683e0a3b7",
+  "task_id": "t_fb576660",
+  "title": "Tristan da Cunha cruise ship hantavirus \u2014 military deployment vs. 'low risk' narrative",
+  "time": "2026-05-15T23:35:00Z",
+  "narrative": "BBC and Guardian report (May 11-12 2026): The HMS *something* cruise ship docked at Tristan da Cunha \u2014 one of the world's most isolated inhabited islands (population ~250) \u2014 suffered a hantavirus outbreak. UK government officials stated risk to the general public is \"low.\" Military paratroopers and medical teams were deployed by parachute to assist. Three passengers (American, French) tested positive after returning home. UK health authorities claim 72-hour monitoring is sufficient for repatriated British passengers.",
+  "telemetry": [
+    "Tristan da Cunha: UK overseas territory, ~250 permanent residents, no hospital, no quarantine facility, one unpaved airstrip",
+    "Hantavirus incubation period: 2-4 weeks per WHO guidance \u2014 72-hour monitoring window is scientifically indefensible",
+    "UK Health Security Agency (UKHSA) 'no onward transmission risk' claim directly contradicts WHO hantavirus person-to-person guidance for certain strains",
+    "The cruise ship was stranded at Tristan da Cunha for an extended period \u2014 AIS data showing arrival date, symptoms onset timeline, and evacuation date is publicly trackable but not in mainstream coverage",
+    "UK deploying paratroopers by parachute to a remote island to assist a medical evacuation is not consistent with 'low public risk' \u2014 special forces are not standard public health response tools"
+  ],
+  "analysis": "The UK government says 'low risk' while simultaneously deploying paratroopers by parachute to a remote island with no hospital. Those two facts don't reconcile. Hantavirus has a 2-4 week incubation period \u2014 the 72-hour monitoring window is not grounded in established science. The WHO's own guidance on hantavirus person-to-person transmission (specifically the Andes strain) contradicts the UKHSA's breezy 'no ongoing risk' framing. The ship's AIS track \u2014 when it arrived, how long it sat, when symptoms were first reported \u2014 would tell us whether this was a contained incident or whether passengers were being tourists while contagious.",
+  "verdict": "[SIPHONED VERDICT]: Paratroopers and 'low risk' are mutually exclusive narratives. The 72-hour monitoring window is scientifically indefensible for hantavirus. The public got a press release, not a public health explanation.",
+  "tags": [
+    "Hantavirus",
+    "UK",
+    "Public Health",
+    "Maritime"
+  ]
+}

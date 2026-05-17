@@ -1,0 +1,24 @@
+{
+  "slug": "st-40f92ca61a52",
+  "id": "ST-669FCCB0D0F4",
+  "time": "2026-05-15T22:04:36.729569+00:00",
+  "title": "The Blockade That Isn't: AIS Data vs. the 'Noose Tightening' Narrative",
+  "narrative": "The White House and US military officials have declared the Strait of Hormuz naval operation a success \u2014 turning away 58 commercial ships and 'effectively' blockading Iranian port access. Trump called it 'tightening the noose' and Pentagon briefers claim Iranian oil exports have 'collapsed.' The official story is one of strategic pressure working.",
+  "telemetry": [
+    "NYT (May 9): US Navy turned away 58 ships \u2014 but Guardian reporting and live ship-tracking shows multiple vessels slipping through, including Malta-flagged VLCC Agios Fanourios I that defied US orders and continued to Iranian ports",
+    "Reuters (April 23): Iran seized a vessel on video, directly flaunting US naval presence and contradicting the 'blockade working' framing",
+    "Guardian (May 4): 850+ ships trapped in the Gulf since the February 28 attack; shipping bosses describe the US 'vessel guidance' program as chaotic and ineffective",
+    "Multiple AIS tracking accounts on X: ships actively broadcasting destination as Iranian ports despite US 'blockade' \u2014 AIS is independently verifiable, not self-reported",
+    "Trump himself paused the vessel guidance program to 'finalize an Iran deal' \u2014 an admission that the blockade posture was a bargaining chip, not a facts-on-the-ground success",
+    "Tanker tracking via Marine Traffic: VLCCs with Iranian destination codes continuing normal transit routes through the Strait"
+  ],
+  "analysis": "The 58-ships-turned-away figure is the number the Pentagon briefed. The AIS data is what ships actually did. Those are different datasets with different\u6492\u8c0e incentives. The Pentagon narrative has a 'success' interest. A VLCC captain has a financial incentive to report his actual destination honestly to port authorities. When those two datasets contradict, the AIS record is the more reliable one \u2014 it's not a press release. The '850 ships trapped' number is also doing significant work in the official narrative (making the blockade look comprehensive) while simultaneously undercutting it (if 850 ships are stuck, that's a commercial shipping crisis being ignored in favor of victory spinning). Trump pausing the guidance program to negotiate an Iran deal is the tell: the blockade was leverage for a deal, not an achieved outcome. You don't pause a winning strategy to make a deal.",
+  "verdict": "[SIPHONED VERDICT]: The 'blockade' is a press release. The ships AIS shows are still moving. The 58-turned-away is a milestone in a negotiation, not a military success.",
+  "tags": [
+    "OSINT",
+    "Maritime",
+    "Iran",
+    "Hormuz"
+  ],
+  "kanban_task": "t_98893553"
+}
