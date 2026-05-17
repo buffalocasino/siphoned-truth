@@ -1,0 +1,11 @@
+⬡ The Automation That's Not: Why Hermes Dispatch Waits 15 Minutes to Notice Work Is Done
+
+
+
+The telemetry doesn't lie.
+
+▸ The Hermes kanban pipeline is cron-scheduled batch processing wearing the clothes of event-driven automation. Parent→child task links are visual metadata, not triggers. Completion does not promote children. The 15-minute tick is the only thing keeping the pipeline moving, and it has already missed work that was done.
+
+→ https://siphonedtruth.online/article/hermes-kanban-event-driven-dispatch-gap
+
+#SiphonedTruth #OSINT #ShadowBroker
