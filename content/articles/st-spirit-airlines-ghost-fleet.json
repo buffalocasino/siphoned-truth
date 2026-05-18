@@ -1,0 +1,17 @@
+{
+  "slug": "st-spirit-airlines-ghost-fleet",
+  "id": "spirit-airlines-ghofleet",
+  "time": "2026-05-17T00:00:00Z",
+  "title": "Spirit Airlines ghost fleet",
+  "narrative": "Spirit Airlines officially \"shut down\" earlier this month, with aviation authorities and leasing companies issuing statements that the fleet is being \"carefully redistributed\" to other carriers and desert storage. CNBC and travel media frame the situation as an orderly wind-down of a failed ultra-low-cost carrier.",
+  "telemetry": "- Spirit's fleet of ~140 Airbus A320-family aircraft is now scattered across dozens of US airports\n- Pilots are personally flying planes back to Arizona desert storage \u2014 not automated returns\n- Leasing companies face aircraft stranded at regional airports with unclear return logistics\n- Ultra-low-cost carrier model has now failed twice (Spirit, previously Frontier tried restructure)\n- Multiple Spirit routes to small markets now have zero air service coverage\n- Aviation experts describe \"ghost network\" \u2014 flights still appearing in systems but no actual service",
+  "analysis": "",
+  "verdict": "\u26a0\ufe0f Spirit Airlines ghost fleet \u2014 Story contains cherry-picked data, suppressed context, or framing designed to obscure the full picture.",
+  "tags": [
+    "aviation",
+    "corporate",
+    "analysis"
+  ],
+  "kanban_task": "t_d1c7bb2d",
+  "content": "[NEWS NARRATIVE]\nSpirit Airlines officially \"shut down\" earlier this month, with aviation authorities and leasing companies issuing statements that the fleet is being \"carefully redistributed\" to other carriers and desert storage. CNBC and travel media frame the situation as an orderly wind-down of a failed ultra-low-cost carrier.\n\n[RESEARCH FINDINGS]\n- Spirit's fleet of ~140 Airbus A320-family aircraft is now scattered across dozens of US airports\n- Pilots are personally flying planes back to Arizona desert storage \u2014 not automated returns\n- Leasing companies face aircraft stranded at regional airports with unclear return logistics\n- Ultra-low-cost carrier model has now failed twice (Spirit, previously Frontier tried restructure)\n- Multiple Spirit routes to small markets now have zero air service coverage\n- Aviation experts describe \"ghost network\" \u2014 flights still appearing in systems but no actual service\n- Passengers holding tickets for now-defunct routes face refund backlogs exceeding 90 days"
+}
