@@ -1,25 +1,28 @@
 {
   "id": "strait-of-hormuz-shipping-collapse-2026",
   "slug": "strait-of-hormuz-shipping-collapse-2026",
+  "time": "2026-05-18T04:21:27.809180+00:00",
   "title": "The Strait That Isn't: How Iranian 'Shipping Management' Collapsed Real Traffic by 90%+ While Claiming Control",
-  "category": "maritime",
-  "narrative": "Al Jazeera reports Iran is \"managing shipping\" through the Strait of Hormuz, framing its presence as orderly control of a strategic waterway. Iranian officials claim commercial traffic is functioning normally under their oversight. Pentagon and US State Department statements say the strait remains \"open\" while deploying additional carrier groups. The gap between that narrative and the data on the water is the story.",
-  "findings": [
-    "AIS satellite data shows shipping traffic collapsed 87-97% since February 2026, from ~175 daily transits to just 6-22 vessels",
+  "narrative": "Al Jazeera reports Iran is \"managing shipping\" through the Strait of Hormuz, framing its presence as orderly control of a strategic waterway. Iranian officials claim commercial traffic is functioning normally under their oversight. Pentagon and US State Department statements say the strait remains \"open\" while deploying additional carrier groups. The public narrative: Iran is in control, commerce flows, the situation is managed.",
+  "telemetry": [
+    "AIS satellite data shows shipping traffic collapsed 87-97% since February 2026 (from ~175 daily transits to 6-22)",
     "UK Maritime Trade Operations (UKMTO) confirms \"extremely limited\" commercial traffic with only 3 confirmed transits",
-    "62 vessels identified as exhibiting AIS spoofing \u2014 transmitting false positions to disguise actual movements",
-    "Multiple tanker attacks documented in May 2026; US Navy engaged Iranian tankers on May 8",
-    "LinkedIn maritime analysis notes AIS data may be \"missing half the picture\" \u2014 actual traffic could be even lower",
+    "62 vessels identified as exhibiting AIS spoofing \u2014 transmitting false positions to disguise movements",
+    "Multiple tanker attacks documented in May 2026; US Navy engaged Iranian tankers May 8",
+    "LinkedIn analysis notes AIS data may be \"missing half the picture\" \u2014 actual traffic could be even lower",
     "Insurance premiums for Hormuz transit have reportedly spiked 400%+"
   ],
-  "verdict": "[SIPHONED VERDICT]: Iran's \"shipping management\" operation has functionally closed the Strait of Hormuz to legitimate commercial traffic. The 87-97% traffic collapse isn't a coincidence \u2014 it's the point. Tehran's \"open\" claim is not merely spin; it's a lie documented in satellite data, naval records, and the insurers' spreadsheets. The US framing of \"open but carrier-enhanced\" is a verbal hedge masking an operational reality neither side wants to name.",
-  "published_at": "2026-05-17T15:32:19.027257Z",
+  "analysis": "Iran says it's managing the strait. The AIS data says otherwise \u2014 87 to 97 percent of normal traffic is gone. Three confirmed transits in a waterway that normally handles 175 a day is not a managed shipping corridor. It's a blockade with better PR. The 62 vessels running AIS spoofing is the most telling detail: ships aren't just avoiding the strait, they're hiding their movements even from the satellite tracking systems that commercial shipping depends on. That's not confidence in a functioning waterway. That's fear of being targeted.",
+  "verdict": "[SIPHONED VERDICT]: Iran's 'shipping management' is a fiction that doesn't survive contact with AIS data. Traffic has collapsed by up to 97 percent. The Strait of Hormuz is not open for normal commerce \u2014 it hasn't been since February 2026. The gap between Tehran's framing and the satellite data is not a communication problem. It's the gap between a claim and a fact. Insurance premiums spiking 400 percent tells you what the market thinks about Iran's 'management.'",
   "tags": [
     "Iran",
     "Hormuz",
-    "OSINT",
     "AIS",
     "Maritime",
-    "Sanctions"
-  ]
+    "Shipping",
+    "Sanctions",
+    "OSINT",
+    "Strait of Hormuz"
+  ],
+  "kanban_task": "t_a3bef908"
 }
