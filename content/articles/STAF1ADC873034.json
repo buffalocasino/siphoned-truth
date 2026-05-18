@@ -1,0 +1,18 @@
+{
+  "slug": "st-af1adc873034",
+  "id": "STAF1ADC873034",
+  "time": "2026-05-18T22:07:10Z",
+  "title": "Sanctions relief \u2014 US claims humanity while tankers keep pumping",
+  "narrative": "US officials claimed the temporary sanctions lifts on Iranian and Russian oil were 'targeted,' 'humane,' and designed purely to calm market prices. The administration framed it as humanitarian concern for global energy costs while asserting the war effort continues. Treasury issued one-month 'at sea' licenses claiming this was a limited, reversible measure. The gap between the stated humanitarian rationale and the mechanics of the waivers \u2014 covering the same state-owned vessels previously sanctioned, bypassing the SWIFT-cutoff mechanism \u2014 suggests the sanctions regime has functionally collapsed.",
+  "telemetry": [
+    "US temporarily lifted sanctions on Iranian oil AT SEA (March 2026) and subsequently Russian oil",
+    "Treasury authorized purchases of Iranian oil already loaded \u2014 bypassing SWIFT-cutoff mechanism",
+    "Waivers covered the same state-owned NIOC vessels previously sanctioned",
+    "Oil prices continued to soar \u2014 NY Times/Guardian coverage \u2014 suggesting either volumes too small to matter, or waivers were already being gamed",
+    "Sanctioned tanker fleet AIS data: would show whether vessels went dark (indicating continued ops under new cover) or identity laundering",
+    "US asks allies to maintain sanctions pressure while issuing waivers that effectively finance the same regimes"
+  ],
+  "analysis": "The humanitarian framing is incoherent against the license scope. If the goal was humanitarian market relief, the waivers would be structured differently \u2014 volume-limited, time-limited, end-user restricted. Instead they cover state-owned vessels, bypass the primary sanctions pressure mechanism (SWIFT), and enable continued oil flow from the exact same sources that were sanctioned. The administration knows this. The gap between the stated rationale and the actual text of the licenses suggests the 'humanitarian' framing is for public consumption.",
+  "verdict": "[SIPHONED VERDICT]: The waivers functionally gut the sanctions architecture while the press statement maintains the form. This isn't incompetent administration of a sanctions regime \u2014 it's a sanctions regime that was designed to be partially waivers from the start.",
+  "kanban_task": "t_36b3af2c"
+}
