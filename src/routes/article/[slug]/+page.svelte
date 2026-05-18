@@ -222,9 +222,6 @@
 		border-left: 3px solid #ff4444;
 		padding-left: 1.5rem;
 		margin: 0;
-	}
-
-	.verdict p {
 		font-size: 1.05rem;
 		color: #ff4444;
 		font-weight: 400;
