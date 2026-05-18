@@ -1,0 +1,19 @@
+{
+  "slug": "st-f3dd46b30411",
+  "id": "STF3DD46B30411",
+  "time": "2026-05-18T22:07:10Z",
+  "title": "US SPR emergency drawdown \u2014 the dual-track depletion running in parallel",
+  "narrative": "The Department of Energy states the Strategic Petroleum Reserve is functioning as designed and can meet US obligations under IEA agreements. Administration officials say the SPR drawdown is a planned market stabilization measure and does not indicate a supply emergency. EIA data tells a more complicated story: SPR stocks at 397.9 million barrels, down from approximately 715 million barrels of capacity. The DOE is simultaneously running two separate depletion mechanisms \u2014 a direct release program and a loan program \u2014 while the IEA replenishment obligation creates a political and fiscal problem that no one in the administration is being asked to answer for.",
+  "telemetry": [
+    "EIA (April 2026): SPR stocks at 397.9 million barrels \u2014 approximately 56% of capacity",
+    "DOE direct release: 17.5 million barrels authorized",
+    "DOE loan program: offering to loan companies up to 92.5 million barrels additional (April 30 solicitation)",
+    "Total authorized depletion: 172 million barrels across both mechanisms",
+    "Maximum drawdown capability: 4.4 million barrels per day \u2014 one of the fastest depletion rates in history",
+    "IEA minimum stockholding obligations: require replenishment \u2014 current draw pace makes that politically difficult",
+    "Market context: oil prices soaring per multiple analyses \u2014 the 'stabilization' framing not matching market reality"
+  ],
+  "analysis": "The dual-track depletion \u2014 direct release plus loan program running simultaneously \u2014 doesn't look like tactical stabilization. Tactical stabilization has a trigger and an exit. The parallel operation of two separate depletion mechanisms, combined with an IEA replenishment obligation that creates a future fiscal cliff (oil released now must be bought back at market price later), suggests structural depletion rather than tactical management.",
+  "verdict": "[SIPHONED VERDICT]: At what price does the cost of replenishing the SPR exceed the political benefit of the current drawdown? No one in the administration is answering that question \u2014 because the answer depends on how high prices go before the IEA obligation comes due.",
+  "kanban_task": "t_c280ceb1a861"
+}
