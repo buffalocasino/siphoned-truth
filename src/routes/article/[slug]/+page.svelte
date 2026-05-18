@@ -3,8 +3,8 @@
 
 	let { data }: { data: PageData } = $props();
 
-	const article = data.article;
-	const narrative = (article.narrative ?? article.article_body ?? article.content ?? article.summary ?? '').toString();
+	const article = $derived(data.article);
+	const narrative = $derived((article.narrative ?? article.article_body ?? article.content ?? article.summary ?? '').toString());
 	const getText = (field: string | undefined) => field ?? '';
 </script>
 
