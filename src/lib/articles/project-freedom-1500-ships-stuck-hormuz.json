@@ -1,30 +1,29 @@
 {
+  "id": "project-freedom-1500-ships-stuck-hormuz",
   "slug": "project-freedom-1500-ships-stuck-hormuz",
-  "id": "ST-PROJECT-FREEDOM-20260517",
-  "time": "2026-05-18T02:36:53.211008+00:00",
+  "time": "2026-05-18T04:18:26.502741+00:00",
   "title": "Project Freedom: 1,500 Ships Stuck, 2 Cleared, One 'Dome'",
-  "narrative": "The Pentagon and Trump administration claim 'Project Freedom' has cleared a safe shipping lane through the Strait of Hormuz. Defense Secretary Pete Hegseth called the US military presence a 'red, white and blue dome' protecting commerce. Joint Chiefs Chairman Gen. Dan Caine said the lane is clear and attacks 'do not meet the threshold' of violating the ceasefire. The public message: the US has opened the waterway and commerce can resume. The physical evidence: 1,500 ships remain stuck in the Persian Gulf, including approximately 1,000 large ocean-going vessels. Only 2 US-flag ships crossed on the first day. Iran publicly states it still controls the strait and non-approved routes will face 'decisive response.' The Pentagon's own logic \u2014 attacks don't meet the ceasefire-violation threshold \u2014 is an Orwellian redefinition: ongoing attacks are reframed as non-violations because they do not cross a threshold the US unilaterally set. European allies refuse to participate until a 'permanent ceasefire' \u2014 an open-ended condition Iran controls. Brent crude at $109/barrel, up 44% since the war began.",
+  "narrative": "The Pentagon and Trump administration claim \"Project Freedom\" has cleared a safe shipping lane through the Strait of Hormuz. Defense Secretary Pete Hegseth called the US military presence a \"red, white and blue dome\" protecting commerce. Joint Chiefs Chairman Gen. Dan Caine said the lane is clear and attacks \"do not meet the threshold\" of violating the ceasefire. The public message: the US has opened the waterway and commerce can resume.",
   "telemetry": [
-    "Only 2 US-flag ships crossed the Strait of Hormuz on the first day of the so-called 'cleared lane' \u2014 the operational reality against the administration's announcement.",
-    "~1,500 ships remain stuck in the Persian Gulf, including ~1,000 large ocean-going vessels, waiting for conditions that have not materialized.",
-    "Iran publicly states it still controls the strait and non-approved routes will face 'decisive response' \u2014 directly contradicting the Pentagon's 'open' narrative.",
-    "The Pentagon's framing \u2014 attacks don't meet the ceasefire-violation threshold \u2014 is a unilateral redefinition of what counts as a violation: ongoing physical attacks are reframed as non-violations.",
-    "European allies (UK, France) refuse to participate in the 'Project Freedom' corridor until a 'permanent ceasefire' \u2014 an open-ended condition Iran effectively controls.",
-    "Brent crude at $109/barrel, up 44% since the war began; WTI at $105 \u2014 oil price gains happened the same week Trump's rhetoric 'dented hopes' of a Hormuz deal, not after a commercial corridor opened."
+    "Only 2 US-flag ships crossed the Strait on the first day of the so-called 'cleared lane'",
+    "~1,500 ships remain stuck in the Persian Gulf, including ~1,000 large ocean-going vessels",
+    "Iran publicly states it still controls the strait and non-approved routes will face \"decisive response\"",
+    "Pentagon's own framing: attacks don't meet the ceasefire-violation threshold \u2014 redefining ongoing attacks as non-violations",
+    "European allies (UK, France) refuse to participate until a \"permanent ceasefire\" \u2014 an open-ended condition Iran controls",
+    "Brent crude at $109/barrel, up 44% since the war began; WTI at $105",
+    "Oil price gains happened the same week Trump's rhetoric 'dented hopes' of a Hormuz deal"
   ],
-  "verdict": "[SIPHONED VERDICT]: The administration says the lane is open. The evidence says otherwise. 1,500 ships versus 2 ships cleared, Iran's ongoing claim of strait control, European refusal to participate, and oil prices that moved on war rhetoric \u2014 not on the announcement of a cleared corridor \u2014 tell a consistent physical story: the Strait of Hormuz is not functioning as an open waterway. 'Project Freedom' is a political narrative layered over an operational reality that has not changed.",
-  "confidence": "HIGH",
+  "analysis": "The administration says the lane is open. The evidence says otherwise \u2014 and not by a little. Two ships on day one against 1,500 stuck is not a lane clearing; it's a photo op. The Pentagon's 'attacks don't meet the threshold' framing is doing real work here: it's redefining an ongoing attack on commercial shipping as something that doesn't count, so the official claim of success can survive the physical evidence of failure. Hegseth's dome metaphor is marketing, not strategy.",
+  "verdict": "[SIPHONED VERDICT]: Project Freedom is a lane in name only. The Strait of Hormuz is not open for normal commerce. 1,500 ships know it. The oil markets know it. Brent at $109/barrel is the clearest signal \u2014 if the strait were truly clear, the war risk premium would be collapsing. It's not. The administration is selling a narrative about victory while the actual outcome \u2014 blocked waterway, spiking energy prices, zero commercial confidence \u2014 stays hidden in plain sight.",
   "tags": [
-    "project-freedom",
-    "hormuz",
-    "pentagon",
-    "shipping",
-    "ceasefire",
-    "oil"
+    "Hormuz",
+    "Project Freedom",
+    "US Navy",
+    "Iran",
+    "Oil",
+    "Pentagon",
+    "Shipping",
+    "Ceasefire"
   ],
-  "sources": [
-    "UKMTO Reports",
-    "Brent Crude Market Data 2026",
-    "Pentagon Briefings May 2026"
-  ]
+  "kanban_task": "t_0000020c"
 }

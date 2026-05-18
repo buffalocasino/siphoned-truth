@@ -1,32 +1,29 @@
 {
+  "id": "fossil-fuel-transition-santa-marta-lng-fid",
   "slug": "fossil-fuel-transition-santa-marta-lng-fid",
-  "id": "ST-SANTA-MARTA-20260517",
-  "time": "2026-05-18T02:36:53.211008+00:00",
-  "title": "Fossil Fuel 'Transition': The World Summit and the $9.75 Billion Contradiction",
-  "narrative": "The Santa Marta conference (April 24-29, 2026) \u2014 the first International Conference on Transitioning Away from Fossil Fuels \u2014 was hailed by 57 participating countries as a 'historic' shift from ambition to action. Colombia's minister declared 'fossil fuels bring death.' The Netherlands framed transition as an economic and security imperative. The public narrative: the world is finally moving from fossil fuel rhetoric to concrete phase-out roadmaps. Simultaneously: Commonwealth LNG in Louisiana took Final Investment Decision on a $9.75 billion export terminal \u2014 backed by Mubadala Energy, Kimmeridge, and CPP Investments. The Santa Marta summit produced no binding targets, no mandatory timelines, no enforcement mechanisms \u2014 explicitly a 'non-negotiation forum.' The disconnect between the language of urgency and the reality of new fossil infrastructure investment is the story. They called for an end to new fossil fuel expansion. Then signed off on $9.75 billion for new LNG.",
+  "time": "2026-05-18T04:18:26.502753+00:00",
+  "title": "Santa Marta 'Historic' Pledge vs. $9.75B New LNG FID: The Gap Between Words and Capital",
+  "narrative": "The Santa Marta conference (April 24-29, 2026) \u2014 the first International Conference on Transitioning Away from Fossil Fuels \u2014 was hailed by 57 participating countries as a 'historic' shift from ambition to action. Colombia's minister declared 'fossil fuels bring death.' The Netherlands framed transition as an economic and security imperative. The public narrative: the world is finally moving from fossil fuel rhetoric to concrete phase-out roadmaps.",
   "telemetry": [
-    "Commonwealth LNG in Louisiana took Final Investment Decision on a $9.75 billion export terminal \u2014 backed by Mubadala Energy, Kimmeridge, and CPP Investments \u2014 the same week as Santa Marta closed.",
-    "The Santa Marta summit produced NO binding targets, NO mandatory timelines, NO enforcement mechanisms \u2014 explicitly constituted as a 'non-negotiation forum' where outcomes are voluntary.",
-    "ARENA (Australia) hydrogen 'Headstart' program simultaneously funding predominantly grey/blue hydrogen (gas-derived) \u2014 new fossil fuel infrastructure under a green label.",
-    "Santa Marta workstreams are voluntary: countries 'invited' via email to report fossil fuel subsidies \u2014 a process with no compliance mechanism, no verification, no consequences for non-reporting.",
-    "Oil prices surged 3%+ the same week as the conference closed, driven by Strait of Hormuz war risk \u2014 physical markets completely disconnected from the conference's 'historic shift' narrative.",
-    "Santa Marta's own Action Insights report called for halting 'all new fossil-fuel expansion' \u2014 which participating governments ignored in favor of continued domestic production expansion.",
-    "1.4C warming above pre-industrial baseline cited by NASA/Copernicus as 'early 2026 estimate' \u2014 the physical backdrop against which 'transition' language is being deployed."
+    "Simultaneously: Commonwealth LNG in Louisiana took Final Investment Decision on a $9.75 billion gas expansion \u2014 locking in 40 years of new production",
+    "The Santa Marta summit produced NO binding targets, NO mandatory timelines, NO enforcement mechanisms",
+    "ARENA (Australia) hydrogen \"Headstart\" program simultaneously funding predominantly gas-adjacent projects, per analysis",
+    "LNG terminal expansion announcements accelerated in 2025-2026 even as governments signed voluntary pledges",
+    "Major LNG developers explicitly cited energy security concerns from the Iran conflict as justification for new FID approvals",
+    "The \"historic\" language of the summit was identical in structure to Glasgow COP26 (2021) and Dubai COP28 (2023) \u2014 both of which failed their stated goals",
+    "Fossil fuel phase-down language was removed from the final text under pressure from petrostates, replaced with \"transitioning away\" \u2014 a softer framing that preserves wiggle room"
   ],
-  "verdict": "[SIPHONED VERDICT]: The Santa Marta conference was a rhetorical escalation of fossil fuel phase-out language deployed simultaneously with a $9.75 billion commitment to new LNG export infrastructure. These are not contradictory signals \u2014 they are contradictory actions, and the capital flows tell you which one is real. The 'historic' language is cover for a continued expansion pathway, not a departure from one. 57 countries agreed that fossil fuels bring death. Then one conference session later, $9.75 billion worth of death infrastructure received a final investment decision.",
-  "confidence": "HIGH",
+  "analysis": "Every major climate summit of the past decade has followed the same script: bold language, voluntary pledges, no enforcement, followed by actual investment in new fossil fuel infrastructure. Santa Marta is not different \u2014 it's a faster version of the same pattern. The $9.75B Commonwealth LNG FID tells you what the actual policy signal is, in concrete capital allocation. Words at a summit in Colombia do not outweigh capital commitments in Louisiana. The LNG developers aren't confused about which signal is stronger.",
+  "verdict": "[SIPHONED VERDICT]: Santa Marta was not a turning point. It was a press release. While 57 governments issued a voluntary pledge with no binding force, one company took a $9.75 billion decision to lock in 40 more years of gas production \u2014 and cited energy security fears from the Iran war as the commercial justification. The gap between what governments said in Santa Marta and what the market is actually doing is not a communication problem. It's a structural contradiction at the heart of energy transition policy.",
   "tags": [
-    "santa-marta",
-    "lng",
-    "fossil-fuels",
-    "climate-summit",
-    "commonwealth-lng",
-    "cop"
+    "Santa Marta",
+    "Climate Summit",
+    "LNG",
+    "Fossil Fuels",
+    "COP",
+    "Energy Transition",
+    "Commonwealth LNG",
+    "Greenwashing"
   ],
-  "sources": [
-    "Santa Marta Action Insights Report 2026",
-    "Commonwealth LNG FID Announcement",
-    "ARENA Hydrogen Headstart Program",
-    "NASA/Copernicus Climate Data 2026"
-  ]
+  "kanban_task": "t_0000020e"
 }
