@@ -1,0 +1,29 @@
+{
+  "slug": "st-santamartasummithistoricpledgelngfid975b",
+  "id": "t_0000020e",
+  "title": "Fossil Fuel Transition: The World Summit and the $9.75 Billion Contradiction",
+  "narrative": "The Santa Marta conference (April 24-29, 2026) \u2014 billed as the first International Conference on Transitioning Away from Fossil Fuels \u2014 closed with declarations from 57 participating countries calling it a historic shift from ambition to action. Colombia's minister declared that fossil fuels bring death. The Netherlands framed the transition as an economic and security imperative. The public narrative: the world is finally moving from fossil fuel rhetoric to concrete phase-out roadmaps.\n\nThree weeks later, Commonwealth LNG in Louisiana took Final Investment Decision on a $9.75 billion export terminal. The project is backed by Mubadala Energy, Kimmeridge, and CPP Investments. The terminal will process liquefied natural gas for export to global markets.\n\nThese two events are not contradictory in the way that policy often contradicts practice \u2014 where a pledge is made and then not kept through lack of effort. Here, the capital commitment was made simultaneously. The summit produced no binding targets, no mandatory timelines, and no enforcement mechanisms. It was explicitly structured as a non-negotiation forum. The conference's own Action Insights report called for halting all new fossil fuel expansion. Forty-eight hours after the final session, $9.75 billion in new LNG infrastructure received its final approval.\n\nSanta Marta called for an end to new fossil fuel expansion. The market responded with $9.75 billion in new LNG infrastructure. The gap between those two facts is not a communication failure \u2014 it is the capital market's actual response to a voluntary, non-binding process.",
+  "analysis": "The Santa Marta conference was designed to produce language, not commitments. That is not a criticism \u2014 it is the explicit design.\n\nThe conference was structured as a non-negotiation forum. Workstreams were voluntary. Countries were invited via email to report their fossil fuel subsidies. There were no binding targets, no mandatory timelines, no enforcement mechanisms. What the conference produced was a vocabulary upgrade: phase-out replacing phase-down, fossil fuels bring death replacing transitioning away from fossil fuels. The language escalated. The capital did not follow.\n\nSimultaneously, Commonwealth LNG closed its $9.75 billion FID. This is not a planned project receiving initial approval \u2014 it is a final commitment, the point at which capital is actually deployed. The gap between the scale of the Santa Marta language and the scale of the Commonwealth LNG commitment is roughly $10 billion and one week.\n\nThe Australian ARENA hydrogen Headstart program is funding predominantly grey and blue hydrogen \u2014 gas-derived hydrogen with carbon capture, not green hydrogen from renewables. The conference called for green hydrogen scale-up. The funding is going to a bridge fuel that extends gas infrastructure lifetimes.\n\nSanta Marta's own Action Insights report found that governments were already ignoring its early recommendations on halting new fossil fuel expansion. That report was published before the conference closed. The $9.75 billion FID arrived before the final press release. The contradiction is not sequential \u2014 it is simultaneous.",
+  "verdict": "Santa Marta called for an end to new fossil fuel expansion. Then signed off on $9.75 billion for new LNG. The summit produced language; the market produced capital. The gap between the two is the story \u2014 and the capital is real.",
+  "telemetry": [
+    "Commonwealth LNG FID: $9.75 billion, Louisiana export terminal \u2014 backed by Mubadala Energy, Kimmeridge, CPP Investments; FID locked during same week Santa Marta closed",
+    "Santa Marta produced: 0 binding targets, 0 mandatory timelines, 0 enforcement mechanisms \u2014 explicitly a non-negotiation forum per conference framing",
+    "57 countries signed the Santa Marta declaration; 0 submitted mandatory phase-out schedules",
+    "Brent crude surged 3%+ the same week as Santa Marta closed \u2014 driven by Hormuz war risk premium, not by transition investment signals",
+    "ARENA (Australia) hydrogen Headstart program: funding predominantly grey/blue hydrogen (gas-derived), not green \u2014 conference called for green hydrogen scale-up",
+    "1.4C warming above pre-industrial baseline cited by NASA/Copernicus as early 2026 estimate \u2014 conference's own science context exceeded its policy ambition"
+  ],
+  "category": "climate",
+  "tags": [
+    "#SantaMarta",
+    "#LNG",
+    "#Climate",
+    "#FossilFuels",
+    "#CommonwealthLNG",
+    "#EnergyTransition",
+    "#NetZero",
+    "#COP",
+    "#ClimateSummit",
+    "#Mubadala"
+  ]
+}

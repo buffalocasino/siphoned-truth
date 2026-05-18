@@ -1,0 +1,28 @@
+{
+  "slug": "st-projectfreedom1500shipsstuck2cleared",
+  "id": "t_0000020c",
+  "title": "Project Freedom: 1,500 Ships Stuck, 2 Cleared, One 'Dome'",
+  "narrative": "The Pentagon and Trump administration claim \"Project Freedom\" has cleared a safe shipping lane through the Strait of Hormuz. Defense Secretary Pete Hegseth called the US military presence a \"red, white and blue dome\" protecting commerce. Joint Chiefs Chairman Gen. Dan Caine said the lane is clear and attacks \"do not meet the threshold\" of violating the ceasefire. The public message: the US has opened the waterway and commerce can resume.\n\nThe physical reality tells a different story.\n\nOn the first day of the so-called \"cleared lane,\" exactly two US-flag ships crossed the Strait. Approximately 1,500 ships remain stuck in the Persian Gulf, including roughly 1,000 large ocean-going vessels. Iran publicly states it still controls the strait and that non-approved routes will face \"decisive response.\" The gap between the administration's announcement and the operational facts on the water is not a communication problem \u2014 it is the story.\n\nBrent crude closed the week at $109/barrel, up 44% since the war began. The oil price moves tell you everything the press release doesn't: markets do not believe the lane is clear. The administration is not managing a reopened shipping corridor. It is managing a narrative about a reopened shipping corridor while 1,500 vessels wait for a reality that hasn't arrived.",
+  "analysis": "The gap between the operational claim and the physical reality is measurable, and it runs in only one direction.\n\nProject Freedom's core promise \u2014 a cleared lane through which commerce can flow \u2014 requires ships to actually use it. Two crossings on day one against 1,500 waiting vessels is not a soft opening. It is a demonstration that the conditions for safe passage have not been met, regardless of what the Joint Chiefs chairman says about thresholds.\n\nThe ceasefire redefinition is worth examining on its own terms. \"Attacks do not meet the threshold\" of ceasefire violations is not a statement about facts \u2014 it is a statement about criteria. The criteria are being set by the same administration that announced the lane was open. Attacks continue; the definition of what counts as an attack just changed. This is not how military operations are reported. It is how political outcomes are constructed from ongoing facts.\n\nEuropean allies \u2014 the UK and France \u2014 have refused to participate until a \"permanent ceasefire\" is in place. That condition is not set by the US or its allies. It is set by Iran, which controls the strait's actual operational status. The lane exists on a map. The water remains contested.",
+  "verdict": "Project Freedom is a narrative solution to a physical problem. Two ships crossed; 1,500 did not. Brent crude at $109/barrel is the market's verdict. The dome is an announcement. The lane is a press release. The 1,500 ships still waiting are the data.",
+  "telemetry": [
+    "Brent crude: $109/barrel, up 44% since Iran war began \u2014 rate of change accelerating in same week administration announced lane was open",
+    "WTI: $105/barrel \u2014 highest since 2022, with no clear path lower given continued Hormuz instability",
+    "Tanker futures for June delivery trading at 18% premium to spot \u2014 market pricing in sustained disruption, not a cleared lane",
+    "1,500 vessels anchored off Persian Gulf per Marine Traffic data, vs. 2 US-flag crossings on Project Freedom day one",
+    "Lloyd's of London added Hormuz war risk premium to all Gulf transits week of May 12 \u2014 same week as lane cleared announcement"
+  ],
+  "category": "geopolitics",
+  "tags": [
+    "#ProjectFreedom",
+    "#Hormuz",
+    "#Iran",
+    "#OilPrices",
+    "#Pentagon",
+    "#Shipping",
+    "#MiddleEast",
+    "#Ceasefire",
+    "#Energy",
+    "#BrentCrude"
+  ]
+}

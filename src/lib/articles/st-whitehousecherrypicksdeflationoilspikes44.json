@@ -1,0 +1,30 @@
+{
+  "slug": "st-whitehousecherrypicksdeflationoilspikes44",
+  "id": "t_0000020d",
+  "title": "The Three Price Drops the White House Cited vs. The One That Matters",
+  "narrative": "White House spokesperson Kush Desai stated on May 12 that the American economy remains on a solid trajectory, pointing to cooling core inflation and prices of beef, dairy, eggs, and prescription drugs actually declining thanks to the President's policies. Trump predicted that same day that inflation would drop as soon as the Iran war ends. The public narrative: the war's economic damage is contained and temporary, and the administration deserves credit for cooling prices.\n\nThe administration found deflation in three food categories. It declined to mention the one data point that connects every other economic variable.\n\nBrent crude is up 44% since the war began. US gasoline is averaging $4.06/gallon. The pre-war baseline was $2.98. That 36% increase at the pump is not a soft indicator \u2014 it is the most politically visible price in the American economy, and it is moving in the opposite direction of the administration's narrative.\n\nDallas Fed research projects the Iran war could add between 0.2 and 1.8 percentage points to Q4/Q4 headline inflation in 2026. EY-Parthenon estimates a 0.3 percentage point drag on GDP, cutting growth to 1.8% versus 2.1% in 2025. Mark Zandi of Moody's Analytics put it plainly: the damage has already been done, in part because there's no going back on oil prices, at least not any time in the near future.\n\nThe administration cited beef, dairy, and eggs. Energy is not a category it can cherry-pick away from CPI \u2014 it is a category that runs through every other category.",
+  "analysis": "Cherry-picking within a data release is not new. What is notable here is the specificity of the selection and the simultaneity of the ignored variable.\n\nDesai cited three categories that are deflating: beef, dairy, eggs. These are categories with high price elasticity and domestic supply chains relatively insulated from global oil markets. They are also categories where seasonal supply factors \u2014 not policy \u2014 are the dominant price driver. Dairy prices fell because of a supply glut in the first quarter. Beef prices fell because of herd liquidation. These are not the results of administration policy, but they are easy to describe as such.\n\nThe category the White House did not cite is the one that connects this inflation event to its cause: energy. Brent crude at $105/barrel is not a domestic policy outcome. It is the direct result of a specific geopolitical event \u2014 the Iran war \u2014 and a specific policy choice \u2014 the withdrawal from the nuclear framework that kept Iranian oil flowing. The administration cannot simultaneously claim credit for food price movements driven by supply cycles and disclaim ownership of energy prices driven by its own foreign policy decisions.\n\nThe Fed's preferred inflation gauge \u2014 PCE \u2014 is tracking toward 4% by year-end. That is double the Fed's 2% target. The White House is managing a narrative around an externally-caused, structurally embedded inflation event by citing three categories that moved for reasons unrelated to the war and unrelated to its own policies.",
+  "verdict": "The White House found deflation in beef, dairy, and eggs. It declined to mention Brent crude up 44%, gas at $4.06, or PCE tracking to 4%. The three price drops the administration cited are real. So is the one it didn't. The gap between those two facts is the gap between narrative management and economic reality \u2014 and the gap is growing.",
+  "telemetry": [
+    "Brent crude: $105/barrel, up 44% since Iran war began \u2014 the single variable the White House did not cite in its inflation press briefing",
+    "US gasoline: $4.06/gallon average, vs. $2.98 pre-war \u2014 36% increase at the pump, the most visible consumer price in America",
+    "CPI reached 3.3% in March \u2014 highest since May 2024; PCE tracking toward 4% by year-end, double the Fed's 2% target",
+    "Dallas Fed research: Iran war adds 0.2 to 1.8 percentage points to Q4/Q4 headline inflation in 2026",
+    "EY-Parthenon: GDP drag of 0.3 percentage points, cutting 2026 growth to 1.8% vs 2.1% in 2025",
+    "Mark Zandi (Moody's): the damage has already been done on oil prices \u2014 administration's own cited economist contradicts the 'temporary' framing",
+    "IEA: Global natural gas supplies to remain tight for two years due to Iran conflict \u2014 structural constraint, not temporary shock"
+  ],
+  "category": "economics",
+  "tags": [
+    "#Inflation",
+    "#WhiteHouse",
+    "#CPI",
+    "#OilPrices",
+    "#IranWar",
+    "#Energy",
+    "#FederalReserve",
+    "#PCE",
+    "#GasPrices",
+    "#CherryPicking"
+  ]
+}
