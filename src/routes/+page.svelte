@@ -80,13 +80,6 @@
 		margin-bottom: 2rem;
 	}
 
-	.logo {
-		font-size: 0.7rem;
-		color: #00ff8888;
-		letter-spacing: 0.3em;
-		margin-bottom: 1rem;
-	}
-
 	.logo-wrap {
 		display: flex;
 		justify-content: center;
