@@ -1,7 +1,9 @@
 #!/usr/bin/env python3
 import json, os, subprocess, hashlib, datetime, uuid
+from pathlib import Path
 
-articles_dir = "/home/trevo/blog/content/articles"
+SCRIPT_DIR = Path(__file__).resolve().parent
+articles_dir = str(SCRIPT_DIR / "content" / "articles")
 
 def gen_slug_id():
     slug = "st-" + hashlib.sha1(uuid.uuid4().bytes).hexdigest()[:12]

@@ -1,10 +1,11 @@
-#!/usr/bin/env python3
 """Auto-commit, image-generate, and Vercel deploy for siphoned-truth blog."""
-import subprocess, json, shutil, urllib.request, time
+import subprocess, json, shutil, urllib.request, time, os
 from pathlib import Path
 from datetime import datetime
 
-BLOG = Path("/home/trevo/blog")
+# Resolve BLOG to the directory containing this script — works on WSL, Windows, native Linux
+SCRIPT_DIR = Path(__file__).resolve().parent
+BLOG = SCRIPT_DIR
 COVERS = BLOG / "static" / "covers"
 COVERS.mkdir(parents=True, exist_ok=True)
 
@@ -32,7 +33,19 @@ def save_processed(slugs):
     PROCESSED_MARKER.write_text('\n'.join(sorted(slugs)))
 
 def run(*args, cwd=BLOG, **kw):
-    r = subprocess.run(args, cwd=cwd, capture_output=True, text=True, **kw)
+    # Resolve npm/node to absolute paths to handle Windows PATH issues
+    resolved = []
+    for arg in args:
+        if arg == "npm":
+            resolved.append("C:/Program Files/nodejs/npm.cmd")
+        elif arg == "node":
+            resolved.append("C:/Program Files/nodejs/node.exe")
+        elif arg == "npx":
+            resolved.append("C:/Program Files/nodejs/npx.cmd")
+        else:
+            resolved.append(arg)
+    env = {**os.environ, "PATH": "C:\\Program Files\\nodejs;" + os.environ.get("PATH","")}
+    r = subprocess.run(resolved, cwd=cwd, capture_output=True, text=True, env=env, **kw)
     if r.returncode != 0:
         print(f"ERROR {' '.join(args)}: {r.stderr[:300]}")
         return False
@@ -219,7 +232,7 @@ def main():
 
     # 4. Stage and commit
     result = subprocess.run(
-        ["git", "status", "--porcelain", "-uall", "--", "src/", "static/covers/", "static/fb-posts/", ".deployed_slugs"],
+        ["git", "status", "--porcelain", "-uall", "--", "src/", "content/", "static/covers/", "static/fb-posts/", ".deployed_slugs"],
         cwd=BLOG, capture_output=True, text=True
     )
     uncommitted = [l for l in result.stdout.splitlines()
@@ -232,7 +245,7 @@ def main():
     new_count = len([l for l in uncommitted if l.startswith("??")])
     print(f"Staging {len(uncommitted)} file(s) ({new_count} new)")
 
-    if not run("git", "add", "src/", "static/covers/", "static/fb-posts/", ".deployed_slugs"):
+    if not run("git", "add", "src/", "content/", "static/covers/", "static/fb-posts/", ".deployed_slugs"):
         return
 
     # Commit
@@ -248,13 +261,22 @@ def main():
         print("Local build failed, aborting deploy.")
         return
 
+# 1b-1d. Sync build artifacts to .vercel/output (required for --prebuilt deploy).
+    # If .vercel/output/ doesn't exist yet, initialize it from the build output.
+    vercel_static = BLOG / ".vercel/output/static"
+    if not vercel_static.exists():
+        print("  .vercel/output not found — initializing from build/")
+        vercel_static.mkdir(parents=True, exist_ok=True)
+        (BLOG / ".vercel/output/config.json").write_text('{"routes":[]}')
+
     # 1b. Sync covers from build/ to .vercel/output/static/
     #     SvelteKit's static adapter outputs to build/, but --prebuilt uploads
     #     from .vercel/output/static/. If covers were added since last deploy,
     #     they exist in build/ but not in .vercel/output/static/ → broken images.
-    vercel_covers = BLOG / ".vercel/output/static/covers"
+    vercel_covers = vercel_static / "covers"
     build_covers  = BLOG / "build/covers"
-    if build_covers.exists() and vercel_covers.exists():
+    if build_covers.exists():
+        vercel_covers.mkdir(parents=True, exist_ok=True)
         for f in build_covers.glob("*.jpg"):
             dest = vercel_covers / f.name
             if not dest.exists() or f.stat().st_mtime > dest.stat().st_mtime:
@@ -267,9 +289,10 @@ def main():
     # 1c. Sync pre-rendered article HTML from build/ to .vercel/output/static/
     #     The article pages are pre-rendered with correct slug-based cover paths.
     #     Without this sync the old HTML (with id-based paths) gets uploaded.
-    vercel_article = BLOG / ".vercel/output/static/article"
+    vercel_article = vercel_static / "article"
     build_article  = BLOG / "build/article"
-    if build_article.exists() and vercel_article.exists():
+    if build_article.exists():
+        vercel_article.mkdir(parents=True, exist_ok=True)
         for f in build_article.glob("*.html"):
             dest = vercel_article / f.name
             if not dest.exists() or f.stat().st_mtime > dest.stat().st_mtime:
@@ -289,7 +312,7 @@ def main():
     # 1d. Sync root index.html (homepage card grid with correct slug-based cover URLs)
     for name in ["index.html", "index.html.br", "index.html.gz"]:
         src = BLOG / "build" / name
-        dst = BLOG / ".vercel/output/static" / name
+        dst = vercel_static / name
         if src.exists():
             if not dst.exists() or src.stat().st_mtime > dst.stat().st_mtime:
                 shutil.copy2(src, dst)
