@@ -1,0 +1,19 @@
+{
+  "task_id": "t_06d46529",
+  "title": "Wildfire prevention gap \u2014 USDA claims preparedness vs. prescribed burn data",
+  "narrative": "The USDA has stated that federal and state wildfire prevention programs are 'fully resourced' and that the US has the most prepared firefighting infrastructure in its history. The data on prescribed fire programs \u2014 the primary evidence-based tool for reducing wildfire intensity by clearing underbrush before fire season \u2014 tells a different story. The gap between the stated level of preparedness and the actual implementation of prevention measures has widened in each of the last five years, even as the wildfire season grows longer and more intense.",
+  "telemetry": [
+    "National Prescribed Fire Use Report: annual acres burned via prescribed fire consistently below 50% of the 60 million acres identified as needing treatment",
+    "USDA Wildfire Preparedness Statement (2026): claims full resourcing of federal firefighting capacity",
+    "Wildfire suppression costs: exceeded $3 billion annually for each of the last 3 years \u2014 an order of magnitude more than prescribed fire program costs",
+    "Post-fire rehabilitation costs: not included in suppression cost figures \u2014 total lifecycle cost significantly higher",
+    "Mechanical vs. fire treatment: some landscapes require fire, not mechanical treatment \u2014 no substitute for prescribed burning in fire-adapted ecosystems",
+    "Personnel bottleneck: prescribed fire requires certified burn bosses and favorable weather windows \u2014 both in short supply",
+    "Western US fuel load data: accumulated undergrowth in forests now at historic highs due to a century of fire suppression"
+  ],
+  "analysis": "The 'fully resourced' claim refers to suppression capacity, not prevention. Suppression capacity is reactive \u2014 it responds to fires after they start. Prescribed fire programs are proactive \u2014 they reduce the fuel load before fire season. The budget allocation reflects the reactive posture. The suppression spending numbers dwarf the prevention spending numbers by an order of magnitude, which means the firefighting infrastructure is optimized to fight large fires rather than to prevent them.",
+  "verdict": "[SIPHONED VERDICT]: The USDA's preparedness claim is technically accurate but functionally misleading. The system is prepared to fight big wildfires, not to prevent them. The acres of prescribed fire consistently below target tell you everything about which priority the budget reflects.",
+  "slug": "st-a6c9c90f2722",
+  "id": "STA6C9C90F2722",
+  "time": "2026-05-19T08:37:22Z"
+}

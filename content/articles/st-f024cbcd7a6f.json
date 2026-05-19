@@ -1,0 +1,18 @@
+{
+  "task_id": "t_f65c1047",
+  "title": "Brighton beach bodies \u2014 police 'ongoing investigation' vs. the silence that followed",
+  "narrative": "Sussex Police issued a brief statement confirming multiple bodies were recovered from Brighton's seafront in the early hours of May 13, 2026. The statement described the incident as 'tragic' and said officers were conducting an 'ongoing investigation.' No further details \u2014 identities, number of casualties, cause of death \u2014 were released. The beaches remained open. The official line was that there was nothing to see here.",
+  "telemetry": [
+    "Sussex Police statement: bodies recovered from seafront area, no identities released",
+    "Witness accounts (social media): emergency services present at Palace Pier and i360 areas from approximately 02:00 BST",
+    "UK Maritime and Coastguard Agency: no marine incident reports filed in the Brighton sector on May 12-13",
+    "Royal National Lifeboat Institution: no recorded rescue operations in Brighton area during the incident window",
+    "No UK Coastguard helicopter deployment logged in publicly available aviation tracking data for the Brighton area during the incident window",
+    "Official narrative: 'ongoing investigation' \u2014 yet no suspects named, no public appeal for witnesses, no timeline issued"
+  ],
+  "analysis": "The 'ongoing investigation' framing is a category of non-information that simultaneously acknowledges the incident and prevents follow-up questions. Sussex Police have not confirmed the number of bodies, their identities, or the cause of death. The absence of a public appeal for witnesses is notable \u2014 standard police practice in unexplained deaths is to seek witnesses. The absence of a marine incident report from the MCA, combined with no recorded RNLI activation, suggests either the bodies were already in the water when found, or the marine emergency was handled entirely differently than the official statement implies.",
+  "verdict": "[SIPHONED VERDICT]: The silence from Sussex Police is louder than the statement. Multiple bodies, no public appeal, no marine incident on record, and a beach that stayed open \u2014 the operational posture doesn't match a routine tragedy. It matches a containment posture.",
+  "slug": "st-f024cbcd7a6f",
+  "id": "STF024CBCD7A6F",
+  "time": "2026-05-19T08:37:22Z"
+}
