@@ -1,0 +1,21 @@
+{
+  "task_id": "manual-001",
+  "category": "US Military",
+  "telemetry": [
+    "OPERATION-SOUTHERER-SPEAR: 58 strikes on alleged drug boats, 193 dead, 13 missing, per Just Security tracker (May 2026)",
+    "PENTAGON-OIG: Self-initiated inquiry into whether commanders followed standard six-step process before approving lethal strikes",
+    "VICTIM-PROFILE: Latin American Center for Investigative Journalism identified 13 victims \u2014 all from extremely poor communities, little connection to organized drug networks",
+    "LEGAL: Families of deceased filed lawsuits alleging unlawful attacks; UN human rights experts called strikes 'extrajudicial executions'",
+    "FRENCH-FM-BARROT: G7 statement strikes 'violated international law' and risked regional destabilization",
+    "CONGRESSIONAL: Schiff/Kaine resolution to require congressional approval failed 51-48 in Senate, October 2025",
+    "SOUTHCOM: US Southern Command, based in Doral Florida, oversees the operation",
+    "WHITE-HOUSE: Administration insists operation is 'on firm legal ground' and 'complete compliance with law of armed conflict'"
+  ],
+  "narrative": "The Pentagon's own watchdog has opened an investigation into Operation Southern Spear \u2014 the administration's campaign of airstrikes on alleged drug boats that has killed at least 193 people since late 2025. The DoD OIG is reviewing whether military commanders followed the required six-step process before approving lethal force. The timing of the self-initiated inquiry, after at least 58 strikes and multiple lawsuits, raises its own questions.",
+  "analysis": "The gap between what the administration claims and what the physical record shows is wide. The operation is described as targeting 'narco-terrorists' \u2014 but the victim profile identified by the Latin American Center for Investigative Journalism tells a different story. Thirteen victims identified so far: young people from extremely poor coastal communities with no apparent connection to organized drug networks. That's not a disambiguation failure \u2014 that's a pattern.\n\nThe DoD OIG probe is framed as procedural \u2014 did commanders follow the six-step process? \u2014 but what it will actually determine is whether the entire targeting logic was sound. You can follow procedure and still be targeting the wrong people. The UN human rights panel's 'extrajudicial executions' finding and the French foreign minister's G7 statement aren't procedural criticisms \u2014 they're substantive ones.\n\nThe congressional resolution to require approval failed 51-48. That's not a margin that suggests strong institutional confidence in the operation's legality. It's a margin that suggests the Senate thinks the legal basis is shaky enough that it needs to weigh in, but not shaky enough to actually stop it.\n\nThe families are suing. The DoD OIG is reviewing. The operation continues.",
+  "verdict": "[SIPHONED VERDICT]: 193 people dead in an operation the Pentagon is now quietly investigating \u2014 while the administration insists it's 'on firm legal ground.' The DoD OIG doesn't self-initiate inquiries when things are going well. The victims, identified by journalists, don't match the 'narco-terrorist' framing. The congressional resolution failed by 3 votes. These aren't coincidences \u2014 they're the telemetry of an operation that's becoming harder to defend.",
+  "tone": "Skeptical of official framing. Focus on: who the actual victims were, what the OIG is really examining, and why it took 58+ strikes before the Pentagon's own watchdog decided to look.",
+  "slug": "st-04fa9e3335bf",
+  "id": "ST04FA9E3335BF",
+  "time": "2026-05-19T23:08:02Z"
+}

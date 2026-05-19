@@ -1,0 +1,22 @@
+{
+  "task_id": "manual-002",
+  "category": "Financial Crime",
+  "telemetry": [
+    "POLYMARKET-IRAN: 9 connected anonymous accounts won $2.4M on US military actions with 98% win rate across 80+ bets \u2014 Bubblemaps analysis",
+    "OIL-DROPS: March 9 \u2014 bets surged at 18:29 GMT, 47 minutes before Trump announced Iran war 'very complete' on CBS \u2014 oil fell 14%",
+    "OIL-DROPS-2: March 23 \u2014 Trump Truth Social 'COMPLETE AND TOTAL RESOLUTION' post drove 10% oil drop; abnormal bets preceded the post",
+    "ARMY-SGT-VAN-DYKE: US Army Master Sgt. Gannon Ken Van Dyke allegedly wagered ~$34K on Maduro capture operation, netted $400K+ \u2014 pleaded not guilty to federal charges",
+    "WHITE-HOUSE-MEMO: Internal email warning staff it is a 'criminal offense' to use nonpublic information on prediction markets",
+    "CFTC-JURISDICTION: Commodity Futures Trading Commission regulates prediction markets; CFTC chair told Congress organization has 'zero tolerance' for fraud",
+    "POLYMARKET-INC: Polymarket is incorporated in Panama \u2014 not known for aggressive insider trading laws",
+    "TRUMP-JR-INVEST: Trump Jr. is an investor in Polymarket and advisor to Kalshi",
+    "60-MINUTES-CBS: Accounts betting on Iran war outcomes achieved 98% win rate; market has seen $1B+ staked on military decisions in 2026"
+  ],
+  "narrative": "Nine connected anonymous accounts on Polymarket turned $2.4 million betting on US military actions in the Iran war \u2014 with a 98% win rate across more than 80 bets. Data analytics firm Bubblemaps called it 'the most insane pattern we have found on Polymarket so far.' One of those bets was placed 47 minutes before Trump publicly announced the Iran war was 'very complete' on CBS. The money knew before the public did. And that's before the Army sergeant who allegedly made $400,000 betting on the Maduro capture operation.",
+  "analysis": "The BBC documented the 47-minute lag on March 9: oil futures surged at 18:29 GMT, Trump did the CBS interview at 19:16 GMT. That's not market intuition \u2014 that's access to the specific timing and content of a presidential statement on war status. The same pattern repeated on March 23 with the 'COMPLETE AND TOTAL RESOLUTION' post. These aren't prediction market participants reading geopolitical tea leaves. They're people who knew what the president was going to say before he said it.\n\nBubblemaps identified nine connected accounts. Connected how? They don't say definitively \u2014 blockchain forensics, wallet clustering, behavioral analysis. What they do say is that the probability of that win rate occurring by chance is functionally zero. And the bets weren't on ambiguous future events \u2014 they were on specific US military decisions, timing and outcome.\n\nThe Army sergeant's case is different: he's charged. Gannon Ken Van Dyke allegedly wagered on the specific special operations mission to capture Maduro. That's not market manipulation in the abstract \u2014 that's someone with operational knowledge of a real mission using that knowledge to bet on its outcome. The fact that it worked suggests the operational details weren't as compartmentalized as they should have been.\n\nTrump Jr.'s investment in Polymarket \u2014 and his advisory role at Kalshi \u2014 is the structural context nobody in Congress seems eager to examine. When the president's family has a financial stake in prediction markets that are explicitly betting on his administration's decisions, the conflict of interest isn't subtle.",
+  "verdict": "[SIPHONED VERDICT]: The data is not ambiguous. A 98% win rate across 80+ military bets, 47-minute pre-announcement surges, a $400K wager on a specific special operations raid, and a White House memo warning staff that using nonpublic information on these markets is a crime. The administration is running a prediction market on its own decisions while the president's son has an equity stake in the biggest platform. When the people with access to the information are also the people profiting from the accuracy of that information \u2014 that's not a market. That's a mechanism for laundering nonpublic information into personal profit.",
+  "tone": "Build the evidentiary case: timing data first, then the structural conflict of interest. Leave Trump Jr.'s stake and the White House memo for the close \u2014 they're the structural anchor that makes the timing data coherent rather than coincidental.",
+  "slug": "st-7d43149fc5e9",
+  "id": "ST7D43149FC5E9",
+  "time": "2026-05-19T23:08:34Z"
+}
