@@ -1,0 +1,18 @@
+{
+  "task_id": "t_a0dd9367",
+  "title": "UK Hormuz deployment \u2014 theatre vs. reality",
+  "narrative": "The UK announced it was deploying naval assets to the Strait of Hormuz as part of the international response to the Iran-us maritime security situation. The deployment was framed as a commitment to keeping shipping lanes open and protecting UK interests in a critical global chokepoint. The actual capability being deployed, the rules of engagement under which those assets would operate, and the coordination framework with US and allied forces were not publicly specified. What was specified was the political commitment to be seen acting.",
+  "telemetry": [
+    "UK MOD statement: deployment of Royal Navy assets to Hormuz region announced as 'routine presence' and 'deterrence'",
+    "Framing: UK positioned the deployment alongside US operations as part of a 'coalition' posture",
+    "Physical capability: Type 23 frigates and HMS Diamond's documented air defense role \u2014 limited offensive capability in contested strait",
+    "US offered to 'escort' commercial ships through \u2014 an implicit admission that the current security posture doesn't protect shipping",
+    "Royal Navy fleet size: 12 destroyers/frigates currently operational for global deployments \u2014 each commitment has an opportunity cost",
+    "Hormuz shipping traffic: AIS data shows commercial vessel transits down significantly since tensions escalated \u2014 insurance and routing decisions, not official assessment"
+  ],
+  "analysis": "The deployment is real in the sense that ships are moving. It's theatre in the sense that the operational concept \u2014 what these ships would actually do if engaged \u2014 is deliberately unspecified. Deterrence requires a credible response mechanism. The gap between what the MOD announced and what the ships can actually accomplish suggests the purpose is political presence, not tactical capability.",
+  "verdict": "[SIPHONED VERDICT]: The UK is putting ships in the frame without putting capability behind the frame. The announcement is about being on the right side of the optics. The ships are there to be seen, not to fight.",
+  "slug": "st-f493b5d386d2",
+  "id": "STF493B5D386D2",
+  "time": "2026-05-19T03:03:49Z"
+}

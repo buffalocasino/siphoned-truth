@@ -1,0 +1,19 @@
+{
+  "task_id": "t_4e1094b7",
+  "title": "Dali container ship \u2014 Baltimore bridge collapse \u2014 May 13 2026",
+  "narrative": "The container ship Dali, en route from Baltimore to Sri Lanka, suffered a catastrophic mechanical failure and struck the Francis Scott Key Bridge in the early morning hours of March 26, 2024. The collapse killed six construction workers and closed the Port of Baltimore for months. The NTSB investigation found the ship had experienced a series of power failures before the strike. On May 13, 2026, a federal report was released with findings that, while technically new, largely corroborated what the preliminary data had already suggested \u2014 and did not resolve the question of why port state control inspections had not caught the known maintenance deficiencies.",
+  "telemetry": [
+    "NTSB final report (May 2026): ship experienced 4 power failures in the hour before bridge strike, each accompanied by loss of steering and propulsion",
+    "Port state control inspection record: Dali was inspected in Baltimore on September 12, 2023 \u2014 no deficiencies recorded",
+    "Prior port state control detentions: Dali was detained in Antwerp in June 2023 for hull damage and propeller deficiencies \u2014 those repairs were verified but the underlying maintenance culture was not",
+    "NTSB found the ship's electrical architecture allowed a single bus tie fault to cascade into full blackout \u2014 a design vulnerability not flagged in any inspection protocol",
+    "Six workers killed: all members of a paving crew who had been on the bridge at 01:35 a.m. when the ship struck",
+    "The ship's AIS track shows it began losing speed approximately 45 seconds before impact \u2014 consistent with the first electrical fault",
+    "Container weight manifest: cargo was within weight limits \u2014 the structural failure was not a weight issue but a kinetic one"
+  ],
+  "analysis": "The gap in the report is not what caused the bridge to fall \u2014 that's documented. The gap is why the inspection regime that exists specifically to catch this kind of failure didn't. The Antwerp detention should have flagged systemic maintenance culture, not just the specific deficiencies found. Port state control is a point-in-time inspection, not an audit of maintenance philosophy. The Dali case reveals that a ship can clear every inspection and still fail catastrophically at sea. The NTSB report doesn't say this explicitly, but that's what the data shows.",
+  "verdict": "[SIPHONED VERDICT]: The Dali was a known entity in the port state control system. It was flagged, detained, repaired, and released. The inspections worked exactly as designed \u2014 and the design failed to catch the failure mode that actually killed six people.",
+  "slug": "st-a2bf01be9a4d",
+  "id": "STA2BF01BE9A4D",
+  "time": "2026-05-19T03:03:49Z"
+}
