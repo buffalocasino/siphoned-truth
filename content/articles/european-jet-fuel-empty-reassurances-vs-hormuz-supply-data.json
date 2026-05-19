@@ -1,0 +1,36 @@
+{
+  "slug": "european-jet-fuel-empty-reassurances-vs-hormuz-supply-data",
+  "id": "european-jet-fuel-empty-reassurances-vs-hormuz-supply-data",
+  "time": "2026-05-19T12:00:00+00:00",
+  "title": "Europe's Jet Fuel 'Crisis' — IATA's Panic, the UK's 'Not Currently,' and Iran's Toll Booth",
+  "category": "energy",
+  "narrative": "European airlines and IATA warn of imminent jet fuel shortages threatening summer travel. IATA warned in an April letter that fuel shortages would hit Europe if exports through the Strait of Hormuz do not resume. Airlines warn cancellations could begin by end of May. The UK government says British airlines are 'not currently seeing a shortage of jet fuel.' The narrative: the Hormuz closure is beginning to bite, Europe faces a summer travel crunch. The physical supply data tells a more complicated story.",
+  "telemetry": [
+    "IATA April 9 letter to European governments: fuel shortages would hit Europe if exports through the Strait of Hormuz do not resume — warning of summer travel disruptions",
+    "European airline executives: airframers warn of 'looming jet fuel shortage' affecting summer scheduling",
+    "UK government statement: 'UK airlines are not currently seeing a shortage of jet fuel' — attributed to advance purchasing and fuel bought forward",
+    "Industry data: 40% of Europe's jet fuel supply routes through the Strait of Hormuz",
+    "AIS data: 97% decline in Strait of Hormuz shipping traffic since March 1, 2026. Over 800 vessels backed up in the Gulf",
+    "Iran established the Persian Gulf Strait Authority (PGSA) and is actively collecting tolls — selectively allowing vessels through 'controlled routes'",
+    "Three Omani-operated tankers and at least one French vessel observed transiting with Kpler data — some traffic is moving, not a total closure",
+    "CRS R45281: 'Iran's ability to mine or otherwise close the Strait may have been degraded' — partial functionality remains; 'complete closure' framing may be overstated"
+  ],
+  "analysis": "The IATA crisis warning and the UK government reassurance are factually compatible because they are describing two different things: a forward-looking supply problem and a current inventory position. The IATA warning is real — if 40% of Europe's jet fuel supply routes through the Strait and that route is effectively throttled, the summer travel season will be constrained. The UK's 'not currently seeing a shortage' is also real — airlines and governments buy fuel forward, often months in advance. The UK position reflects contracts signed before the conflict escalated. Neither statement is false. Both are being deployed as evidence in an argument neither fully supports.\n\nThe more interesting data point is not the IATA warning or the UK statement — it is the AIS data showing selective vessel passage through Iran's 'controlled routes.' Iran is not running a total blockade. A total blockade maximizes economic pain but generates none of the revenue that a toll operation generates. What Iran appears to be doing is exactly what a rational economic actor with control over a critical chokepoint would do: limit the flow enough to create price pressure and generate fear, while keeping enough traffic moving to collect fees and maintain the apparatus.\n\nThis matters for the jet fuel story specifically. If Iran were simply blocking all traffic, Europe's supply would be cut off entirely and prices would spike immediately. What is actually happening is more selective: some vessels are getting through, some are not, and the uncertainty itself is the market-moving factor. The IATA warning is partly a pressure tactic — associations and companies that want government intervention routinely overstate the severity of their situation. The 'end of May cancellations' framing may be designed to force European governments into pressuring the US toward a faster negotiated settlement rather than reflecting an actual supply guarantee date.\n\nThe UK government's more sanguine statement may itself be a tell. 'Not currently' is doing specific work in that sentence. It is not 'there is no shortage.' It is 'right now, with fuel bought in advance, we are okay.' That phrasing implicitly acknowledges that a genuine shortage could arrive if the current trajectory continues. The UK is buying time with its forward purchasing, not solving the underlying vulnerability.",
+  "verdict": "[SIPHONED VERDICT]: The gap between IATA's crisis warnings and the UK's 'not currently' is not a contradiction — it is the actual story. Europe's jet fuel supply is genuinely at risk from a partial Hormuz disruption that is more toll operation than total blockade. But the 'imminent shortage' framing from IATA and European carriers may be a pressure tactic as much as a supply reality. Iran is running a selective, revenue-generating transit operation, not a scorched-earth blockade. The shortage is real in projection, uncertain in timing, and being used by multiple parties — airlines seeking government action, administrations managing market expectations — for purposes that have as much to do with political positioning as physical supply.",
+  "tags": [
+    "jet-fuel",
+    "europe",
+    "iata",
+    "hormuz",
+    "energy",
+    "airlines",
+    "oil",
+    "shipping",
+    "iran",
+    "pgsa",
+    "commodities",
+    "geopolitics",
+    "summer-travel"
+  ],
+  "kanban_task": "t_fc6dff25"
+}
