@@ -341,10 +341,7 @@ def main():
     # BUG FIX: --prebuilt uploads the pre-rendered static output without
     # triggering a serverless build. The old --force path ran `npm run build`
     # on Vercel's servers which hit size/compute limits on this project.
-    r = subprocess.run(
-        ["npx", "vercel", "--prod", "--prebuilt", "--yes"],
-        cwd=BLOG, capture_output=True, text=True, timeout=180
-    )
+    r = run("npx", "vercel", "--prod", "--prebuilt", "--yes")
     if r.returncode != 0:
         print(f"Vercel deploy FAILED: {r.stderr[-500:]}")
         return
