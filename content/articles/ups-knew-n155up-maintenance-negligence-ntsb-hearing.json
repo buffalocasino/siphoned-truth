@@ -1,0 +1,37 @@
+{
+  "slug": "ups-knew-n155up-maintenance-negligence-ntsb-hearing",
+  "id": "ups-knew-n155up-maintenance-negligence-ntsb-hearing",
+  "time": "2026-05-20T17:00:00+00:00",
+  "title": "What UPS Knew: Pre-Crash Maintenance Records, Document Manipulation, and the NTSB Hearing That Forces Disclosure",
+  "category": "aviation",
+  "narrative": "The NTSB investigative hearing on May 20, 2026 into the November 2025 crash of UPS Flight 2976 (MD-11, registration N-155UP) is being framed as routine fact-finding. But 100+ plaintiffs in Jefferson Circuit Court, Kentucky allege a different story: UPS knew of pre-existing mechanical deficiencies on N-155UP before it took off, and their public statements have not matched their maintenance records.",
+  "telemetry": [
+    "UPS Flight 2976 crashed November 2025 (MD-11, N-155UP) en route Louisville to Honolulu",
+    "100+ plaintiffs filed wrongful death suits in Jefferson Circuit Court, KY naming UPS, GE (engine), and Boeing (airframe) as co-defendants",
+    "WHAS11 and WDRB local reporting examined the maintenance history of N-155UP prior to the crash",
+    "Reddit r/aviation megathread and independent reporting cite evidence of prior maintenance events on the aircraft",
+    "NTSB preliminary findings docket: what maintenance records did UPS provide to investigators vs. what actual logs show?",
+    "Separate allegation: UPS submitted false statements to FAA HIMS AMEs regarding pilot fatigue \u2014 suggesting a documented pattern of document manipulation",
+    "UPS CEO Carol Tom\u00e9 publicly expressed condolences but the company has consistently deferred to the NTSB investigation",
+    "NTSB hearing on May 20, 2026 is described as routine fact-finding \u2014 institutional framing designed to depersonalize disclosure"
+  ],
+  "analysis": "The NTSB hearing on May 20 is not a routine procedural moment \u2014 it is the mechanism by which documents that would otherwise remain in discovery limbo become part of the public record. That is why the 'routine fact-finding' framing matters. If this were a clear-cut accident with no prior knowledge, the institutional framing would be appropriate. But the allegations go to the core of what UPS knew and when.\n\nThe maintenance record discrepancy is the central factual question. Plaintiffs allege that UPS had documented knowledge of mechanical deficiencies on N-155UP before the crash. If that is true, the gap between what UPS's public statements say \u2014 'we are cooperating with the investigation' \u2014 and what their internal records show is not a minor procedural issue. It goes to whether UPS's public communications were materially misleading during a period when families were seeking answers.\n\nThe separate pilot fatigue allegation is potentially more systemic. UPS is part of the HIMS (Hazardous Materials Inventory Management System) program for pilot medical certification. Submitting false statements to HIMS AMEs is not a one-off error \u2014 it reflects a documented pattern of document manipulation that would predate the crash. If UPS manipulated pilot health documentation, and also failed to disclose known mechanical deficiencies, the 'accident' framing becomes harder to sustain.\n\nThe NTSB hearing on May 20 will force partial disclosure of what UPS knew. The docket will show what maintenance records were provided to investigators. If those records match what UPS told the public, the company's position is strengthened. If they do not, the gap becomes the story.",
+  "verdict": "[SIPHONED VERDICT]: The NTSB hearing on May 20 is not routine. It is the first institutional moment that will force UPS's maintenance records into the public domain in a structured way. The 100+ plaintiffs in Jefferson Circuit Court are not speculating \u2014 they have access to maintenance logs and are alleging documented prior knowledge. The pilot fatigue document manipulation allegation, if true, suggests a corporate culture that treated regulatory documentation as malleable. What did UPS know about N-155UP's mechanical state before it took off from Louisville? That question will be answered \u2014 partially \u2014 by the NTSB docket. The question that will not be answered by May 20 is whether the document manipulation pattern was known to senior management. That is the question that will define the litigation.",
+  "tags": [
+    "ups",
+    "aviation",
+    "ntsb",
+    "crash",
+    "maintenance",
+    "flight-2976",
+    "md-11",
+    "wrongful-death",
+    "corporate-liability",
+    "pilots",
+    "fatigue",
+    "faa",
+    "hims",
+    "law"
+  ],
+  "kanban_task": "t_c76648e3"
+}

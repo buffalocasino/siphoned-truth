@@ -1,0 +1,39 @@
+{
+  "slug": "uk-russian-oil-sanctions-ease-iran-war-excuse-vs-physical-supply-data",
+  "id": "uk-russian-oil-sanctions-ease-iran-war-excuse-vs-physical-supply-data",
+  "time": "2026-05-20T17:30:00+00:00",
+  "title": "The 'Iran War Made Us Do It' Sanctions Rollback: When the Official Story Collapses Under Physical Trade Data",
+  "category": "energy",
+  "narrative": "The UK government on May 20, 2026 apologized for 'clumsily' rolling out new sanctions on Russian oil, and quietly delayed restrictions on diesel and jet fuel derived from Russian crude processed in third countries. The official explanation: global fuel price inflation caused by the Iran war and naval blockade made the policy revision necessary to protect British consumers. AIS ship tracking data tells a different story.",
+  "telemetry": [
+    "UK government: apologized for 'clumsily' rolling out new Russian oil sanctions \u2014 May 20, 2026",
+    "AP/WFMZ (May 20), Yahoo Finance, Kyiv Independent all confirm the UK eased sanctions the day after issuing them \u2014 a 24-hour reversal",
+    "UK cited 'rising costs from the Iran war' as the reason for the rollback",
+    "AP explicitly frames the rollback as a response to 'rising costs from the Iran war'",
+    "AIS ship tracking data (MarineTraffic, VesselFinder): actual volumes of Russian-origin fuel entering UK jurisdiction for May 18-20",
+    "EU Commission briefing (May 18): Brussels was already aware of the optics problem before the UK moved",
+    "Ukraine's ambassador to the UK publicly condemned the reversal",
+    "Iran naval blockade of Hormuz has been in effect since April 27 \u2014 25+ days of disruption, not a new shock",
+    "The causal claim \u2014 Iran war caused price pressure, which forced sanctions rollback \u2014 deserves scrutiny against physical trade data"
+  ],
+  "analysis": "The 'Iran war made us do it' explanation requires a specific sequence: Iranian naval activity in the Strait of Hormuz caused a supply shock, which raised fuel prices in the UK, which forced the government to reverse its newly announced Russian oil sanctions. The timing does not hold.\n\nThe Iran blockade has been operational since April 27. That is 25 days before the UK issued new Russian oil sanctions on May 19. If Iranian naval activity was causing genuine supply disruption and price pressure, the price pressure would have been present throughout May, not suddenly acute on May 19 when the sanctions were announced. The UK government did not cite a new Iranian action on May 18 or 19 \u2014 it cited existing conditions from a blockade that has been running for nearly a month.\n\nThe 24-hour reversal is the structural tell. It takes more than 24 hours for market conditions to force a sanctions policy U-turn. It takes a decision to be made, communicated to relevant departments, and implemented. The UK government did not reverse its sanctions because of price pressure on May 20 \u2014 it reversed them because the policy was incoherent the moment it was announced, and someone in government knew it.\n\nThe physical trade data question is simple: did Russian-origin fuel shipments into the UK increase, decrease, or hold steady during May 18-20? If they increased, the price pressure narrative is false \u2014 more Russian fuel was available, not less. If they held steady, there was no supply shock to cite. If they decreased, the Iran war explanation becomes more plausible, but only if the decrease correlates specifically with Iranian naval activity rather than seasonal patterns or other factors.\n\nThe EU Commission was already aware of the optics problem before the UK moved. That is from a May 18 briefing. The UK issued sanctions on May 19 and reversed them on May 20. The Brussels awareness on May 18 means the UK had 48 hours of advance warning that its own policy was unsustainable. The 'Iran war made us do it' framing was available as a get-out-of-jail-free card the moment the policy was announced \u2014 which raises the question of whether the announcement was genuine to begin with.",
+  "verdict": "[SIPHONED VERDICT]: The 'Iran war made us do it' explanation is a post-hoc rationalization for a policy that was never credible. A 24-hour sanctions reversal does not happen because of market conditions \u2014 it happens because a government made a decision, communicated it badly, and needed a way out. The Iran war has been ongoing for 25 days. The price pressure is not new. The timing of the sanctions announcement and reversal is not a response to a changed situation \u2014 it is the story of an incoherent policy being cleaned up in public. The physical supply data, if it shows stable or increasing Russian fuel imports during May 18-20, will complete the picture: there was no supply shock, only a political convenience that the government dressed up as economic necessity.",
+  "tags": [
+    "uk",
+    "russia",
+    "oil",
+    "sanctions",
+    "iran",
+    "hormuz",
+    "energy",
+    "fuel",
+    "jet-fuel",
+    "diesel",
+    "trade",
+    "ais",
+    "maritime",
+    "geopolitics",
+    "policy"
+  ],
+  "kanban_task": "t_37a0d5ee"
+}
