@@ -1,0 +1,11 @@
+⬡ The information blockade: how OSINT researchers tracking the Iran war keep hitting satellite blackouts
+
+OSINT researchers, independent journalists, and academic analysts tracking the US-Iran conflict have encountered a persistent pattern: the satellite imagery, shipping data, and ground-level evidence they depend on keeps becoming unavailable at the moments that matter most.
+
+The telemetry doesn't lie.
+
+▸ The information environment around the Iran war has been shaped by a combination of commercial data restrictions, platform moderation, and government procurement of the same feeds that open-source researchers depend on.单独 explaining any one of these as coincidence is possible. Together they represent a systematic information management operation — not through overt censorship orders, but through the market mechanisms that make open-source intelligence possible.
+
+→ https://siphonedtruth.online/article/st-7b2733f45674
+
+#SiphonedTruth #OSINT #ShadowBroker
