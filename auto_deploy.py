@@ -33,19 +33,19 @@ def save_processed(slugs):
     PROCESSED_MARKER.write_text('\n'.join(sorted(slugs)))
 
 def run(*args, cwd=BLOG, **kw):
-    # Resolve npm/node to absolute paths to handle Windows PATH issues
+    # Resolve npm/node to absolute paths
+    import shutil
     resolved = []
     for arg in args:
         if arg == "npm":
-            resolved.append("C:/Program Files/nodejs/npm.cmd")
+            resolved.append(shutil.which("npm") or "/home/trevo/.local/bin/npm")
         elif arg == "node":
-            resolved.append("C:/Program Files/nodejs/node.exe")
+            resolved.append(shutil.which("node") or "/home/trevo/.local/bin/node")
         elif arg == "npx":
-            resolved.append("C:/Program Files/nodejs/npx.cmd")
+            resolved.append(shutil.which("npx") or "/home/trevo/.local/bin/npx")
         else:
             resolved.append(arg)
-    env = {**os.environ, "PATH": "C:\\Program Files\\nodejs;" + os.environ.get("PATH","")}
-    r = subprocess.run(resolved, cwd=cwd, capture_output=True, text=True, env=env, **kw)
+    r = subprocess.run(resolved, cwd=cwd, capture_output=True, text=True, **kw)
     if r.returncode != 0:
         print(f"ERROR {' '.join(args)}: {r.stderr[:300]}")
         return False
