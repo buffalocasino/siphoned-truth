@@ -5,16 +5,16 @@
   "title": "'Planned' vs. 'Stunned': The Pentagon's Poland Troop Pullout Story Falls Apart",
   "narrative": "Pentagon officials claim the cancellation of 4,000 troops to Poland was a \"long-planned\" rotation decision, part of Trump's systematic Europe drawdown. Congressional Republicans and Polish officials were given no advance notice. The public narrative: this is routine military administration, nothing to see.",
   "telemetry": [
-    "Politico: \"Pentagon officials stunned by Hegseth decision\" — internal disagreement contradicts \"planned\" framing",
-    "The troops were Texas-based, preparing for a 9-month NATO training rotation — not a new deployment",
+    "Politico: \"Pentagon officials stunned by Hegseth decision\" \u2014 internal disagreement contradicts \"planned\" framing",
+    "The troops were Texas-based, preparing for a 9-month NATO training rotation \u2014 not a new deployment",
     "US already pulled 5,000 troops from Germany earlier; Poland cancellation follows that pattern",
     "Expert (Mark Toff) says move is \"slap in the face\" designed to pressure Europe into more defense spending",
-    "NATO's Article 5 commitment requires permanent presence — cancellation undermines the forward-deployed credibility the alliance is built on",
-    "Poland had invested in infrastructure specifically to host these troops — bases, housing, training ranges",
+    "NATO's Article 5 commitment requires permanent presence \u2014 cancellation undermines the forward-deployed credibility the alliance is built on",
+    "Poland had invested in infrastructure specifically to host these troops \u2014 bases, housing, training ranges",
     "Europe now faces a choice: fill the gap with their own troops (draining national budgets) or accept the signal of US disengagement"
   ],
-  "analysis": "\"Long-planned\" and \"stunned Pentagon officials\" cannot both be true. The Politico reporting is specific and sourced — the decision surprised people inside the Pentagon who should know. What this looks like is an ad-hoc political decision, announced as if it were routine, because the truth — that the administration is using NATO troop placements as leverage for European defense spending — is harder to sell as normal. The troops were preparing for a 9-month rotation. Rotations are planned years in advance. You don't cancel a 9-month NATO rotation at the last minute by accident.",
-  "verdict": "[SIPHONED VERDICT]: The Poland troop cancellation was not a routine rotation decision. It was a surprise to the Pentagon, a slap to Poland's investment in hosting US forces, and a signal to NATO allies that American troop commitments are now negotiating chips in a defense-spending dispute. The 'long-planned' framing is the cover story. The reality is a US administration using troop placements as leverage — and NATO's credibility as the cost.",
+  "analysis": "\"Long-planned\" and \"stunned Pentagon officials\" cannot both be true. The Politico reporting is specific and sourced \u2014 the decision surprised people inside the Pentagon who should know. What this looks like is an ad-hoc political decision, announced as if it were routine, because the truth \u2014 that the administration is using NATO troop placements as leverage for European defense spending \u2014 is harder to sell as normal. The troops were preparing for a 9-month rotation. Rotations are planned years in advance. You don't cancel a 9-month NATO rotation at the last minute by accident.",
+  "verdict": "[SIPHONED VERDICT]: The Poland troop cancellation was not a routine rotation decision. It was a surprise to the Pentagon, a slap to Poland's investment in hosting US forces, and a signal to NATO allies that American troop commitments are now negotiating chips in a defense-spending dispute. The 'long-planned' framing is the cover story. The reality is a US administration using troop placements as leverage \u2014 and NATO's credibility as the cost.",
   "tags": [
     "NATO",
     "Poland",
@@ -25,6 +25,5 @@
     "Defense Spending",
     "Trump"
   ],
-  "kanban_task": "t_8acb69f1",
-  "coverImage": "/covers/pentagon-poland-troop-cancellation-may-2026.jpg"
+  "kanban_task": "t_8acb69f1"
 }
