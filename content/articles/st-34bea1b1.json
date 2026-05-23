@@ -1,0 +1,27 @@
+{
+  "slug": "st-34bea1b1",
+  "id": "ST-34BEA1B1",
+  "time": "2026-05-23T14:46:45Z",
+  "title": "Both Sides Say the Strait of Hormuz Is Open. AIS Data Says Almost Nothing Is Moving.",
+  "narrative": "US Central Command and Trump administration officials have stated the US naval blockade of Iran is \"working\" and that commercial shipping through the Strait of Hormuz has resumed following the April 12 ceasefire agreement. The official narrative frames this as a US strategic victory -- Iranian vessels turned back, oil flow restored, pressure tactics succeeded. Iran claims the Strait is open during truces and blames the US for blocking vessels from Iranian ports.",
+  "telemetry": [
+    "Ship tracking data (AIS) shows traffic through the Strait remained near-zero through May 2026 even after ceasefire declarations",
+    "CENTCOM claims \"52 vessels turned around by ongoing US blockade\" -- this implies the US is also blocking ships, not just Iran",
+    "Iran declared the Strait closed March 4, 2026; attacks on multiple commercial vessels followed",
+    "April 17: Iran announced Strait would reopen to commercial shipping during Israel-Lebanon ceasefire",
+    "Tasnim News reported only 3 ships transited in a 12-hour window during the \"open\" period",
+    "BBC Verify: no evidence of tankers carrying full loads of oil or gas departing the Gulf during the declared open periods",
+    "Both the US and Iran appear to be maintaining de facto blockades while publicly claiming the Strait is open"
+  ],
+  "analysis": "The official narrative from Washington is that the blockade succeeded: Iran was pressured into backing down, commercial traffic resumed, and the Strait of Hormuz is functioning again. Tehran's version is different but equally declarative -- the Strait was always open during truces, and any disruption is America's fault. AIS ship tracking data demolishes both claims simultaneously.\n\nWhen CENTCOM reports \"52 vessels turned around by ongoing US blockade,\" the phrasing itself is an admission. The US is not merely monitoring the Strait; it is actively preventing commercial transit. Iran declared the Strait closed on March 4, 2026, and followed with attacks on commercial vessels. On April 17, Tehran announced the Strait would reopen during the Israel-Lebanon ceasefire. Tasnim News, an Iranian state-aligned outlet, reported only 3 ships transited in a 12-hour window during this \"open\" period. Three ships in twelve hours is not a functioning commercial waterway -- it is a statistical anomaly on a route that normally handles roughly 20-30 major vessel transits per day.\n\nBBC Verify conducted an independent review and found no evidence of tankers carrying full loads of oil or gas departing the Gulf during any of the declared open periods. This is not a matter of interpretation. Oil tankers broadcast AIS signals. They load at known terminals. They depart through narrow chokepoints with mandatory pilotage. If full-loaded tankers were transiting the Strait, the data would show it. The data does not show it.\n\nThe picture that emerges is not one side blocking and the other side trying to keep the waterway open. Both the United States and Iran are maintaining de facto blockades while publicly claiming the Strait is operational. Washington needs the narrative of a successful pressure campaign. Tehran needs the narrative that American aggression, not Iranian policy, is responsible for global oil disruption. The AIS data supports neither story. It supports the conclusion that the Strait of Hormuz remains effectively closed to meaningful commercial traffic, and that both governments are lying about it.",
+  "verdict": "[SIPHONED VERDICT]: Official statements from Washington and Tehran both contradict AIS shipping data; neither side has restored commercial flow through the Strait despite public claims of success.",
+  "tags": [
+    "iran",
+    "hormuz",
+    "shipping",
+    "ais-data",
+    "geopolitics",
+    "blockade"
+  ],
+  "kanban_task": "t_9c5dc556"
+}

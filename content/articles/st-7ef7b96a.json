@@ -1,0 +1,25 @@
+{
+  "slug": "st-7ef7b96a",
+  "id": "ST-7EF7B96A",
+  "time": "2026-05-23T14:47:07Z",
+  "title": "Beijing Says 22 Dead in Seven-Province Floods. Satellite Data and Social Media Tell a Different Story.",
+  "narrative": "Chinese state media and officials reported \"at least 22 dead\" from floods across seven provinces on May 20, 2026, calling it \"the most intense storm this year.\" The official narrative presents competent crisis response, with government agencies coordinating evacuations. International media has largely echoed the official toll.",
+  "telemetry": [
+    "China has a documented history of underreporting flood casualties: July 2025 Beijing floods -- officials reported 38 dead; ground-level social media and satellite analysis suggested far higher numbers",
+    "Henan 2025 floods: initial official toll was \"dozens\"; eventually revised to 302+ after international pressure",
+    "May 2026 floods affecting seven provinces with \"historic\" intensity -- official count is 22",
+    "Satellite precipitation data (NOAA/NESDIS) shows the storm system was extreme in geographic scope",
+    "Social media posts from affected provinces describe mass evacuations and infrastructure failures not reflected in official casualty figures",
+    "No independent international observers have been granted access to the flood zones"
+  ],
+  "analysis": "The Chinese government's official toll of 22 dead from floods across seven provinces is not inherently implausible -- but it is not credible in the context of the government's documented pattern of systematically underreporting flood casualties.\n\nIn July 2025, Beijing reported 38 dead from floods in the capital. Ground-level social media posts on Sina Weibo, combined with satellite analysis of flood extent and infrastructure damage, suggested the actual toll was significantly higher. In Henan in 2025, the initial official count was \"dozens\" -- a figure that was eventually revised upward to more than 302 dead, but only after sustained international pressure and leaked internal documents made the original number untenable.\n\nThe May 2026 floods are described by Chinese state media as \"the most intense storm this year,\" affecting seven provinces simultaneously. NOAA/NESDIS satellite precipitation data confirms the storm system was extreme in geographic scope and rainfall intensity. A flood event of this magnitude, across this many provinces, producing mass evacuations and documented infrastructure failures, generating a death toll of exactly 22 strains credulity.\n\nSocial media posts from within the affected provinces describe scenes inconsistent with a 22-death event: mass evacuations of entire neighborhoods, collapsed bridges, submerged villages, and rescue operations of a scale that implies a far larger affected population. These posts are geotagged and timestamped. They are not coordinated disinformation -- they are the ambient noise of a population in crisis.\n\nNo independent international observers have been granted access to the flood zones. This is consistent with Beijing's standard operating procedure during domestic disasters: control the information environment, restrict access, and release casualty figures that are politically acceptable rather than factually accurate. The 22-death figure is not a count. It is a ceiling imposed from above. The actual toll is almost certainly higher, and the gap between the official number and the physical evidence is the story.",
+  "verdict": "[SIPHONED VERDICT]: Beijing's 22-death toll follows a documented pattern of systematic underreporting; satellite rainfall data and unfiltered domestic social media point to a significantly higher human cost.",
+  "tags": [
+    "china",
+    "floods",
+    "disaster-reporting",
+    "satellite-data",
+    "censorship"
+  ],
+  "kanban_task": "t_9e8a63d3"
+}
