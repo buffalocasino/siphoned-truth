@@ -6,6 +6,42 @@
 	const article = $derived(data.article);
 	const narrative = $derived((article.narrative ?? article.article_body ?? article.content ?? article.summary ?? '').toString());
 	const getText = (field: string | undefined) => field ?? '';
+	const telemetryItems = $derived(
+		Array.isArray(article.telemetry)
+			? article.telemetry
+			: typeof article.telemetry === 'string'
+				? article.telemetry.split('\n').filter(Boolean)
+				: []
+	);
+
+	const parseContent = (text: string) => {
+		const lines = text.split('\n');
+		const parts: string[] = [];
+		let inList = false;
+		for (const line of lines) {
+			if (line.startsWith('## ')) {
+				if (inList) { parts.push('</ul>'); inList = false; }
+				parts.push(`<h3 class="content-heading">${line.slice(3)}</h3>`);
+			} else if (line.startsWith('- ')) {
+				if (!inList) { parts.push('<ul class="content-list">'); inList = true; }
+				parts.push(`<li>${line.slice(2)}</li>`);
+			} else if (line.startsWith('**')) {
+				// Bold intro lines like **KEY CLAIM:** treated as sub-headings
+				if (inList) { parts.push('</ul>'); inList = false; }
+				const match = line.match(/^\*\*(.+?)\*\*[:\s]*(.*)$/);
+				if (match) {
+					parts.push(`<p class="content-strong"><strong>${match[1]}:</strong> ${match[2]}</p>`);
+				} else {
+					parts.push(`<p>${line}</p>`);
+				}
+			} else if (line.trim()) {
+				if (inList) { parts.push('</ul>'); inList = false; }
+				parts.push(`<p>${line}</p>`);
+			}
+		}
+		if (inList) parts.push('</ul>');
+		return parts.join('\n');
+	};
 </script>
 
 <svelte:head>
@@ -45,15 +81,17 @@
 			<img src="/covers/{article.slug?.toLowerCase() ?? article.id.toLowerCase()}.jpg" alt={article.title} />
 		</div>
 
-<section class="section">
+	<section class="section">
 		<h2>I. PUBLIC NARRATIVE</h2>
-		<p>{narrative}</p>
+		<div class="narrative-text">
+		  {@html parseContent(narrative)}
+		</div>
 	</section>
 
 	<section class="section telemetry">
 		<h2>II. TELEMETRY FEED</h2>
 		<ul>
-			{#each (article.telemetry ?? []) as item}
+			{#each telemetryItems as item}
 				<li>{item}</li>
 			{/each}
 		</ul>
@@ -61,7 +99,9 @@
 
 	<section class="section">
 		<h2>III. ADVERSARIAL ANALYSIS</h2>
-		<p>{getText(article.analysis)}</p>
+		<div class="analysis-text">
+		  {@html parseContent(getText(article.analysis))}
+		</div>
 	</section>
 
 	<section class="section verdict">
@@ -77,7 +117,7 @@
 				<span>•</span>
 				<span>AUTH: HERMES_AGENT_V4</span>
 				<span>•</span>
-				<span>CROSS-REFERENCED: {(article.telemetry ?? []).length} DATA POINTS</span>
+				<span>CROSS-REFERENCED: {telemetryItems.length} DATA POINTS</span>
 			</div>
 		</section>
 
@@ -197,6 +237,48 @@
 		color: #00ff88cc;
 		line-height: 1.9;
 		margin: 0;
+	}
+
+	.narrative-text p,
+	.analysis-text p,
+	.narrative-text .content-strong,
+	.analysis-text .content-strong {
+		font-size: 1rem;
+		color: #00ff88cc;
+		line-height: 1.9;
+		margin: 0 0 1.2rem;
+	}
+
+	.content-heading {
+		font-size: 0.85rem;
+		color: #00ff88;
+		letter-spacing: 0.2em;
+		font-weight: 400;
+		margin: 2rem 0 0.75rem;
+		text-transform: uppercase;
+	}
+
+	.content-strong strong {
+		color: #00ff88;
+	}
+
+	.content-list {
+		list-style: none;
+		padding: 0;
+		margin: 0 0 1.5rem;
+	}
+
+	.content-list li {
+		font-size: 0.9rem;
+		color: #00ff88cc;
+		line-height: 1.7;
+		padding: 0.35rem 0 0.35rem 1rem;
+		border-left: 2px solid #00ff8833;
+		margin-bottom: 0.5rem;
+	}
+
+	.analysis-text p:last-child {
+		margin-bottom: 0;
 	}
 
 	.telemetry ul {
