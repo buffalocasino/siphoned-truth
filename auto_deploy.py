@@ -255,10 +255,14 @@ def main():
     if not run("git", "commit", "-m", msg):
         return
 
-    # 1. Build locally (required for --prebuilt flag)
-    print("Building locally...")
-    if not run("npm", "run", "build"):
-        print("Local build failed, aborting deploy.")
+    # 1. Build via `vercel build` (not `npm run build`).
+    #    npx vercel build writes the correct .vercel/output/config.json with
+    #    version:3 (Build Output API v3). npm run build (vite) only populates
+    #    the build/ directory and never touches .vercel/output/, leaving a
+    #    stale config that fails deploys with "Expected version: 3".
+    print("Building via vercel build...")
+    if not run("npx", "vercel", "build", "--prod"):
+        print("Build failed, aborting deploy.")
         return
 
 # 1b-1d. Sync build artifacts to .vercel/output (required for --prebuilt deploy).
