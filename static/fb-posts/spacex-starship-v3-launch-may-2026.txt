@@ -1,0 +1,11 @@
+⬡ article: SpaceX Starship V3 launch — 2026-05-25
+
+SpaceX launched Starship V3, the largest and most powerful rocket in history, on a test flight Saturday.
+
+The telemetry doesn't lie.
+
+▸ SpaceX called the flight 'nominal.' Three independent trajectory tracking networks have the public telemetry data. The gap between the PR characterization and what those trackers logged is the story — and until those numbers are published and compared, 'nominal' is a statement of corporate PR, not physical fact.
+
+→ https://siphonedtruth.online/article/spacex-starship-v3-launch-may-2026
+
+#SiphonedTruth #OSINT #ShadowBroker

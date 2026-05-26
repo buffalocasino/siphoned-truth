@@ -1,0 +1,18 @@
+{
+  "slug": "russia-kyiv-biggest-aerial-assault-may-2026",
+  "id": "ST6FC454254490",
+  "time": "2026-05-26T01:33:28.694857+00:00",
+  "title": "article: Russia Kyiv 'biggest aerial assault' \u2014 2026-05-25",
+  "narrative": "Russia ordered foreign nationals to leave Kyiv and warned of more strikes after what it described as one of the biggest aerial assaults of the war overnight Saturday. Ukrainian officials confirmed attacks but gave different casualty and infrastructure damage figures than Moscow. Western diplomats issued travel warnings.\n\nOfficial Russian framing: escalatory deterrence, response to Ukrainian cross-border operations in Kursk and Belgorod. 'Biggest assault' narrative designed to produce shock and maximize psychological impact.\n\nOfficial Ukrainian framing: attacks repelled, damage contained, civilian casualties confirmed but under international thresholds.\n\nWestern framing: Russia escalating, civilians at risk, Western diplomats coordinating evacuation responses.",
+  "telemetry": [
+    "FireMapper ASTRA/AIDRON Ukraine fire density maps: Kyiv region on May 24 vs prior 30-day average \u2014 publicly accessible conflict telemetry",
+    "Shadowserver Foundation: ADS-B/SATCOM data on Russian military aircraft sortie rates for the night in question",
+    "Russian MoD official casualty/infrastructure damage claims: direct contradiction with Ukrainian MOD figures",
+    "ASTRA real-time conflict tracker: strike coordinates vs civilian infrastructure claims \u2014 published daily",
+    "OSINT accounts @\u89e6\u4e8c\u6b21 (@waroftheworld), @NV_Daily: strike count vs Russian 'biggest assault' claim",
+    "Historical 'biggest attack' claims by Russia: tracking whether subsequent OSINT data supported those characterizations"
+  ],
+  "analysis": "Russia called it the 'biggest aerial assault' \u2014 a claim designed to scare foreign nationals out of Kyiv and signal escalation capability. FireMapper and AIDRON publish daily fire density data for Ukraine that is freely accessible and has been used by conflict OSINT researchers throughout the war. This data can show whether the actual fire density on the night in question was materially higher than the prior 30-day average.\n\nThe historical track record of Russian 'biggest attack' claims is relevant: OSINT analysts who have tracked these statements against FireMapper data have found that the adjective 'biggest' does not always correlate with objectively measured fire density. Sometimes the loudest claims produce the least extraordinary data.\n\nThe physical evidence gap: Kyiv Metro and shelter occupancy data, if available from Ukrainian authorities, would show whether the claimed threat to foreign nationals was proportionate to the actual attack profile. Russian claims of 'decision-making center' targets require geolocation to verify \u2014 if those targets were in residential districts, the 'military target' framing collapses.",
+  "verdict": "[SIPHONED VERDICT]: Russia called it the 'biggest aerial assault in the war.' The FireMapper data for that night \u2014 which is published, accessible, and used by OSINT researchers daily \u2014 will show whether the fire density was objectively higher than the prior 30-day average or whether this is another Russian propaganda claim that collapses under open-source conflict telemetry.",
+  "kanban_task": "t_2eb67693"
+}

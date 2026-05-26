@@ -33,6 +33,9 @@
 	<meta property="og:title" content="The Siphoned Truth" />
 	<meta property="og:description" content="Adversarial synthesis of elite deception via raw OSINT telemetry" />
 	<meta property="og:url" content="https://siphonedtruth.online" />
+	<meta property="og:image" content="https://siphonedtruth.online/og-default.jpg" />
+	<meta property="og:image:width" content="1280" />
+	<meta property="og:image:height" content="720" />
 	<meta name="twitter:card" content="summary_large_image" />
 	<meta name="twitter:site" content="@_Norvell_" />
 	<link rel="canonical" href="https://siphonedtruth.online" />

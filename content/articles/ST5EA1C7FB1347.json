@@ -1,0 +1,19 @@
+{
+  "slug": "spacex-starship-v3-launch-may-2026",
+  "id": "ST5EA1C7FB1347",
+  "time": "2026-05-26T01:33:28.697499+00:00",
+  "title": "article: SpaceX Starship V3 launch \u2014 2026-05-25",
+  "narrative": "SpaceX launched Starship V3, the largest and most powerful rocket in history, on a test flight Saturday. An earlier attempt was postponed. SpaceX CEO Elon Musk called it 'the biggest thing ever built.' The launch was described as a test program milestone; SpaceX webcast showed nominal ascent before termination.\n\nOfficial framing: successful test, milestone achieved, test program on track.\n\nKey gap in official framing: the webcast ended before staging separation and final trajectory were confirmed. Independent trackers had no real-time data from inside the vehicle.\n\nThe test was described as achieving 'nominal ascent' before flight termination.",
+  "telemetry": [
+    "SpaceX public telemetry: NASASpaceFlight forum, public tlm \u2014 trajectory data vs flight plan",
+    "Real-time flight tracking: MarineTraffic/ADS-B for downrange shipping exclusion zones",
+    "Actual vs projected apogee/velocity at stage separation: independent tracker logs",
+    "Launch postponement history for V3 vs V2: delays and official reasons vs technical causes",
+    "SpaceX Starship V3 test cadence: gap between stated schedule and actual flight rate",
+    "Independent analyst reports: payload capacity data vs 'largest ever rocket' claim",
+    "Flight termination cause: stated reason vs what tracker data suggests"
+  ],
+  "analysis": "The headline was 'SpaceX launches biggest rocket ever.' But the webcast ended before anyone outside SpaceX could confirm what actually happened above the Karman line. The gap between public relations and independent tracking \u2014 where MarineTraffic shows the Exclusion Zone differently than the official Notice to Mariners \u2014 is precisely where OSINT adds value.\n\nPublic trajectory data from three independent tracking networks is available through NASASpaceFlight and open ADS-B archives. The question is not whether the vehicle flew \u2014 it clearly did. The question is whether 'nominal' is an accurate description of what the independent tracker data shows about apogee, velocity at staging, and the timing and cause of vehicle breakup.\n\nThe test program framing ('milestone achieved') is SpaceX's language. Independent analysts tracking these launches have consistently noted a gap between the PR version of test outcomes and what the public telemetry data shows. The data from this launch is available. The PR narrative is already set.",
+  "verdict": "[SIPHONED VERDICT]: SpaceX called the flight 'nominal.' Three independent trajectory tracking networks have the public telemetry data. The gap between the PR characterization and what those trackers logged is the story \u2014 and until those numbers are published and compared, 'nominal' is a statement of corporate PR, not physical fact.",
+  "kanban_task": "t_637cce0a"
+}

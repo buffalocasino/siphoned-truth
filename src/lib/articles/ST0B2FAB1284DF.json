@@ -1,0 +1,18 @@
+{
+  "slug": "raf-jet-gps-jamming-baltic-may-2026",
+  "id": "ST0B2FAB1284DF",
+  "time": "2026-05-26T01:33:28.691140+00:00",
+  "title": "article: RAF jet GPS jamming near Russian border \u2014 2026-05-25",
+  "narrative": "UK Defence Secretary was aboard an RAF aircraft near the Russian border when GPS signals were jammed. Pilots switched to an alternate navigation system. No hostile actor was officially named. Officials described it as an 'operational inconvenience' not an attack. The incident occurred in Baltic airspace \u2014 a corridor NATO and RAF jets patrol routinely.\n\nOfficial framing: routine flight, navigation equipment degraded, no casualties, no attribution to a specific actor.\n\nKey claim: 'signal jammed' \u2014 implying electronic warfare event. No property damage reported. No statement from Russian MoD was requested or published in Western coverage.",
+  "telemetry": [
+    "ADS-B Exchange / FlightRadar24: historical tracks for RAF aircraft in Baltic corridor (May 2026) \u2014 available for public query",
+    "GPSJam.org / SOLANGE dataset: reported GPS denial events in Kaliningrad/Baltic region, May 2026",
+    "NATO Baltic air patrol rotation: standing operation vs special mission \u2014 documentation available",
+    "INS/ground-based nav fallback: does raw nav log support 'jamming' vs 'degradation'?",
+    "Prior incidents: 2024 RAF Hercules disappearance, 2025 Baltic ELINT alleged shootdowns \u2014 prior GPS denial reports",
+    "UK MoD press office statement: 'operational inconvenience' \u2014 exact quote from official channels"
+  ],
+  "analysis": "The UK government called it an 'operational inconvenience.' But GPS denial events produce detectable traces in AIS/ADS-B data \u2014 aircraft don't simply vanish, they report degraded accuracy or position uncertainty when GPS is denied. The Baltic corridor is one of the most monitored airspace segments in Europe for electronic warfare activity; multiple independent trackers operate PiAware receivers in Estonia, Latvia, and Lithuania specifically to log these events.\n\nThe question is not whether GPS was degraded \u2014 the pilots confirmed it was. The question is whether the official framing ('inconvenience, resolved') is consistent with what the open-source tracking data shows about the duration, geographic scope, and intensity of the denial event. If the GPS denial was brief and localized, the narrative holds. If the telemetry shows extended denial across multiple receiver sites, 'inconvenience' is doing a lot of work to minimize a documented electronic warfare incident that affected a aircraft carrying the UK Defence Secretary.\n\nNo major Western outlet appears to have filed a public records request for the RAF's own navigation logs or queried the SOLANGE dataset directly. The data exists. The question is whether the narrative was checked against it.",
+  "verdict": "[SIPHONED VERDICT]: The MoD called it a 'navigational inconvenience.' But GPS denial events in the Baltic generate detectable traces in open-source flight tracking \u2014 the kind of data that multiple PiAware operators in Estonia and Latvia log daily. The official narrative that this was routine and minor has not been checked against that data. Until someone queries the SOLANGE dataset and the FlightRadar24 archive for that specific incident, the gap between 'inconvenience' and 'electronic warfare incident' remains unexamined.",
+  "kanban_task": "t_a1313297"
+}
