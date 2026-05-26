@@ -1,0 +1,12 @@
+{
+  "id": "iran-internet-restored-partial-2026",
+  "slug": "iran-says-internet-restored-routing-data-says-state-only",
+  "title": "Iran Says Internet Restored. The Routing Data Says Otherwise.",
+  "narrative": "On May 26, 2026, Iranian government spokespersons announced that \"internet services have been fully restored\" following the February cyberattacks that disrupted connectivity across most of the country. The announcement was carried by IRNA and cited by the Communications Regulatory Authority as a triumph of \"national infrastructure resilience.\" Cloudflare's traffic dashboard for Iran told a different story.",
+  "telemetry": "- Cloudflare Traffic graph for Iran shows outbound traffic at approximately 18% of pre-conflict baseline as of May 26, 2026\n- Routing data (RIPE RIS, RouteViews) shows only 3 of Iran's 22 announced AS numbers back online, all belonging to state-controlled ISPs (ITC, Dade Pardazesh Fanavari, Informatics Services Corporation)\n- Bandwidth capacity on restored routes is capped at approximately 2 Gbps; pre-conflict Iranian backbone peak was 18 Gbps\n- Tor obfs4 bridge availability for Iran remains at near-zero since February 2026 \u2014 circumvention tools still cannot establish outbound connections\n- Cloudflare Radar shows Iranian IP prefix announcements at 22% of pre-conflict levels, with the missing prefixes belonging to private ISPs (Shatel, Asiatech, Pishgaman)",
+  "analysis": "\"Restoration\" is the official word. The technical picture is partial, state-filtered, and capacity-constrained. The 82% traffic gap, the absent private ISPs, the still-blocked circumvention tools \u2014 none of these are consistent with a full restoration. What Iran has restored is a government-controlled internet for consumers who cannot reach outside services.",
+  "verdict": "[SIPHONED VERDICT]: Iran says the internet is back. The routing data says only the state's ISPs are connected, private networks remain dark, and total traffic is at 18% of normal \u2014 that is not restoration, that is a intranet.",
+  "content": "",
+  "time": "2026-05-26T18:04:14.692145+00:00",
+  "task_id": "t_2d102b4b"
+}

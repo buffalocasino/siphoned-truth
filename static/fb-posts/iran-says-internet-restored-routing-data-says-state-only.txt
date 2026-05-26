@@ -1,0 +1,11 @@
+⬡ Iran Says Internet Restored. The Routing Data Says Otherwise.
+
+On May 26, 2026, Iranian government spokespersons announced that "internet services have been fully restored" following the February cyberattacks that disrupted connectivity across most of the country.
+
+The telemetry doesn't lie.
+
+▸ Iran says the internet is back. The routing data says only the state's ISPs are connected, private networks remain dark, and total traffic is at 18% of normal — that is not restoration, that is a intranet.
+
+→ https://siphonedtruth.online/article/iran-says-internet-restored-routing-data-says-state-only
+
+#SiphonedTruth #OSINT #ShadowBroker
