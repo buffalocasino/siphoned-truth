@@ -1,0 +1,18 @@
+{
+  "slug": "st-drcongod",
+  "id": "STDRCONGOD1E2",
+  "time": "2026-05-27T14:11:52.907032+00:00",
+  "title": "dr-congo-ebola-m23-conflict-rwanda-role-may-2026",
+  "narrative": "WHO Director-General Tedros Adhanom Ghebreyesus warned on May 27 that DR Congo faces a 'catastrophic collision' of Ebola and armed conflict. The WHO stated that fighting \u2014 specifically M23 militia activity in North Kivu \u2014 is hampering Ebola response efforts. WHO said stopping transmission 'depends entirely on humanitarian access.' Both the Ebola outbreak and the M23 conflict are independently documented; their intersection is presented as a humanitarian crisis requiring aid access, with the implication that the international community must act to guarantee that access.",
+  "telemetry": [
+    "BBC World (May 27): WHO chief warns of 'catastrophic collision' \u2014 fighting in DR Congo hampering Ebola response",
+    "Al Jazeera (May 27): Same WHO warning, citing M23 militia and North Kivu conflict zone as access barrier",
+    "M23 militia: Rwanda-backed rebel group controlling significant territory in North Kivu since 2022-2024",
+    "UN and African Union forces have failed to dislodge M23 \u2014 documented UN expert assessments since 2022",
+    "Current Ebola outbreak is in M23-controlled North Kivu territory \u2014 preventing WHO and MSF access",
+    "Western media framing: names M23, names North Kivu, rarely names Rwanda as the backing power"
+  ],
+  "analysis": "The WHO warning frames this as a natural disaster + conflict intersection, but the conflict is a political choice \u2014 Rwanda's support for M23 has been documented by UN experts since 2022. The humanitarian access problem is not an accident; it's the consequence of choosing not to press Rwanda diplomatically while publicly naming the health consequences. Naming the disease without naming the structural cause is a diplomatic compromise that works \u2014 it generates donations and attention \u2014 while leaving the cause untouched.",
+  "verdict": "[SIPHONED VERDICT]: The WHO's alarm at M23-conflict-driven Ebola spread is legitimate, but naming the disease while omitting Rwanda's role in creating the access problem is a diplomatic compromise that leaves the structural cause unaddressed.",
+  "kanban_task": "t_44f4e8e6"
+}

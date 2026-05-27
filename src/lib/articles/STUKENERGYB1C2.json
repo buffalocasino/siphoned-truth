@@ -1,0 +1,17 @@
+{
+  "slug": "st-ukenergyb",
+  "id": "STUKENERGYB1C2",
+  "time": "2026-05-27T14:11:52.906918+00:00",
+  "title": "uk-energy-bills-iran-war-221-pounds-may-2026",
+  "narrative": "BBC Business reported on May 27 that UK household energy bills will rise by \u00a3221/year due to the 'impact of the Iran war.' The UK energy regulator Ofgem raised the price cap citing oil and gas market disruption from US-Iran hostilities. This follows BBC Business reporting on May 25 that 'oil prices slide on hopes of US-Iran peace deal' \u2014 the market priced in the ceasefire while UK consumers absorb the real-world cost of the actual conflict.",
+  "telemetry": [
+    "BBC Business (May 25): 'Oil prices slide on hopes of US-Iran peace deal' \u2014 Brent crude fell on ceasefire announcement",
+    "BBC Business (May 27): 'Energy bills to rise for millions as impact of Iran war hits' \u2014 Ofgem price cap up 13%, \u00a3221/year from July 1",
+    "Ofgem price cap increase effective July 1, 2026 \u2014 reflecting oil and gas market disruption from US-Iran hostilities since April 2026",
+    "The timing: Ofgem's cap increase is retroactive to July 1 \u2014 consumers absorb the actual conflict cost, not the ceasefire cost",
+    "Oil prices slid on ceasefire announcement \u2014 energy traders profited from the narrative; UK households pay the real cost through the price cap"
+  ],
+  "analysis": "UK consumers are paying \u00a3221/year more as a direct result of the US-Iran conflict, but the political narrative frames the crisis as resolved by diplomacy while bills keep coming. The ceasefire announcement caused oil prices to slide \u2014 benefiting energy traders \u2014 while the price cap rise hit consumers retroactively. The gap between the diplomatic narrative and the economic reality is not a messaging failure; it's the message.",
+  "verdict": "[SIPHONED VERDICT]: The ceasefire narrative is priced into energy markets and trader profits, but the war's economic consequences continue to be paid by UK households through July price cap increases that reflect the actual conflict, not the peace announcement.",
+  "kanban_task": "t_59802d16"
+}
