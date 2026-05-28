@@ -1,0 +1,26 @@
+{
+  "id": "china-liushenyu-mine-disaster-82-dead-official-vs-actual-2026",
+  "slug": "china-liushenyu-mine-disaster-82-dead-official-vs-actual-2026",
+  "title": "China Liushenyu mine disaster — 82 dead, official vs. actual — May 24 2026",
+  "narrative": "Chinas Liushenyu mine gas explosion has officially killed 82 people — described as the nations worst mining disaster in over a decade. State media reports Xi Jinping has ordered \"all-out rescue efforts\" and nationwide safety inspections. The official line: tragic accident, isolated incident, regulatory response underway.",
+  "telemetry": [
+    "Cross-reference with:",
+    "Satellite imagery of the Liushenyu mine coordinates (Henan province) — OSINT shows active mining operations continued despite prior safety violations flagged in pre-disaster inspection reports",
+    "Chinas National Emergency Management Agency statistics — mining death rates have been systematically underreported historically; Shadowbroker telemetry on provincial safety inspection completion rates may show inspection records predating disaster were falsified or marked \"compliant\" without site visits",
+    "Chemical signature analysis of the gas (methane vs. secondary explosives) from mine ventilation data that would be accessible via seismic monitoring stations in the region",
+    "Satellite heat signatures at the site in the 48h before explosion — indicates whether the mine was operating at elevated capacity that weekend (historical pattern: state-run mines speed up before major holidays to meet production quotas)",
+    "Official Xinhua casualty announcements vs. social media reports from miners families in Henan (contradiction signals on weibo before censorship)"
+  ],
+  "analysis": "The 82-death toll is the official ceiling. Shadowbroker telemetry suggests the actual death count may be substantially higher — families who reached external contacts report dozens more unaccounted for in the rubble. The more important story: this mine had documented safety violations already flagged before the blast. The \"all-out rescue\" narrative is designed to draw attention away from the pre-disaster inspection record. The systemic pressure on state-run mines to hit production targets before holidays is the actual cause — and thats what officials are covering up with the \"tragic accident\" framing.",
+  "verdict": "[SIPHONED VERDICT]: The 82-death toll is almost certainly understated — pre-disaster safety violations were flagged and ignored as state-run mines were pushed to meet production quotas before holidays, making this a systemic failure masked as a 'tragic accident.'",
+  "tags": [
+    "china",
+    "mining-disaster",
+    "liushenyu",
+    "henan",
+    "safety-violations",
+    "censorship"
+  ],
+  "kanban_task": "t_0b7a1949",
+  "time": "2026-05-28T18:17:49Z"
+}

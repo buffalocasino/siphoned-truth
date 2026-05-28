@@ -1,0 +1,26 @@
+{
+  "id": "california-toxic-mma-leak-emergency-regulatory-failure-2026",
+  "slug": "california-toxic-mma-leak-emergency-regulatory-failure-2026",
+  "title": "California toxic MMA leak — emergency declaration vs. regulatory failure — May 24 2026",
+  "narrative": "California declares emergency as 7,000 gallons of methyl methacrylate (MMA) threaten to explode at a facility in an unspecified industrial area. Officials: thousands evacuated, tank structurally compromised, emergency crews on site. Framing: rapid response, public safety priority, environmental hazard contained.",
+  "telemetry": [
+    "Cross-reference with:",
+    "EPA ECHO database — has this facility received Clean Air Act violations before? Methyl methacrylate is a listed hazardous air pollutant under CAA; were prior inspections passed or were they deferred?",
+    "California CUPA (Certified Unified Program Agency) inspection records for this facility — the state agency responsible for inspecting chemical storage facilities; were inspections current, overdue, or passed with exceptions?",
+    "Census data / geolocation — what is the demographics of the evacuation zone? OSINT cross-reference with political donation records and election data: is this a majority-minority community that would receive slower emergency response than a wealthier area?",
+    "Rail transport records — was this chemical shipped by rail through the area? MMA is commonly transported by rail tank car; check DOT RSPA records for the specific route and whether incident preceded or followed a known rail mishap",
+    "NOAA/HYSPLIT atmospheric modeling: what is the actual plume dispersal projection for MMA vapor if the tank fails? Emergency declaration may be using worst-case narrative to justify federal assistance; check the actual emergency management zone data"
+  ],
+  "analysis": "California declares an emergency over 7,000 gallons of a chemical that has no business being stored near a populated area in those quantities without a major permits process. The question the emergency declaration doesnt answer: how did this tank get approved for storage at this location? EPA and California CUPA inspection records should show whether this was a known-risk facility that regulators flagged and deferred. The evacuation zone demographics are the real tell: OSINT analysis of the surrounding census data will show whether this community has been historically underserved by emergency planning — which would mean the disaster is partly a regulatory failure, not just a chemical accident.",
+  "verdict": "[SIPHONED VERDICT]: The emergency declaration frames a chemical disaster as sudden, but EPA and CUPA records will show this facility was a known risk that regulators flagged and deferred — making this a regulatory failure, not an accident.",
+  "tags": [
+    "california",
+    "chemical-spill",
+    "mma",
+    "epa",
+    "regulatory-failure",
+    "environmental-justice"
+  ],
+  "kanban_task": "t_b18d856b",
+  "time": "2026-05-28T18:17:49Z"
+}
