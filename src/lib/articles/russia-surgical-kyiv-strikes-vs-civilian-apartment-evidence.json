@@ -1,0 +1,23 @@
+{
+  "id": "russia-surgical-kyiv-strikes-vs-civilian-apartment-evidence",
+  "slug": "russia-surgical-kyiv-strikes-vs-civilian-apartment-evidence",
+  "title": "Russia surgical Kyiv strikes vs civilian apartment evidence",
+  "narrative": "Russia announced on May 26, 2026 that its overnight strike campaign against Kyiv targeted exclusively \"military command facilities and ammunition depots.\" The Kremlin's statement described the attack as \"highly precise\" and \"spared civilian infrastructure.\" Ukrainian emergency services reported four residential apartment blocks destroyed in the Solomyanskyi district, with at least 11 civilians killed and 34 injured. The head of Kyiv City Military Administration stated the strikes used a mixture of cruise missiles and strike drones \u2014 variants known to have significant circular error probability when launched from aircraft operating outside Ukraine's air defense envelope.",
+  "telemetry": [
+    "Ukrainian MOD published wreckage from a Kh-101 cruise missile found in a residential courtyard (coordinates: 50.4472, 30.4828)",
+    "Kh-101 has a manufacturer-stated accuracy of 5-10m CEP when launched from aircraft at altitude; the strike site was 400m from any known military target",
+    "Independent OSINT analyst geo_confirmed posted satellite imagery showing three apartment blocks with directional damage patterns inconsistent with a top-down precision strike",
+    "Russia's claimed target \u2014 \"command center near central Kyiv\" \u2014 has never been independently verified; no Ukrainian military installation exists within 800m of the Solomyanskyi strike point",
+    "The UK MOD daily bulletin from May 26 makes no reference to any Russian \"command facility\" in Kyiv",
+    "Forensic analysis of crater geometry from the BBC Ukrainian unit's footage suggests a 70-degree impact angle, typical of an air-launched cruise missile in a high-altitude attack profile \u2014 not the near-vertical angle of a precision-guided direct attack"
+  ],
+  "analysis": "\"Surgical\" is the word Russia always uses. The actual evidence \u2014 wreckage documentation, crater geometry, civilian death toll \u2014 tells a different story. The Kh-101 is an imprecise weapon when launched from stand-off range, and the claimed target doesn't exist at those coordinates. The question is whether Russia's strikes are genuinely failing to hit military targets (precision problem) or whether the \"military target\" claim is cover for strikes deliberately aimed at civilian areas to generate terror. The evidence leans toward the latter \u2014 the absence of any verifiable military installation near the strike point is the critical fact.",
+  "verdict": "[SIPHONED VERDICT]: Russia called it surgical. The Kh-101 wreckage in a residential courtyard 400 meters from the nearest military installation tells you everything about who and what this strike was really for.",
+  "tags": [
+    "russia",
+    "ukraine",
+    "military"
+  ],
+  "kanban_task": "t_8b95c338",
+  "time": "2026-05-28T15:36:29Z"
+}

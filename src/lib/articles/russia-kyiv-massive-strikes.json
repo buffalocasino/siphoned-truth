@@ -1,0 +1,26 @@
+{
+  "id": "russia-kyiv-massive-strikes",
+  "slug": "russia-kyiv-massive-strikes",
+  "title": "Russia Kyiv massive strikes",
+  "narrative": "Russia launched one of the largest aerial assaults on Kyiv since the war began on Saturday night May 25, 2026 \u2014 using ballistic missiles, cruise missiles, hundreds of drones, and a hypersonic nuclear-capable Oreshnik missile against Bila Tserkva (90km south of Kyiv). The attack killed 4 and injured ~100. Simultaneously, Russia issued a diplomatic warning to foreign nationals and diplomats to leave Kyiv \"as soon as possible,\" threatening \"systematic strikes\" on decision-making centres and drone manufacturing facilities. Ukraine called it \"shameless blackmail.\" Russia cited this as response to what it claimed was a Ukrainian strike on a student dormitory in Starobilsk (Russian-occupied territory) on Friday, killing 21. Ukraine says its forces struck an elite Russian drone unit (Rubicon), not civilians. Non-military targets \u2014 the Chernobyl Museum and National Art Museum of Ukraine \u2014 were damaged or destroyed. A shopping centre and market in Lukanivka were also destroyed.",
+  "telemetry": [
+    "Saturday night attack: \"dozens of ballistic and cruise missiles, hundreds of drones, one Oreshnik hypersonic missile\" \u2014 Russia's description",
+    "Oreshnik target: Bila Tserkva, 90km south of Kyiv \u2014 hypersonic, nuclear-capable, no air defence can intercept it",
+    "Civilian toll: 4 killed, ~100 injured in Kyiv; 18 killed in Starobilsk (occupied territory strike)",
+    "Russia's justification: \"deliberate Ukrainian attack on student dormitory in Starobilsk\" \u2014 21 dead",
+    "Ukraine's rebuttal: struck elite Russian Rubicon drone unit in Russian-occupied territory, not civilians",
+    "Key contradiction: Russia says it warned diplomats to leave because of intimidation, but simultaneously says strikes target \"decision-making centres and command posts\" \u2014 these ARE in central Kyiv where embassies are located",
+    "Non-military destroyed: Chernobyl Museum (historic district), National Art Museum of Ukraine, shopping centre, market, residential \u2014 BBC confirmed",
+    "Ukraine says Russia has carried out large strikes \"virtually every week\" since war began \u2014 the warning to foreigners is not new",
+    "Rubio on phone with Lavrov: said strikes remind \"why this is a terrible war\" \u2014 US acknowledged Russia's justification call"
+  ],
+  "analysis": "Russia claims its Saturday attack was proportional retaliation for Ukrainian strikes on a student dormitory in Starobilsk. But Ukraine says its target was an elite drone unit (Rubicon) in occupied territory. The Oreshnik hypersonic missile \u2014 which cannot be intercepted by any Western air defence \u2014 was used against a civilian area 90km from the front lines, not a military base. The Chernobyl Museum and National Art Museum were also destroyed. Meanwhile Russia simultaneously warned foreign diplomats to leave Kyiv and announced strikes on \"decision-making centres\" \u2014 which are in the same central Kyiv district where embassies sit. Examine whether satellite imagery or OSINT confirms the nature of the Starobilsk \"dormitory\" vs the Rubicon drone unit claim. The pattern of hypersonic weapons against civilian cultural sites while simultaneously warning diplomats to evacuate suggests a coordinated intimidation campaign, not proportional military response.",
+  "verdict": "[SIPHONED VERDICT]: Russia used an unmappable hypersonic missile against a civilian city 90km from any front line, while simultaneously warning diplomats to evacuate \u2014 the strike was designed to terrorize, not to target military infrastructure.",
+  "tags": [
+    "russia",
+    "ukraine",
+    "military"
+  ],
+  "kanban_task": "t_b571c0b4",
+  "time": "2026-05-28T15:36:29Z"
+}

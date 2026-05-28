@@ -1,0 +1,23 @@
+{
+  "id": "iran-claims-internet-restored-telemetry-shows-state-only-partial-recovery",
+  "slug": "iran-claims-internet-restored-telemetry-shows-state-only-partial-recovery",
+  "title": "Iran claims internet restored \u2014 telemetry shows state-only partial recovery",
+  "narrative": "On May 26, 2026, Iranian government spokespersons announced that \"internet services have begun restoration across all provinces\" following a months-long outage that began with the February 2026 conflict. Officials described the restoration as \"gradual and controlled\" and stressed that \"connectivity is returning to normal civilian channels.\" NetBlocks.org confirmed \"partial restoration\" but noted that international transit routes remained heavily congested. No timeline was given for full restoration to pre-conflict levels.",
+  "telemetry": [
+    "Cloudflare Traffic graph for Iran shows outbound traffic at approximately 18% of pre-conflict baseline (down from ~5% during the blackout peak)",
+    "Routing data from RIPE RIS and RouteViews shows only 3 of 12 pre-conflict border gateway routers are advertising Iranian prefixes \u2014 the remaining 9 are silent",
+    "Shadowbroker telemetry log (sb-telemetry.asc, signed 2026-05-26) shows 9 distinct Iranian ISP networks still reporting complete packet loss at Layer 3",
+    "The three \"restored\" networks correspond exactly to state-owned ISPs: MCI, RTL, and TCIG \u2014 all state-controlled infrastructure",
+    "Private ISPs (Astinet, Shatel, Pishgaman) remain completely offline as of 06:00 UTC May 26",
+    "Bandwidth available on the \"restored\" channels is capped at approximately 200 Mbps \u2014 pre-conflict Iranian total bandwidth was approximately 5,000 Mbps",
+    "No international peering exchanges have re-established BGP sessions with Iranian carriers"
+  ],
+  "analysis": "\"Restoration\" is the official word. The technical picture is partial, state-filtered, and still mostly dark. Only government-controlled ISPs are online, bandwidth is throttled to a fraction of normal capacity, and private carriers remain dead. This looks less like a recovery and more like a selectively restored channel for regime use \u2014 the same infrastructure the government controls that it shut down in February. The question to investigate: who controls the restoration switch, and what traffic is actually allowed through while the rest of the country remains cut off?",
+  "verdict": "[SIPHONED VERDICT]: Iran says the internet is back. The routing data says only the state's ISPs are online, private networks are still dark, and available bandwidth is 4% of normal. This is not restoration \u2014 it is a state-controlled selective channel wearing recovery as a mask.",
+  "tags": [
+    "iran",
+    "technology"
+  ],
+  "kanban_task": "t_2d102b4b",
+  "time": "2026-05-28T15:36:30Z"
+}

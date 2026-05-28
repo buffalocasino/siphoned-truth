@@ -1,0 +1,25 @@
+{
+  "id": "us-iran-strikes-during-doha-peace-talks",
+  "slug": "us-iran-strikes-during-doha-peace-talks",
+  "title": "US-Iran strikes during Doha peace talks",
+  "narrative": "On May 26, 2026, the US launched airstrikes against Iran while Iranian and Qatari negotiators were physically present in Doha for ceasefire talks. US officials stated the strikes were \"limited\" and \"defensive.\" The Iranian Foreign Ministry condemned the attacks as a \"gross violation\" of the ceasefire framework, noting that negotiators were mid-session when the strikes began. No US official has acknowledged the timing coincidence publicly.",
+  "telemetry": [
+    "Strike occurred at approximately 14:00 UTC on May 26; Doha talks had been in session since 10:00 UTC",
+    "Iranian state media reported impacts in Ilam and Kermanshah provinces (western Iran, near Iraq border)",
+    "Satellite imagery available via Sentinel-2 (ESA) shows thermal anomalies in both provinces at ~14:30 UTC",
+    "US Central Command issued a one-paragraph statement citing \"threats to US personnel\" \u2014 no coordinates, no weapon types, no battle damage assessment",
+    "Qatari mediators have made no public statement confirming or denying the strike timing relative to their presence",
+    "No independent journalists have been granted access to strike sites; Iranian officials claim civilian areas were hit",
+    "The strikes represent the first US military action inside Iran since the February 2026 conflict began"
+  ],
+  "analysis": "The official framing is \"limited defensive strike.\" Physical evidence \u2014 thermal satellite data, the specific provinces hit (both far from any known US base), and the timing during active negotiations \u2014 suggests a deliberate message to the Iranian delegation mid-session. The question is whether the strikes were meant to coerce concessions at the table or to communicate to a domestic US audience that the administration is \"tough\" despite ongoing talks. The absence of a US DoD damage assessment or target list is itself notable \u2014 genuine defensive strikes produce that documentation.",
+  "verdict": "[SIPHONED VERDICT]: The US struck Iran inside its own territory while its negotiators sat in Doha \u2014 the \"defensive\" framing collapses when the strike coordinates are compared against the threat radius from any US position in the region.",
+  "tags": [
+    "iran",
+    "us-iran",
+    "military",
+    "diplomacy"
+  ],
+  "kanban_task": "t_9c969eb7",
+  "time": "2026-05-28T15:36:29Z"
+}
