@@ -1,0 +1,26 @@
+{
+  "id": "us-iran-ceasefire-oil-markets-vs-diplomacy",
+  "slug": "us-iran-ceasefire-oil-markets-vs-diplomacy",
+  "title": "US-Iran ceasefire \u2014 oil markets vs. diplomacy",
+  "narrative": "BBC World Service (May 27, 2026): Trump stated the US is \"not satisfied\" with the Iran deal and doesn't have an agreement yet, despite saying Iran \"wants to reach a deal.\" Separately, BBC reported (May 26): Iran condemned US strikes as a \"gross violation of the ceasefire\" \u2014 attacks that occurred WHILE Iranian and Qatari negotiators were in Doha for peace talks. Meanwhile, oil prices slid on \"hopes\" of a US-Iran peace deal that would reopen the Strait of Hormuz.",
+  "telemetry": [
+    "May 26: US conducted strikes on Iranian targets while ceasefire was nominally active",
+    "Strikes occurred on the same day Iranian/Qatari negotiators were seated in Doha",
+    "Trump (May 27): \"we're not satisfied\" with Iran deal \u2014 contradicting earlier optimism",
+    "Strait of Hormuz: carries ~20% of global oil flow; \"reopening\" narrative implies current blockage",
+    "Physical contradiction: if peace deal would reopen Hormuz, current oil price slides make sense; but if strikes are ongoing and ceasefire is violated, the \"hope\" narrative is theater",
+    "Key question: Is oil falling because of ceasefire HOPES, or because demand destruction from strikes is lower than expected supply disruption?"
+  ],
+  "analysis": "The public narrative is diplomatic progress. The physical evidence \u2014 simultaneous strikes during active talks, oil markets pricing a Hormuz \"reopening\" that implies current closure \u2014 tells a different story. Someone is lying: either Iran (about wanting a deal) or the US (about pursuing one sincerely). The energy market is pricing a resolution that official statements don't support.",
+  "verdict": "[SIPHONED VERDICT]: Oil markets are pricing in a Hormuz \"reopening\" \u2014 which means the physical evidence confirms the Strait is currently impaired, contradicting the official narrative of a functioning ceasefire under negotiation.",
+  "tags": [
+    "iran",
+    "us-iran",
+    "ceasefire",
+    "energy",
+    "diplomacy",
+    "markets"
+  ],
+  "kanban_task": "t_83bb999b",
+  "time": "2026-05-28T15:32:07Z"
+}

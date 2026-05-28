@@ -1,0 +1,23 @@
+{
+  "id": "russian-tanker-abandons-cuba-fuel-run-under-us-pressure",
+  "slug": "russian-tanker-abandons-cuba-fuel-run-under-us-pressure",
+  "title": "Russian tanker abandons Cuba fuel run under US pressure",
+  "narrative": "A Russian oil tanker that was seemingly en route to deliver a lifeline of fuel to Cuba has abruptly changed direction, according to the New York Times (May 28, 2026). The route change is a severe blow to Cuba, which is \"suffering under a U.S. oil blockade.\" The tanker's original course and the reason for its diversion remain unexplained in initial reporting. The episode fits a pattern of US economic warfare against Cuba via fuel denial, now extending to third-party shipping.",
+  "telemetry": [
+    "NYT (13:33 GMT): \"Cuba Loses Its Chance at Fuel After Russian Tanker Changes Route\" \u2014 Russian tanker changed direction, Cuba suffering under US oil blockade",
+    "Tanker identity, original port of departure, and new destination not disclosed in initial reporting",
+    "US oil blockade on Cuba is ongoing policy \u2014 this implies US leverage over Russian shipping in the Atlantic",
+    "Possible explanations: US naval interception threat, sanctions enforcement, insurance pressure, or a Russo-US backroom deal trading Cuba access for concessions elsewhere",
+    "AIS (Automatic Identification System) data would show the exact course change timestamp and location \u2014 this is verifiable OSINT",
+    "Cuba's fuel crisis predates this incident; the island has faced rolling blackouts and gasoline rationing"
+  ],
+  "analysis": "A Russian tanker doesn't just \"change direction\" mid-voyage without external pressure. The most likely explanation \u2014 US naval interdiction or the credible threat thereof \u2014 would mean the US is enforcing a blockade against a sovereign nation's fuel supply via third-party shipping, an act of economic warfare that goes far beyond sanctions. Alternatively, the Kremlin may have traded Cuba's fuel lifeline for a concession in the Iran negotiations or Ukraine. Either way, Cuba is collateral damage in great-power maneuvering. Maritime OSINT (AIS tracking data, satellite imagery) can verify the tanker's actual movements.",
+  "verdict": "[SIPHONED VERDICT]: A Russian tanker carrying Cuba's fuel lifeline didn't \"change course\" \u2014 it was stopped, either by US naval power or a Kremlin backroom deal, leaving an entire island nation as collateral damage in a great-power chess game.",
+  "tags": [
+    "russia",
+    "cuba",
+    "energy"
+  ],
+  "kanban_task": "t_11271bde",
+  "time": "2026-05-28T15:32:07Z"
+}

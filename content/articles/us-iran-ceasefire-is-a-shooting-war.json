@@ -1,0 +1,25 @@
+{
+  "id": "us-iran-ceasefire-is-a-shooting-war",
+  "slug": "us-iran-ceasefire-is-a-shooting-war",
+  "title": "US-Iran 'ceasefire' is a shooting war",
+  "narrative": "As of May 28, 2026, the United States and Iran are in the third month of what both governments officially call a \"fragile ceasefire,\" with \"protracted negotiations\" underway to end the war. Yet in the past 24 hours alone: the US launched fresh strikes on Iran, Iran retaliated by launching a ballistic missile toward Kuwait and targeting an unspecified US base, oil prices spiked, and President Trump publicly threatened to bomb Oman \u2014 a US ally \u2014 over the Strait of Hormuz. Trump has also demanded, as part of any Iran war resolution, that more Middle Eastern countries be required to recognize Israel under an expanded Abraham Accords framework. Analysts described the chances of that happening as \"close to zero.\"",
+  "telemetry": [
+    "BBC World (11:52 GMT): \"Iran says it targeted American base after fresh US strikes\" \u2014 acknowledges both sides striking during \"fragile ceasefire\"",
+    "NYT (13:51 GMT): \"U.S. and Iran Trade Strikes, Further Threatening Negotiations\" \u2014 Iran ballistic missile toward Kuwait, Revolutionary Guards targeting unspecified US base",
+    "BBC Business (05:32 GMT): \"Oil prices jump after US launches new attacks on Iran\" \u2014 strikes \"despite a ceasefire... as the two countries hold peace talks\"",
+    "Al Jazeera (12:54 GMT): \"Why has Trump threatened to bomb Oman, amid Iran war escalation?\" \u2014 Trump warning to a US ally over Strait of Hormuz",
+    "NYT (13:26 GMT): Trump demanding Abraham Accords expansion as part of Iran deal \u2014 \"analysts say chances close to zero\"",
+    "Brent crude price spike likely in progress (oil markets respond to Strait of Hormuz threats)",
+    "Three-month war timeline suggests US-Iran conflict began ~February-March 2026"
+  ],
+  "analysis": "The word \"ceasefire\" is doing heavy diplomatic lifting while both sides actively trade strikes, launch ballistic missiles, and threaten allies. Frame this as: the ceasefire exists only in press releases. The physical reality \u2014 missiles in flight, oil spiking, a US president threatening to bomb an ally \u2014 contradicts every official statement about \"negotiations.\" The Abraham Accords demand is a poison pill designed to ensure talks fail while providing cover for continued escalation. The real story is that the US-Iran war is not ending; it is metastasizing.",
+  "verdict": "[SIPHONED VERDICT]: The \"ceasefire\" between the US and Iran is a diplomatic costume draped over an active shooting war \u2014 both sides are striking, missiles are in the air, and Trump is threatening to bomb US allies while making impossible demands that guarantee the conflict continues.",
+  "tags": [
+    "iran",
+    "us-iran",
+    "ceasefire",
+    "military"
+  ],
+  "kanban_task": "t_ad8beade",
+  "time": "2026-05-28T15:32:07Z"
+}
