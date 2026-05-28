@@ -1,0 +1,26 @@
+{
+  "slug": "st-guatemala-denies-us-strike-authorization",
+  "id": "ST-GUATEMALA-STRIKE-DENIAL-7E54728E",
+  "time": "2026-05-28T22:05:07Z",
+  "title": "Guatemala denies US strike authorization — sovereignty as PR — 2026-05-28",
+  "narrative": "On May 28, 2026, Al Jazeera reported that the Guatemalan government denied agreeing to US strikes against drug traffickers on its territory. President Bernardo Arevalo's government stated it \"requested security cooperation but did not approve US attacks.\" This follows a pattern of the US claiming partner authorization for unilateral military operations that the partner subsequently denies. The timing coincides with broader US regional security operations and the post-Iran-war recalibration of American military posture.",
+  "telemetry": [
+    "Guatemala President Arevalo explicitly: \"requested security cooperation but did not approve US attacks\" — the word \"attacks\" is theirs",
+    "The US framing (implied by the denial) is that operations were \"authorized\" or \"coordinated\"",
+    "Guatemala is a small Central American nation with limited leverage — the denial itself is the act of resistance",
+    "Pattern: US announces \"partnered\" operations → local government either stays silent or issues ambiguous statement → when pressed, denies authorization → US media moves on",
+    "Arevalo's government is relatively progressive; this denial puts him in direct conflict with Washington's narrative",
+    "Similar pattern seen in: Niger (2023-2024), Philippines (various), Pakistan (drone strikes era)",
+    "Physical evidence question: were US drones or aircraft actually operating in Guatemalan airspace? Flight tracking data would confirm or refute"
+  ],
+  "analysis": "This is the small-country playbook for resisting imperial narrative control — don't try to stop the operations, just refuse to grant them legitimacy. Arevalo's denial is carefully calibrated: \"we asked for cooperation, not attacks.\" It leaves room for continued security partnership while publicly rejecting the framing that Guatemala is a willing participant in US strikes on its own territory. Cross-reference Shadowbroker ADS-B/military transponder data for US aircraft near Guatemalan airspace, and any satellite imagery of operational sites.",
+  "verdict": "[SIPHONED VERDICT]: Guatemala's denial is the only weapon a small nation has against a superpower's narrative — and the US will ignore it completely.",
+  "tags": [
+    "iran",
+    "conflict",
+    "military",
+    "latin-america",
+    "sovereignty"
+  ],
+  "kanban_task": "t_7e54728e"
+}
