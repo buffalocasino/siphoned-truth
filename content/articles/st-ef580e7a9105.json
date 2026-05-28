@@ -1,0 +1,19 @@
+{
+  "id": "STEF580E7A9105",
+  "task_id": "t_208cf4c6",
+  "slug": "st-ef580e7a9105",
+  "title": "US-Iran ceasefire declared \u2014 strikes continue \u2014 May 28 2026",
+  "narrative": "US and Iranian officials have repeatedly stated that a ceasefire is in effect following three months of conflict, with Secretary of State announcing 'de-escalation achieved' and peace talks ongoing in Doha. The public narrative: the war is paused, negotiations are proceeding, both sides want a deal.",
+  "telemetry": [
+    "- BBC timestamped reports (May 28, 05:32 GMT): 'Oil prices jump after US launches new attacks on Iran' \u2014 strikes on missile sites and boats, described as 'self-defence'",
+    "- Iran says it targeted American base AFTER the US strikes (May 28, 11:52 GMT)",
+    "- Iran reports downing a US drone that 'entered Iranian airspace' \u2014 US has not denied this",
+    "- Strikes occurred WHILE Iranian and Qatari negotiators were in Doha for peace talks (BBC, May 26)",
+    "- Ceasefire was announced approximately 2 weeks prior per reporting; Iranian internet shutdown ended only days ago",
+    "If ceasefire is real, US strikes should have stopped. If ceasefire is real, Iran wouldn't be targeting US bases. The physical evidence (US strike timestamps, Iranian response, drone downing) directly contradicts the diplomatic narrative."
+  ],
+  "analysis": "The official narrative and the physical evidence are in direct conflict. The telemetry data \u2014 timestamped reports, evacuation orders, incident descriptions \u2014 contradict the packaged official framing. When you check the timestamps and scale data against the claims, the 'ceasefire holding' or 'accident contained' language evaporates.",
+  "verdict": "[SIPHONED VERDICT]: 'Ceasefire in Progress' vs. 'Strikes Continue' \u2014 who's lying, the diplomats or the generals? The public is being told the war is paused while every data point shows kinetic action ongoing. Frame as documentary evidence vs. official statement.",
+  "created_at": "2026-05-28T14:32:00Z",
+  "published_at": "2026-05-28T14:32:00Z"
+}
