@@ -1,0 +1,21 @@
+{
+  "id": "uk-energy-bills-iran-war",
+  "slug": "uk-energy-bills-iran-war",
+  "title": "UK energy bills Iran war",
+  "narrative": "BBC Business reported on May 27 that UK household energy bills will rise by \u00a3221/year due to the \"impact of the Iran war.\" The UK energy regulator Ofgem raised the price cap citing oil and gas market disruption from US-Iran hostilities. This follows BBC Business reporting on May 25 that \"oil prices slide on hopes of US-Iran peace deal\" \u2014 the market priced in the ceasefire while UK consumers absorb the real-world cost of the actual conflict.",
+  "telemetry": [
+    "BBC Business (May 25): \"Oil prices slide on hopes of US-Iran peace deal\" \u2014 Brent crude fell on ceasefire announcement",
+    "BBC Business (May 27): \"Energy bills to rise for millions as impact of Iran war hits\" \u2014 Ofgem price cap up 13%, \u00a3221/year from July 1",
+    "The timing: Ofgem's cap increase is effective July 1 \u2014 the war has been ongoing since April 2026; the cost impact is hitting consumer bills retroactively",
+    "The contradiction: UK government publicly supported ceasefire talks while conflict drove up energy costs. The narrative of diplomatic progress masked the sustained economic toll on domestic consumers."
+  ],
+  "analysis": "UK consumers are paying \u00a3221/year more as a direct result of the US-Iran conflict, but the political narrative frames the crisis as resolved by diplomacy while bills keep coming. The ceasefire announcement caused oil prices to slide \u2014 benefiting energy traders \u2014 while the price cap rise hit consumers retroactively.",
+  "verdict": "[SIPHONED VERDICT]: The ceasefire narrative is priced into energy markets and trader profits, but the war's economic consequences continue to be paid by UK households through July price cap increases that reflect the actual conflict, not the peace announcement.",
+  "tags": [
+    "iran",
+    "uk",
+    "energy"
+  ],
+  "kanban_task": "t_59802d16",
+  "time": "2026-05-28T15:39:26Z"
+}

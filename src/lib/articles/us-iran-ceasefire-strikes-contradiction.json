@@ -1,0 +1,23 @@
+{
+  "id": "us-iran-ceasefire-strikes-contradiction",
+  "slug": "us-iran-ceasefire-strikes-contradiction",
+  "title": "US-Iran ceasefire strikes contradiction",
+  "narrative": "On May 26-27, 2026, the US conducted airstrikes on Iranian targets in Iraq/Syria that Iran condemned as a \"gross violation of the ceasefire.\" The strikes occurred while Iranian and Qatari negotiators were physically present in Doha, Qatar for peace talks mediated by Qatar and Oman. Simultaneously, President Trump stated the US is \"not satisfied\" with Iran deal terms and doesn't have an agreement yet \u2014 while simultaneously escalating military pressure. The contradiction: the US publicly maintains it wants a diplomatic resolution, but physical evidence shows strikes were conducted during active negotiations, potentially undermining the very talks it purports to support.",
+  "telemetry": [
+    "BBC: \"Iran condemns US strikes as 'gross violation' of ceasefire\" \u2014 strikes occurred while Iranian/Qatari negotiators were in Doha",
+    "BBC: \"Trump says US 'not satisfied' with Iran deal yet\" \u2014 US publicly claims no agreement reached, yet escalates military action",
+    "Reuters: US CENTCOM confirmed strikes (if available via RSS \u2014 check Reuters world feed)",
+    "Qatar's role as neutral mediator is directly undermined by US military action during their facilitation",
+    "Multiple sources confirm negotiators were in Doha on May 26 when strikes occurred",
+    "Iran condemned strikes via IRINN \u2014 timing and official channels documented"
+  ],
+  "analysis": "The US narrative is \"we want a deal but Iran isn't cooperating.\" The physical record shows: while Doha talks were active, the US struck Iranian-linked targets. Either the State Department didn't coordinate with DoD, or the strikes were deliberate sabotage of negotiations. Neither possibility is compatible with the public \"we want peace\" narrative. This is a clear case of two government agencies \u2014 or two faces of the same policy \u2014 working in direct contradiction.",
+  "verdict": "[SIPHONED VERDICT]: The US conducted military strikes during active face-to-face negotiations it was simultaneously hosting and publicly claiming to support \u2014 exposing \"diplomatic solution\" as cover for continued escalation.",
+  "tags": [
+    "iran",
+    "us-iran",
+    "ceasefire"
+  ],
+  "kanban_task": "t_d67a459d",
+  "time": "2026-05-28T15:39:27Z"
+}

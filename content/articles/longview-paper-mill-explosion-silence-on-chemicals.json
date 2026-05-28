@@ -1,0 +1,24 @@
+{
+  "id": "longview-paper-mill-explosion-silence-on-chemicals",
+  "slug": "longview-paper-mill-explosion-silence-on-chemicals",
+  "title": "Longview paper mill explosion \u2014 silence on chemicals",
+  "narrative": "On May 27, 2026, one person was killed and nine others remain missing after a chemical explosion at a paper mill in Longview, Washington. The explosion occurred when a tank ruptured at the facility. Federal investigators and mill management have not yet released the chemical contents of the tank, the age of the equipment, or any prior safety violations. The Mill's parent company has issued a brief statement expressing \"sorrow\" without admitting liability. Federal workplace safety regulators (OSHA) have not yet opened a public investigation, nor has the EPA issued any statements despite the explosion's proximity to residential areas.",
+  "telemetry": [
+    "BBC World: \"One killed and nine missing after chemical explosion at US paper mill\" \u2014 Longview, Washington, May 27, 2026 03:02 UTC",
+    "Mill identified as paper/pulp facility in Longview, Washington",
+    "Tank rupture as cause \u2014 specific chemical contents not disclosed in any public statement",
+    "Nine people still missing as of May 27 \u2014 implies significant personnel were inside the facility",
+    "Parent company: brief corporate non-statement (\"thoughts and prayers\" equivalent)",
+    "No OSHA investigation announced publicly as of May 27",
+    "Washington state requires industrial chemical storage disclosures \u2014 check EPA Tier II filings for the facility if available via OSINT"
+  ],
+  "analysis": "The official narrative will be \"we're investigating, we're grieving.\" The physical record reveals: a chemical tank rupture in a residential-adjacent industrial facility \u2014 in a country with some of the most lax OSHA enforcement in the developed world \u2014 yet again produces a body count before any regulatory response. The missing nine are a separate scandal: who was inside a chemical facility during a non-emergency shift, and why does the company not yet have a complete personnel accounting?",
+  "verdict": "[SIPHONED VERDICT]: A chemical tank exploded at a US industrial facility, killing at least one and leaving nine unaccounted for \u2014 and the company's first response is a grief statement rather than a chemical disclosure, while regulators remain conspicuously silent about any investigation.",
+  "tags": [
+    "us",
+    "business",
+    "disaster"
+  ],
+  "kanban_task": "t_387ecebb",
+  "time": "2026-05-28T15:39:27Z"
+}
