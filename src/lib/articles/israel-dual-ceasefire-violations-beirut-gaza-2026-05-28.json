@@ -1,0 +1,26 @@
+{
+  "id": "israel-dual-ceasefire-violations-beirut-gaza-2026-05-28",
+  "slug": "israel-dual-ceasefire-violations-beirut-gaza-2026-05-28",
+  "time": "2026-05-28T18:05:38Z",
+  "title": "Israel dual ceasefire violations \u2014 Beirut and Gaza \u2014 2026-05-28",
+  "narrative": "On May 28, Israel conducted a \"targeted strike\" on Beirut \u2014 a city that \"had until now largely been spared\" under the Lebanon ceasefire agreed last month. The same day, a strike on Gaza City killed at least five children, with hospitals reporting the casualties and Israel stating it targeted a Hamas commander. Both the Lebanon ceasefire and the Gaza ceasefire are being violated simultaneously, with each side blaming the other. The framing as isolated \"targeted strikes\" obscures a pattern: ceasefire agreements are treated as aspirational while military operations continue under precision-warfare branding. Beirut, previously off-limits, is now a target. Gaza hospitals are counting dead children. Both ceasefires exist on paper only.",
+  "telemetry": [
+    "Beirut strike: first major hit on Lebanese capital since last month's ceasefire; IDF frames as \"targeted\"",
+    "Gaza strike: at least 5 children killed per hospital reports; targeting a Hamas commander",
+    "Lebanon ceasefire: one month old, \"both Israel and Hezbollah accused each other of breaking\" it",
+    "Gaza ceasefire: concurrent violations with Lebanon front",
+    "Language analysis: \"targeted strike\" used in both headlines \u2014 precision framing normalizes violations",
+    "Open questions: civilian casualty counts vs. official claims of precision? Satellite damage assessment of Beirut strike location? Proximity to civilian infrastructure?"
+  ],
+  "analysis": "Map the timeline of ceasefire violations on both fronts since each agreement was signed. When was the last week without a \"targeted strike\"? The language of precision warfare makes ceasefire violations sound surgical rather than escalatory \u2014 count how many times \"targeted strike\" appears in coverage versus terms like \"ceasefire violation\" or \"breach.\" The linguistic framing IS the story: both sides maintain the ceasefire exists while conducting operations that would be acts of war under any other name.",
+  "verdict": "[SIPHONED VERDICT]: Two ceasefires, zero restraint \u2014 when every strike is \"targeted,\" no ceasefire means anything.",
+  "tags": [
+    "israel",
+    "lebanon",
+    "gaza",
+    "ceasefire",
+    "beirut",
+    "middle-east"
+  ],
+  "kanban_task": "t_a972d35a"
+}
