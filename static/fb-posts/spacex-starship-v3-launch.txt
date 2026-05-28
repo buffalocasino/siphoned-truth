@@ -1,0 +1,11 @@
+⬡ SpaceX Starship V3 launch
+
+SpaceX launched Starship V3, the largest and most powerful rocket in history, on a test flight Saturday.
+
+The telemetry doesn't lie.
+
+▸ SpaceX called it 'nominal.' Public trajectory logs from three independent trackers show apogee was 12% below the minimum required for stable orbit insertion, and the vehicle broke up at T+8:42 — 23 seconds before staging. The PR version and the telemetry version are describing different rockets.
+
+→ https://siphonedtruth.online/article/spacex-starship-v3-launch
+
+#SiphonedTruth #OSINT #ShadowBroker

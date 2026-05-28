@@ -1,21 +1,21 @@
 {
   "id": "western-europe-may-heatwave-vs-climate-model-predictions",
   "slug": "western-europe-may-heatwave-vs-climate-model-predictions",
-  "time": "2026-05-27T17:18:02Z",
   "title": "Western Europe May heatwave vs climate model predictions",
   "narrative": "On May 26, 2026, Western Europe is experiencing a heatwave described as smashing temperature records \"not only broken but smashed.\" Paris temperatures are described as \"punishingly hot\" for May. A heat dome combined with climate change is cited as the cause. European May averages are being far exceeded. Climate scientists attribute the event to combined natural and anthropogenic factors.",
   "telemetry": [
-    "- BBC: \"combined effects of a heat dome and climate change\" brought extreme warmth to western Europe",
-    "- Temperature records being \"smashed\" - not just broken but shattered (BBC Science, May 26)",
-    "- Paris described as \"punishingly hot\" in May - unusual descriptor from mainstream press",
-    "- 2024 was hottest year on record; 2025 and 2026 trending higher (NOAA/WMO)",
-    "- Multiple outlets covering heatwave May 25-26: BBC, France24, others"
+    "BBC: \"combined effects of a heat dome and climate change\" brought extreme warmth to western Europe",
+    "Temperature records being \"smashed\" - not just broken but shattered (BBC Science, May 26)",
+    "Paris described as \"punishingly hot\" in May - unusual descriptor from mainstream press",
+    "2024 was hottest year on record; 2025 and 2026 trending higher (NOAA/WMO)",
+    "Multiple outlets covering heatwave May 25-26: BBC, France24, others"
   ],
   "analysis": "The mainstream framing attributes record heat to \"a heat dome + climate change\" - a vague conjunctive explanation that explains nothing. The real question: which climate models predicted this severity of May heat for Western Europe before the event? The gap between \"climate change is real\" (general) and \"this specific event was predicted at this magnitude\" (specific) is where narrative manipulation lives. Official sources use climate as a universal explainer that makes no specific predictions verifiable.",
   "verdict": "[SIPHONED VERDICT]: When we cannot distinguish between a natural heat dome and climate change, we cannot distinguish between a genuine trend and a label slapped on any weather event retroactively.",
   "tags": [
-    "siphoned-truth",
-    "investigation"
+    "europe",
+    "climate"
   ],
-  "kanban_task": "t_00207a3ac4"
+  "kanban_task": "t_00207a3ac4",
+  "time": "2026-05-28T15:42:06Z"
 }

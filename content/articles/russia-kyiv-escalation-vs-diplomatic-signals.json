@@ -1,20 +1,20 @@
 {
   "id": "russia-kyiv-escalation-vs-diplomatic-signals",
   "slug": "russia-kyiv-escalation-vs-diplomatic-signals",
-  "time": "2026-05-27T17:18:02Z",
   "title": "Russia Kyiv escalation vs diplomatic signals",
   "narrative": "Russia is threatening more Kyiv strikes and has told foreign nationals to leave Ukraine. This escalates after the Ukrainian capital suffered one of the biggest aerial assaults of the war overnight on Saturday (May 24-25). Russia simultaneously sending mixed signals - military escalation and diplomatic posturing. Foreign nationals being told to leave suggests intensification, not de-escalation.",
   "telemetry": [
-    "- BBC World: Russia threatens more Kyiv strikes, tells foreign nationals to leave (May 26, 03:06 GMT)",
-    "- Ukrainian capital suffered \"one of the biggest aerial assaults of the war overnight on Saturday\"",
-    "- Saturday night strikes (May 24) = one of the largest of the entire conflict",
-    "- Russia simultaneously signaling diplomatic openness while escalating military action"
+    "BBC World: Russia threatens more Kyiv strikes, tells foreign nationals to leave (May 26, 03:06 GMT)",
+    "Ukrainian capital suffered \"one of the biggest aerial assaults of the war overnight on Saturday\"",
+    "Saturday night strikes (May 24) = one of the largest of the entire conflict",
+    "Russia simultaneously signaling diplomatic openness while escalating military action"
   ],
   "analysis": "Russia's pattern of announcing civilian evacuation warnings before major strikes is documented. The Saturday assault on Kyiv was one of the biggest of the entire conflict yet the escalation was announced Monday. The gap between \"biggest aerial assault of the war\" and the muted international response needs examination. Is this manufactured crisis to extract concessions, or genuine military escalation with unknown diplomatic purpose?",
   "verdict": "[SIPHONED VERDICT]: Russia announces the biggest aerial assault of the war on Saturday, warns of more to come Monday, and the international response is muted. This is the classic pattern: military pressure deployed to extract concessions at the table, with the severity announcement designed to alarm not because it changes the military reality, but because it changes negotiation leverage.",
   "tags": [
-    "siphoned-truth",
-    "investigation"
+    "russia",
+    "ukraine"
   ],
-  "kanban_task": "t_60bc0b840a"
+  "kanban_task": "t_60bc0b840a",
+  "time": "2026-05-28T15:42:06Z"
 }

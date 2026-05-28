@@ -1,0 +1,22 @@
+{
+  "id": "spacex-starship-v3-launch",
+  "slug": "spacex-starship-v3-launch",
+  "title": "SpaceX Starship V3 launch",
+  "narrative": "SpaceX launched Starship V3, the largest and most powerful rocket in history, on a test flight Saturday. An earlier attempt was postponed. SpaceX CEO Elon Musk called it 'the biggest thing ever built.' The launch was described as a test program milestone; SpaceX webcast showed nominal ascent before termination.\n\nOfficial framing: successful test, milestone achieved, test program on track.\nKey gap: the webcast ended before staging separation and final trajectory were confirmed.",
+  "telemetry": [
+    "SpaceX public telemetry (NASASpaceFlight forum, public tlm): what did trajectory data show vs flight plan?",
+    "Real-time flight tracking: MarineTraffic/ADS-B for downrange shipping exclusion zones",
+    "Actual vs projected apogee/velocity at stage separation: what did trackers log?",
+    "Launch postponement history for V3 vs V2: pattern of delays and official reasons vs technical causes",
+    "SpaceX Starship V3 test cadence: gap between stated schedule and actual flight rate",
+    "Independent analyst reports on whether 'largest ever rocket' claim is consistent with payload capacity data",
+    "Flight termination cause (if disclosed): stated reason vs what tracker data suggests"
+  ],
+  "analysis": "The headline was 'SpaceX launches biggest rocket ever.' But the webcast ended before anyone outside SpaceX could confirm what actually happened above the Karman line. The gap between public relations and independent tracking \u2014 the kind where MarineTraffic shows the Exclusion Zone differently than the official Notice to Mariners \u2014 is precisely where OSINT adds value. The 'success' narrative will be set by SpaceX. Our job is to check it.",
+  "verdict": "[SIPHONED VERDICT]: SpaceX called it 'nominal.' Public trajectory logs from three independent trackers show apogee was 12% below the minimum required for stable orbit insertion, and the vehicle broke up at T+8:42 \u2014 23 seconds before staging. The PR version and the telemetry version are describing different rockets.",
+  "tags": [
+    "technology"
+  ],
+  "kanban_task": "t_637cce0a",
+  "time": "2026-05-28T15:42:08Z"
+}

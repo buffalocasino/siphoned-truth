@@ -1,23 +1,22 @@
 {
   "id": "china-coal-mine-disaster-official-narrative",
   "slug": "china-coal-mine-disaster-official-narrative",
-  "time": "2026-05-27T17:18:02Z",
   "title": "China coal mine disaster official narrative",
   "narrative": "China's deadliest coal mining disaster in years occurred at a mine in Shanxi province. Official statements say 37 workers were killed, with rescue operations ongoing. The Chinese government has ordered a safety overhaul across the industry. Anger is growing on Chinese social media \u2014 tightly controlled \u2014 with people demanding justice and questioning how this happened. State media frames it as an industrial accident requiring regulatory reform.",
   "telemetry": [
-    "- Mine owner: state-owned or private? Chinese state-owned enterprises account for ~80% of coal production",
-    "- Prior safety violations at this specific mine \u2014 was it previously flagged by China's State Administration of Coal Mine Safety?",
-    "- Official death count: 37. Independent verification via OSINT \u2014 local hospital intake, morgue records, social media posts from families",
-    "- Mine location: need exact coordinates to verify safety certification status and proximity to other operations",
-    "- China coal mine safety record: 2023 official data shows ~300-400 deaths/year; critics say actual numbers are significantly higher due to underreporting",
-    "- Satellite imagery of the mine site \u2014 is this an active operation that should have been subject to safety inspections?",
-    "- Did local government officials know about safety violations and fail to act?"
+    "Mine owner: state-owned or private? Chinese state-owned enterprises account for ~80% of coal production",
+    "Prior safety violations at this specific mine \u2014 was it previously flagged by China's State Administration of Coal Mine Safety?",
+    "Official death count: 37. Independent verification via OSINT \u2014 local hospital intake, morgue records, social media posts from families",
+    "Mine location: need exact coordinates to verify safety certification status and proximity to other operations",
+    "China coal mine safety record: 2023 official data shows ~300-400 deaths/year; critics say actual numbers are significantly higher due to underreporting",
+    "Satellite imagery of the mine site \u2014 is this an active operation that should have been subject to safety inspections?",
+    "Did local government officials know about safety violations and fail to act?"
   ],
   "analysis": "China's tightly-controlled narrative frames this as a tragic accident requiring regulatory reform. But OSINT \u2014 mine safety records, satellite imagery, local social media (before censorship), official incident reports \u2014 can reveal whether this was a predictable disaster that officials knew about and failed to prevent. State media controls the information environment; the physical evidence (mine condition, prior violations, official statements) may show systemic negligence masked as \"industrial accident.\"",
   "verdict": "[SIPHONED VERDICT]: China's coal mine disaster narrative is almost certainly a cover for systemic negligence \u2014 if the mine had prior violations and officials failed to close it, the \"tragic accident\" framing obscures culpable inaction that killed 37 workers.",
   "tags": [
-    "siphoned-truth",
-    "investigation"
+    "china"
   ],
-  "kanban_task": "t_22808fd8"
+  "kanban_task": "t_22808fd8",
+  "time": "2026-05-28T15:42:08Z"
 }

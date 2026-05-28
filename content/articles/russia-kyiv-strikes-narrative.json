@@ -1,24 +1,24 @@
 {
   "id": "russia-kyiv-strikes-narrative",
   "slug": "russia-kyiv-strikes-narrative",
-  "time": "2026-05-27T17:18:02Z",
   "title": "Russia Kyiv strikes narrative",
   "narrative": "Russia threatened more Kyiv strikes on May 25 and told foreign nationals to leave Ukraine, describing the Ukrainian capital as a \"legitimate military target.\" This follows one of the biggest aerial assaults of the war overnight on Saturday (May 24). Russia frames these strikes as response to Ukrainian operations in Kursk and Belgorod regions. The Kremlin says it will target \"decision-making centers\" in Kyiv.",
   "telemetry": [
-    "- Russia's strikes on Kyiv overnight May 24 used 69 drones and 9 missiles according to Ukrainian Air Force \u2014 massive saturation attack",
-    "- Ukrainian air defenses claim to have intercepted 58/69 drones and all 9 missiles \u2014 official claim of high interception rate",
-    "- Conflict monitoring accounts (Gerry Lynch, Clash Report) show videos of impacts in Shevchenkivka, Solomianskyi districts \u2014 civilian infrastructure hit",
-    "- Russian claims: strikes targeted \"military facilities\" and \"Ukrainian decision-making centers\"",
-    "- Ukrainian claims: most civilian casualties from debris and secondary explosions, not direct hits",
-    "- Open source satellite imagery (Sentinel-2, Planet Labs) available for Kyiv strikes \u2014 can verify impact sites vs claimed targets",
-    "- Key question: were the claimed \"military targets\" actually military, or were they near civilian infrastructure?",
-    "- Russian MoD claims all targets hit \u2014 does satellite/OSINT evidence support this?"
+    "Russia's strikes on Kyiv overnight May 24 used 69 drones and 9 missiles according to Ukrainian Air Force \u2014 massive saturation attack",
+    "Ukrainian air defenses claim to have intercepted 58/69 drones and all 9 missiles \u2014 official claim of high interception rate",
+    "Conflict monitoring accounts (Gerry Lynch, Clash Report) show videos of impacts in Shevchenkivka, Solomianskyi districts \u2014 civilian infrastructure hit",
+    "Russian claims: strikes targeted \"military facilities\" and \"Ukrainian decision-making centers\"",
+    "Ukrainian claims: most civilian casualties from debris and secondary explosions, not direct hits",
+    "Open source satellite imagery (Sentinel-2, Planet Labs) available for Kyiv strikes \u2014 can verify impact sites vs claimed targets",
+    "Key question: were the claimed \"military targets\" actually military, or were they near civilian infrastructure?",
+    "Russian MoD claims all targets hit \u2014 does satellite/OSINT evidence support this?"
   ],
   "analysis": "Russia claims it is striking military targets in Kyiv. Ukrainian authorities say air defenses intercepted most of the attack. The physical evidence \u2014 impact site geolocation, satellite imagery, debris analysis from OSINT investigators \u2014 can verify whether these strikes hit legitimate military targets or civilian infrastructure. If the \"decision-making centers\" were in residential areas, or if intercepted debris caused civilian casualties, the official Russian narrative collapses.",
   "verdict": "[SIPHONED VERDICT]: Russia's \"military target\" framing for Kyiv strikes collapses under OSINT scrutiny \u2014 the Shevchenkivka and Solomianskyi district impacts align with civilian infrastructure, not military command facilities, revealing strikes designed to terrorize rather than disable.",
   "tags": [
-    "siphoned-truth",
-    "investigation"
+    "russia",
+    "ukraine"
   ],
-  "kanban_task": "t_637c356b"
+  "kanban_task": "t_637c356b",
+  "time": "2026-05-28T15:42:08Z"
 }

@@ -1,0 +1,18 @@
+{
+  "id": "russia-hypersonic-missile-attack-ukraine-may-25-2026",
+  "slug": "russia-hypersonic-missile-attack-ukraine-may-25-2026",
+  "title": "Russia hypersonic missile attack Ukraine \u2014 May 25 2026",
+  "narrative": "Large-scale Russian attack on Ukraine leaves four dead and dozens injured. Russia confirms use of a hypersonic missile reportedly traveling over 10 times the speed of sound. Western officials have long claimed hypersonic weapons are nearly impossible to intercept.",
+  "telemetry": [
+    "NARRATIVE: Hypersonic missile used, high speed cited as why defense is difficult. UKRAINIAN AIR DEFENSE: Patriot, NASAMS, IRIS-T have documented intercept capability against ballistic missiles \u2014 hypersonic does not automatically equal un-interceptable. Russia used Kinzhal in previous attacks with mixed results; Ukrainian MOD claimed intercepts. Satellite imagery of impact site would show crater characteristics vs claimed warhead type. CLARITY GAP: Western coverage cites Russian military claim uncritically \u2014 no independent damage assessment, no debris analysis, no Ukrainian MOD verification."
+  ],
+  "analysis": "Hypersonic is the new 'smart bomb' \u2014 a label that sounds unstoppable and generates headlines. But physics don't automatically equal interception-proof. What does the actual damage footprint look like vs what Russia claims? Why is Ukrainian MOD response absent from Western coverage?",
+  "verdict": "[SIPHONED VERDICT]: ",
+  "tags": [
+    "russia",
+    "ukraine",
+    "military"
+  ],
+  "kanban_task": "t_c83d6914",
+  "time": "2026-05-28T15:42:07Z"
+}
