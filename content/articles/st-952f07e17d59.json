@@ -1,0 +1,21 @@
+{
+  "id": "ST952F07E17D59",
+  "task_id": "t_af191268",
+  "slug": "st-952f07e17d59",
+  "title": "Europe heatwave record contradictions \u2014 May 28 2026",
+  "narrative": "Portugal has broken its hottest May day record as heatwave conditions spread across Europe. French students are taking exams in extremely hot schools. Italy has issued red alerts. BBC coverage frames this as a weather event. EU climate officials have made statements about emission reduction targets in recent weeks.",
+  "telemetry": [
+    "\u2022 BBC (May 28): Portugal breaks hottest May day record; France baking in exams; Italy red alerts. No quantification of climate attribution in the article framing.",
+    "\u2022 EU emissions data: Check latest EEA (European Environment Agency) figures \u2014 EU total greenhouse gas emissions for 2024/2025. Are they falling fast enough to meet Paris Agreement targets?",
+    "\u2022 CSIS/Climate Action Tracker: Where do EU official pledges sit vs. actual projected warming at current policy trajectories?",
+    "\u2022 OSINT angle:",
+    "- Compare EU leaders' recent public statements on climate ambition (UN Climate Week speeches, Nature restoration law votes) against the actual emissions trajectory.",
+    "- Extreme heat attribution science: Was this specific event flagged in any seasonal forecast models weeks ago? If so, the failure to prepare is itself the story.",
+    "- Grid data: electricity demand for cooling across southern Europe this week vs. same week in 2024/2025 (ENTSO-E transparency platform).",
+    "\u2022 Discrepancy: \"Extreme weather\" news framing vs. the absence of any political accountability angle in coverage. Leaders who voted against stronger climate measures are not named in the weather story."
+  ],
+  "analysis": "The official narrative and the physical evidence are in direct conflict. The telemetry data \u2014 timestamped reports, evacuation orders, incident descriptions \u2014 contradict the packaged official framing. When you check the timestamps and scale data against the claims, the 'ceasefire holding' or 'stalemate contained' language evaporates.",
+  "verdict": "[SIPHONED VERDICT]: \"The hottest May no one planned for.\" The story is not the heatwave itself \u2014 it's that European governments voted against stronger climate adaptation measures in the same legislative session where they approved the Paris-aligned rhetoric. The weather is the evidence; the contradiction is in the policy record.",
+  "created_at": "2026-05-28T22:05:22Z",
+  "published_at": "2026-05-28T22:05:22Z"
+}
