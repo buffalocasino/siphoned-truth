@@ -1,0 +1,24 @@
+{
+  "id": "ST-UK-ENERGY-IRAN-WAR-PREMIUM-67B3E799",
+  "slug": "uk-energy-bills-iran-war-premium-vs-oil-market-reality-2026-05-27",
+  "time": "2026-05-27T22:00:00Z",
+  "title": "UK Energy Bills: Iran War Premium vs. Oil Market Reality \u2014 2026-05-27",
+  "narrative": "BBC Business (May 27, 2026): UK energy regulator Ofgem announced household energy bills will rise 13% (\u00a3221/year more) from July 1, attributed to 'soaring wholesale costs caused by the US-Israel war with Iran.' The same day, oil prices were reported sliding on 'hopes' of a US-Iran peace deal that would reopen the Strait of Hormuz. Trump claimed any deal would include 'reopening of the Strait of Hormuz.'",
+  "telemetry": [
+    "Ofgem explicitly cites Iran war as cause of 13% bill increase",
+    "Oil price narrative: 'sliding on hopes of US-Iran peace deal' \u2014 sliding means prices DOWN",
+    "If prices are already sliding from peace deal hopes, the Iran war impact should be DECREASING, not causing record bill increases",
+    "The 13% increase takes effect July 1 \u2014 a future date that was known when the Iran conflict started",
+    "Physical contradiction: either the war is causing supply disruption (prices up) or peace deal hopes are real (prices down) \u2014 you cannot have both simultaneously as the stated cause of current prices"
+  ],
+  "analysis": "Ofgem and energy suppliers are using the Iran war as a pricing input. But energy markets are simultaneously pricing in a resolution. UK consumers pay the war premium now; if peace breaks out, the premium evaporates \u2014 but will bills drop? The narrative justifies current prices; the market suggests the justification is already obsolete. The same conflict cannot be both the cause of record prices and the reason they're already falling. If oil prices are sliding on peace deal hopes, the war premium should be shrinking, not expanding. Yet UK households are being told their bills will rise 13% specifically because of the war's impact \u2014 at the same moment the markets are pricing that impact away. The contradiction is not an oversight. It is a feature: energy suppliers lock in the war premium at its peak, and if peace breaks out and prices fall, the premium has already been baked into the July 1 cap.",
+  "verdict": "[SIPHONED VERDICT]: UK energy bills are rising due to 'Iran war impact' while oil markets simultaneously slide on 'peace deal hopes' \u2014 the same conflict can't be both the cause of record prices and the reason they're already falling.",
+  "tags": [
+    "uk-energy",
+    "iran-war",
+    "oil-markets",
+    "energy-prices",
+    "ofgem"
+  ],
+  "kanban_task": "t_67b3e799"
+}

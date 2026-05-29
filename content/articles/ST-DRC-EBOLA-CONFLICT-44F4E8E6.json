@@ -1,0 +1,25 @@
+{
+  "id": "ST-DRC-EBOLA-CONFLICT-44F4E8E6",
+  "slug": "dr-congo-ebola-conflict-rwanda-m23-humanitarian-access-2026-05-27",
+  "time": "2026-05-27T22:00:00Z",
+  "title": "DR Congo Ebola Conflict: Rwanda's M23 Role Omitted from WHO Warning \u2014 2026-05-27",
+  "narrative": "WHO Director-General Tedros Adhanom Ghebreyesus warned on May 27 that DR Congo faces a 'catastrophic collision' of Ebola and armed conflict. The WHO stated that fighting \u2014 specifically M23 militia activity in North Kivu \u2014 is hampering Ebola response efforts. WHO said stopping transmission 'depends entirely on humanitarian access.' Both the Ebola outbreak and the M23 conflict are independently documented; the intersection is presented as a humanitarian crisis requiring aid access.",
+  "telemetry": [
+    "BBC World (May 27): WHO chief warns of 'catastrophic collision' \u2014 fighting in DR Congo hampering Ebola response",
+    "Al Jazeera (May 27): Same WHO warning, citing M23 militia and North Kivu conflict zone",
+    "M23 conflict: Rwanda-backed M23 rebels have controlled significant territory in North Kivu since 2022-2024. UN and African Union forces have failed to dislodge them.",
+    "Ebola outbreak: The current outbreak is in M23-controlled territory in North Kivu, preventing WHO/MSF access",
+    "The contradiction: International community expresses alarm at health consequences of M23's territorial gains while taking no diplomatic action against Rwanda's role. Western media rarely names Rwanda in this context."
+  ],
+  "analysis": "The WHO warning frames this as a natural disaster + conflict intersection, but the conflict is a political choice \u2014 Rwanda's support for M23 has been documented by UN experts since 2022. The humanitarian access problem is not an accident; it's the consequence of choosing not to press Rwanda diplomatically while publicly naming the health consequences. The WHO can warn of a 'catastrophic collision' between Ebola and conflict, but it cannot name the state sponsor whose military proxy controls the territory where Ebola is spreading. That would be a political act, and the WHO is constrained by its member-state governance. The result is a statement that names the disease and the symptom (M23 militia) but omits the cause (Rwandan state sponsorship). The Ebola outbreak in M23-controlled territory is not a natural disaster intersecting with conflict \u2014 it is a predictable consequence of a proxy war that the international community has chosen to manage rather than resolve. Naming the disease while omitting Rwanda's role is a diplomatic compromise that leaves the structural cause unaddressed.",
+  "verdict": "[SIPHONED VERDICT]: The WHO's alarm at M23-conflict-driven Ebola spread is legitimate, but naming the disease while omitting Rwanda's role in creating the access problem is a diplomatic compromise that leaves the structural cause unaddressed.",
+  "tags": [
+    "dr-congo",
+    "ebola",
+    "m23",
+    "rwanda",
+    "who",
+    "humanitarian-access"
+  ],
+  "kanban_task": "t_44f4e8e6"
+}
