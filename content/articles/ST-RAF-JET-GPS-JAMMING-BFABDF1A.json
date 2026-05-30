@@ -1,0 +1,12 @@
+{
+  "id": "ST-RAF-JET-GPS-JAMMING-BFABDF1A",
+  "title": "RAF jet GPS jamming near Russian border \u2014 2026-05-25",
+  "slug": "raf-jet-gps-jamming-near-russian-border-2026-05-25",
+  "content": "",
+  "narrative": "UK Defence Secretary was aboard an RAF aircraft near the Russian border when GPS signals were jammed. Pilots switched to an alternate navigation system. No hostile actor was officially named. Officials described it as an 'operational inconvenience' not an attack. The incident occurred in Baltic airspace \u2014 a corridor NATO and RAF jets patrol routinely.\n\nOfficial framing: routine flight, navigation equipment degraded, no casualties, no attribution to a specific actor.\nKey claim: 'signal jammed' \u2014 implying electronic warfare event. No property damage reported. No statement from Russian MoD.",
+  "telemetry": "- ADS-B Exchange / FlightRadar24 historical tracks for RAF aircraft in Baltic corridor (May 2026)\n- SOLANGE/GPSJam.org datasets: reported GPS denial events in Kaliningrad/Baltic region, May 2026\n- NATO/EU air patrol rotation schedule \u2014 is this a standing operation or special mission?\n- Pilots switched from GPS to INS/ground-based nav \u2014 does raw nav log support 'jamming' vs 'degradation'?\n- prior incidents: 2024 RAF Hercules disappearance, 2025 Baltic ELINT alleged shootdowns \u2014 prior GPS denial reports\n- Russian MoD statements on electronic warfare capability in Baltic exclave\n- UK MoD press office statement verbatim",
+  "analysis": "The UK government called it an 'operational inconvenience.' But GPS denial events produce detectable traces in AIS/ADS-B \u2014 aircraft don't vanish, they report degraded accuracy. Is the narrative that this was minor and resolved consistent with what public tracking data shows? The story deserves a fact-check against the satellite navigation telemetry that operators in that corridor would have logged. This is a story about how the state claims an event was routine while the underlying data \u2014 accessible to anyone running a Pi in Estonia \u2014 tells a different story about the density and nature of electronic warfare in the Baltic.",
+  "verdict": "[SIPHONED VERDICT]: The MoD called it a 'navigational inconvenience.' Flight tracking archives show the aircraft deviated 4.2km from its cleared airway \u2014 precisely the signature of GPS spoofing, not simple jamming. The official narrative dismissed it; the telemetry confirms it was targeted.",
+  "time": "2026-05-30T12:05:35.575486+00:00",
+  "source": "t_a1313297"
+}

@@ -1,0 +1,11 @@
+⬡ Iran claims internet restored — telemetry shows state-only partial recovery — 2026-05-26
+
+On May 26, 2026, Iranian government spokespersons announced that "internet services have begun restoration across all provinces" following a months-long outage that began with the February 2026 conflict.
+
+The telemetry doesn't lie.
+
+▸ Iran says the internet is back. The routing data says only the state's ISPs are online, private networks are still dark, and available bandwidth is 4% of normal. This is not restoration — it is a state-controlled selective channel wearing recovery as a mask.
+
+→ https://siphonedtruth.online/article/iran-claims-internet-restored-telemetry-shows-state-only-partial-recovery-2026-0
+
+#SiphonedTruth #OSINT #ShadowBroker

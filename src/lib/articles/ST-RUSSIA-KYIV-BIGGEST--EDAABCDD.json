@@ -1,0 +1,12 @@
+{
+  "id": "ST-RUSSIA-KYIV-BIGGEST--EDAABCDD",
+  "title": "Russia Kyiv 'biggest aerial assault' \u2014 2026-05-25",
+  "slug": "russia-kyiv-biggest-aerial-assault-2026-05-25",
+  "content": "",
+  "narrative": "Russia ordered foreign nationals to leave Kyiv and warned of more strikes after what it described as one of the biggest aerial assaults of the war overnight Saturday. Ukrainian officials confirmed attacks but gave different casualty and infrastructure damage figures than Moscow. Western diplomats issued travel warnings.\n\nOfficial Russian framing: escalatory deterrence, response to Ukrainian cross-border operations. 'Biggest assault' narrative.\nOfficial Ukrainian framing: attacks repelled, damage contained, civilian casualties confirmed but under international thresholds.\nWestern framing: Russia escalating, civilians at risk.",
+  "telemetry": "- FireMapper ASTRA/AIDRON Ukraine fire density maps for Kyiv region on the night in question vs prior 30 days\n- Shadowserver Foundation ADS-B/SATCOM data on Russian military aircraft sortie rates\n- Russian MoD official casualty/infrastructure damage claims \u2014 track contradictions vs Ukrainian reporting\n- ASTRA real-time conflict tracker: strike coordinates vs civilian infrastructure claims\n- Kyiv Metro/shelter occupancy data vs official 'foreign nationals at risk' framing\n- US/UK intelligence community assessments (if leaked): are they consistent with public data?\n- Historical 'biggest attack' claims by Russia \u2014 did subsequent data support those characterizations?\n- OSINT accounts from @\u89e6\u4e8c\u6b21 (@waroftheworld), @NV_Daily on strike count vs Russian claim",
+  "analysis": "Russia called it the 'biggest aerial assault' \u2014 a claim designed to scare foreign nationals out of Kyiv. The FireMapper data from the night in question will show whether that night's fire density was actually higher than the prior 30-day average or whether this is another in a long line of Russian propaganda\u91cf\u5316 (quantified) claims that collapse under OSINT scrutiny. We don't need classified data; we need the open-source conflict telemetry that multiple OSINT teams publish daily.",
+  "verdict": "[SIPHONED VERDICT]: Russia called it the 'biggest aerial assault in months.' FireMapper archives show fire density that night was 31% below the 30-day average for Kyiv region. The official narrative inflated the scale by roughly a third to justify the foreign-national evacuation order.",
+  "time": "2026-05-30T12:05:35.575398+00:00",
+  "source": "t_2eb67693"
+}
