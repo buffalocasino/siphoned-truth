@@ -1,0 +1,22 @@
+{
+  "id": "ST-RUS-DRONE-NATO-ROM-0E65C1D5",
+  "title": "Russian drone hits NATO Romania — Article 5 is dead — 2026-05-30",
+  "slug": "russian-drone-hits-nato-romania-article-5-dead-2026-05-30",
+  "content": "",
+  "narrative": "On May 29, 2026, a Russian drone tracked by Romanian radar crashed into a residential apartment building in Galati, eastern Romania, injuring two civilians. Two Romanian F-16 fighter jets and a helicopter were scrambled. The drone was part of an overnight Russian attack wave aimed at Ukraine. Romania's Ministry of Foreign Affairs labeled the crash a \"serious violation of international law.\" NATO states \"reacted angrily\" — issuing condemnations but taking no military action. This is the latest in a series of incursions along NATO's eastern flank. The New York Times characterized the incident with the headline: \"The Russian Drone That Hit Romania Also Hit European Confidence.\" Romania is a full NATO member. Under Article 5, an armed attack against one member is considered an attack against all. A Russian military drone striking a civilian apartment building meets the plain-text definition of an armed attack. Yet the response has been calibrated — diplomatic condemnation, no invocation of collective defense.",
+  "telemetry": [
+    "Russian drone crashed into residential building in Galati, Romania, injuring 2 — Al Jazeera, AP, Reuters, May 29",
+    "Drone was tracked by Romanian radar in its airspace before impact — Romanian MoD statement",
+    "Two F-16s and a helicopter scrambled — Al Jazeera",
+    "Romania called it a 'serious violation of international law' — MoFA statement, May 29",
+    "NATO allies issued condemnations; no Article 5 invocation — Al Jazeera, NYT",
+    "This is the latest in a pattern: Russian drones have entered Romanian airspace multiple times during the Ukraine war",
+    "NYT: 'The Russian Drone That Hit Romania Also Hit European Confidence' — May 29",
+    "Institute for the Study of War: Russian Offensive Campaign Assessment, May 29 — included this incident",
+    "OSINT question: Was the drone targeting Ukraine and strayed, or a deliberate test of NATO red lines? Radar track data would tell the story"
+  ],
+  "analysis": "Article 5 is dead — not de jure but de facto. A Russian military asset struck a NATO civilian building on NATO soil, and the alliance responded with the diplomatic equivalent of a sternly worded letter. Every time a Russian drone crosses into NATO airspace without consequence, the red line fades a little more. Putin is running a calibrated testing campaign, and the West is signaling — intentionally or not — that it will absorb these strikes rather than risk escalation. The pattern is now undeniable: drones in Romanian airspace, missiles over Poland, shadow fleet vessels in NATO waters — each incident met with condemnation and nothing more. Moscow reads the pattern. The only question is how far they'll push before someone in Brussels decides a press release isn't enough.",
+  "verdict": "[SIPHONED VERDICT]: NATO's Article 5 died not with a bang but with a diplomatic press release — a Russian drone struck a Romanian apartment building, injured civilians, and the alliance chose words over war, proving to Moscow that NATO territory is a tripwire nobody will actually trip.",
+  "time": "2026-05-30T14:00:00Z",
+  "source": "t_0e65c1d5"
+}
