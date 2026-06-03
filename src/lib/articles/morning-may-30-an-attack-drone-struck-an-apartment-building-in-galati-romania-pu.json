@@ -1,0 +1,29 @@
+{
+  "id": "morning-may-30-an-attack-drone-struck-an-apartment-building-in-galati-romania-pu",
+  "slug": "morning-may-30-an-attack-drone-struck-an-apartment-building-in-galati-romania-pu",
+  "time": "2026-06-03T18:18:39Z",
+  "title": "morning May 30, an attack drone struck an apartment building in Galati, Romania, pun...",
+  "narrative": "Early Friday morning May 30, an attack drone struck an apartment building in Galati, Romania, punching through the concrete roof and damaging flats below. A woman and her teenage son were hospitalized with bruises and minor burns. The drone hit the lift shaft on the roof, which absorbed much of the blast \u2014 a direct hit on the building's side \"could have destroyed a whole floor or more,\" according to residents. Romanian air force pilots detected the drone approaching from the Ukrainian border but had only moments to react; by the time it was over a built-up area, interception was \"too risky.\" Residents reported receiving an alert on their phones just before 02:00. One resident, Costel Patrichi, told the BBC: \"They told us we are protected by NATO, not to worry. But look where we are now!\" This is the most serious incident of its kind in Romania since Russia's full-scale invasion began in 2022. Separately, when a Ukrainian drone was recently knocked off course into Estonia, a Romanian fighter jet shot it down \u2014 but it couldn't protect its own territory.",
+  "telemetry": [
+    "Drone struck apartment block in Galati, Romania, early Friday May 30 \u2014 jagged hole ~2 metres wide punched through concrete roof",
+    "Woman and teenage son hospitalized with bruises and minor burns",
+    "Drone hit lift shaft on roof, absorbing blast \u2014 direct hit on side would have destroyed \"a whole floor or more\"",
+    "Romanian air force detected drone approaching from Ukrainian border \u2014 \"only moments to react\"",
+    "Interception deemed \"too risky\" over built-up area (risk of debris/collateral from shooting down)",
+    "Resident Costel Patrichi: \"They told us we are protected by NATO, not to worry. But look where we are now!\"",
+    "Contrast: Romanian jet recently shot down a Ukrainian drone that strayed into Estonia \u2014 same air force, different outcome",
+    "Most serious drone incident in Romania since Russia's 2022 full-scale invasion began",
+    "Residents now sleeping in fear: \"If I go back to my flat tonight, I will sleep with fear. Because this could happen again\""
+  ],
+  "analysis": "NATO's Article 5 promise is supposed to mean that an attack on one is an attack on all. But when a drone actually hit a Romanian apartment block, the alliance's physical response was zero \u2014 the air force couldn't intercept in time, and the official framing was that interception was \"too risky.\" The article should contrast the NATO rhetoric (\"you are protected\") with the physical reality (a hole in a residential roof, a family in hospital) and ask what the alliance's actual defensive posture is on its eastern flank. The Estonia comparison \u2014 where a Romanian jet DID shoot down a drone \u2014 sharpens the contradiction: the capability exists, the will to use it on home soil didn't.",
+  "verdict": "[SIPHONED VERDICT]: Romania's air force shot down a stray drone over Estonia but couldn't intercept one heading for a Romanian apartment block \u2014 the same jets, the same pilots, a different decision when NATO citizens were at risk.",
+  "tags": [
+    "russia",
+    "ukraine",
+    "nato",
+    "energy",
+    "war",
+    "disinformation"
+  ],
+  "kanban_task": "t_7defd835"
+}

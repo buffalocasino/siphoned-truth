@@ -1,0 +1,23 @@
+{
+  "id": "who-director-general-dr-tedros-adhanom-ghebreyesus-visited-ituri-province-in-eas",
+  "slug": "who-director-general-dr-tedros-adhanom-ghebreyesus-visited-ituri-province-in-eas",
+  "time": "2026-06-03T18:18:41Z",
+  "title": "WHO Director-General Dr Tedros Adhanom Ghebreyesus visited Ituri province in eastern DR Congo on ...",
+  "narrative": "WHO Director-General Dr Tedros Adhanom Ghebreyesus visited Ituri province in eastern DR Congo on Saturday to oversee Ebola containment efforts. The outbreak was declared by WHO two weeks ago. DR Congo has recorded over 1,000 suspected Ebola cases and at least 246 deaths. Neighbouring Uganda has reported nine confirmed cases and one death. Tedros said he and his team were in DR Congo \"to see how the response is running and if there are challenges to help.\" He urged communities to play a bigger role in fighting the disease.",
+  "telemetry": [
+    "MSF deputy director Dr Alan Gonzales stated: \"Never before has an Ebola outbreak recorded so many cases so soon after its declaration\"",
+    "MSF says \"the situation is deeply alarming\" \u2014 the response \"has not yet caught up to the rapid spread of the epidemic\"",
+    "Key quote from MSF: \"The reality today is that nobody knows the true scale and severity of this outbreak. New suspected cases are being reported daily, yet hundreds of samples remain untested\"",
+    "MSF says containment efforts and humanitarian aid deliveries are delayed by \"major constraints\" including border and airport closures",
+    "WHO has \"repeatedly warned\" that ongoing conflict in DR Congo hampers the response",
+    "Tedros urged communities to \"play a bigger role\" and warned against touching bodies of the dead at funerals",
+    "1,000+ suspected cases, 246 deaths in two weeks \u2014 the outbreak is spreading faster than any previous Ebola event",
+    "Hundreds of samples remain untested \u2014 the true scale is unknown"
+  ],
+  "analysis": "WHO's framing is \"we're here to help, the response is running.\" MSF's on-the-ground reality: the response is failing, hundreds of samples are untested, and nobody knows the true scale. The gap between WHO's institutional optimism and MSF's operational alarm is the story. Tedros's visit is a PR exercise \u2014 he arrives two weeks into the fastest-spreading Ebola outbreak in history and says he's \"here to see if there are challenges.\" The challenge is that the response never caught up. Border closures are blocking aid. Conflict zones are inaccessible. And Tedros's advice \u2014 play a bigger role, don't touch the dead \u2014 reads as institutional helplessness dressed as guidance.",
+  "verdict": "[SIPHONED VERDICT]: WHO says the Ebola response is \"running,\" but MSF says nobody knows the true scale because hundreds of samples are untested and the response has never caught up to the fastest-spreading outbreak in recorded history \u2014 the gap between the institutional narrative and operational reality is the real epidemic.",
+  "tags": [
+    "war"
+  ],
+  "kanban_task": "t_143724b0"
+}

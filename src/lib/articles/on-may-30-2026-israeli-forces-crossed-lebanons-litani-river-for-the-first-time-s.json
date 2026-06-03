@@ -1,0 +1,29 @@
+{
+  "id": "on-may-30-2026-israeli-forces-crossed-lebanons-litani-river-for-the-first-time-s",
+  "slug": "on-may-30-2026-israeli-forces-crossed-lebanons-litani-river-for-the-first-time-s",
+  "time": "2026-06-03T18:18:40Z",
+  "title": "On May 30, 2026, Israeli forces crossed Lebanon's Litani River for the first time since 2006, adv...",
+  "narrative": "On May 30, 2026, Israeli forces crossed Lebanon's Litani River for the first time since 2006, advancing toward the city of Nabatieh \u2014 a major economic and cultural hub in southern Lebanon. Senior Lebanese military sources told Turkey's Anadolu agency that Israeli forces had broken through Hezbollah's second and third lines of defense. Israel had declared the Litani River the perimeter of its \"unofficial buffer zone.\" Lebanon's military reported two soldiers seriously wounded by an Israeli drone near Nabatieh. A paramedic was killed and four injured in an Israeli drone attack on Jebchit village. Israeli air strikes also hit near Beaufort castle, 15km from the Israeli border. Hezbollah responded with rocket fire on Kiryat Shmona in northern Israel and ambushes near Ghandouriyeh. Meanwhile, Al Jazeera reported the Lebanese army is \"overly stretched\" to fight off the latest Israeli invasion.",
+  "telemetry": [
+    "Israeli forces crossed the Litani River on May 30, 2026 \u2014 first time since 2006",
+    "Senior Lebanese military sources (Anadolu): Israeli forces broke through Hezbollah's 2nd and 3rd defense lines",
+    "Israel had declared Litani River as perimeter of \"unofficial buffer zone\"",
+    "Israeli forces on outskirts of Nabatieh, key city for southern Lebanon's economy",
+    "Lebanon military: two soldiers seriously wounded by Israeli drone near Nabatieh",
+    "Paramedic killed, four injured in Israeli drone attack on Jebchit village (NNA report)",
+    "Israeli air strikes hit near Beaufort castle, 12th-century fortress 15km from border",
+    "Hezbollah fired rockets at Kiryat Shmona, ambushed Israeli soldiers near Ghandouriyeh",
+    "Hezbollah: destroyed Israeli military vehicle near Yohmor al-Shaqif with Ababil drones",
+    "Al Jazeera correspondent Obaida Hitto (reporting from Tyre): Israel \"trying to make this final push to encircle Nabatieh\"",
+    "Lebanon's army described as \"overly stretched\" (Al Jazeera analyst Joe Macaron)",
+    "A ceasefire was officially in effect between Israel and Lebanon"
+  ],
+  "analysis": "The contradiction between \"ceasefire\" and \"military advance beyond the Litani River\" is the story. Israel declared the Litani its buffer zone perimeter, then crossed it. The advance on Nabatieh \u2014 a city of symbolic and strategic importance \u2014 is not a border skirmish; it's a siege of a regional capital during an active ceasefire. The killing of a paramedic and the targeting of a hospital (Lebanon Relief Hospital damaged) raise international humanitarian law questions that the ceasefire framework was supposed to prevent. The OSINT angle: track Israeli unit positions via the Beaufort castle strike location (15km from border) and the Litani crossing to map the actual scope of the advance versus what's being reported as \"buffer zone enforcement.\"",
+  "verdict": "[SIPHONED VERDICT]: Israel crossed the Litani River and encircled Nabatieh during an active ceasefire \u2014 the diplomatic fiction of a \"buffer zone\" masks a military siege of a Lebanese regional capital.",
+  "tags": [
+    "israel",
+    "war",
+    "disinformation"
+  ],
+  "kanban_task": "t_50291e72"
+}

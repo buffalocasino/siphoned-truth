@@ -1,0 +1,24 @@
+{
+  "id": "may-29-us-officials-announced-that-washington-and-tehran-had-agreed-a-framework",
+  "slug": "may-29-us-officials-announced-that-washington-and-tehran-had-agreed-a-framework",
+  "time": "2026-06-03T18:18:39Z",
+  "title": "May 29, US officials announced that Washington and Tehran had agreed a \"framework of ...",
+  "narrative": "On Thursday May 29, US officials announced that Washington and Tehran had agreed a \"framework of a deal\" \u2014 a memorandum of understanding pending approval from Trump and Iran's leadership. The deal would reportedly extend the current ceasefire for 60 days and launch talks on Iran's nuclear programme. Trump posted on Truth Social that Iran must agree to never have a nuclear weapon, reopen the Strait of Hormuz for \"unrestricted shipping traffic,\" and allow the US to remove and destroy its enriched uranium. He convened a Situation Room meeting on Friday. As of Saturday, no deal has been announced. Iran's adviser to the supreme leader, Mohsen Rezaei, accused Trump of \"betraying diplomacy\" with \"excessive demands.\" Iran's semi-official Tasnim news agency reported Saturday that the naval blockade on Iranian shipping REMAINS IN PLACE \u2014 Iranian vessels are still being prevented from crossing. Trump has \"repeatedly suggested\" since the April 8 ceasefire that a deal was close, but there have been no substantive breakthroughs.",
+  "telemetry": [
+    "US officials announced a \"framework\" MoU on May 29 \u2014 no deal materialized after Friday's Situation Room meeting",
+    "Trump demanded: nuclear disarmament, Strait of Hormuz reopening, US removal of Iran's enriched uranium \u2014 all non-starters for Tehran",
+    "Iran's position: nuclear programme is \"wholly for peaceful purposes,\" not negotiable",
+    "Mohsen Rezaei (adviser to Supreme Leader Khamenei): Trump \"betraying diplomacy\" with \"excessive demands\"",
+    "Tasnim news agency (May 30): blockade on Iranian shipping remains in place; vessels still prevented from crossing",
+    "Trump has claimed \"deal close\" repeatedly since April 8 ceasefire \u2014 no substantive progress documented",
+    "Iran says it is not negotiating on its nuclear programme at all",
+    "Pattern: each round of talks produces \"framework\" announcements that collapse within days"
+  ],
+  "analysis": "The US-Iran negotiation cycle has become a performance: announce a framework, let it collapse, repeat. The physical evidence \u2014 the blockade still in place, vessels still stopped, Iran's explicit rejection of every core demand \u2014 contradicts the White House's narrative of progress. This is the fourth \"deal close\" cycle since April 8. The article should map each cycle's announcement-vs-outcome and ask what the actual strategic objective is if it's not a deal.",
+  "verdict": "[SIPHONED VERDICT]: The US announced a \"framework of a deal\" on Thursday \u2014 by Saturday, the naval blockade it promised to lift was still stopping Iranian ships, and Iran had rejected every term in the framework.",
+  "tags": [
+    "us-iran",
+    "disinformation"
+  ],
+  "kanban_task": "t_d83de1cf"
+}

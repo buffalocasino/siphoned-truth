@@ -1,0 +1,26 @@
+{
+  "id": "us-president-donald-trump-held-a-meeting-with-top-aides-in-the-white-house-situa",
+  "slug": "us-president-donald-trump-held-a-meeting-with-top-aides-in-the-white-house-situa",
+  "time": "2026-06-03T18:18:41Z",
+  "title": "US President Donald Trump held a meeting with top aides in the White House Situation Room on Frid...",
+  "narrative": "US President Donald Trump held a meeting with top aides in the White House Situation Room on Friday to make a \"final determination\" about a framework for extending the ceasefire with Iran. The meeting concluded without clarity on next steps. Officials had confirmed on Thursday that the US and Iran had agreed a framework of a deal \u2014 a memorandum of understanding \u2014 pending approval from Trump and Iran's leadership. The deal would reportedly extend the current ceasefire for 60 days and launch talks on Iran's nuclear programme. Trump posted on Truth Social before the meeting that he was prepared to lift the US naval blockade of the Strait of Hormuz. However, no statement followed the meeting, and Iran's semi-official Tasnim news agency reported Saturday that the blockade on Iranian shipping remained in place.",
+  "telemetry": [
+    "Iran reasserted control over the Strait of Hormuz on Saturday, warning foreign commercial and military vessels will be targeted if they don't comply with IRGC Navy regulations",
+    "Trump posted pre-meeting about lifting the blockade; post-meeting: blockade remains, no statement issued",
+    "Iran's Foreign Ministry spokesperson Esmaeil Baghaei said Friday: \"no final agreement has been reached\"",
+    "Mohsen Rezaei, adviser to Iran's Supreme Leader, accused Trump of \"betraying diplomacy for the third time\"",
+    "US strikes hit the Iranian port of Bandar Abbas this week, followed by retaliatory Iranian fire \u2014 undermining the \"peace\" narrative",
+    "Pentagon chief Pete Hegseth at Shangri-La Dialogue: US is \"more than capable\" of restarting war if satisfactory deal not reached",
+    "CENTCOM posted that American forces \"remain present and vigilant across the region\"",
+    "Al Jazeera headline: \"Iran reasserts control over Hormuz Strait as deal with US remains elusive\"",
+    "The ceasefire came into effect on 8 April; Trump has repeatedly suggested since then that a deal was close, but no substantive results have materialized"
+  ],
+  "analysis": "The official narrative: a deal framework was agreed, progress is being made, Trump is close to a decision. The physical evidence: the meeting produced nothing, the blockade remains, Iran reasserted sovereignty over the very waterway Trump claimed he'd open, and US strikes hit Iranian ports this week. The gap between Trump's pre-meeting posturing (about lifting the blockade) and the post-meeting reality (blockade unchanged, no statement) reveals the \"framework\" was never real \u2014 it was leverage theater. Iran's simultaneous reassertion of Hormuz control is the physical proof that the deal doesn't exist in any meaningful form. The Hegseth \"capable of restarting war\" statement hours later confirms the actual policy: the blockade stays until Iran capitulates on nuclear enrichment, not until a deal is signed.",
+  "verdict": "[SIPHONED VERDICT]: Trump claimed a deal framework was agreed and posted about lifting the Hormuz blockade, but within 24 hours Iran reasserted control over the strait, the blockade remained unchanged, and the Pentagon chief threatened to restart the war \u2014 the \"framework\" was never real, it was leverage theater dressed as diplomacy.",
+  "tags": [
+    "us-iran",
+    "war",
+    "disinformation"
+  ],
+  "kanban_task": "t_e2185430"
+}
