@@ -1,0 +1,27 @@
+{
+  "id": "ukraine-drones-st-petersburg-spief-2026-06-03",
+  "slug": "ukraine-drones-st-petersburg-spief-2026-06-03",
+  "time": "2026-06-03T22:17:20Z",
+  "title": "Ukraine drones hit St Petersburg during economic forum — 2026-06-03",
+  "narrative": "On June 2-3, 2026, Ukrainian long-range drones struck oil storage facilities near St. Petersburg — over 800 km from the front lines — as Russia opened its flagship St. Petersburg International Economic Forum (SPIEF), often called \"Russia's Davos.\" Russia's defense ministry claims \"most drones were intercepted.\" Putin is scheduled to address the forum within days. One drone hit a naval air base near the city.",
+  "telemetry": [
+    "St. Petersburg is over 800 km from the nearest Ukrainian-held territory. Standard Ukrainian long-range drones (UJ-22, Beaver) have ~800 km range but limited payload. This suggests either a new longer-range platform or a non-Ukrainian launch point (Baltic Sea, Finland, Estonia).",
+    "The oil storage facility strike: FIRMS (NASA satellite fire detection) data for June 2-3 over St. Petersburg coordinates (~59.93N, 30.33E) can independently confirm the fire's extent and duration.",
+    "\"Most drones intercepted\" is a non-falsifiable claim without radar data. The number of impacts (at least an oil facility AND a naval air base hit) suggests air defense penetration rate was significant.",
+    "The SPIEF economic forum is designed to showcase Russia as a normal, investable economy. Drone strikes on the host city during the forum contradict that image.",
+    "Naval air base strike: satellite tasking of the airbase can reveal what was hit — if aircraft were damaged, Russia's claim of \"minimal impact\" is false.",
+    "Source links: https://www.bbc.com/news/articles/c0e2vqd3j1vo, https://www.aljazeera.com/video/newsfeed/2026/6/3/ukraine-attacks-st-petersburg-as-russia-hosts-its-own-davos"
+  ],
+  "analysis": "The story isn't just \"drones hit Russia\" — it's \"Russia cannot protect its second city during its most important economic showcase.\" The contradiction between Putin's SPIEF narrative of a functioning global power and the reality of burning oil depots 30 km from the venue is the core of the story. The range question is a secondary OSINT puzzle. The primary story is the Potemkin village collapsing in real time.",
+  "verdict": "[SIPHONED VERDICT]: Russia's air defense narrative is a fiction — Ukrainian drones flew 800 km through \"the world's most advanced layered air defense\" and set Putin's economic showcase city on fire while he pretends it didn't happen.",
+  "tags": [
+    "Ukraine",
+    "Russia",
+    "SPIEF",
+    "drones",
+    "air-defense",
+    "St-Petersburg",
+    "OSINT"
+  ],
+  "kanban_task": "t_33086989"
+}

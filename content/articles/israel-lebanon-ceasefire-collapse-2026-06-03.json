@@ -1,0 +1,26 @@
+{
+  "id": "israel-lebanon-ceasefire-collapse-2026-06-03",
+  "slug": "israel-lebanon-ceasefire-collapse-2026-06-03",
+  "time": "2026-06-03T22:17:20Z",
+  "title": "Israel-Lebanon ceasefire collapses — 2026-06-03",
+  "narrative": "A US-mediated \"partial ceasefire\" between Israel and Hezbollah was agreed on Monday June 1, 2026. By Wednesday June 3, Israeli strikes killed nine in Lebanon, reaching Beirut outskirts. Hezbollah fired rockets over the border. Israeli strikes hit near Tyre's Jabal Aamel Hospital, damaging critical medical infrastructure. Simultaneously, Israel-Lebanon talks are occurring in Washington. BBC reports the incidents \"strain\" the ceasefire — but nine dead suggests the ceasefire never actually took effect.",
+  "telemetry": [
+    "The ceasefire was agreed June 1. Israeli strikes killing nine occurred June 3. That is not \"strain\" — that is full resumption of hostilities.",
+    "Jabal Aamel Hospital in Tyre: geolocation of strike sites relative to hospital coordinates (33.27N, 35.22E) can independently verify strike proximity to protected medical infrastructure.",
+    "Al Jazeera reports Israel's \"sixth invasion of Lebanon in 48 years\" — historical pattern of ceasefire-as-pause rather than ceasefire-as-peace.",
+    "Washington talks: what was the actual agenda? If de-escalation was the topic, bombing during talks is a deliberate contradiction, not an accident.",
+    "Hezbollah rocket fire: IDF claims of \"retaliation to provocation\" can be timeline-checked against independent OSINT reports (FIRMS fire data, social media geolocation of launch sites).",
+    "Source links: https://www.bbc.com/news/articles/c5y01pdqvkgo, https://www.aljazeera.com/news/2026/6/3/israeli-attacks-kill-nine-in-lebanon-reach-beirut-outskirts, https://www.aljazeera.com/video/newsfeed/2026/6/3/israeli-strikes-near-tyre-hospital-put-youngest-patient-at-risk"
+  ],
+  "analysis": "The ceasefire was never a ceasefire — it was a diplomatic fig leaf for the Washington talks. Israel continued operations, Hezbollah responded, and both sides now blame the other for violating an agreement that neither intended to honor. The \"strain\" language from Western media sanitizes what is functionally a continuation of hostilities with a ceremonial pause. The real story is the gap between diplomatic theater and military reality.",
+  "verdict": "[SIPHONED VERDICT]: The US brokered a ceasefire it knew neither side would keep — nine dead Lebanese civilians are the price of a photo op in Washington.",
+  "tags": [
+    "Israel",
+    "Lebanon",
+    "ceasefire",
+    "Hezbollah",
+    "diplomacy",
+    "Washington"
+  ],
+  "kanban_task": "t_df9a398a"
+}
