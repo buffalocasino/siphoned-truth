@@ -125,9 +125,8 @@
 		<ins class="adsbygoogle"
 			 style="display:block; width:300px; height:250px; margin:0 auto;"
 			 data-ad-client="ca-pub-1032028091690286"
-			 data-ad-slot="auto"
-			 data-ad-format="auto"
-			 data-full-width-responsive="true"></ins>
+			 	data-ad-format="auto"
+			 	data-full-width-responsive="true"></ins>
 	</div>
 
 		<footer>
