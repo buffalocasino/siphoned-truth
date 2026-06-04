@@ -1,0 +1,29 @@
+{
+  "id": "iran-drone-strike-kuwait-airport-2026-06-03",
+  "slug": "iran-drone-strike-kuwait-airport-2026-06-03",
+  "time": "2026-06-04T01:35:15Z",
+  "title": "Iran Strikes Kuwait International Airport — Civilian Aviation Hub Becomes Battlefield",
+  "narrative": "On June 3, 2026, Iranian IRGC drones struck Kuwait International Airport, killing one person and injuring over 60. The attack also damaged diplomatic missions. Kuwait's defence ministry called it 'criminal Iranian aggression.' Iran's IRGC claimed the attack as retaliation for prior US strikes on an Iranian oil tanker and Qeshm Island. Iran also stated it targeted US military bases in the Gulf. The US had earlier confirmed strikes on Iranian maritime assets. This represents a dramatic escalation of the shadow war in the Persian Gulf, with civilian aviation infrastructure now directly in the crossfire.",
+  "telemetry": [
+    "Attack occurred midday June 3 with fire and chaos inside Kuwait airport terminal — BBC reporting",
+    "Iran cited US strikes on an Iranian oil tanker AND Qeshm Island — two separate incidents — as justification",
+    "Kuwait hosts approximately 13,500 US military personnel across multiple bases: Camp Arifjan, Ali Al Salem Air Base, Ahmad al-Jabir Air Base",
+    "Iranian drones launched from Bushehr or Bandar Abbas would need to traverse ~200-400km over water, passing near US Navy patrol zones in the Strait of Hormuz",
+    "Kuwait operates Patriot PAC-3 air defense systems (US-supplied) — critical question: why did they fail to intercept?",
+    "IRGC simultaneously claimed targeting 'US bases in the Gulf' — suggests coordinated multi-axis attack across Bahrain, UAE, and Qatar",
+    "Civilian airport as target represents deliberate escalation beyond military-to-military engagement",
+    "The message to Gulf states: your airspace is permeable, your American protectors cannot shield you, and your economic hubs are targets"
+  ],
+  "analysis": "Frame this as 'the day the shadow war went hot over civilian heads.' The official narrative from both sides is symmetrical: Iran says retaliation, US says defense of maritime assets. But the physical evidence — the choice of Kuwait International Airport as a target, the failure of Patriot systems, the simultaneous Gulf base strikes — tells a different story: this was not a proportional response to a tanker strike. It was a coordinated, multi-vector IRGC operation designed to demonstrate that no Gulf state hosting US forces is safe. The civilian casualties at the airport are not collateral damage in a military operation — they are the point.",
+  "verdict": "[SIPHONED VERDICT]: Iran did not retaliate against a US tanker strike — it executed a pre-planned multi-axis attack on civilian infrastructure across the Gulf, using the tanker incident as a pretext, and the Patriot missile systems that were supposed to protect Kuwait either failed, were offline, or were circumvented by drone saturation tactics that US defense contractors have known about for years and done nothing to address.",
+  "tags": [
+    "Iran",
+    "Kuwait",
+    "Persian Gulf",
+    "drone warfare",
+    "IRGC",
+    "shadow war",
+    "civilian casualties"
+  ],
+  "kanban_task": "t_83638a53"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "epstein-files-transparency-bondi-testimony-2026-05-30",
+  "slug": "epstein-files-transparency-bondi-testimony-2026-05-30",
+  "time": "2026-06-04T01:35:15Z",
+  "title": "Bondi Claims 'Unprecedented Transparency' on Epstein Files While Lawyers Block Questions About Trump",
+  "narrative": "Former US Attorney General Pam Bondi testified behind closed doors before the House Oversight Committee on Friday May 30, defending her handling of the Epstein Files Transparency Act — legislation signed by Trump mandating the DOJ publicly release unclassified Epstein-related documents. Bondi claimed 'an unprecedented commitment to transparency,' stating the department produced 'nearly three million pages of material.' She said: 'To the best of my knowledge, the department produced everything required under the Epstein Files Transparency Act.' However, Democrats on the committee emerged accusing Bondi of being 'evasive,' 'deferring responsibility to her former deputy,' and refusing to answer questions about Trump — government lawyers intervened to block her responses. Congressman Robert Garcia said Bondi 'would not speak or respond to any questions that had anything to do with President Trump.'",
+  "telemetry": [
+    "Bondi testified May 30 behind closed doors — removed from AG post by Trump in April, just before subpoena",
+    "Claims: 'unprecedented commitment to transparency,' 'nearly three million pages of material'",
+    "Democrats: Bondi was 'evasive,' 'deferring responsibility' to former deputy",
+    "Government lawyers intervened to block Bondi from answering questions about Trump",
+    "Rep. Garcia (D): Bondi 'would not speak or respond to any questions that had anything to do with President Trump'",
+    "Rep. Subramanyam (D): 'The process was a cover-up' — Republicans set interview with voluntary transcript rules limiting accountability",
+    "Released documents publicly identified victims of Epstein's crimes — the very people the Act was supposed to protect",
+    "Committee chairman Comer (R) also investigating 'possible mismanagement' — bipartisan concern unusual",
+    "Bondi fired by Trump after subpoena but before testimony — timing raises questions about coordination"
+  ],
+  "analysis": "The contradiction here is structural: the Epstein Files Transparency Act was supposed to expose the network, but the 'transparency' produced documents that identified victims while the AG refused under oath to discuss the president's involvement. The article should map what 'nearly three million pages' actually contained (victim names, redacted principals), who decided the release strategy, and why government lawyers were blocking answers about Trump in a hearing about the Epstein case. The bipartisan concern (Comer and Democrats both critical) is unusual and worth highlighting.",
+  "verdict": "[SIPHONED VERDICT]: Bondi claimed 'unprecedented transparency' on the Epstein files while government lawyers blocked her from answering questions about Trump — the 'transparent' release exposed victims by name while the principals remained shielded under oath.",
+  "tags": [
+    "Epstein",
+    "Pam Bondi",
+    "Trump",
+    "DOJ",
+    "transparency",
+    "House Oversight",
+    "classified documents"
+  ],
+  "kanban_task": "t_92e73a7b"
+}

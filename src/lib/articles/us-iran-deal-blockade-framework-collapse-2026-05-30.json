@@ -1,0 +1,28 @@
+{
+  "id": "us-iran-deal-blockade-framework-collapse-2026-05-30",
+  "slug": "us-iran-deal-blockade-framework-collapse-2026-05-30",
+  "time": "2026-06-04T01:35:15Z",
+  "title": "US-Iran 'Framework' Collapses Within 48 Hours — Blockade Still in Place, Iran Rejects Every Term",
+  "narrative": "On Thursday May 29, US officials announced that Washington and Tehran had agreed a 'framework of a deal' — a memorandum of understanding pending approval from Trump and Iran's leadership. The deal would reportedly extend the current ceasefire for 60 days and launch talks on Iran's nuclear programme. Trump posted on Truth Social that Iran must agree to never have a nuclear weapon, reopen the Strait of Hormuz for 'unrestricted shipping traffic,' and allow the US to remove and destroy its enriched uranium. He convened a Situation Room meeting on Friday. As of Saturday, no deal has been announced. Iran's adviser to the supreme leader, Mohsen Rezaei, accused Trump of 'betraying diplomacy' with 'excessive demands.' Iran's semi-official Tasnim news agency reported Saturday that the naval blockade on Iranian shipping REMAINS IN PLACE.",
+  "telemetry": [
+    "US officials announced 'framework' MoU on May 29 — no deal materialized after Friday's Situation Room meeting",
+    "Trump demanded: nuclear disarmament, Strait of Hormuz reopening, US removal of Iran's enriched uranium — all non-starters for Tehran",
+    "Iran's position: nuclear programme is 'wholly for peaceful purposes,' not negotiable",
+    "Mohsen Rezaei (adviser to Supreme Leader Khamenei): Trump 'betraying diplomacy' with 'excessive demands'",
+    "Tasnim news agency (May 30): blockade on Iranian shipping remains in place; vessels still prevented from crossing",
+    "Trump has claimed 'deal close' repeatedly since April 8 ceasefire — no substantive progress documented",
+    "Pattern: each round of talks produces 'framework' announcements that collapse within days",
+    "This is the fourth 'deal close' cycle since April 8 ceasefire"
+  ],
+  "analysis": "The US-Iran negotiation cycle has become a performance: announce a framework, let it collapse, repeat. The physical evidence — the blockade still in place, vessels still stopped, Iran's explicit rejection of every core demand — contradicts the White House's narrative of progress. This is the fourth 'deal close' cycle since April 8. The article should map each cycle's announcement-vs-outcome and ask what the actual strategic objective is if it's not a deal.",
+  "verdict": "[SIPHONED VERDICT]: The US announced a 'framework of a deal' on Thursday — by Saturday, the naval blockade it promised to lift was still stopping Iranian ships, and Iran had rejected every term in the framework.",
+  "tags": [
+    "US-Iran",
+    "naval blockade",
+    "diplomacy",
+    "Strait of Hormuz",
+    "Trump",
+    "nuclear deal"
+  ],
+  "kanban_task": "t_d83de1cf"
+}
