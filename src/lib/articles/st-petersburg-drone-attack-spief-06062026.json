@@ -1,0 +1,28 @@
+{
+  "id": "ST-PETERSBURG-DRONE-ATTACK-SPIEF-06062026",
+  "slug": "st-petersburg-drone-attack-spief-putin-economic-theater",
+  "time": "2026-06-06T12:15:00Z",
+  "title": "The Forum and the Fire: How Drones Crashed Putin's Economic Theater",
+  "narrative": "On June 5-6, 2026, Ukraine launched what Russia called an 'unprecedented' mass drone attack on St. Petersburg, targeting Russian military facilities including a navy base. The attack came on the final day of the St. Petersburg International Economic Forum (SPIEF) — known as 'Putin's Davos' — where Russia projected economic confidence and international relevance. Putin had just rejected Zelenskyy's offer for direct peace talks hours before the drones arrived. Russia's Defense Ministry claimed 'hundreds' of drones were downed.",
+  "telemetry": [
+    "WSJ: 'Mass Ukrainian Drone Strikes Target Russian Military Facilities in St. Petersburg' (June 6, 2026) — confirming targets were military, not civilian",
+    "CNN: 'Ukraine targets Russian navy base near St. Petersburg on last day of Putin's Davos' (June 6, 2026) — timing correlation is explicit, not speculative",
+    "BBC: 'Scores of Ukrainian drones target St Petersburg in attack Russia calls unprecedented' (June 6, 2026) — Russia's own characterization escalates the significance",
+    "AP: 'Ukraine targets St. Petersburg again after Putin rejects Zelenskyy's offer for direct talks' (June 6, 2026) — the causal link between the rejected peace offer and the attack is reported as fact",
+    "Al Jazeera: 'Russia says hundreds of Ukrainian drones downed as economic forum ends' (June 6, 2026) — note the 'downed' claim while explosions were still being geolocated",
+    "Russia's claim of 'hundreds downed' sits alongside visually-confirmed impact sites — the familiar discrepancy between the MoD's 100% interception claims and citizen video showing explosions and smoke",
+    "SPIEF continued with official programming; Russian state media minimized attack coverage — the economic theater persisted while the kinetic reality arrived overhead",
+    "Putin rejected Zelenskyy's peace offer hours before the drones arrived — the question is whether Ukraine timed the attack to demonstrate Russia cannot protect even its showcase city while rejecting diplomacy"
+  ],
+  "analysis": "The split-screen is the story. In one frame: SPIEF attendees discussing investment opportunities and Russia's 'resilient economy.' In the other: air defenses activating over the host city. The Russian government invested heavily in SPIEF as proof that sanctions have failed and Russia remains an indispensable global economic player. The drone attack — on the final day, on the navy base, after Putin rejected peace talks — punctures that narrative in the most direct way possible: by demonstrating that the war Russia started can reach the city where it was trying to pretend the war doesn't exist. The Defense Ministry's claim of 'hundreds downed' is the standard information operation — claim total success, minimize visible damage, continue with scheduled programming. But citizen video showing explosions over St. Petersburg, geolocated to the navy base, makes the official line impossible to sustain. The deeper signal: Ukraine demonstrated it can strike deep into Russian territory on a day of maximum symbolic value, and did so within hours of the Kremlin publicly rejecting negotiations. The message from Kyiv was delivered in drones, not diplomatic cables.",
+  "verdict": "[SIPHONED VERDICT]: You can't host an economic forum while drones hit your navy base — but Russia tried anyway, and the split-screen between SPIEF's 'business as usual' and St. Petersburg's air defenses is the real story.",
+  "tags": [
+    "russia",
+    "ukraine",
+    "st-petersburg",
+    "spief",
+    "drone-strike",
+    "putin"
+  ],
+  "kanban_task": "t_85c8cc25"
+}
