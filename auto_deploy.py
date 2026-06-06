@@ -298,6 +298,15 @@ def main():
                 if not dst.exists() or src_file.stat().st_mtime > dst.stat().st_mtime:
                     dst.parent.mkdir(parents=True, exist_ok=True)
                     shutil.copy2(src_file, dst)
+
+    # 1b3. Sync root static files (logo.svg, favicon, etc.) from build/ to .vercel/output/static/
+    #      These live at the site root but the static adapter puts them in build/.
+    for name in ["logo.svg", "favicon.png", "og-default.jpg", "robots.txt"]:
+        src = BLOG / "build" / name
+        dst = vercel_static / name
+        if src.exists():
+            if not dst.exists() or src.stat().st_mtime > dst.stat().st_mtime:
+                shutil.copy2(src, dst)
         # Remove covers from .vercel/output that no longer exist in build/
         for f in vercel_covers.glob("*.jpg"):
             if not (build_covers / f.name).exists():
@@ -341,12 +350,20 @@ def main():
     #    dest from the placeholder token to the actual file.
     vercel_config = BLOG / ".vercel/output/config.json"
     if vercel_config.exists():
-        import re
-        cfg = vercel_config.read_text()
-        cfg = cfg.replace('"dest": "/article/[slug]"', '"dest": "/article/$1.html"')
-        cfg = cfg.replace('"dest": "/fb-posts/[slug]"', '"dest": "/fb-posts/$1.txt"')
-        vercel_config.write_text(cfg)
-        print("Patched Vercel routing config: /article/{slug} → .html")
+        cfg = json.loads(vercel_config.read_text())
+        # Ensure clean routes that map /article/{slug} → .html files
+        needed = [
+            {"src": r"^/covers/(.*)$", "dest": "/covers/$1"},
+            {"src": r"^/_app/(.*)$", "dest": "/_app/$1"},
+            {"src": r"^/article/([^/]+)$", "dest": "/article/$1.html"},
+            {"src": r"^/(.*)$", "dest": "/$1"},
+        ]
+        # Merge: keep existing routes not in our set, then append ours
+        ours = {tuple(r.items()) for r in needed}
+        existing = [r for r in cfg.get("routes", []) if tuple(r.items()) not in ours]
+        cfg["routes"] = existing + needed
+        vercel_config.write_text(json.dumps(cfg, indent=2))
+        print("Rewrote Vercel routing config with proper /article/{slug} → .html mapping")
 
     # 3. Push to GitHub
     if not run("git", "push", "origin", "master"):
