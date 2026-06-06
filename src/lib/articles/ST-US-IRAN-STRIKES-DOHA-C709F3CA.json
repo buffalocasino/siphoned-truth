@@ -1,0 +1,24 @@
+{
+  "id": "ST-US-IRAN-STRIKES-DOHA-C709F3CA",
+  "slug": "us-iran-ceasefire-strikes-doha-drone-downing",
+  "time": "2026-06-06T10:03:29Z",
+  "title": "Ceasefire in Progress \u2014 Unless You Count the Strikes",
+  "narrative": "US and Iranian officials have repeatedly stated that a ceasefire is in effect following three months of conflict, with the Secretary of State announcing 'de-escalation achieved' and peace talks ongoing in Doha. The public narrative: the war is paused, negotiations are proceeding, both sides want a deal.",
+  "telemetry": [
+    "BBC timestamped reports (May 28, 05:32 GMT): 'Oil prices jump after US launches new attacks on Iran' \u2014 strikes on missile sites and boats, described as 'self-defence'",
+    "Iran says it targeted an American base AFTER the US strikes (BBC, May 28, 11:52 GMT) \u2014 establishing a clear strike-counterstrike sequence during the ceasefire period",
+    "Iran reports downing a US drone that 'entered Iranian airspace' \u2014 the US has not denied this claim, an omission that carries weight given standard Pentagon rebuttal practice",
+    "Strikes occurred WHILE Iranian and Qatari negotiators were physically in Doha for peace talks (BBC, May 26) \u2014 the timing is not coincidental",
+    "Ceasefire was announced approximately two weeks prior; the Iranian internet shutdown ended only days ago, suggesting the regime was re-establishing domestic information control before the next phase"
+  ],
+  "analysis": "The official framing treats the ceasefire as an ongoing diplomatic process with 'minor violations.' But the sequence is not minor: US strikes, Iranian counter-strikes, a downed drone, and oil price spikes \u2014 all within 24 hours. The physical timeline tells a different story than the diplomatic one. If a ceasefire genuinely holds, US strikes should have stopped. If a ceasefire genuinely holds, Iran wouldn't be targeting US bases and downing surveillance aircraft. The Pentagon and State Department are operating from different scripts: the generals are prosecuting a kinetic campaign while the diplomats describe a peace process. One of them is not describing reality. The presence of negotiators in Doha during the strikes is the smoking gun \u2014 either the diplomats were kept in the dark about imminent military action, or the strikes were a deliberate message delivered mid-session. Neither explanation is compatible with 'ceasefire in progress.'",
+  "verdict": "[SIPHONED VERDICT]: The 'ceasefire' is a diplomatic costume draped over an active shooting war \u2014 the diplomats and the generals are not reading from the same script, and the physical evidence says the generals' version is the real one.",
+  "tags": [
+    "us-iran",
+    "ceasefire",
+    "doha-talks",
+    "military",
+    "drone"
+  ],
+  "kanban_task": "t_208cf4c6"
+}
