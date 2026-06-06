@@ -1,0 +1,26 @@
+{
+  "id": "ST-ISRAEL-CEASEFIRE-BEBA96E0",
+  "slug": "israel-lebanon-ceasefire-fiction-strikes-kill-general-infant",
+  "time": "2026-06-06T18:06:41.603282+00:00",
+  "title": "Israel-Lebanon ceasefire fiction — strikes kill general and infant within hours of truce — June 6 2026",
+  "narrative": "On June 6, 2026, multiple news organizations reported that Israel had signed or reaffirmed ceasefire agreements with Hezbollah in Lebanon and regarding Gaza. Within hours of these diplomatic declarations, Israeli military operations killed a Lebanese brigadier general, a 7-month-old Palestinian infant, and at least six civilians in a Gaza City tent camp — across three separate fronts. The official Israeli position across all incidents was that each was a response to a specific threat, under review, or a tragic accident. The New York Times also published a visual investigation documenting Israel's use of white phosphorus munitions over populated areas in Lebanon — a separate paper trail of actions contradicting official restraint claims.",
+  "telemetry": [
+    "Lebanese brigadier general killed: Israeli airstrike near Nabatieh, southern Lebanon, killed a general, a captain, and a soldier traveling on the Khardali-Nabatieh road. Al Jazeera reports 10 total killed in Israeli attacks in Lebanon on June 6. BBC: Lebanese general among three soldiers killed in Israeli attack on car.",
+    "Infant killed in West Bank: 7-month-old Sam Abu Haykal killed by Israeli gunfire in a car in Hebron. Israel military said the car was speeding toward soldiers — the grandmother in the car disputes this account. NYT: Infant Killed as Israeli Military Fires on Car in West Bank, Palestinian Officials Say.",
+    "Gaza City tent camp: Israeli attack killed at least 6 people while Hamas was preparing for ceasefire implementation meetings in Egypt. Al Jazeera: attack occurred as Hamas readies for meetings in Egypt on full implementation of Gaza ceasefire agreement.",
+    "White phosphorus documentation: NYT visual investigation published June 6 documented what visual evidence tells us about Israel's use of white phosphorus in Lebanon — video evidence collected showing deployment over populated areas, a war crime under international law when used in civilian areas.",
+    "Pattern across three fronts: Lebanon (Hezbollah combat zone), West Bank (occupied territory), Gaza (ceasefire negotiations active) — three different official justifications, unified by timing within 24 hours of ceasefire declarations."
+  ],
+  "analysis": "When a brigadier general, a 7-month-old infant, and a tent camp full of civilians are all killed within hours of a government declaring truce — on three different fronts, with three different justifications — the word has lost functional meaning. Ceasefire declarations serve a diplomatic function: placating international pressure, creating a narrative of restraint for Western audiences. But kinetic operations continue unchanged because the declarations carry no enforcement mechanism and no consequence for violation. The pattern across Lebanon, the West Bank, and Gaza on a single day is not a coincidence of timing — it reflects a systematic gap between what is said in English to international audiences and what is done in Arabic-speaking theaters. The white phosphorus investigation provides the visual anchor: a weapon whose use over populated areas is independently documented and whose deployment pattern contradicts every official claim of proportional response.",
+  "verdict": "[SIPHONED VERDICT]: A general, an infant, and a tent camp killed within hours of a truce on three separate fronts — ceasefire is a word, not a policy.",
+  "tags": [
+    "OSINT",
+    "geopolitics",
+    "Israel",
+    "Lebanon",
+    "Gaza",
+    "ceasefire",
+    "war-crimes"
+  ],
+  "kanban_task": "t_32fe56c2"
+}
