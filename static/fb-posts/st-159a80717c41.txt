@@ -1,0 +1,16 @@
+⬡ US-Iran Gulf strikes — 'defensive' narrative vs. offensive reality — June 6 2026
+
+On June 5-6, 2026, the US military reported shooting down "at least 4" Iranian drones launched toward Gulf allies, framing the action as purely defensive.
+
+The telemetry doesn't lie.
+
+▸ The US is framing an offensive strike-and-counterstrike cycle as "defensive." OSINT tools can verify:
+1. Satellite imagery (Planet/Sentinel) of US strike sites in Iran — were these pre-positioned offensive targets?
+2. MarineTraffic AIS data: did naval assets shift position BEFORE the US strikes? (indicating pre-planned offensive, not reactive defense)
+3. FlightRadar24: airspace closure patterns over Gulf — do they show US combat air patrols preceding the Iranian drone launch?
+4. Compare CENTCOM press releases vs. independent OSINT timeline
+Headline angle: "Defensive or Deceptive? The US-Iran Strike Timeline That Doesn't Add Up"
+
+→ https://siphonedtruth.online/article/st-159a80717c41
+
+#SiphonedTruth #OSINT #ShadowBroker

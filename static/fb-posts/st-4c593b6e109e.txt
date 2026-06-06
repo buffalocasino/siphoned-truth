@@ -1,0 +1,17 @@
+⬡ Forest Service closures — 'cost-cutting' narrative vs. the math — June 6 2026
+
+The US Forest Service is closing field offices nationwide, claiming the closures are necessary cost-cutting measures as part of the administration's efficiency drive.
+
+The telemetry doesn't lie.
+
+▸ This is a classic "elites say X, numbers say Y" story. OSINT/document angle:
+1. FOIA or public lease data: what are the actual lease costs of the offices being closed?
+2. Compare closure list (DOGE canceled leases data) vs. wildfire risk maps — are high-risk areas losing coverage?
+3. Budget analysis: do the claimed savings exceed the cost of increased wildfire damage from reduced prevention?
+4. Employee relocation data: how many experienced fire management staff are being forced out vs. retained?
+5. Timeline: closures announced during peak wildfire season — is the timing itself the contradiction?
+Headline angle: "Burning the Fire Department: How the Forest Service's 'Cost-Cutting' Math Doesn't Add Up"
+
+→ https://siphonedtruth.online/article/st-4c593b6e109e
+
+#SiphonedTruth #OSINT #ShadowBroker
