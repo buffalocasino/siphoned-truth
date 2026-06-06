@@ -285,6 +285,19 @@ def main():
             dest = vercel_covers / f.name
             if not dest.exists() or f.stat().st_mtime > dest.stat().st_mtime:
                 shutil.copy2(f, dest)
+
+    # 1b2. Sync _app assets (JS/CSS) from build/ to .vercel/output/static/
+    #      Without this, --prebuilt deploy ships without CSS/JS = unstyled page.
+    build_app  = BLOG / "build/_app"
+    vercel_app = vercel_static / "_app"
+    if build_app.exists():
+        for src_file in build_app.rglob("*"):
+            if src_file.is_file():
+                rel = src_file.relative_to(build_app)
+                dst = vercel_app / rel
+                if not dst.exists() or src_file.stat().st_mtime > dst.stat().st_mtime:
+                    dst.parent.mkdir(parents=True, exist_ok=True)
+                    shutil.copy2(src_file, dst)
         # Remove covers from .vercel/output that no longer exist in build/
         for f in vercel_covers.glob("*.jpg"):
             if not (build_covers / f.name).exists():
