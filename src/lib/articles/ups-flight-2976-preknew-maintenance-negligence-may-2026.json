@@ -1,0 +1,27 @@
+{
+  "id": "ups-flight-2976-preknew-maintenance-negligence-may-2026",
+  "slug": "ups-flight-2976-preknew-maintenance-negligence-may-2026",
+  "title": "UPS Knew: The Maintenance Records That Contradict the 'Accident' Story",
+  "narrative": "UPS and FAA officials stated after the November 2025 crash of Flight 2976 — an MD-11 from Louisville to Honolulu — that it was an 'accident' and the cause was under NTSB investigation. UPS CEO Carol Tome expressed condolences publicly. The NTSB investigative hearing on May 20, 2026, is being framed as a routine fact-finding step. But the lawsuits tell a different story.",
+  "telemetry": [
+    "100+ plaintiffs filed lawsuits in Jefferson Circuit Court (KY) alleging UPS knew of pre-existing mechanical deficiencies before the crash",
+    "WHAS11 and WDRB local reporting examined the maintenance history of aircraft N-155UP, the crashed MD-11",
+    "Wrongful death suits also name GE (engine manufacturer) and Boeing (airframe) as co-defendants",
+    "Independent reporting and aviation community analysis cite evidence of prior maintenance events on the aircraft",
+    "Separate allegation: UPS submitted false statements to FAA HIMS AMEs regarding pilot fatigue — documented pattern of document manipulation",
+    "NTSB preliminary findings docket should reveal what maintenance records UPS provided to investigators vs. what actual logs show"
+  ],
+  "analysis": "The gap between the corporate 'accident' framing and the legal filings is not minor. It is the difference between a genuine unforeseeable event and a failure of institutional oversight where the institution had warning. When 100+ plaintiffs name specific maintenance records in a court filing, they are not speculating. They are citing evidence. The pattern extends beyond the airframe: the separate allegation that UPS submitted false statements to FAA medical examiners about pilot fatigue suggests a systemic approach to documentation that prioritizes operational continuity over accuracy. If the NTSB hearing is truly a routine fact-finding step, it should produce the maintenance logs UPS provided to investigators. If those logs match the aircraft's actual maintenance history, the lawsuits collapse. If they don't, the word 'accident' becomes a legal liability rather than a description.",
+  "verdict": "[SIPHONED VERDICT]: UPS called it an 'accident' before the NTSB hearing even started. The 100+ plaintiffs who filed suit say the maintenance records prove otherwise — and they are asking a court to make UPS show its work.",
+  "tags": [
+    "aviation",
+    "ups",
+    "ntsb",
+    "maintenance",
+    "corporate-negligence",
+    "lawsuits",
+    "safety"
+  ],
+  "kanban_task": "t_c76648e3",
+  "time": "2026-06-06T08:53:09Z"
+}
