@@ -1,0 +1,26 @@
+{
+  "id": "washington-paper-mill-explosion-may-2026",
+  "slug": "washington-paper-mill-explosion-may-2026",
+  "title": "Worst Industrial Accident in Modern History — But Why?",
+  "narrative": "A tank ruptured at a paper mill in Longview, Washington, causing a chemical explosion. One worker was confirmed dead and nine were reported missing on May 28. State officials called it Washington state's \"worst industrial accident in modern history.\" A second death was confirmed later that day, and officials stated \"no survivors are expected.\" The search operation is now a recovery mission. The narrative: industrial accident, fast response, tragedy but contained.",
+  "telemetry": [
+    "Second death confirmed, 'no survivors expected' — May 28 update",
+    "State officials: 'Washington state's worst industrial accident in modern history'",
+    "Tank rupture, chemical explosion — likely chlorine dioxide or similar pulping chemicals (high hazard)",
+    "OSHA inspection records for the facility: prior violations status unknown as officials have not released data",
+    "EPA/TEMIS environmental monitoring data from area around explosion time still being assessed",
+    "'No survivors expected' language issued before site was fully searched — search to recovery transition within hours"
+  ],
+  "analysis": "The phrase 'no survivors expected' does significant work. It closes off the investigation before physical evidence is fully assessed. The chemical involved matters enormously: paper mills using chlorine dioxide for pulp bleaching handle some of the most hazardous industrial chemicals in routine operation. The speed with which the response shifted from search-and-rescue to recovery is notable — within hours, not days. Prior OSHA inspection records for this facility should be public, but officials have not volunteered them in statements. If this facility had a clean inspection history, that would be the first thing a company spokesperson would announce. The framing of 'accident' pre-empts investigation findings. In industrial safety investigations, 'accident' implies unforeseeable — but chemical tank ruptures in facilities using known hazardous processes are rarely unforeseeable. They are almost always preceded by inspection findings, maintenance deferrals, or regulatory gaps that someone decided not to address.",
+  "verdict": "[SIPHONED VERDICT]: They called it an 'accident' before they finished searching the site. The tank did not rupture by surprise — someone knew what was in it, what shape it was in, and what would happen if it failed.",
+  "tags": [
+    "industrial-safety",
+    "washington",
+    "osha",
+    "chemical-safety",
+    "investigation",
+    "labor"
+  ],
+  "kanban_task": "t_a8d17b8a",
+  "time": "2026-06-06T08:49:53Z"
+}

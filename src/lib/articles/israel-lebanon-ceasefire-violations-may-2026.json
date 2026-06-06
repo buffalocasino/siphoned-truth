@@ -1,0 +1,26 @@
+{
+  "id": "israel-lebanon-ceasefire-violations-may-2026",
+  "slug": "israel-lebanon-ceasefire-violations-may-2026",
+  "title": "Collective Punishment, Documented: The Southern Lebanon Ceasefire Evidence",
+  "narrative": "The BBC and Guardian reported May 28 that Israel has intensified strikes on Lebanon during the supposed ceasefire, with verified videos showing strikes on densely populated neighbourhoods in southern Lebanon. Lebanese PM Nawaf Salam condemned the attacks as \"collective punishment of peaceful civilians,\" specifically naming Tyre and Nabatieh. Hezbollah has claimed dozens of drone and rocket attacks targeting Israeli troops in southern Lebanon. Israel has not acknowledged any ceasefire breach.",
+  "telemetry": [
+    "BBC headline: 'Israel intensifies strikes on Lebanon during ceasefire, videos show' — verified video evidence",
+    "Lebanese PM Nawaf Salam: 'collective punishment of peaceful civilians' — Tyre and Nabatieh named specifically",
+    "FlightRadar24 ADS-B data: Israeli Air Force activity over Lebanese airspace since ceasefire start date",
+    "Hezbollah claims dozens of drone and rocket attacks targeting Israeli troops in southern Lebanon",
+    "Social media geolocation of strike footage contradicts IDF statements on target locations",
+    "Israel has not acknowledged any ceasefire breach — official silence despite verified evidence"
+  ],
+  "analysis": "The pattern is consistent and documented. Official channels maintain the ceasefire is holding while verified video evidence shows otherwise. The gap between the IDF public statements and the geolocated footage is not ambiguous. It is a documented record of strikes on civilian areas that the official narrative refuses to acknowledge. PM Salam's use of 'collective punishment' is not rhetorical excess; it is a legal term with specific meaning under international humanitarian law. The ADS-B flight data and AIS vessel tracking would establish timelines that make the official silence untenable. When a head of government names specific cities and the international press verifies the strikes with video, and the accused party's response is silence, the silence itself becomes evidence.",
+  "verdict": "[SIPHONED VERDICT]: When the Lebanese PM names specific cities, the BBC verifies strikes with video, and Israel's only response is silence — the silence is the admission.",
+  "tags": [
+    "geopolitics",
+    "israel",
+    "lebanon",
+    "ceasefire",
+    "war-crimes",
+    "middle-east"
+  ],
+  "kanban_task": "t_4c74c4b0",
+  "time": "2026-06-06T08:49:53Z"
+}

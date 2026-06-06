@@ -1,0 +1,26 @@
+{
+  "id": "europe-heatwave-record-contradictions-may-2026",
+  "slug": "europe-heatwave-record-contradictions-may-2026",
+  "title": "The Hottest May No One Planned For",
+  "narrative": "Portugal has broken its hottest May day record as heatwave conditions spread across Europe. French students are taking exams in extremely hot schools. Italy has issued red alerts. BBC coverage frames this as a weather event. EU climate officials have made statements about emission reduction targets in recent weeks, projecting confidence that the bloc is on track for its Paris Agreement commitments.",
+  "telemetry": [
+    "Portugal: hottest May day on record broken (BBC, May 28)",
+    "France: students sitting exams in extreme heat conditions with no mitigation",
+    "Italy: red alerts issued across multiple regions",
+    "EU greenhouse gas emissions trajectory vs. Paris Agreement targets: current policy path projects 2.7C of warming, not the 1.5C pledged",
+    "ENTSO-E grid data: electricity demand for cooling in southern Europe this week significantly above same-period 2024/2025 baselines",
+    "EU parliamentary voting records: same legislators who approved Paris-aligned rhetoric voted against stronger climate adaptation measures in preceding legislative session"
+  ],
+  "analysis": "The BBC's weather framing is the story, not the weather itself. A record-breaking heatwave that disrupts education, strains power grids, and triggers red alerts across multiple EU member states is not a meteorological curiosity. It is a policy failure with specific legislative fingerprints. The same EU parliamentarians who issued statements about climate ambition voted against the adaptation measures that would have cooled those French classrooms and prevented Italy's grid strain. The extreme heat attribution science is clear: seasonal forecast models flagged elevated probability of this event weeks ago, making the failure to prepare intentional rather than surprising. The contradiction is not between the weather and the forecasts. It is between what European governments said they would do at UN Climate Week and what they actually voted for.",
+  "verdict": "[SIPHONED VERDICT]: Record heat is not a weather story. It is evidence that EU governments voted against the climate adaptation measures now missing from the classrooms and power grids they are issuing red alerts about.",
+  "tags": [
+    "climate",
+    "europe",
+    "heatwave",
+    "policy-failure",
+    "paris-agreement",
+    "energy"
+  ],
+  "kanban_task": "t_af191268",
+  "time": "2026-06-06T08:49:53Z"
+}

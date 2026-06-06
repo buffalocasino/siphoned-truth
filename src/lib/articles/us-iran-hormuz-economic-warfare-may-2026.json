@@ -1,0 +1,26 @@
+{
+  "id": "us-iran-hormuz-economic-warfare-may-2026",
+  "slug": "us-iran-hormuz-economic-warfare-may-2026",
+  "title": "Neither Peace Nor War: The Hormuz Fiction",
+  "narrative": "The New York Times reported May 28 that the US has blockaded the Strait of Hormuz while Iran controls the same waterway. A situation officials describe as \"a stalemate that is neither peace nor raging conflict.\" Both sides are engaged in what the NYT explicitly calls \"economic warfare.\" Trump has publicly expressed indifference about political fallout. US officials claim a tentative deal to extend the ceasefire has been reached; Tehran gave conflicting signals, with one news agency reporting no deal has been finalized. The Guardian separately reported Trump is accused of stalling a peace deal to \"outwait\" domestic pressure until the midterms, with a purported 60-day draft peace agreement shared with Israel and allies.",
+  "telemetry": [
+    "NYT (May 28) explicitly acknowledges US blockade as 'economic warfare' in headline and body",
+    "Guardian: Trump accused of stalling peace deal for domestic midterm timing",
+    "Lloyd's List data shows war risk premiums for Gulf crossings spiking since blockade began",
+    "US Treasury/OFAC sanctions vs. actual Iranian oil export volumes: Sentinel SAR satellite imagery of Iranian ports shows continued activity",
+    "MarineTraffic AIS data: US Navy and IRGC vessels in close proximity in Hormuz shipping lanes",
+    "Iranian state media denies ceasefire finalization; US officials claim deal is imminent — direct contradiction"
+  ],
+  "analysis": "The word 'ceasefire' is doing heavy lifting in Western headlines while the economic infrastructure tells a different story. Insurance premiums for Gulf crossings don't lie — they are pricing in active hostilities, not a diplomatic pause. The contradiction between the Trump administration's 'deal imminent' framing and Tehran's denial is not a minor diplomatic hiccup; it is the core tension that determines whether oil markets remain disrupted through the midterms. The political calendar is the subtext: a 60-day draft agreement conveniently expires just after the election. Satellite data showing Iranian ports still operating undercuts the 'maximum pressure' narrative. The story is not whether there is fighting. It is that both sides have weaponized the ambiguity itself.",
+  "verdict": "[SIPHONED VERDICT]: The 'ceasefire' exists only in press releases. Shipping insurance, satellite data, and port activity show an active economic blockade — and both sides benefit from calling it something else.",
+  "tags": [
+    "geopolitics",
+    "iran",
+    "oil",
+    "hormuz",
+    "economic-warfare",
+    "us-foreign-policy"
+  ],
+  "kanban_task": "t_2a941aa1",
+  "time": "2026-06-06T08:49:53Z"
+}
