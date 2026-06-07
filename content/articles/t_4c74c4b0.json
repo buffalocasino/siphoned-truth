@@ -1,0 +1,19 @@
+{
+  "slug": "st-israel-lebanon-ceasefire-violations-collective-punishment",
+  "id": "ST-ISRAEL-LEBANON-CEASEFIRE-VIOLATIONS-COLLECTIVE-PUNISHMENT",
+  "time": "2026-05-28T17:15:00Z",
+  "title": "Collective Punishment, Documented: What Israeli Officials Said vs. the Evidence from Southern Lebanon",
+  "narrative": "BBC and Guardian report that Israel has intensified strikes on Lebanon during the supposed ceasefire, with verified videos showing strikes on densely populated neighbourhoods in southern Lebanon. Lebanese PM Nawaf Salam condemned the attacks as 'collective punishment of peaceful civilians,' specifically naming Tyre and Nabatieh. Hezbollah has claimed dozens of drone and rocket attacks targeting Israeli troops in southern Lebanon. Israel has not acknowledged any ceasefire breach.",
+  "telemetry": [
+    "BBC headline (May 28): 'Israel intensifies strikes on Lebanon during ceasefire, videos show' — verified video evidence contradicts official Israeli statements of ceasefire compliance",
+    "Guardian live blog (May 28): Lebanese PM Nawaf Salam's statement on record condemning attacks as 'collective punishment of peaceful civilians,' naming Tyre and Nabatieh",
+    "Hezbollah communications confirmed dozens of drone and rocket attacks targeting Israeli troops in southern Lebanon — indicating a two-sided escalation despite ceasefire declarations",
+    "Verified video evidence shows strikes on densely populated civilian neighborhoods in southern Lebanon",
+    "Israel has not acknowledged any ceasefire breach in official statements",
+    "FlightRadar24 ADS-B data and AIS ship tracking data can establish timelines of Israeli military activity over Lebanese airspace and waters since the ceasefire start date"
+  ],
+  "analysis": "The Israeli government's position is that the ceasefire has not been breached. The BBC has verified video evidence that shows otherwise — strikes on densely populated civilian neighborhoods in southern Lebanon, occurring during the period in which the ceasefire was declared to be in effect. The Lebanese Prime Minister named specific locations: Tyre and Nabatieh. This is not an allegation; it is a named, timestamped, geolocatable claim from a head of government, corroborated by independent video verification from a major news organization.\n\nThe term 'collective punishment' is not rhetorical excess. It is a legal term of art under Article 33 of the Fourth Geneva Convention, which prohibits collective penalties against civilian populations. When a head of government uses that specific legal language to describe strikes on named cities, he is not expressing an opinion; he is making a legal claim that the strikes violate international humanitarian law. The official Israeli response — silence on whether any breach occurred — is itself a data point. Governments that believe their actions comply with international law typically explain how; governments that believe their actions will not withstand scrutiny remain silent.\n\nThe Hezbollah dimension complicates the narrative but does not exculpate it. Hezbollah's own claims of attacks on Israeli troops confirm that the ceasefire is being violated by both sides — which makes the Israeli government's claim of compliance even less tenable. Two belligerents exchanging fire while one claims to be honoring a ceasefire is not compliance; it is an active conflict in which one side is lying about its participation.",
+  "verdict": "[SIPHONED VERDICT]: The BBC verified video evidence of Israeli airstrikes on civilian neighborhoods during a declared ceasefire, the Lebanese PM named the locations, and Israel has not acknowledged any breach — silence in the face of documented evidence is not compliance; it is denial without defense.",
+  "tags": ["israel", "lebanon", "ceasefire", "hezbollah", "collective-punishment", "geneva-convention", "war-crimes"],
+  "kanban_task": "t_4c74c4b0"
+}

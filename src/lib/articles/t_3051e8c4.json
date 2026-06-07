@@ -1,0 +1,18 @@
+{
+  "slug": "st-trump-jan6-rioter-payouts-anti-weaponization-fund",
+  "id": "ST-TRUMP-JAN6-RIOTER-PAYOUTS-ANTI-WEAPONIZATION-FUND",
+  "time": "2026-06-07T14:05:00Z",
+  "title": "'Anti-Weaponization' or Insurrectionist Compensation? The Fund That Pays Cops' Attackers",
+  "narrative": "NBC News reports (June 7, 2026) that President Trump did not rule out the possibility of giving January 6 rioters — including those convicted of attacking police officers — financial payouts from what his administration calls the 'anti-weaponization' fund. The framing presents the fund as a mechanism to compensate those allegedly wronged by the justice system, while critics note that convicted violent offenders who assaulted law enforcement would be among the recipients.",
+  "telemetry": [
+    "NBC News headline (June 7): 'Trump doesn't rule out giving Jan. 6 rioters who attacked police payouts from the 'anti-weaponization' fund'",
+    "The phrase 'anti-weaponization' is an official administration term describing the fund's stated purpose: correcting alleged prosecutorial overreach against Trump supporters",
+    "According to DOJ records, more than 140 police officers were injured during the January 6 Capitol breach, and over 1,200 defendants have been charged",
+    "Among convicted January 6 defendants, a substantial subset were convicted of assaulting law enforcement officers — a violent felony under 18 U.S.C. § 111",
+    "Trump has publicly positioned himself as a law-and-order president and repeatedly stated support for police in public remarks and campaign messaging"
+  ],
+  "analysis": "The linguistic architecture of the 'anti-weaponization' fund is itself the primary deception. The term implicitly concedes the premise that the Department of Justice was 'weaponized' against January 6 defendants — a claim that collapses on contact with the conviction records. These are not people caught in prosecutorial gray areas; they are people convicted beyond a reasonable doubt of violent felonies, including assaulting law enforcement officers. The fund's name does not describe what it does. It describes what the administration needs the public to believe about what the justice system did.\n\nA fund that compensates convicted violent offenders who assaulted police officers is, by any objective standard, a fund that rewards insurrectionist violence. Calling it 'anti-weaponization' changes none of the material facts: the checks would go to people who attacked cops. If a Democratic administration proposed a fund that paid people convicted of assaulting federal officers during a political protest, the same officials would call it an assault on law enforcement. The inconsistency is not subtle — it is the entire architecture of the framing.\n\nThe contradiction with Trump's own law-and-order positioning is structural, not incidental. The administration cannot simultaneously campaign on 'back the blue' and float financial compensation for people convicted of sending those same officers to the hospital. One of those positions is for public consumption; the other is policy. The fund proposal reveals which one is operational.",
+  "verdict": "[SIPHONED VERDICT]: The 'anti-weaponization' fund is a euphemism for compensating people convicted of assaulting police officers — a direct contradiction of the administration's stated support for law enforcement.",
+  "tags": ["january-6", "trump", "anti-weaponization", "doj", "police", "capitol-riot"],
+  "kanban_task": "t_3051e8c4"
+}

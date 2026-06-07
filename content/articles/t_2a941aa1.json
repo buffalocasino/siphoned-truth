@@ -1,0 +1,19 @@
+{
+  "slug": "st-us-iran-hormuz-economic-warfare-neither-peace-nor-war",
+  "id": "ST-US-IRAN-HORMUZ-ECONOMIC-WARFARE-NEITHER-PEACE-NOR-WAR",
+  "time": "2026-05-28T17:00:00Z",
+  "title": "Neither Peace Nor War: The Hormuz Fiction and the Economic Strangulation No One Admits",
+  "narrative": "NYT reports that the US has blockaded the Strait of Hormuz while Iran controls the same waterway — creating what officials describe as 'a stalemate that is neither peace nor raging conflict.' Both sides are attempting 'economic strangulation on the water.' Trump has publicly expressed indifference about political fallout from the situation. US officials claim a tentative deal to extend the ceasefire has been reached; Tehran gave conflicting signals, with one news agency reporting no deal has been finalized.",
+  "telemetry": [
+    "NYT (May 28): 'In Strait of Hormuz Standoff, U.S. and Iran Deploy Economic Warfare' — the US blockade is explicitly acknowledged as an act of economic warfare",
+    "Guardian (May 28): Trump accused of stalling peace deal to 'outwait' him until US midterms; purported 60-day draft peace agreement shared with Israel and allies",
+    "US Navy vessels positioned in the Gulf; Iranian Revolutionary Guard vessels deployed in Hormuz shipping lanes — both sides maintaining active maritime combat presence",
+    "Lloyd's List insurance data: war risk premiums for Gulf crossings have escalated since the blockade began — a direct economic signal contradicting 'stalemate' framing",
+    "US Treasury/OFAC sanctions listings continue to target Iranian oil exports while satellite imagery via Sentinel SAR shows ongoing Iranian port activity — 'maximum pressure' claims vs. actual export volumes",
+    "Tehran gave conflicting signals: one state news agency reports no deal finalized; US officials claim tentative ceasefire extension reached"
+  ],
+  "analysis": "The word 'ceasefire' appears in headlines about the Hormuz standoff while the article body acknowledges the US is conducting a blockade — an act of war under international law. Blockading another nation's primary maritime chokepoint is not a diplomatic posture; it is economic warfare conducted by naval means. Calling this a 'ceasefire' is not a description of conditions on the water; it is a linguistic choice designed to make an act of war sound like a diplomatic pause.\n\nThe NYT's own reporting splits on this contradiction. The headline uses 'standoff' and 'economic warfare' — accurate terms. But the framing elsewhere treats the blockade as an extension of diplomatic pressure rather than what it is: a military operation that prevents commercial vessels from transiting one of the world's most critical energy corridors. When both sides are conducting 'economic strangulation,' neither side has stopped fighting.\n\nThe midterm timing is not incidental. The Guardian reports Trump is accused of stalling a peace deal for domestic political advantage — extending the conflict to 'outwait' him through the US election cycle. The purported 60-day draft agreement shared with Israel and allies suggests a deal exists in form but not in substance — a document circulated to manage allied expectations while both navies maintain their positions. The gap between what is shared with allies and what is publicly acknowledged is the unspoken dimension of the Hormuz fiction: the war continues because both sides find the continuation preferable to the political costs of ending it.",
+  "verdict": "[SIPHONED VERDICT]: The US is conducting a naval blockade — an act of economic warfare — while calling it a 'ceasefire,' and Trump is accused of stalling a peace deal for domestic political advantage ahead of midterms.",
+  "tags": ["us-iran-war", "strait-of-hormuz", "economic-warfare", "blockade", "ceasefire", "midterms", "oil"],
+  "kanban_task": "t_2a941aa1"
+}
