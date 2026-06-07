@@ -13,7 +13,8 @@ COVERS.mkdir(parents=True, exist_ok=True)
 PROCESSED_MARKER = BLOG / ".deployed_slugs"
 FB_POSTS_DIR = BLOG / "static" / "fb-posts"
 
-MINIMAX_MEDIA_KEY = 'sk-cp-iwiL6pOy3nspdEU5U-a0v6wrSKxo06qIBf8GsagrC7yx6TIIq6vf7x7c2ay09lOPbZ2S2jEnM4LPv0TeyElzqIoK3_9coTDkKeJIPZBJSG2Kjhahe1LD2tU'
+MINIMAX_MEDIA_KEY = os.environ.get('MINIMAX_KEY', 'sk-cp-iwiL6pOy3nspdEU5U-a0v6wrSKxo06qIBf8GsagrC7yx6TIIq6vf7x7c2ay09lOPbZ2S2jEnM4LPv0TeyElzqIoK3_9coTDkKeJIPZBJSG2Kjhahe1LD2tU')
+OPENROUTER_KEY = os.environ.get('OPENROUTER_KEY', '')
 GROUP_ID = '2038430040336634210'
 
 CATEGORY_PROMPTS = {
@@ -74,7 +75,7 @@ def sync_articles():
     return count
 
 def generate_cover(slug, title, category='default'):
-    """Generate cover image via MiniMax image-01. Returns slug of saved file."""
+    """Generate cover image via MiniMax image-01, falling back to OpenRouter Gemini."""
     filename = f"{slug.lower()}.jpg"
     out_path = COVERS / filename
     if out_path.exists():
@@ -84,6 +85,7 @@ def generate_cover(slug, title, category='default'):
     prompt_text = CATEGORY_PROMPTS.get(category, CATEGORY_PROMPTS['default'])
     prompt = f"Dark OSINT journalist aesthetic: {title}. {prompt_text}"
 
+    # Tier 1: MiniMax image-01
     payload = json.dumps({
         'model': 'image-01',
         'prompt': prompt,
@@ -105,15 +107,69 @@ def generate_cover(slug, title, category='default'):
     try:
         with urllib.request.urlopen(req, timeout=30) as resp:
             data = json.loads(resp.read())
-        image_url = data['data']['image_urls'][0]
-        print(f"  Generated cover: {image_url}")
-
-        # Download and save
-        urllib.request.urlretrieve(image_url, out_path)
-        print(f"  Saved: {out_path} ({out_path.stat().st_size // 1024}KB)")
-        return filename
+        if data.get('data') and data['data'].get('image_urls'):
+            image_url = data['data']['image_urls'][0]
+            urllib.request.urlretrieve(image_url, out_path)
+            print(f"  [MiniMax] Saved: {out_path} ({out_path.stat().st_size // 1024}KB)")
+            return filename
+        elif data.get('base_resp', {}).get('status_code') == 2056:
+            print(f"  MiniMax quota exhausted for {slug}, trying OpenRouter...")
+        else:
+            print(f"  MiniMax API error for {slug}: {data.get('base_resp', {}).get('status_msg', 'unknown')}")
     except Exception as e:
-        print(f"  Cover generation failed for {slug}: {e}")
+        print(f"  MiniMax failed for {slug}: {e}")
+
+    # Tier 2: OpenRouter Gemini
+    if OPENROUTER_KEY:
+        return _generate_cover_openrouter(slug, prompt, out_path)
+
+    return None
+
+def _generate_cover_openrouter(slug, prompt, out_path):
+    """Fallback cover generation via OpenRouter Gemini image models."""
+    import base64
+    payload = json.dumps({
+        'model': 'google/gemini-2.5-flash-image',
+        'messages': [{'role': 'user', 'content': prompt}],
+        'modalities': ['image', 'text'],
+        'max_tokens': 4096
+    }).encode()
+
+    req = urllib.request.Request(
+        'https://openrouter.ai/api/v1/chat/completions',
+        data=payload,
+        headers={
+            'Authorization': f'Bearer {OPENROUTER_KEY}',
+            'Content-Type': 'application/json',
+            'HTTP-Referer': 'https://siphonedtruth.online',
+            'X-Title': 'Siphoned Truth'
+        },
+        method='POST'
+    )
+
+    try:
+        with urllib.request.urlopen(req, timeout=60) as resp:
+            data = json.loads(resp.read())
+        images = data.get('choices', [{}])[0].get('message', {}).get('images', [])
+        if not images:
+            print(f"  Gemini returned no images for {slug}")
+            return None
+
+        img_url = images[0].get('image_url', {}).get('url', '')
+        if img_url.startswith('data:'):
+            header, b64 = img_url.split(',', 1)
+            with open(out_path, 'wb') as f:
+                f.write(base64.b64decode(b64))
+        elif img_url.startswith('http'):
+            urllib.request.urlretrieve(img_url, out_path)
+        else:
+            print(f"  Gemini unknown image format for {slug}")
+            return None
+
+        print(f"  [OpenRouter Gemini] Saved: {out_path} ({out_path.stat().st_size // 1024}KB)")
+        return out_path.name
+    except Exception as e:
+        print(f"  Gemini failed for {slug}: {e}")
         return None
 
 def generate_fb_post(article):
@@ -201,8 +257,11 @@ def main():
                 title = article.get('title', '')
                 category = article.get('category', 'default')
                 result = generate_cover(slug, title, category)
-                processed.add(slug)
-                new_articles.append(slug)
+                if result:
+                    processed.add(slug)
+                    new_articles.append(slug)
+                else:
+                    print(f"  Cover FAILED for {slug} — will retry next run")
         except Exception as e:
             print(f"  Skipping {f.name}: {e}")
 
