@@ -1,0 +1,25 @@
+{
+  "id": "ST-ISRAEL-LEBANON-CEASEFIRE-FICTI-19C9148F",
+  "slug": "st-israel-lebanon-ceasefire-fiction-airstrikes-kill-9-including-officers-hours-af",
+  "time": "2026-06-07T00:06:16Z",
+  "title": "Israel-Lebanon ceasefire fiction \u2014 airstrikes kill 9 including officers hours after truce \u2014 June 6 2026",
+  "narrative": "On June 6, 2026, NPR reported: 'Israeli airstrikes kill 9 including Lebanese army officers after ceasefire deal.' The strikes killed Lebanese brigadier general, a captain, and a soldier traveling on the Khardali-Nabatieh road in southern Lebanon. The ceasefire had been signed \u2014 the ink was metaphorically dry \u2014 when the airstrikes hit.\n\nSimultaneously, AP News reported: 'Israeli troops kill 7-month-old baby in West Bank, Palestinian officials say' \u2014 Israeli military said the car was 'speeding toward soldiers,' grandmother in the car disputes the account. A separate front, same day, same pattern: kinetic action while diplomatic language says 'truce.'\n\nThe official Israeli framing: each incident was a response to a specific threat \u2014 Hezbollah presence near Nabatieh, a suspicious vehicle in the West Bank. The incidents are described as isolated, reactive, and consistent with ceasefire terms that allow 'self-defense.'\n\nThe physical reality: a brigadier general dead on a road in southern Lebanon, a 7-month-old infant killed in a car in Hebron, and a ceasefire that exists only in press releases.",
+  "telemetry": [
+    "NPR: 'Israeli airstrikes kill 9 including Lebanese army officers after ceasefire deal' (June 6, 2026)",
+    "AP News: 'Israeli troops kill 7-month-old baby in West Bank, Palestinian officials say' \u2014 conflicting accounts; grandmother disputes military version (June 6)",
+    "This is the SECOND round of post-ceasefire Israeli strikes documented by Siphoned Truth \u2014 the June 6 AM dispatch covered 'Israel-Lebanon ceasefire violations \u2014 May 28 2026' with similar pattern (strikes killing 10, general + infant + Gaza tent camp)",
+    "The pattern repeating across multiple days suggests systematic conduct, not isolated incidents",
+    "Key contradiction: 'Ceasefire' language is used by Israeli officials in English to Western audiences while Arabic-speaking theaters experience continued strikes. The word functions differently depending on the language of the audience.",
+    "NYT visual investigation published separately: documented Israel's use of white phosphorus over populated areas in Lebanon \u2014 visual evidence contradicts official claims of proportionality and restraint"
+  ],
+  "analysis": "'Ceasefire Is a Second Language' \u2014 When a brigadier general and a 7-month-old infant are killed within hours of a government declaring 'truce,' on two separate fronts, the word has been repurposed as diplomatic performance rather than operational reality. This is the second documented round of post-ceasefire Israeli strikes covered by Siphoned Truth \u2014 the pattern is now established enough to treat as systematic rather than incidental. OSINT angle: geolocation of the Nabatieh strike site using open-source video; comparison of Israeli military statements in Hebrew vs. English-language press releases (are they saying different things to different audiences?); satellite imagery of southern Lebanon strike damage accumulation since the ceasefire was declared. The white phosphorus visual investigation from NYT is a ready-made visual anchor.",
+  "verdict": "[SIPHONED VERDICT]: 'Ceasefire Is a Second Language' \u2014 When a brigadier general and a 7-month-old infant are killed within hours of a government declaring 'truce,' on two separate fronts, the word has been repurposed as ",
+  "tags": [
+    "ceasefire",
+    "defense",
+    "hezbollah",
+    "israel",
+    "lebanon"
+  ],
+  "kanban_task": "t_87cc983c"
+}
