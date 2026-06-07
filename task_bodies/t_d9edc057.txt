@@ -1,0 +1,18 @@
+TITLE: article: Trump says Iran 'going quite well' while US shoots down missiles — June 7 2026
+
+[NEWS NARRATIVE]
+President Trump stated on June 6, 2026 that the 'situation with Iran seems to be going quite well,' even as the United States military shot down Iranian missiles and drones in the Persian Gulf. This came as a fragile ceasefire faces further strain, with both the US and Iran launching strikes against each other. Multiple sources (Fortune, CNN, AP News, Bloomberg, CBS News) report a new exchange of fire, with Iran accusing the US of violating the ceasefire. Peace talks are described as stalled or at a deadlock.
+
+[RESEARCH FINDINGS]
+- Fortune headline (June 6): 'Trump says situation with Iran seems to be going quite well as US shoots down missiles and drones'
+- CNN (June 6): 'Ceasefire faces further strain as US and Iran launch strikes'
+- AP News (June 6): 'A new exchange of fire with Iran in the Gulf tests the fragile ceasefire'
+- Bloomberg (June 6): 'US Intercepts Fresh Iranian Attacks as Peace Talks Stall'
+- CBS News (June 6): 'Iran accuses U.S. of violating ceasefire after both sides exchange strikes as stalemate continues in peace talks'
+- Contradiction: Trump's public messaging ('going quite well') contradicts the kinetic reality of active military engagement (missile interceptions, drone shootdowns, ceasefire violations by both sides)
+
+[SUGGESTED ANGLE]
+'The Ceasefire That Never Was: Trump's 'Going Well' Narrative vs. the Gulf's Escalating Shooting War'
+- Frame: While Trump tells Americans everything is fine, the US military is actively intercepting Iranian attacks and the ceasefire exists only on paper
+- OSINT angle: Cross-reference Pentagon press releases with ship-tracking data (MarineTraffic/AIS) showing commercial vessels diverting from Hormuz, and compare with public statements
+- Key question: If things are 'going quite well,' why is the US still shooting down missiles?

@@ -1,0 +1,13 @@
+TITLE: article: Israel-Lebanon ceasefire violations — May 28 2026
+
+[NEWS NARRATIVE]
+BBC and Guardian report that Israel has intensified strikes on Lebanon during the supposed ceasefire, with verified videos showing strikes on densely populated neighbourhoods in southern Lebanon. Lebanese PM Nawaf Salam condemned the attacks as "collective punishment of peaceful civilians," specifically naming Tyre and Nabatieh. Hezbollah has claimed dozens of drone and rocket attacks targeting Israeli troops in southern Lebanon. Israel has not acknowledged any ceasefire breach.
+
+[RESEARCH FINDINGS]
+• BBC headline (May 28): "Israel intensifies strikes on Lebanon during ceasefire, videos show" — verified video evidence contradicts official Israeli statements of ceasefire compliance.
+• Guardian live blog (May 28): Lebanese PM's statement on record; Hezbollah attacks confirmed by their own comms.
+• OSINT angle: Cross-reference with FlightRadar24 ADS-B data for Israeli Air Force activity over Lebanese airspace since the ceasefire start date. AIS ship tracking data for any Israeli Navy vessels operating inside Lebanese territorial waters (12nm limit). Social media geolocation of strike footage vs. Israeli military spokesperson statements.
+• Discrepancy: Official Israeli narrative = ceasefire respected; physical evidence = documented strikes on civilian areas.
+
+[SUGGESTED ANGLE]
+"Collective punishment, documented: what Israeli officials said versus the evidence from southern Lebanon." Lead with the PM's exact quote, contrast with the video evidence, then use AIS/ADS-B data to establish timelines that contradict IDF statements on when/what they struck. The piece should show how the official narrative was pre-built before the evidence was published.

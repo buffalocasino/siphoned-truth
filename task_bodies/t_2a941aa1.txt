@@ -1,0 +1,16 @@
+TITLE: article: US-Iran Hormuz economic warfare — May 28 2026
+
+[NEWS NARRATIVE]
+NYT reports that the US has blockaded the Strait of Hormuz while Iran controls the same waterway — creating what officials describe as "a stalemate that is neither peace nor raging conflict." Both sides are attempting "economic strangulation on the water." Trump has publicly expressed indifference about political fallout from the situation. US officials claim a tentative deal to extend the ceasefire has been reached; Tehran gave conflicting signals, with one news agency reporting no deal has been finalized.
+
+[RESEARCH FINDINGS]
+• NYT (May 28): "In Strait of Hormuz Standoff, U.S. and Iran Deploy Economic Warfare" — explicit acknowledgment that the US blockade is an act of economic warfare.
+• Guardian (May 28): Trump accused of stalling peace deal to "outwait" him until US midterms. Purported 60-day draft peace agreement shared with Israel and allies.
+• OSINT angle: 
+  - MarineTraffic / VesselFinder AIS data: US Navy vessel positions in the Gulf; Iranian Revolutionary Guard vessels in Hormuz shipping lanes. Look for close approaches, harassment incidents logged by commercial shipping.
+  - Lloyd's List insurance data: war risk premiums for Gulf crossings since the blockade began — economic signal that contradicts "stalemate" framing.
+  - US Treasury/OFAC sanction listings vs. actual Iranian oil export volumes (satellite imagery of Iranian ports via Sentinel SAR) — claims of "maximum pressure" vs. actual export data.
+• Discrepancy: "Ceasefire" language in headlines vs. acknowledged blockade and economic warfare in the article body. Trump claims deal imminent; Iranian state media denies finalization.
+
+[SUGGESTED ANGLE]
+"Neither peace nor war: the Hormuz fiction." The public narrative uses ceasefire language; the economic data (shipping insurance, port activity) tells a different story about whether the blockade is actually "holding." Connect the domestic US political timing (midterms) to the timing of the deal announcements.
