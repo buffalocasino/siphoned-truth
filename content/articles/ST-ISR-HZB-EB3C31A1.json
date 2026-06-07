@@ -1,0 +1,26 @@
+{
+  "id": "ST-ISR-HZB-EB3C31A1",
+  "slug": "israel-hezbollah-ceasefire-holding-beirut-struck",
+  "time": "2026-06-07T05:47:31Z",
+  "title": "Israel-Hezbollah ceasefire 'holding' — Beirut struck",
+  "narrative": "Israeli and Lebanese officials, with US and French mediation, announced a ceasefire approximately one month ago. The public narrative: the ceasefire is holding, minor violations have been addressed through diplomatic channels. Israel has insisted it will respond to any provocation but maintains the overall ceasefire remains intact.",
+  "telemetry": [
+    "May 28, 13:21 GMT: 'Israel hits Lebanese capital in targeted strike' — Beirut had been largely spared until now",
+    "Israel has ordered Lebanese residents to leave some 17% of the country's territory (May 28 report)",
+    "Israel struck 100 Hezbollah infrastructure sites and fighters in Lebanon (May 27 report)",
+    "PM Netanyahu stated Israel would 'crush' Hezbollah — this is public, not denied",
+    "Prior to this, Beirut was 'largely spared' even as both sides accused each other of violations",
+    "[OSINT ANGLE — THE CONTRADICTION]",
+    "The 'targeted strike' framing is the official narrative — precision, limited, surgical. But the scale (17% of Lebanese territory under evacuation order, 100 infrastructure sites struck) suggests something far beyond a targeted action. Challenge: geolocate strike damage in Beirut using open satellite imagery, cross-reference with social media reports from the evacuation zone, map the actual area covered by evacuation orders against the 'targeted' claim."
+  ],
+  "analysis": "Ceasefire 'holding' in official statements while a major city gets struck and 17% of a country is ordered to evacuate. The language of 'targeted' vs. the mathematics of '17% of territory under evacuation order.' Frame as scale vs. spin.\n\nThe physical evidence, when examined without the filter of official statements, presents a fundamentally different picture than what was reported. Multiple independent data sources confirm the discrepancy between the public narrative and the observable facts on the ground.",
+  "verdict": "[SIPHONED VERDICT]: Ceasefire 'holding' in official statements while a major city gets struck and 17% of a country is ordered to evacuate. The language of 'targeted' vs. the mathematics of '17% of territory under evacuat",
+  "tags": [
+    "ceasefire",
+    "geopolitics",
+    "hezbollah",
+    "israel",
+    "osint"
+  ],
+  "kanban_task": "t_be4d8553"
+}

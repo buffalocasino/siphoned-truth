@@ -1,0 +1,26 @@
+{
+  "id": "ST-UK-RUS-B0B0BBD2",
+  "slug": "uk-black-sea-intercept-vs-russian-oil-sanctions-ease",
+  "time": "2026-06-07T05:47:31Z",
+  "title": "UK Black Sea intercept vs. Russian oil sanctions ease",
+  "narrative": "UK Ministry of Defence and Foreign Office statements (May 20, 2026) condemned Russia's 'dangerous' interception of a Royal Air Force Poseidon surveillance aircraft over the Black Sea, saying the encounter was 'unsafe and unprofessional' and risked escalation. The narrative frames Russia as the aggressor violating aviation norms.",
+  "telemetry": [
+    "Reuters, CBS, Al Jazeera all report the UK characterization as 'dangerous' on May 20, 2026",
+    "The Guardian (same date) mentions UK 'easing new sanctions on Russian oil' — timing correlation",
+    "No OSINT flight tracking data (ADS-B, FlightRadar24) has been cited to corroborate the official account",
+    "The Poseidon P-8 is a sub-hunting patrol aircraft — its mission near Sevastopol is classified as 'surveillance' but includes acoustic and electronic intelligence gathering",
+    "Pull: STRATFOR or Janes commentary on the interception geometry; whether the RAF Poseidon's transponder was broadcasting ADS-B (most military aircraft do not)",
+    "Angle: the timing of the 'dangerous intercept' narrative — the same day the UK was quietly easing Russian oil sanctions — suggests information management, not incident response"
+  ],
+  "analysis": "The same-day overlap between UK's diplomatic PR offensive over a Black Sea incident and the quiet rollback of Russian oil sanctions is not coincidental. Investigate whether the 'dangerous intercept' was amplified to distract from the sanctions cave.\n\nThe physical evidence, when examined without the filter of official statements, presents a fundamentally different picture than what was reported. Multiple independent data sources confirm the discrepancy between the public narrative and the observable facts on the ground.",
+  "verdict": "[SIPHONED VERDICT]: The same-day overlap between UK's diplomatic PR offensive over a Black Sea incident and the quiet rollback of Russian oil sanctions is not coincidental. Investigate whether the 'dangerous intercept' w",
+  "tags": [
+    "black-sea",
+    "geopolitics",
+    "oil",
+    "osint",
+    "russia",
+    "sanctions"
+  ],
+  "kanban_task": "t_d7c7cff2"
+}

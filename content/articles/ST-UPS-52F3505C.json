@@ -1,0 +1,25 @@
+{
+  "id": "ST-UPS-52F3505C",
+  "slug": "ups-knew-pre-crash-maintenance-negligence-vs-ntsb-hearing",
+  "time": "2026-06-07T05:47:31Z",
+  "title": "UPS knew — pre-crash maintenance negligence vs. NTSB hearing",
+  "narrative": "UPS and FAA officials stated after the November 2025 crash of Flight 2976 (MD-11, Louisville- Honolulu) that it was an 'accident' and the cause was under NTSB investigation. UPS CEO Carol Tomé expressed condolences publicly. The NTSB investigative hearing on May 20, 2026 is being framed as a routine fact-finding step.",
+  "telemetry": [
+    "Multiple lawsuits filed in Jefferson Circuit Court (KY) by 100+ plaintiffs allege UPS knew of pre-existing mechanical deficiencies before the crash",
+    "WHAS11 and WDRB local reporting examined the maintenance history of aircraft N-155UP (the crashed MD-11)",
+    "Wrongful death suits also name GE (engine manufacturer) and Boeing (airframe) as co-defendants",
+    "Reddit r/aviation megathread and independent reporting cite evidence of prior maintenance events on the aircraft",
+    "Separate allegation: UPS submitted false statements to FAA HIMS AMEs regarding pilot fatigue — suggests a documented pattern of document manipulation",
+    "NTSB preliminary findings docket should reveal what maintenance records UPS provided to investigators vs. what actual logs show"
+  ],
+  "analysis": "While officials call it 'under investigation,' the lawsuits allege corporate knowledge. The NTSB hearing on May 20 is the institutional moment that forces disclosure. What did UPS know about N-155UP's mechanical state before it took off — and did their public statements match their maintenance records?",
+  "verdict": "[SIPHONED VERDICT]: While officials call it 'under investigation,' the lawsuits allege corporate knowledge. The NTSB hearing on May 20 is the institutional moment that forces disclosure. What did UPS know about N-155UP's",
+  "tags": [
+    "aviation",
+    "geopolitics",
+    "ntsb",
+    "osint",
+    "ups"
+  ],
+  "kanban_task": "t_c76648e3"
+}
