@@ -121,9 +121,12 @@ def generate_cover(slug, title, category='default'):
 
     # Tier 2: OpenRouter Gemini
     if OPENROUTER_KEY:
-        return _generate_cover_openrouter(slug, prompt, out_path)
+        result = _generate_cover_openrouter(slug, prompt, out_path)
+        if result:
+            return result
 
-    return None
+    # Tier 3: Pillow local fallback (always available, zero API cost)
+    return _generate_cover_pillow(slug, title, category, out_path)
 
 def _generate_cover_openrouter(slug, prompt, out_path):
     """Fallback cover generation via OpenRouter Gemini image models."""
@@ -171,6 +174,70 @@ def _generate_cover_openrouter(slug, prompt, out_path):
     except Exception as e:
         print(f"  Gemini failed for {slug}: {e}")
         return None
+
+def _generate_cover_pillow(slug, title, category, out_path):
+    """Tier 3: Local cover generation via Pillow — always available, zero API cost."""
+    try:
+        from PIL import Image, ImageDraw, ImageFont
+    except ImportError:
+        print(f"  Pillow not installed — cannot generate cover for {slug}")
+        return None
+
+    CAT_COLORS = {
+        'aviation':    ((26, 26, 46), (233, 69, 96)),
+        'geopolitics': ((26, 10, 10), (255, 107, 53)),
+        'energy':      ((10, 26, 10), (0, 255, 136)),
+        'maritime':    ((10, 10, 46), (0, 212, 255)),
+        'default':     ((17, 17, 17), (0, 255, 136)),
+    }
+
+    def _wrap(text, font, max_w, draw):
+        words = text.split()
+        lines = []
+        current = ''
+        for w in words:
+            test = current + ' ' + w if current else w
+            bbox = draw.textbbox((0, 0), test, font=font)
+            if bbox[2] - bbox[0] <= max_w:
+                current = test
+            else:
+                if current:
+                    lines.append(current)
+                current = w
+        if current:
+            lines.append(current)
+        return lines
+
+    bg, accent = CAT_COLORS.get(category, CAT_COLORS['default'])
+    img = Image.new('RGB', (1280, 720), bg)
+    draw = ImageDraw.Draw(img)
+
+    font_path = 'C:/Windows/Fonts/arial.ttf'
+    title_font = ImageFont.truetype(font_path, 20)
+    lines = _wrap(title, title_font, 1100, draw)
+    if len(lines) > 5:
+        lines = lines[:5]
+        lines[-1] = lines[-1][:75] + '...'
+
+    line_h = 28
+    total_h = len(lines) * line_h
+    y = 360 - total_h // 2
+    for i, line in enumerate(lines):
+        bbox = draw.textbbox((0, 0), line, font=title_font)
+        tw = bbox[2] - bbox[0]
+        draw.text((640 - tw // 2, y + i * line_h), line, fill=(255, 255, 255, 220), font=title_font)
+
+    draw.line([(200, 420), (1080, 420)], fill=accent + (80,), width=1)
+
+    tag_font = ImageFont.truetype(font_path, 14)
+    tag = 'THE SIPHONED TRUTH  •  OSINT'
+    bbox = draw.textbbox((0, 0), tag, font=tag_font)
+    tw = bbox[2] - bbox[0]
+    draw.text((640 - tw // 2, 450), tag, fill=accent + (140,), font=tag_font)
+
+    img.save(str(out_path), 'JPEG', quality=85)
+    print(f"  [Pillow] Saved: {out_path} ({out_path.stat().st_size // 1024}KB)")
+    return out_path.name
 
 def generate_fb_post(article):
     """Generate a ready-to-paste Facebook post for an article."""
