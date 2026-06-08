@@ -1,0 +1,22 @@
+{
+  "id": "ebola-s-18-million-pr-campaign",
+  "slug": "ebola-s-18-million-pr-campaign",
+  "time": "2026-06-08T22:06:29Z",
+  "title": "Ebola's 18 Million PR Campaign — DRC Outbreak Hits 500 Cases as Institutions Sell Response Plan",
+  "narrative": "On June 8, 2026, the WHO and Africa CDC jointly unveiled a 18 million continental Ebola response plan as confirmed cases in the Democratic Republic of Congo passed 515. The WHO chief praised Uganda's response to the outbreak. NPR reported that 'Ebola cases rise in Congo, as government revives travel restrictions' — indicating that containment measures are being reinstated. Reuters: 'Congo says number of confirmed Ebola cases rises to 515.' The Conversation published analysis: 'World Cup creates perfect conditions for infectious diseases to spread' — linking mass gatherings to outbreak risk.",
+  "telemetry": [
+    "WHO/CDC's 18M plan announcement functions as an institutional press release — it describes what they PLAN to spend, not what has been achieved.",
+    "NPR's reporting that Congo is reviving travel restrictions contradicts the WHO's upbeat framing. Travel restrictions are a sign of containment failure, not success.",
+    "Case count trajectory: 450 → 515+ in a matter of days. The outbreak is accelerating, not stabilizing.",
+    "The World Cup timing creates a perverse incentive for institutions to downplay the severity — mass gatherings are vectors, and host nations have economic interests in projecting safety.",
+    "USA Today: 'Hosting the World Cup makes US really ripe for diseases, experts worry' — US-based experts are raising the alarm while global health bodies issue funding appeals.",
+    "Reuters: 'Health experts to screen US wastewater for disease outbreaks during World Cup' — passive surveillance, not active prevention. The US is monitoring for arrival, not stopping transmission.",
+    "The gap between the institutional language ('continental response plan,' 'lauds response') and the ground reality (rising cases, reinstated travel restrictions, wastewater monitoring as early-warning rather than prevention) is the story."
+  ],
+  "analysis": "Follow the money, not the press release. The 18M figure is a fundraising target disguised as a response plan. Analyze the gap between institutional PR (WHO 'lauds' Uganda, Africa CDC unveils 'plan') and physical reality (515+ cases and climbing, travel restrictions back, US monitoring its own wastewater for World Cup spillover). The story isn't that there's an outbreak — it's that global health institutions are running the same playbook from 2014-2016 (announce big funding targets, praise national responses, wait for the curve to bend) while the case count tells a different story. Cross-reference with historical Ebola response funding vs. actual disbursement rates — pledges are cheap; deployed resources are what matter.",
+  "verdict": "[SIPHONED VERDICT]: The 18M figure is a fundraising target disguised as a response plan.",
+  "tags": [
+    "geopolitics"
+  ],
+  "kanban_task": "t_e26dc6f6"
+}
