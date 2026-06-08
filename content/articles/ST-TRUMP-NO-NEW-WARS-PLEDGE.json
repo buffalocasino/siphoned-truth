@@ -1,0 +1,27 @@
+{
+  "slug": "st-trump-no-new-wars-pledge-iran-israel-escalation",
+  "id": "ST-TRUMP-NO-NEW-WARS-PLEDGE",
+  "time": "2026-06-08T14:00:00Z",
+  "title": "'I Call the Shots' — How Trump's War on Iran Buried His 'No New Wars' Promise",
+  "narrative": "On June 8, 2026, Iran and Israel exchanged direct fire for the first time since the April truce. Iran launched approximately 30 ballistic missiles at Israel in retaliation for an Israeli strike on Beirut's Dahiyeh suburb. Israel responded with two waves of airstrikes on Iran, targeting Tehran and the Mahshahr petrochemical complex. Both sides announced a halt to strikes by Monday afternoon. US President Donald Trump posted on Truth Social demanding they 'immediately stop shooting.' Separately, Trump walked out of an NBC 'Meet the Press' interview when pressed on election fraud claims. He also told NBC he 'never promised not to start a new war' — contradicting his signature 'no new wars' campaign pledge. The US-Israeli war on Iran began February 28, 2026 with a joint US-Israel attack — a war Trump launched.",
+  "telemetry": [
+    "Iran launched ~30 ballistic missiles at Israeli military airbases (Ramat David, Tel Nof, Nevatim) in retaliation for Israeli strike on Beirut (BBC, Al Jazeera, June 8 2026)",
+    "Israel responded with airstrikes on civilian petrochemical infrastructure: the Karun plant in Mahshahr, Iran (BBC, Al Jazeera, June 8 2026)",
+    "Trump's 'no new wars' was a core 2024 campaign promise, repeated at dozens of rallies — CNN documented the contradiction with his June 8 NBC statement (CNN, June 8 2026)",
+    "The US-Israel war on Iran began February 28, 2026 when the US and Israel launched joint strikes — the war is now 100 days old (WSJ, NYT, multiple sources)",
+    "Oil prices rallied on the strikes: Brent crude spiked on news of Iran-Israel exchange (WSJ, Bloomberg, June 8 2026)",
+    "Trump told FT 'I call the shots... he [Netanyahu] doesn't call the shots' — but Netanyahu proceeded with Beirut strike and Iran retaliatory strikes despite Trump reportedly telling him not to escalate (Axios, WSJ, June 8 2026)"
+  ],
+  "analysis": "The contradiction is not subtle. Donald Trump built his 2024 campaign on the promise that he would not start new wars — a deliberate contrast with what he characterized as the foreign policy adventurism of his predecessors. On June 8, 2026, facing an NBC interviewer, he claimed he 'never promised' such a thing. CNN fact-checked the claim within hours: he had made the promise, repeatedly, at dozens of rallies. The video record is unambiguous.\n\nBut the 'no new wars' contradiction is the smaller story. The larger one is that Trump launched a war on Iran on February 28, 2026 — a joint US-Israel operation that has since expanded into a 100-day multi-front conflict spanning the Strait of Hormuz, southern Lebanon, Gaza, and now direct Iran-Israel exchanges. Trump frames himself as the indispensable peacemaker — 'I call the shots,' he told the Financial Times, insisting that Netanyahu doesn't decide anything without him. The evidence contradicts the framing.\n\nIsrael struck Beirut despite US assurances it wouldn't. Iran launched ballistic missiles at Israeli airbases in retaliation despite Trump's 'productive negotiations' rhetoric. Israel struck Iranian petrochemical infrastructure despite Trump reportedly telling Netanyahu not to escalate. The sequence is not one of a president in control. It is one of a president being ignored by allies and adversaries alike while performing de-escalation theater for a domestic audience.\n\nTrump's Truth Social demand that both sides 'immediately stop shooting' is the public-facing narrative. The material reality is that the war he started continues to escalate beyond his ability to manage it. Oil markets registered the truth within hours: Brent crude spiked on the Iran-Israel exchange. Markets don't read press releases. They price physical risk. And the risk of further escalation in the Gulf — where 40% of the world's seaborne oil transits — is higher today than it was when the war began.\n\nThe 'peace negotiator' framing that Trump's team has cultivated — 'we are very close to a final deal,' he said on June 7 — is contradicted by Iran's military adviser Mohsen Rezaee telling CNN the same week that 'negotiations are at a deadlock.' Two contradictory claims about the state of talks, one from each side. Only one of them is firing ballistic missiles. The deal exists in the press release. The war exists in the missile trajectories.",
+  "verdict": "[SIPHONED VERDICT]: Trump said he never promised not to start a new war. He did. He said he calls the shots. Netanyahu defied him. He said negotiations are productive. Iran says they're deadlocked. The only reliable indicator is the missiles still flying and the oil prices still rising. The 'peace negotiator' is the arsonist, and the fire is spreading.",
+  "tags": [
+    "trump",
+    "iran",
+    "israel",
+    "war",
+    "gulf",
+    "oil",
+    "foreign-policy"
+  ],
+  "kanban_task": "t_d2203529"
+}
