@@ -280,13 +280,13 @@
 		color: #00ff88;
 	}
 
-	.content-list {
+	:global(.content-list) {
 		list-style: none;
 		padding: 0;
 		margin: 0 0 1.5rem;
 	}
 
-	.content-list li {
+	:global(.content-list li) {
 		font-size: 0.9rem;
 		color: #00ff88cc;
 		line-height: 1.7;
@@ -295,7 +295,7 @@
 		margin-bottom: 0.5rem;
 	}
 
-	.analysis-text p:last-child {
+	:global(.analysis-text p:last-child) {
 		margin-bottom: 0;
 	}
 
