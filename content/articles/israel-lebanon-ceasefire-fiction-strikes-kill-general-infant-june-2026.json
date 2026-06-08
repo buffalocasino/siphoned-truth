@@ -1,0 +1,22 @@
+{
+  "id": "israel-lebanon-ceasefire-fiction-strikes-kill-general-infant-june-2026",
+  "slug": "israel-lebanon-ceasefire-fiction-strikes-kill-general-infant-june-2026",
+  "time": "2026-06-08T08:17:51Z",
+  "title": "Israel-Lebanon ceasefire fiction — strikes kill general and infant within hours of truce",
+  "narrative": "On June 6, 2026, multiple news organizations reported that Israel had signed or reaffirmed ceasefire/truce agreements — both with Hezbollah in Lebanon and regarding Gaza. Within hours of these diplomatic declarations:\n\n1. An Israeli airstrike near Nabatieh, southern Lebanon, killed a Lebanese brigadier general, a captain, and a soldier — 3 military personnel traveling on the Khardali-Nabatieh road. Al Jazeera reports 10 total killed in Israeli attacks in Lebanon on June 6.\n2. Israeli gunfire killed a 7-month-old Palestinian infant, Sam Abu Haykal, in a car in Hebron, West Bank. Israel's military said the car was 'speeding toward soldiers' — the grandmother in the car disputes this account.\n3. An Israeli attack on a Gaza City tent camp killed at least 6 people, while Hamas was preparing for ceasefire implementation meetings in Egypt.\n4. NYT published a visual investigation documenting Israel's use of white phosphorus munitions over populated areas in Lebanon — a separate but related paper trail of actions contradicting official restraint claims.\n\nThe official Israeli position across all incidents: each was a response to a specific threat, or 'under review,' or a tragic accident. The pattern across three fronts (Lebanon, West Bank, Gaza) on a single day while 'ceasefire' language is active suggests systematic conduct, not isolated incidents.",
+  "telemetry": [
+    "BBC: 'Lebanese general among three soldiers killed in Israeli attack on car' — Israeli military 'investigating the incident in south Lebanon, where it is fighting Hezbollah'",
+    "NYT: 'Israeli Strike Kills 3 Lebanese Soldiers, Days After Truce Was Signed' — 'Israel invaded Lebanon and occupied parts of the country to fight Hezbollah, an Iran-backed armed group, but its military offensive has drawn in others'",
+    "NYT: 'Infant Killed as Israeli Military Fires on Car in West Bank, Palestinian Officials Say' — conflicting accounts; grandmother disputes military version",
+    "Al Jazeera: 'Israeli attacks in Lebanon kill 10 people, including high-ranking soldiers' + 'Israeli attack on Gaza City tent camp kills at least six' while 'Hamas readies for meetings in Egypt on full implementation of Gaza ceasefire agreement'",
+    "NYT visual investigation: 'What Visual Evidence Tells Us About Israel's Use of White Phosphorus in Lebanon' — video evidence collected, showing deployment over populated areas",
+    "Pattern: 3 separate fronts (Lebanon, West Bank, Gaza), 3 different official justifications (Hezbollah combat, 'speeding car,' unspecified Gaza strike), unified by timing — all within 24 hours of ceasefire declarations",
+    "OSINT angles: Geolocation of Nabatieh strike site; satellite imagery of Lebanese military convoy route; video verification from Gaza tent camp; comparison of Israeli vs. Lebanese/Palestinian official death tolls; white phosphorus visual evidence already compiled by NYT"
+  ],
+  "analysis": "'Ceasefire is a word, not a policy' — When a brigadier general, an infant, and a tent camp full of civilians are all killed within hours of a government saying 'truce,' the word has lost meaning. The deeper story: ceasefire declarations serve a diplomatic function (placating international pressure) while kinetic operations continue unchanged. Track the gap between what's said in English to Western audiences and what's done in Arabic-speaking theaters. The white phosphorus investigation is your visual anchor — NYT already did the OSINT legwork; cite it and build the pattern case around it.",
+  "verdict": "[SIPHONED VERDICT]: Track the gap between what's said in English to Western audiences and what's done in Arabic-speaking theaters.",
+  "tags": [
+    "geopolitics"
+  ],
+  "kanban_task": "t_32fe56c2"
+}

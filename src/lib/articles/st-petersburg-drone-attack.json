@@ -1,0 +1,22 @@
+{
+  "id": "st-petersburg-drone-attack",
+  "slug": "st-petersburg-drone-attack",
+  "time": "2026-06-08T08:17:51Z",
+  "title": "St. Petersburg drone attack — Russia's SPIEF economic theater vs. kinetic reality",
+  "narrative": "On June 5-6, 2026, Ukraine launched what Russia called an \"unprecedented\" mass drone attack on St. Petersburg, targeting Russian military facilities including a navy base. The attack came on the final day of the St. Petersburg International Economic Forum (SPIEF) — dubbed \"Putin's Davos\" — where Russia projected economic confidence and international relevance. Putin had just rejected Zelenskyy's offer for direct peace talks. Russia's Defense Ministry claimed \"hundreds\" of drones were downed. Official SPIEF messaging continued projecting business-as-usual.",
+  "telemetry": [
+    "— WSJ: \"Mass Ukrainian Drone Strikes Target Russian Military Facilities in St. Petersburg\" (June 6)",
+    "— CNN: \"Ukraine targets Russian navy base near St. Petersburg on last day of 'Putin's Davos'\" (June 6)",
+    "— BBC: \"Scores of Ukrainian drones target St Petersburg in attack Russia calls 'unprecedented'\" (June 6)",
+    "— AP: \"Ukraine targets St. Petersburg again after Putin rejects Zelenskyy's offer for direct talks\" (June 6)",
+    "— Al Jazeera: \"Russia says hundreds of Ukrainian drones downed as economic forum ends\" (June 6)",
+    "— Russia's claim of \"hundreds downed\" vs. verified impacts — a familiar discrepancy pattern",
+    "— SPIEF continued with official programming; Russian media minimized attack coverage"
+  ],
+  "analysis": "St. Petersburg under drone attack while Putin hosts an economic forum is the perfect elite-vs-reality split screen. OSINT verification:\n1. Geolocate explosion videos from St. Petersburg — cross-reference with satellite imagery of the navy base\n2. FlightRadar24: airspace closure data over St. Petersburg — contradicts SPIEF \"business as usual\" messaging\n3. FIR/MSI notices: did Russia issue NOTAMs closing St. Petersburg airspace during the forum?\n4. Compare Russian MoD's \"all drones downed\" claim vs. visually-confirmed impact sites\n5. Social media geolocation: citizen videos showing explosions, smoke plumes\nHeadline angle: \"The Forum and the Fire: How Drones Crashed Putin's Economic Theater\"",
+  "verdict": "[SIPHONED VERDICT]: Petersburg under drone attack while Putin hosts an economic forum is the perfect elite-vs-reality split screen.",
+  "tags": [
+    "geopolitics"
+  ],
+  "kanban_task": "t_85c8cc25"
+}

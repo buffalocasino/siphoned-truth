@@ -1,23 +1,20 @@
 {
   "id": "trump-won-t-rule-out-jan-6-rioter-payouts-from-anti-weaponization-fund",
   "slug": "trump-won-t-rule-out-jan-6-rioter-payouts-from-anti-weaponization-fund",
-  "time": "2026-06-07T14:05:47Z",
-  "title": "Trump won't rule out Jan 6 rioter payouts from anti-weaponization fund",
+  "time": "2026-06-08T08:17:51Z",
+  "title": "Trump won't rule out Jan 6 rioter payouts from 'anti-weaponization' fund",
   "narrative": "NBC News reports (June 7, 2026) that President Trump did not rule out the possibility of giving January 6 rioters — including those convicted of attacking police officers — financial payouts from what his administration calls the 'anti-weaponization' fund. The framing presents the fund as a mechanism to compensate those allegedly wronged by the justice system, while critics note that convicted violent offenders who assaulted law enforcement would be among the recipients.",
   "telemetry": [
-    "NBC News headline (June 7): 'Trump doesn't rule out giving Jan. 6 rioters who attacked police payouts from the anti-weaponization fund'",
+    "NBC News headline (June 7): 'Trump doesn't rule out giving Jan. 6 rioters who attacked police payouts from the \\u2018anti-weaponization\\u2019 fund'",
     "The phrase 'anti-weaponization' is itself a narrative frame: implying the justice system was 'weaponized' against Trump supporters",
     "Contradiction: 'Anti-weaponization' rhetoric positions the fund as correcting prosecutorial overreach, while the actual recipients would include individuals convicted of violent felonies including assaulting police officers — the very law enforcement the administration claims to support",
     "Previous Siphoned Truth coverage of Jan 6: check court dockets, sentencing memos, and DOJ press releases for the specific charges rioters were convicted on",
     "Cross-reference: Trump's public statements supporting law enforcement ('back the blue') vs. financial rewards for those convicted of attacking police"
   ],
-  "analysis": "Anti-Weaponization or Insurrectionist Compensation? The Fund That Pays Cops' Attackers. Frame: The linguistic sleight-of-hand — 'anti-weaponization' as a euphemism for rewarding those who violently attacked the Capitol and its police defenders. OSINT angle: Pull the specific criminal cases (PACER dockets) of Jan 6 defendants convicted of assaulting officers; calculate the total sentences; compare with Trump's public statements on law and order. Key question: How does paying people convicted of assaulting police officers constitute 'anti-weaponization' rather than 'pro-insurrection'?",
-  "verdict": "[SIPHONED VERDICT]: Calling it 'anti-weaponization' when the money flows to people convicted of beating police officers is not policy — it is propaganda with a budget line.",
+  "analysis": "'\\u2018Anti-Weaponization\\u2019 or Insurrectionist Compensation? The Fund That Pays Cops\\u2019 Attackers'\n- Frame: The linguistic sleight-of-hand — 'anti-weaponization' as a euphemism for rewarding those who violently attacked the Capitol and its police defenders\n- OSINT angle: Pull the specific criminal cases (PACER dockets) of Jan 6 defendants convicted of assaulting officers; calculate the total sentences; compare with Trump's public statements on law and order\n- Key question: How does paying people convicted of assaulting police officers constitute 'anti-weaponization' rather than 'pro-insurrection'?",
+  "verdict": "[SIPHONED VERDICT]: The Fund That Pays Cops\\u2019 Attackers'\n- Frame: The linguistic sleight-of-hand — 'anti-weaponization' as a euphemism for rewarding those who violently attacked the Capitol and its police defenders\n- OSINT angle: Pull the specific criminal cases (PACER dockets) of Jan 6 defendants convicted of assaulting officers; calculate the total sentences; compare with Trump's public statements on law and order\n- Key question: How does paying people convicted of assaulting police officers constitute 'anti-weaponization' rather than 'pro-insurrection'?.",
   "tags": [
-    "jan-6",
-    "justice",
-    "law-enforcement",
-    "trump"
+    "geopolitics"
   ],
   "kanban_task": "t_3051e8c4"
 }

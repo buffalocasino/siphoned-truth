@@ -1,0 +1,22 @@
+{
+  "id": "us-iran-gulf-strikes",
+  "slug": "us-iran-gulf-strikes",
+  "time": "2026-06-08T08:17:51Z",
+  "title": "US-Iran Gulf strikes — 'defensive' narrative vs. offensive reality",
+  "narrative": "On June 5-6, 2026, the US military reported shooting down \"at least 4\" Iranian drones launched toward Gulf allies, framing the action as purely defensive. US officials described the intercepts as protecting Bahrain and other Gulf partners. The NYT, NPR, BBC, and Reuters all carried the \"US shoots down Iranian drones\" headline. Simultaneously, the US launched strikes on Iranian military sites, which Iran says targeted US bases in the Gulf. A fragile ceasefire declared in late May is now under severe strain.",
+  "telemetry": [
+    "— US official narrative: \"defensive, protecting allies\" (NPR, June 6)",
+    "— Iran narrative: \"targeted US bases in Gulf\" in retaliation (DW.com, June 6)",
+    "— US struck Iranian sites FIRST before the drone launches (CNBC, Reuters timeline)",
+    "— Iran drone launch was retaliation, not initiation",
+    "— Air raid sirens reported in Bahrain (AP News)",
+    "— Ceasefire was declared May 28; strikes continued within days",
+    "— Key unanswered: Were the US strikes on Iranian military sites \"defensive\"? The timeline suggests offensive action."
+  ],
+  "analysis": "The US is framing an offensive strike-and-counterstrike cycle as \"defensive.\" OSINT tools can verify:\n1. Satellite imagery (Planet/Sentinel) of US strike sites in Iran — were these pre-positioned offensive targets?\n2. MarineTraffic AIS data: did naval assets shift position BEFORE the US strikes? (indicating pre-planned offensive, not reactive defense)\n3. FlightRadar24: airspace closure patterns over Gulf — do they show US combat air patrols preceding the Iranian drone launch?\n4. Compare CENTCOM press releases vs. independent OSINT timeline\nHeadline angle: \"Defensive or Deceptive? The US-Iran Strike Timeline That Doesn't Add Up\"",
+  "verdict": "[SIPHONED VERDICT]: The US-Iran Strike Timeline That Doesn't Add Up\".",
+  "tags": [
+    "geopolitics"
+  ],
+  "kanban_task": "t_47db55f8"
+}
