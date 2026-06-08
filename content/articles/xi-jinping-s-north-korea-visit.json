@@ -1,0 +1,22 @@
+{
+  "id": "xi-jinping-s-north-korea-visit",
+  "slug": "xi-jinping-s-north-korea-visit",
+  "time": "2026-06-08T19:31:47Z",
+  "title": "Xi Jinping's North Korea visit — damage control, not friendship",
+  "narrative": "Chinese President Xi Jinping arrived in Pyongyang on June 8, 2026 for a two-day state visit — his first in nearly seven years. State media (Xinhua) published footage of Xi and wife Peng Liyuan being received by Kim Jong Un. The public narrative: 'strategic cooperation,' 'unwavering support,' 'revitalizing ties.' Xi called for 'strengthened strategic cooperation' with North Korea.",
+  "telemetry": [
+    "This is Xi's first visit to North Korea since 2019 — a 7-year gap that speaks louder than the protocol statements.",
+    "North Korea has been tilting sharply toward Russia since 2022: sending artillery shells, ballistic missiles, and reportedly troops to support Russia's war. Pyongyang-Moscow relations tightened while Beijing-Pyongyang relations cooled.",
+    "China's visit is widely interpreted as reassertion to contain North Korea's drift toward Russia (NYT: 'China Reasserts Itself, to Contain North Korea's Tilt Toward Russia').",
+    "The timing coincides with the Iran-Israel/US war and broader geopolitical realignment — China is signaling it still controls its backyard.",
+    "Satellite imagery OSINT angle: Pre-2022 border trade activity (Dandong-Sinuiju crossing) vs. current levels would likely show reduced Chinese economic engagement with DPRK during the Russia-tilt period. The 'unwavering support' rhetoric contradicts the material decline in the relationship during the 7-year visit gap.",
+    "Al Jazeera analysis: 'North Korea needs China for survival: Why does Beijing need Pyongyang?' — framing the visit as transactional rather than ideological solidarity."
+  ],
+  "analysis": "Title: The 7-Year Gap — What Xi's North Korea Visit Actually Signals\nAngle: The 'unwavering support' rhetoric masks a relationship in repair, not one in good health. Xi's visit is damage control — North Korea drifted toward Moscow, and Beijing is belatedly pulling it back. The real story is what happened during the 7 years Xi stayed away: Russia filled the vacuum. Satellite imagery of border trade volumes, military shipments, and economic activity at the Dandong crossing would tell the material story the state media slogans obscure.",
+  "verdict": "[SIPHONED VERDICT]: Title: The 7-Year Gap — What Xi's North Korea Visit Actually Signals\nAngle: The 'unwavering support' rhetoric masks a relationship in repair, not one in good health.",
+  "tags": [
+    "geopolitics",
+    "china"
+  ],
+  "kanban_task": "t_c8cf3990"
+}

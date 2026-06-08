@@ -1,0 +1,22 @@
+{
+  "id": "philippines-earthquake",
+  "slug": "philippines-earthquake",
+  "time": "2026-06-08T19:31:47Z",
+  "title": "Philippines earthquake — 'We won't leave Mindanao behind'",
+  "narrative": "A magnitude-7.8 earthquake struck off the coast of Mindanao, Philippines at 07:37 local time on June 8, 2026. At least 35 dead, 134 injured, ~10,000 families displaced. Buildings collapsed (including a Jollibee restaurant reduced to rubble), landslides recorded, tsunami alerts triggered in Philippines, Indonesia, Japan, and Australia before being cancelled. President Ferdinand Marcos Jr. stated: 'The national government is moving and we will not leave Mindanao behind.' He ordered class suspensions and activated disaster response agencies.",
+  "telemetry": [
+    "Mindanao has a long history of being neglected by Manila — the 'we won't leave you behind' line has specific resonance. The island is the Philippines' second-largest by both area and population (~26 million people) but has historically received less infrastructure investment and slower disaster response than Luzon.",
+    "The tsunami alerts were triggered and then cancelled/downgraded hours later — a pattern seen in other Pacific quakes that raises questions about warning system reliability and public confusion.",
+    "The 35+ death toll is preliminary — the national disaster agency's official tabulation 'is expected in the coming days,' per BBC, suggesting the real number may be higher.",
+    "The quake struck at 07:37 local time — early morning when many were still at home. Building collapse patterns (Jollibee — a lightweight commercial structure) suggest inconsistent construction standards.",
+    "Casualty reports are still being 'verified by the national disaster agency, which tabulates and verifies reports by various local sources' — the gap between local reports and official numbers is a recurring issue in Philippine disaster response.",
+    "Mindanao also hosts ongoing armed conflict with Islamist insurgent groups — disaster response competes with security operations for resources."
+  ],
+  "analysis": "— The Promise Manila Keeps Making\nAngle: Marcos's statement is the same promise Filipino presidents have made to Mindanao after every disaster. The contradiction between the official 'we're on top of this' narrative and the ground-level reality — collapsed buildings, delayed tsunami warnings, preliminary death tolls that always rise — is a structural feature of Philippine disaster governance, not an exception. The 10,000 displaced families don't need promises; they need infrastructure that survives a 7.8 quake.",
+  "verdict": "[SIPHONED VERDICT]: The contradiction between the official 'we're on top of this' narrative and the ground-level reality — collapsed buildings, delayed tsunami warnings, preliminary death tolls that always rise — is a structural feature of Philippine disaster governance, not an exception.",
+  "tags": [
+    "disaster",
+    "asia-pacific"
+  ],
+  "kanban_task": "t_92a0b777"
+}
