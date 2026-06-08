@@ -1,0 +1,24 @@
+{
+  "id": "ST-ANWS-02413576",
+  "slug": "st-new-world-screwworm-outbreak-threatens-us-beef-supply-trumps-price-promises-v",
+  "time": "2026-06-08T07:17:45Z",
+  "title": "New World screwworm outbreak threatens US beef supply —Trump's price promises vs. biological reality",
+  "narrative": "A flesh-eating New World screwworm outbreak has been confirmed in Texas, with a second case triggering emergency actions and Canadian livestock import restrictions. The USDA and state authorities are scrambling to contain the pest, which hasn't been endemic in the US since the 1960s eradication campaigns. Meanwhile, the Trump administration has made lowering beef prices a signature domestic policy promise, and the screwworm outbreak directly threatens cattle herds, supply chains, and ultimately consumer prices. The official response emphasizes containment and USDA competence.",
+  "telemetry": [
+    "Politico (June 7, 2026): \"A flesh-eating pest threatens Trump's beef price hopes\"",
+    "CNBC: \"U.S. confirms second Texas screwworm case, Canada restricts livestock imports\"",
+    "NBC News: \"The U.S. fought the flesh-eating screwworm for decades. Now it must begin again\"",
+    "NYT: \"Screwworm Flies Add to Cattle Ranchers' Woes\"",
+    "Physical reality: The screwworm (Cochliomyia hominivorax) lays eggs in open wounds of warm-blooded animals. Larvae eat living flesh. The US spent decades eradicating it through sterile insect technique — releasing sterilized males to crash the population. That infrastructure has atrophied. Restarting it takes months.",
+    "Canada's immediate import ban on US livestock is a material economic signal — trading partners don't wait for USDA press releases; they act on biological risk."
+  ],
+  "analysis": "\"The Worm That Ate Trump's Beef Promise\" — Use the screwworm outbreak as a parable about the limits of political narrative against biological reality. The administration can say beef prices will fall; the screwworm does not care. Canada's immediate import ban shows that markets react to physical facts, not political messaging. The deeper argument: the US spent decades building institutional capacity to manage biological threats (screwworm eradication, pandemic preparedness, food safety). That capacity is being degraded by the same political logic that now promises cheap beef. The worm exposes the gap between what the administration says it can deliver and what the physical world actually allows. Key question: If a single invasive species can threaten a signature economic promise, what does that say about the administration's ability to manage complex systems?",
+  "verdict": "[SIPHONED VERDICT]: The screwworm doesn't care about political promises — Canada's immediate import ban proves markets react to biological facts, not messaging.",
+  "tags": [
+    "economics",
+    "us-politics",
+    "biosecurity",
+    "OSINT"
+  ],
+  "kanban_task": "t_36e4b527"
+}

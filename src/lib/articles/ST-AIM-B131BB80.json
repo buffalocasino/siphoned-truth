@@ -1,0 +1,24 @@
+{
+  "id": "ST-AIM-B131BB80",
+  "slug": "st-iran-missiles-on-israel-trump-says-didnt-hurt-anybody-while-idf-prepares-reta",
+  "time": "2026-06-08T07:17:45Z",
+  "title": "Iran missiles on Israel — Trump says 'didn't hurt anybody' while IDF prepares retaliation",
+  "narrative": "On June 7, 2026, Iran launched a barrage of ballistic missiles at Israel's Ramat David airbase in retaliation for Israel's strikes on Beirut's southern suburbs — attacks that killed multiple people including women and children. The Iranian IRGC called it a 'warning' and said 'if aggressions are repeated, responses will be broader.' Israel's military claimed it 'intercepted all missiles from Iran.' US President Trump, speaking to Channel 12's Barak Ravid, said: 'The Iranian strikes didn't hurt anybody. Hopefully Israel is not going to retaliate.' Trump added: 'We are very close to a final deal with Iran. Each of them had their fun.' Trump then called Netanyahu to tell him not to retaliate.",
+  "telemetry": [
+    "Iran launched ballistic missiles — not drones, not rockets. Ballistic missiles cannot be 'harmless' by definition. They carry warheads designed for destruction. The claim that they 'didn't hurt anybody' is either false or depends on a definition of 'hurt' that excludes military targets.",
+    "Israeli military reportedly intercepted 'all missiles' — but Iran's IRGC specifically named Ramat David airbase as the target. Either the missiles were intercepted (=> they hit nothing), or the base was targeted and we don't know what was hit. Israeli military censorship typically suppresses damage assessments from Iranian strikes.",
+    "Iran's video footage shows missiles being launched and celebrations in Tehran — the IRGC is publicly framing this as a successful deterrent strike. The visual propaganda value is real regardless of what was actually hit.",
+    "Trump's 'peace deal' framing is contradicted by Mohsen Rezaee, military adviser to Iran's Supreme Leader, who told CNN on Saturday that 'negotiations are at a deadlock.' Two contradictory claims about the state of talks — Trump says 'very close,' Iran says 'deadlock.'",
+    "Israel was already planning a 'forceful response' before the Iranian missiles were even launched, per Channel 12. The strike on Beirut was itself a violation of the US-brokered ceasefire.",
+    "The US-Israel-Iran 'ceasefire' has been in place since April 8 but both sides have 'periodically exchanged strikes.' A ceasefire where both sides keep striking is not a ceasefire — it's a managed escalation with no formal end state."
+  ],
+  "analysis": "Title: 'The Ceasefire That Never Was: Iran's missiles expose the fiction of Trump's peace deal'\n\nCore argument: The April 8 ceasefire was never real — it was a pause that allowed both sides to reposition while the US claimed diplomatic progress. Iran's missile launch and Trump's response ('didn't hurt anybody, both sides had their fun') reveals a president more concerned with maintaining the narrative of a deal than with the actual violence. Physical evidence: missile launch videos, IRGC statements naming military targets, Israeli forces preparing retaliation. The 'very close to a final deal' claim exists in a parallel universe to the kinetic reality on the ground.",
+  "verdict": "[SIPHONED VERDICT]: The April 8 ceasefire was never real — it was a pause that allowed both sides to reposition while the US claimed diplomatic progress.",
+  "tags": [
+    "iran-war",
+    "israel-lebanon",
+    "us-politics",
+    "OSINT"
+  ],
+  "kanban_task": "t_274a6bd9"
+}
