@@ -482,7 +482,9 @@ def main():
             {"src": r"^/covers/(.*)$", "dest": "/covers/$1"},
             {"src": r"^/_app/(.*)$", "dest": "/_app/$1"},
             {"src": r"^/article/([^/]+)$", "dest": "/article/$1.html"},
-            {"src": r"^/(.*)$", "dest": "/$1"},
+            {"handle": "filesystem"},
+            {"handle": "error"},
+            {"src": r"^(?!/api).*$", "status": 404, "dest": "/404.html"},
         ]
         # Merge: keep existing routes not in our set, then append ours
         ours = {tuple(r.items()) for r in needed}
