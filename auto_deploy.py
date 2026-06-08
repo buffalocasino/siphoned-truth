@@ -476,20 +476,16 @@ def main():
     #    dest from the placeholder token to the actual file.
     vercel_config = BLOG / ".vercel/output/config.json"
     if vercel_config.exists():
-        cfg = json.loads(vercel_config.read_text())
-        # Ensure clean routes that map /article/{slug} → .html files
-        needed = [
+        # CRITICAL: Replace ALL routes — do not merge. vercel build produces a
+        # catchall "status: 404" at position 0 that would shadow the article
+        # rewrite if preserved. Correct order: specific → filesystem → catchall.
+        cfg = {"version": 3, "routes": [
             {"src": r"^/covers/(.*)$", "dest": "/covers/$1"},
             {"src": r"^/_app/(.*)$", "dest": "/_app/$1"},
             {"src": r"^/article/([^/]+)$", "dest": "/article/$1.html"},
             {"handle": "filesystem"},
-            {"handle": "error"},
             {"src": r"^(?!/api).*$", "status": 404, "dest": "/404.html"},
-        ]
-        # Merge: keep existing routes not in our set, then append ours
-        ours = {tuple(r.items()) for r in needed}
-        existing = [r for r in cfg.get("routes", []) if tuple(r.items()) not in ours]
-        cfg["routes"] = existing + needed
+        ]}
         vercel_config.write_text(json.dumps(cfg, indent=2))
         print("Rewrote Vercel routing config with proper /article/{slug} → .html mapping")
 
@@ -504,8 +500,8 @@ def main():
     # triggering a serverless build. The old --force path ran `npm run build`
     # on Vercel's servers which hit size/compute limits on this project.
     r = run("npx", "vercel", "--prod", "--prebuilt", "--yes")
-    if r.returncode != 0:
-        print(f"Vercel deploy FAILED: {r.stderr[-500:]}")
+    if not r:
+        print("Vercel deploy FAILED (non-zero exit)")
         return
 
     # Extract URL from output
