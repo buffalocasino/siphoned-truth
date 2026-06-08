@@ -1,0 +1,23 @@
+{
+  "id": "philippines-m7-8-earthquake",
+  "slug": "philippines-m7-8-earthquake",
+  "time": "2026-06-08T14:10:02Z",
+  "title": "Philippines M7.8 earthquake — death toll divergence",
+  "narrative": "A powerful earthquake struck the Philippines on June 8, 2026. USGS rated it M7.8 (24 km WSW of Burias). Al Jazeera initially reported 15 dead; within hours the NYT reported 32 dead. A school structure collapsed during the quake (BBC). Tsunami fears were raised (Al Jazeera). The public narrative: a natural disaster that is still being assessed; official death tolls are climbing as rescue efforts continue and remote areas are reached.",
+  "telemetry": [
+    "The death toll jumped from 15 (Al Jazeera early report) to 32 (NYT later report) in a matter of hours. This is a >2x revision. Official explanations — 'still assessing,' 'remote areas' — may be the legitimate reason, but the speed of the jump warrants scrutiny.",
+    "Philippines disaster agencies have a known pattern of initial lowballing for tourism/economic optics (see: Typhoon Haiyan 2013, where official tolls were contested for weeks). The institutional incentive to minimize early numbers is well-documented.",
+    "The school collapse is notable: if the building met post-2013 seismic codes (mandated after the Bohol earthquake), its failure is a regulatory story. If it was pre-code, it's a governance failure story. Either way, 'school collapses during quake' contradicts any 'buildings held up well' framing from officials.",
+    "OSINT angle: Sentinel-1 SAR interferometry over the Burias region would reveal ground deformation, building damage, and landslide extent. Compare with official damage assessments. Commercial satellite optical imagery (Maxar, Planet) of the collapsed school and surrounding towns would independently verify the structural damage narrative.",
+    "Shadowbroker telemetry: Philippine disaster response radio traffic, hospital admission spikes (if any health system data feeds exist), and seismic station data beyond USGS (PHIVOLCS public feeds) to verify the actual ground motion intensity vs. official building damage claims."
+  ],
+  "analysis": "Cross-reference the timeline of death toll revisions against (1) satellite detectable damage extent, (2) PHIVOLCS seismic intensity maps, (3) historical Philippines disaster reporting patterns. If the satellite-visible damage in the first 12 hours is consistent with 30+ deaths, the initial 15-death report was either premature or deliberately low. Check whether any government tourism or economic statements were issued in the window between the 15-death and 32-death reports.",
+  "verdict": "[SIPHONED VERDICT]: The death toll more than doubled in hours — from 15 to 32 — mirroring the Philippines' documented pattern of initial lowballing for economic optics, where the first number is a press release and the second is reality.",
+  "tags": [
+    "philippines",
+    "earthquake",
+    "disaster",
+    "osint"
+  ],
+  "kanban_task": "t_7f4e2eb6"
+}

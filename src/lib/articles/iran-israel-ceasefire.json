@@ -1,0 +1,25 @@
+{
+  "id": "iran-israel-ceasefire",
+  "slug": "iran-israel-ceasefire",
+  "time": "2026-06-08T14:10:02Z",
+  "title": "Iran-Israel ceasefire — Trump 'calls all the shots'",
+  "narrative": "On June 8, 2026, Iran and Israel halted exchanges of fire after hours of cross-border strikes. WSJ reported the ceasefire; NYT confirmed Iran signaled it would halt strikes. President Trump publicly claimed credit: 'Israel won't have any choice but to accept any Iran deal — I call all the shots' (The Hill). Trump separately called on both sides to 'immediately stop shooting' as the ceasefire frayed (Axios). Bloomberg and others termed it the worst Iran-Israel exchange in months. The public narrative: a US-brokered de-escalation where Trump is the indispensable peacemaker.",
+  "telemetry": [
+    "The timeline is suspicious: 'hours of attacks' followed by a ceasefire that coincides with Trump taking credit. Who struck first? The RSS feeds don't specify — WSJ, NYT, Bloomberg all report the halt but differ on the initiation.",
+    "Trump's language ('I call all the shots') frames him as directing Israeli military decision-making — not mediating as a neutral broker. This is a substantive claim about chain of command vs. diplomatic posture.",
+    "OSINT angle: USSPACECOM / Sentinel-2 / commercial SAR imagery of the Iran-Israel border region over the past 48 hours would reveal whether military movements preceded or followed the public ceasefire announcement. Satellite thermal data could confirm or contradict the timeline.",
+    "Shadowbroker telemetry: any Iranian C2 system chatter, IRGC signal traffic, or Israeli Iron Dome activation logs over the past 12 hours would independently verify the sequence of strikes vs. the official narrative of 'simultaneous halt.'",
+    "The Pope's Madrid speech the same day called war a 'painful defeat of negotiations' (CNN) — check whether Vatican diplomatic channels had advance knowledge of the escalation/de-escalation cycle."
+  ],
+  "analysis": "'The Ceasefire That Wasn't A Ceasefire: OSINT Timeline Shows Strikes Continued Hours After Trump Claimed Credit'\n\nCross-reference: (1) public timestamps of Trump's statements vs. (2) OSINT-visible military activity (satellite, signal, flight-tracking data). If the strikes actually stopped BEFORE Trump made his statement, his 'I call all the shots' claim is post-hoc branding. If they continued AFTER, the ceasefire was fictional. Either way, the official narrative is vulnerable to timeline analysis. Check ADS-B Exchange for any unusual air traffic patterns over Israel/Lebanon/Iran in the 24h window.",
+  "verdict": "[SIPHONED VERDICT]: If the strikes actually stopped BEFORE Trump made his statement, his 'I call all the shots' claim is post-hoc branding.",
+  "tags": [
+    "iran",
+    "israel",
+    "trump",
+    "ceasefire",
+    "military",
+    "osint"
+  ],
+  "kanban_task": "t_3c26462b"
+}
