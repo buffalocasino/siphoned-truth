@@ -212,28 +212,58 @@ def _generate_cover_pillow(slug, title, category, out_path):
     img = Image.new('RGB', (1280, 720), bg)
     draw = ImageDraw.Draw(img)
 
-    font_path = 'C:/Windows/Fonts/arial.ttf'
-    title_font = ImageFont.truetype(font_path, 20)
-    lines = _wrap(title, title_font, 1100, draw)
-    if len(lines) > 5:
-        lines = lines[:5]
-        lines[-1] = lines[-1][:75] + '...'
+    # Use Segoe UI (Windows system font, better readability than Arial)
+    font_path = 'C:/Windows/Fonts/segoeui.ttf'
+    try:
+        title_font = ImageFont.truetype(font_path, 36)
+        tag_font = ImageFont.truetype(font_path, 18)
+        slug_font = ImageFont.truetype(font_path, 13)
+    except OSError:
+        font_path = 'C:/Windows/Fonts/arial.ttf'
+        title_font = ImageFont.truetype(font_path, 36)
+        tag_font = ImageFont.truetype(font_path, 18)
+        slug_font = ImageFont.truetype(font_path, 13)
 
-    line_h = 28
+    # Draw text onto a separate RGBA layer for clean compositing (avoids JPEG artifacts on text)
+    txt_layer = Image.new('RGBA', (1280, 720), (0, 0, 0, 0))
+    txt_draw = ImageDraw.Draw(txt_layer)
+
+    # Wrap title with generous margins
+    lines = _wrap(title, title_font, 880, txt_draw)
+    if len(lines) > 4:
+        lines = lines[:4]
+        lines[-1] = lines[-1][:70] + '...'
+
+    # Title — white, slightly transparent for depth
+    line_h = 46
     total_h = len(lines) * line_h
-    y = 360 - total_h // 2
+    y = 290 - total_h // 2
     for i, line in enumerate(lines):
-        bbox = draw.textbbox((0, 0), line, font=title_font)
+        bbox = txt_draw.textbbox((0, 0), line, font=title_font)
         tw = bbox[2] - bbox[0]
-        draw.text((640 - tw // 2, y + i * line_h), line, fill=(255, 255, 255, 220), font=title_font)
+        # Subtle shadow for readability on any background
+        txt_draw.text((640 - tw // 2 + 2, y + i * line_h + 2), line, fill=(0, 0, 0, 60), font=title_font)
+        txt_draw.text((640 - tw // 2, y + i * line_h), line, fill=(255, 255, 255, 240), font=title_font)
 
-    draw.line([(200, 420), (1080, 420)], fill=accent + (80,), width=1)
+    # Accent line
+    line_y = y + total_h + 30
+    txt_draw.line([(300, line_y), (980, line_y)], fill=accent + (200,), width=2)
 
-    tag_font = ImageFont.truetype(font_path, 14)
-    tag = 'THE SIPHONED TRUTH  •  OSINT'
-    bbox = draw.textbbox((0, 0), tag, font=tag_font)
+    # Tag
+    tag = 'THE SIPHONED TRUTH'
+    bbox = txt_draw.textbbox((0, 0), tag, font=tag_font)
     tw = bbox[2] - bbox[0]
-    draw.text((640 - tw // 2, 450), tag, fill=accent + (140,), font=tag_font)
+    txt_draw.text((640 - tw // 2 + 1, line_y + 40 + 1), tag, fill=(0, 0, 0, 40), font=tag_font)
+    txt_draw.text((640 - tw // 2, line_y + 40), tag, fill=accent + (220,), font=tag_font)
+
+    # Slug at bottom
+    slug_text = f'siphonedtruth.online/article/{slug[:60]}'
+    bbox = txt_draw.textbbox((0, 0), slug_text, font=slug_font)
+    tw = bbox[2] - bbox[0]
+    txt_draw.text((640 - tw // 2, 685), slug_text, fill=(180, 180, 180, 140), font=slug_font)
+
+    # Composite text layer onto background, then convert to RGB for JPEG save
+    img = Image.alpha_composite(img.convert('RGBA'), txt_layer).convert('RGB')
 
     img.save(str(out_path), 'JPEG', quality=85)
     print(f"  [Pillow] Saved: {out_path} ({out_path.stat().st_size // 1024}KB)")
