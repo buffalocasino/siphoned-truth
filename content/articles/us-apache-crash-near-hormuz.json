@@ -1,0 +1,27 @@
+{
+  "id": "us-apache-crash-near-hormuz",
+  "slug": "us-apache-crash-near-hormuz",
+  "time": "2026-06-09T14:07:11Z",
+  "title": "US Apache crash near Hormuz — 'sea drone rescue' contradicts operational posture",
+  "narrative": "On Monday June 8, 2026, a US Army AH-64 Apache helicopter 'went down' near the Strait of Hormuz. US officials told CBS News that two crew members were rescued by an 'uncrewed vessel' (sea drone). The incident was reported as a routine accident — no hostile fire acknowledged, no mission context provided. It occurred during active US-Iran military escalation in the region.\n\nOn the same day, a US missile struck a sanctioned oil tanker off the coast of Oman. The Indian crew issued a distress call: 'Please send help — the ship is on fire and sinking.' The strike occurred in international waters near the Strait of Hormuz. US officials have not commented on the rules of engagement or targeting rationale.",
+  "telemetry": [
+    "US Apache helicopter crash location: near Strait of Hormuz, one of the world's most militarized chokepoints",
+    "Rescue asset: an 'uncrewed vessel' — sea drones of this type (USV) are typically deployed as part of pre-staged naval combat operations, not search-and-rescue",
+    "Simultaneous event: US missile strike on sanctioned oil tanker off Oman — same day, same theater",
+    "Apache helicopters are attack platforms — their presence near Hormuz indicates combat air patrols, not transit flights",
+    "Iran and Israel traded strikes June 8-9, shattering the April 2026 ceasefire; US military posture in the region is elevated",
+    "BBC reports: 'US helicopter crew rescued by sea drone' (June 9) + 'Ship's distress call after being hit by US missile' (June 9)",
+    "The rescue drone being pre-positioned suggests the US Navy had combat search and rescue (CSAR) assets staged in anticipation of kinetic operations — not a routine training flight gone wrong"
+  ],
+  "analysis": "The 'accident' framing collapses under cross-reference. An Apache attack helicopter goes down in the most contested maritime corridor on Earth on the same day the US strikes a civilian tanker — and the rescue asset is a combat drone. The physical evidence points to a shootdown or mechanical failure during a combat mission, not a peacetime accident. The US military's refusal to state the helicopter's mission while simultaneously striking ships in the same waters is the contradiction. Ask: what was an attack helicopter doing near Hormuz if not participating in offensive operations?",
+  "verdict": "[SIPHONED VERDICT]: The 'accident' framing collapses under cross-reference.",
+  "tags": [
+    "geopolitics",
+    "military",
+    "middle-east",
+    "iran",
+    "united-states",
+    "strait-of-hormuz"
+  ],
+  "kanban_task": "t_1069c690"
+}
