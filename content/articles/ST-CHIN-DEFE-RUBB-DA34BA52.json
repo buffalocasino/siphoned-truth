@@ -1,12 +1,20 @@
 {
   "id": "ST-CHIN-DEFE-RUBB-DA34BA52",
-  "title": "China defector rubber boat Yellow Sea crossing \u2014 2026-05-27",
+  "title": "China defector rubber boat Yellow Sea crossing — 2026-05-27",
   "slug": "china-defector-rubber-boat-yellow-sea-crossing-2026-05-27",
   "content": "",
-  "narrative": "On May 27, 2026, South Korean authorities detained Dong Guangping, a Chinese activist and former police officer who fled China in a rubber boat and landed in South Korean waters after hours at sea. The activist was attempting to reach South Korea to seek asylum, having escaped from China. The route traveled \u2014 across the Yellow Sea from China to the Korean Peninsula \u2014 raises immediate questions about Chinese maritime patrol coverage, the activist's navigation choices, and whether Beijing was aware of the departure. Chinese state media has not commented. South Korea has detained the individual pending investigation.",
-  "telemetry": "- BBC World: \"South Korea detains dissident who fled China in rubber boat\" \u2014 May 27, 2026\n- Activist identified as Dong Guangping \u2014 former Chinese police officer\n- Route: China to South Korea via Yellow Sea \u2014 hours at sea in a rubber boat\n- Chinese maritime surveillance in the Yellow Sea is extensive (commercial AIS, Chinese Coast Guard patrol patterns)\n- The escape occurred during a period of heightened Chinese maritime enforcement\n- Asylum seeker route from China to Korea: typically shorter via North Korean waters \u2014 choosing South Korean route directly implies deliberate choice\n- Chinese official response: silence, no diplomatic protest filed (as of May 27)",
-  "analysis": "Beijing maintains total surveillance of its coastline and maritime approaches \u2014 that's the official narrative. Yet a former police officer loaded himself into a rubber dinghy and crossed the Yellow Sea to South Korea, and Beijing apparently had no interdiction. Either China's maritime surveillance is far more porous than claimed, or Beijing allowed the departure as a calculated signal. The third option: the defector carried information Beijing wanted out, and the crossing was facilitated rather than missed.",
-  "verdict": "[SIPHONED VERDICT]: A former Chinese police officer crossed the Yellow Sea in a rubber boat and arrived safely in South Korean waters \u2014 China's sovereign maritime boundary, supposedly the most surveilled in the world, was crossed by a single activist without interception or official comment.",
+  "narrative": "On May 27, 2026, South Korean authorities detained Dong Guangping, a Chinese activist and former police officer who fled China in a rubber boat and landed in South Korean waters after hours at sea. The activist was attempting to reach South Korea to seek asylum, having escaped from China. The route traveled — across the Yellow Sea from China to the Korean Peninsula — raises immediate questions about Chinese maritime patrol coverage, the activist's navigation choices, and whether Beijing was aware of the departure. Chinese state media has not commented. South Korea has detained the individual pending investigation.",
+  "telemetry": [
+    "- BBC World: \"South Korea detains dissident who fled China in rubber boat\" — May 27, 2026",
+    "Activist identified as Dong Guangping — former Chinese police officer",
+    "Route: China to South Korea via Yellow Sea — hours at sea in a rubber boat",
+    "Chinese maritime surveillance in the Yellow Sea is extensive (commercial AIS, Chinese Coast Guard patrol patterns)",
+    "The escape occurred during a period of heightened Chinese maritime enforcement",
+    "Asylum seeker route from China to Korea: typically shorter via North Korean waters — choosing South Korean route directly implies deliberate choice",
+    "Chinese official response: silence, no diplomatic protest filed (as of May 27)"
+  ],
+  "analysis": "Beijing maintains total surveillance of its coastline and maritime approaches — that's the official narrative. Yet a former police officer loaded himself into a rubber dinghy and crossed the Yellow Sea to South Korea, and Beijing apparently had no interdiction. Either China's maritime surveillance is far more porous than claimed, or Beijing allowed the departure as a calculated signal. The third option: the defector carried information Beijing wanted out, and the crossing was facilitated rather than missed.",
+  "verdict": "[SIPHONED VERDICT]: A former Chinese police officer crossed the Yellow Sea in a rubber boat and arrived safely in South Korean waters — China's sovereign maritime boundary, supposedly the most surveilled in the world, was crossed by a single activist without interception or official comment.",
   "time": "2026-05-27T22:05:25.013896+00:00",
   "source": "t_3d580fab"
 }

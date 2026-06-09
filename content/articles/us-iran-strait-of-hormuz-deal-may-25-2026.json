@@ -1,13 +1,17 @@
 {
   "id": "us-iran-strait-of-hormuz-deal-may-25-2026",
   "slug": "us-iran-strait-of-hormuz-deal-may-25-2026",
-  "title": "US-Iran Strait of Hormuz deal \u2014 May 25 2026",
+  "title": "US-Iran Strait of Hormuz deal — May 25 2026",
   "narrative": "Trump administration claims deal with Iran is imminent and will include reopening of the Strait of Hormuz to oil tankers. Oil prices slide in response. Secretary of State Rubio suggests deal could come Monday (May 25). Iran foreign ministry immediately contradicts, saying deal 'not imminent.'",
   "telemetry": [
-    "NARRATIVE CLAIMED: Deal imminent, Strait to reopen. OIL MARKET REACTION: Prices down on deal hopes. TENSION POINT: If deal collapses, Strait remains contested shipping lane. OSINT GAP: No public AIS data cited in mainstream coverage. Uranium enrichment levels (~84% per IAEA, near weapons-grade) verifiable via IAEA Safeguards statements. IRGC naval posture can be cross-referenced against State Dept claims."
+    "NARRATIVE CLAIMED: Deal imminent, Strait to reopen. OIL MARKET REACTION: Prices down on deal hopes. TENSION POINT: If deal collapses, Strait remains contested shipping lane. OSINT GAP: No public AIS data cited in mainstream coverage. Uranium enrichment levels (~84% per IAEA, near weapons-grade) verifiable via IAEA Safeguards statements. IRGC naval posture can be cross-referenced against State Dept claims.",
+    "Trump administration claims deal with Iran is imminent and will include reopening of the Strait of Hormuz to oil tankers.",
+    "Secretary of State Rubio suggests deal could come Monday (May 25).",
+    "Iran foreign ministry immediately contradicts, saying deal 'not imminent.' Diplomatic theater masks a deeper problem: even if a deal is announced, there's no IAEA-verified rollback of enrichment, no change in IRGC naval posture, and oil markets price diplomatic optics over physical evidence.",
+    "The real question: what would actually change on the water, and who would verify it?"
   ],
   "analysis": "Diplomatic theater masks a deeper problem: even if a deal is announced, there's no IAEA-verified rollback of enrichment, no change in IRGC naval posture, and oil markets price diplomatic optics over physical evidence. The real question: what would actually change on the water, and who would verify it?",
-  "verdict": "[SIPHONED VERDICT]: Trump's Hormuz 'deal' prices diplomatic theater into oil markets while Iran's enrichment levels and IRGC naval posture remain unchanged \u2014 the market moves on press releases, not on physical verification.",
+  "verdict": "[SIPHONED VERDICT]: Trump's Hormuz 'deal' prices diplomatic theater into oil markets while Iran's enrichment levels and IRGC naval posture remain unchanged — the market moves on press releases, not on physical verification.",
   "tags": [
     "iran"
   ],

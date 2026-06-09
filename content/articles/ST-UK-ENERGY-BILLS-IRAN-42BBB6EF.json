@@ -1,11 +1,16 @@
 {
   "id": "ST-UK-ENERGY-BILLS-IRAN-42BBB6EF",
-  "title": "UK energy bills Iran war \u2014 2026-05-27",
+  "title": "UK energy bills Iran war — 2026-05-27",
   "slug": "uk-energy-bills-iran-war-2026-05-27",
   "content": "",
-  "narrative": "BBC Business reported on May 27 that UK household energy bills will rise by \u00a3221/year due to the \"impact of the Iran war.\" The UK energy regulator Ofgem raised the price cap citing oil and gas market disruption from US-Iran hostilities. This follows BBC Business reporting on May 25 that \"oil prices slide on hopes of US-Iran peace deal\" \u2014 the market priced in the ceasefire while UK consumers absorb the real-world cost of the actual conflict.",
-  "telemetry": "\u2022 BBC Business (May 25): \"Oil prices slide on hopes of US-Iran peace deal\" \u2014 Brent crude fell on ceasefire announcement\n\u2022 BBC Business (May 27): \"Energy bills to rise for millions as impact of Iran war hits\" \u2014 Ofgem price cap up 13%, \u00a3221/year from July 1\n\u2022 The timing: Ofgem's cap increase is effective July 1 \u2014 the war has been ongoing since April 2026; the cost impact is hitting consumer bills retroactively\n\u2022 The contradiction: UK government publicly supported ceasefire talks while conflict drove up energy costs. The narrative of diplomatic progress masked the sustained economic toll on domestic consumers.",
-  "analysis": "UK consumers are paying \u00a3221/year more as a direct result of the US-Iran conflict, but the political narrative frames the crisis as resolved by diplomacy while bills keep coming. The ceasefire announcement caused oil prices to slide \u2014 benefiting energy traders \u2014 while the price cap rise hit consumers retroactively.",
+  "narrative": "BBC Business reported on May 27 that UK household energy bills will rise by £221/year due to the \"impact of the Iran war.\" The UK energy regulator Ofgem raised the price cap citing oil and gas market disruption from US-Iran hostilities. This follows BBC Business reporting on May 25 that \"oil prices slide on hopes of US-Iran peace deal\" — the market priced in the ceasefire while UK consumers absorb the real-world cost of the actual conflict.",
+  "telemetry": [
+    "• BBC Business (May 25): \"Oil prices slide on hopes of US-Iran peace deal\" — Brent crude fell on ceasefire announcement",
+    "BBC Business (May 27): \"Energy bills to rise for millions as impact of Iran war hits\" — Ofgem price cap up 13%, £221/year from July 1",
+    "The timing: Ofgem's cap increase is effective July 1 — the war has been ongoing since April 2026; the cost impact is hitting consumer bills retroactively",
+    "The contradiction: UK government publicly supported ceasefire talks while conflict drove up energy costs. The narrative of diplomatic progress masked the sustained economic toll on domestic consumers."
+  ],
+  "analysis": "UK consumers are paying £221/year more as a direct result of the US-Iran conflict, but the political narrative frames the crisis as resolved by diplomacy while bills keep coming. The ceasefire announcement caused oil prices to slide — benefiting energy traders — while the price cap rise hit consumers retroactively.",
   "verdict": "[SIPHONED VERDICT]: The ceasefire narrative is priced into energy markets and trader profits, but the war's economic consequences continue to be paid by UK households through July price cap increases that reflect the actual conflict, not the peace announcement.",
   "time": "2026-05-30T12:05:35.574978+00:00",
   "source": "t_59802d16"

@@ -1,11 +1,17 @@
 {
   "id": "ST-DR-CONGO-EBOLA-CONFL-C648A772",
-  "title": "DR Congo Ebola conflict \u2014 2026-05-27",
+  "title": "DR Congo Ebola conflict — 2026-05-27",
   "slug": "dr-congo-ebola-conflict-2026-05-27",
   "content": "",
-  "narrative": "WHO Director-General Tedros Adhanom Ghebreyesus warned on May 27 that DR Congo faces a \"catastrophic collision\" of Ebola and armed conflict. The WHO stated that fighting \u2014 specifically M23 militia activity in North Kivu \u2014 is hampering Ebola response efforts. WHO said stopping transmission \"depends entirely on humanitarian access.\" Both the Ebola outbreak and the M23 conflict are independently documented; the intersection is presented as a humanitarian crisis requiring aid access.",
-  "telemetry": "\u2022 BBC World (May 27): WHO chief warns of \"catastrophic collision\" \u2014 fighting in DR Congo hampering Ebola response\n\u2022 Al Jazeera (May 27): Same WHO warning, citing M23 militia and North Kivu conflict zone\n\u2022 M23 conflict: Rwanda-backed M23 rebels have controlled significant territory in North Kivu since 2022-2024. UN and African Union forces have failed to dislodge them.\n\u2022 Ebola outbreak: The current outbreak is in M23-controlled territory in North Kivu, preventing WHO/MSF access\n\u2022 The contradiction: International community expresses alarm at health consequences of M23's territorial gains while taking no diplomatic action against Rwanda's role. Western media rarely names Rwanda in this context.",
-  "analysis": "The WHO warning frames this as a natural disaster + conflict intersection, but the conflict is a political choice \u2014 Rwanda's support for M23 has been documented by UN experts since 2022. The humanitarian access problem is not an accident; it's the consequence of choosing not to press Rwanda diplomatically while publicly naming the health consequences.",
+  "narrative": "WHO Director-General Tedros Adhanom Ghebreyesus warned on May 27 that DR Congo faces a \"catastrophic collision\" of Ebola and armed conflict. The WHO stated that fighting — specifically M23 militia activity in North Kivu — is hampering Ebola response efforts. WHO said stopping transmission \"depends entirely on humanitarian access.\" Both the Ebola outbreak and the M23 conflict are independently documented; the intersection is presented as a humanitarian crisis requiring aid access.",
+  "telemetry": [
+    "• BBC World (May 27): WHO chief warns of \"catastrophic collision\" — fighting in DR Congo hampering Ebola response",
+    "Al Jazeera (May 27): Same WHO warning, citing M23 militia and North Kivu conflict zone",
+    "M23 conflict: Rwanda-backed M23 rebels have controlled significant territory in North Kivu since 2022-2024. UN and African Union forces have failed to dislodge them.",
+    "Ebola outbreak: The current outbreak is in M23-controlled territory in North Kivu, preventing WHO/MSF access",
+    "The contradiction: International community expresses alarm at health consequences of M23's territorial gains while taking no diplomatic action against Rwanda's role. Western media rarely names Rwanda in this context."
+  ],
+  "analysis": "The WHO warning frames this as a natural disaster + conflict intersection, but the conflict is a political choice — Rwanda's support for M23 has been documented by UN experts since 2022. The humanitarian access problem is not an accident; it's the consequence of choosing not to press Rwanda diplomatically while publicly naming the health consequences.",
   "verdict": "[SIPHONED VERDICT]: The WHO's alarm at M23-conflict-driven Ebola spread is legitimate, but naming the disease while omitting Rwanda's role in creating the access problem is a diplomatic compromise that leaves the structural cause unaddressed.",
   "time": "2026-05-30T12:05:35.575023+00:00",
   "source": "t_44f4e8e6"

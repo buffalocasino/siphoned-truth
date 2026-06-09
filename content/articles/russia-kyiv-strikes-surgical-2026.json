@@ -3,8 +3,14 @@
   "slug": "russia-called-it-surgical-kyiv-evidence-says-otherwise",
   "title": "Russia Called It Surgical. Kyiv Evidence Says Otherwise.",
   "narrative": "Russia announced on May 26, 2026 that its overnight strike campaign against Kyiv had achieved \"surgical precision,\" destroying military command facilities while sparing civilian infrastructure. Ukrainian emergency services published photographs of a residential apartment building on Lobanovsky Street in eastern Kyiv with a partial wall collapse, four civilian injuries, and shrapnel damage consistent with a large-calibre air-launched weapon.",
-  "telemetry": "- Ukrainian MOD published wreckage from a Kh-101 cruise missile found in a residential courtyard 400 metres from the claimed command target\n- The Kh-101 has a circular error probable of 10\u201315 metres under ideal conditions; operational urban launches typically see 20\u201330 metre accuracy\n- Satellite imagery (Maxar, 06:00 UTC May 26) shows three buildings damaged along a 200-metre stretch of Lobanovsky Street \u2014 two residential, one administrative (classified non-military by Ukrainian sources)\n- Russia has not published battle damage assessment or acknowledged civilian casualties\n- The Ukrainian MOD footage shows the serial number on the wreckage matching a Kh-101 variant documented in prior strikes",
-  "analysis": "\"Surgical\" is the word Russia always uses. The actual evidence \u2014 wreckage documented 400 metres from target, four injuries, two residential buildings struck \u2014 matches a weapon that missed or a target that was misidentified. Neither possibility is compatible with \"surgical.\" The pattern of using imprecise weapons in dense urban terrain and then claiming precision is documented across Russia's campaign in this conflict.",
+  "telemetry": [
+    "- Ukrainian MOD published wreckage from a Kh-101 cruise missile found in a residential courtyard 400 metres from the claimed command target",
+    "The Kh-101 has a circular error probable of 10–15 metres under ideal conditions; operational urban launches typically see 20–30 metre accuracy",
+    "Satellite imagery (Maxar, 06:00 UTC May 26) shows three buildings damaged along a 200-metre stretch of Lobanovsky Street — two residential, one administrative (classified non-military by Ukrainian sources)",
+    "Russia has not published battle damage assessment or acknowledged civilian casualties",
+    "The Ukrainian MOD footage shows the serial number on the wreckage matching a Kh-101 variant documented in prior strikes"
+  ],
+  "analysis": "\"Surgical\" is the word Russia always uses. The actual evidence — wreckage documented 400 metres from target, four injuries, two residential buildings struck — matches a weapon that missed or a target that was misidentified. Neither possibility is compatible with \"surgical.\" The pattern of using imprecise weapons in dense urban terrain and then claiming precision is documented across Russia's campaign in this conflict.",
   "verdict": "[SIPHONED VERDICT]: Russia called it surgical. The Kh-101 wreckage in a residential courtyard 400 metres from the claimed target tells a different story.",
   "content": "",
   "time": "2026-05-26T18:04:14.692145+00:00",

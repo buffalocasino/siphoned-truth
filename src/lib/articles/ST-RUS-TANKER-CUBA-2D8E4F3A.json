@@ -1,12 +1,20 @@
 {
   "id": "ST-RUS-TANKER-CUBA-2D8E4F3A",
-  "title": "Russian tanker abandons Cuba fuel run under US pressure \u2014 2026-05-28",
+  "title": "Russian tanker abandons Cuba fuel run under US pressure — 2026-05-28",
   "slug": "russian-tanker-abandons-cuba-fuel-run-2026-05-28",
   "content": "",
   "narrative": "A Russian oil tanker en route to deliver a lifeline of fuel to Cuba abruptly changed direction on May 28, 2026, in what the New York Times describes as a severe blow to an island 'suffering under a U.S. oil blockade.' The tanker's original course and the reason for its diversion remain unexplained. The episode fits a pattern of US economic warfare against Cuba via fuel denial, now extending to third-party shipping in international waters.",
-  "telemetry": "- Russian oil tanker changed direction mid-voyage to Cuba \u2014 NYT confirms (May 28, 2026)\n- Cuba is 'suffering under a U.S. oil blockade' \u2014 fuel crisis with rolling blackouts and gasoline rationing\n- Tanker identity, origin port, and new destination undisclosed in initial reporting\n- US oil blockade on Cuba is ongoing policy \u2014 extends to third-party shipping\n- Possible explanations: US naval interdiction, sanctions enforcement on insurers, or Russo-US backroom deal trading Cuba access for concessions in Iran/Ukraine negotiations\n- AIS (Automatic Identification System) tracking data would confirm exact course change timestamp and location \u2014 verifiable OSINT\n- Cuba fuel crisis predates this incident; island has faced chronic energy shortages",
-  "analysis": "A Russian tanker does not simply 'change direction' mid-voyage without external pressure. The most likely explanation \u2014 US naval interdiction or the credible threat thereof \u2014 would mean the US is enforcing a blockade against a sovereign nation's fuel supply via third-party shipping, an act of economic warfare that goes far beyond sanctions. Alternatively, the Kremlin may have traded Cuba's fuel lifeline for a concession in Iran negotiations or Ukraine. Either way, Cuba is collateral damage in great-power maneuvering. Maritime OSINT \u2014 AIS tracking data and satellite imagery \u2014 can independently verify the tanker's actual movements.",
-  "verdict": "[SIPHONED VERDICT]: A Russian tanker carrying Cuba's fuel lifeline didn't 'change course' \u2014 it was stopped, either by US naval power or a Kremlin backroom deal, leaving an entire island nation as collateral damage in a great-power chess game.",
+  "telemetry": [
+    "- Russian oil tanker changed direction mid-voyage to Cuba — NYT confirms (May 28, 2026)",
+    "Cuba is 'suffering under a U.S. oil blockade' — fuel crisis with rolling blackouts and gasoline rationing",
+    "Tanker identity, origin port, and new destination undisclosed in initial reporting",
+    "US oil blockade on Cuba is ongoing policy — extends to third-party shipping",
+    "Possible explanations: US naval interdiction, sanctions enforcement on insurers, or Russo-US backroom deal trading Cuba access for concessions in Iran/Ukraine negotiations",
+    "AIS (Automatic Identification System) tracking data would confirm exact course change timestamp and location — verifiable OSINT",
+    "Cuba fuel crisis predates this incident; island has faced chronic energy shortages"
+  ],
+  "analysis": "A Russian tanker does not simply 'change direction' mid-voyage without external pressure. The most likely explanation — US naval interdiction or the credible threat thereof — would mean the US is enforcing a blockade against a sovereign nation's fuel supply via third-party shipping, an act of economic warfare that goes far beyond sanctions. Alternatively, the Kremlin may have traded Cuba's fuel lifeline for a concession in Iran negotiations or Ukraine. Either way, Cuba is collateral damage in great-power maneuvering. Maritime OSINT — AIS tracking data and satellite imagery — can independently verify the tanker's actual movements.",
+  "verdict": "[SIPHONED VERDICT]: A Russian tanker carrying Cuba's fuel lifeline didn't 'change course' — it was stopped, either by US naval power or a Kremlin backroom deal, leaving an entire island nation as collateral damage in a great-power chess game.",
   "time": "2026-05-28T14:09:56.002775+00:00",
   "source": "t_11271bde"
 }
