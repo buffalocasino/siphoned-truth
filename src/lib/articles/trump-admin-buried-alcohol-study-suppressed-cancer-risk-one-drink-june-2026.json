@@ -1,0 +1,24 @@
+{
+  "id": "trump-admin-buried-alcohol-study-suppressed-cancer-risk-one-drink-june-2026",
+  "slug": "trump-admin-buried-alcohol-study-suppressed-cancer-risk-one-drink-june-2026",
+  "time": "2026-06-09T14:30:00Z",
+  "title": "Trump Admin Buried Alcohol Study — Suppressed Findings Show Cancer Risk at 1 Drink/Day",
+  "narrative": "A government-commissioned scientific study on alcohol consumption — commissioned by HHS — was discarded by Trump administration officials before it could inform US dietary guidelines. The study was published externally on June 9, 2026, revealing that health risks from alcohol 'accelerate after one drink a day.' The administration's official dietary guidelines were released without this study's findings and maintain that moderate drinking (up to 2 drinks/day for men, 1 for women) is part of a healthy diet. StatNews, Washington Post, New York Times, CNN, and NBC News all reported on the suppression.",
+  "telemetry": [
+    "HHS commissioned the alcohol study to inform the 2025-2030 US Dietary Guidelines.",
+    "The study found health risks from alcohol 'accelerate after one drink a day' — a finding that contradicts the current guidelines.",
+    "Trump administration officials discarded the study before the dietary guidelines were finalized and released.",
+    "The study was externally published on June 9, 2026 in a peer-reviewed scientific journal.",
+    "Official US dietary guidelines maintain moderate drinking (up to 2 drinks/day for men, 1 for women) is part of a healthy diet.",
+    "WHO reclassified alcohol as a Group 1 carcinogen in 2023 — same category as asbestos and tobacco — consistent with the suppressed study's findings.",
+    "The alcohol industry spent approximately $28M on lobbying in 2024-2025.",
+    "UK NHS, Canadian health authorities, and multiple European nations revised their alcohol guidance downward after similar evidence emerged.",
+    "The administration has not publicly stated its rationale for discarding the HHS-commissioned study.",
+    "StatNews, Washington Post, New York Times, CNN, and NBC News reported on the suppression.",
+    "The suppressed study's methodology was peer-reviewed — its findings are not in scientific dispute."
+  ],
+  "analysis": "The suppression of the HHS alcohol study follows a documented pattern in which this administration discards government-commissioned science that conflicts with industry interests. The study's finding — that cancer risk accelerates after one drink per day — is not scientifically novel. The WHO reached the same conclusion in 2023 when it reclassified alcohol as a Group 1 carcinogen, and multiple peer nations revised their dietary guidance downward in response. What distinguishes this case is the mechanism: the study was not challenged on its methodology. It was not debated in public comment. It was simply removed from the process before the dietary guidelines were published. The outcome is a set of official US guidelines that tell Americans moderate drinking is safe, while the government's own commissioned science — suppressed from the same process — says it is carcinogenic at any dose. The $28M the alcohol industry spent on lobbying in 2024-2025 contextualizes the suppression. A study showing cancer risk at one drink per day threatens an industry built on daily consumption. The decision to discard the study — and release guidelines that protect that consumption level — shifts the cancer risk from industry profits onto the public, with the government acting as the intermediary that made the suppression possible. The fact that the study was completed, peer-reviewed, and published externally anyway means the suppression failed in its ultimate objective — but succeeded in keeping the carcinogenic finding out of official US dietary policy, where it would have regulatory and liability consequences for the alcohol industry.",
+  "verdict": "[SIPHONED VERDICT]: The Trump administration discarded an HHS-commissioned study showing cancer risk accelerates after one drink per day, then released dietary guidelines claiming moderate drinking is safe — a deliberate suppression of government science that protects a $28M-lobbying industry at public expense.",
+  "tags": ["health", "government", "science", "alcohol", "lobbying", "trump", "censorship"],
+  "kanban_task": "t_af6a7edb"
+}
