@@ -54,7 +54,7 @@
 	<meta property="og:description" content={(narrative || '').slice(0, 200)} />
 	<meta property="og:type" content="article" />
 	<meta property="og:url" content={`https://siphonedtruth.online/article/${article.slug?.toLowerCase() ?? article.id.toLowerCase()}`} />
-	<meta property="og:image" content={`https://siphonedtruth.online/covers/${article.slug?.toLowerCase() ?? article.id.toLowerCase()}.jpg`} />
+	<meta property="og:image" content={article.coverImage || `https://siphonedtruth.online/covers/${(article.slug?.toLowerCase() ?? article.id.toLowerCase())}.jpg`} />
 	<meta property="og:image:width" content="1280" />
 	<meta property="og:image:height" content="720" />
 	<meta property="article:published_time" content={article.time} />
@@ -62,7 +62,7 @@
 	<meta name="twitter:card" content="summary_large_image" />
 	<meta name="twitter:title" content={article.title} />
 	<meta name="twitter:description" content={narrative.slice(0, 200)} />
-	<meta name="twitter:image" content={`https://siphonedtruth.online/covers/${article.slug?.toLowerCase() ?? article.id.toLowerCase()}.jpg`} />
+	<meta name="twitter:image" content={article.coverImage || `https://siphonedtruth.online/covers/${(article.slug?.toLowerCase() ?? article.id.toLowerCase())}.jpg`} />
 	<link rel="canonical" href={`https://siphonedtruth.online/article/${article.slug?.toLowerCase() ?? article.id.toLowerCase()}`} />
 </svelte:head>
 
@@ -81,8 +81,8 @@
 		</header>
 
 		<div class="cover-image">
-			<img src="/covers/{article.slug?.toLowerCase() ?? article.id.toLowerCase()}.jpg" alt={article.title} />
-		</div>
+				<img src={article.coverImage || `/covers/${(article.slug?.toLowerCase() ?? article.id.toLowerCase())}.jpg`} alt={article.title} />
+			</div>
 
 	<section class="section">
 		<h2>I. PUBLIC NARRATIVE</h2>

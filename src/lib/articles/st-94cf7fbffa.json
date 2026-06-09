@@ -2,7 +2,7 @@
   "slug": "st-94cf7fbffa",
   "id": "ST94CF7FBFFA",
   "time": "2026-06-08T13:17:14Z",
-  "title": "NASA ISS air leak — astronauts ordered to shelter vs. official 'routine maintenance' narrative — June 6 2026",
+  "title": "NASA ISS air leak \u2014 astronauts ordered to shelter vs. official 'routine maintenance' narrative \u2014 June 6 2026",
   "category": "aviation",
   "narrative": "On June 5-6, 2026, multiple outlets reported that NASA astronauts aboard the International Space Station were ordered to shelter in their Dragon spacecraft due to worsening air leaks. BBC: 'Astronauts told to return to International Space Station after sheltering over air leak repairs.' NYT: 'Leaks on Space Station Lead Astronauts Briefly to Seek Shelter in Spacecraft.' Reuters: 'NASA reverses evacuation alert order for astronauts aboard space station.'\n\nNASA's official statement, per their June 5 update: the shelter-in-place was a precautionary measure during 'repairs' to an air leak that had been known and monitored. The agency characterized the incident as routine maintenance, not an emergency. The order was 'reversed' quickly, with astronauts returning to normal operations.\n\nThe discre",
   "telemetry": [
@@ -10,11 +10,11 @@
     "BBC: 'Astronauts told to return to International Space Station after sheltering over air leak repairs' (June 5)",
     "NYT: 'Leaks on Space Station Lead Astronauts Briefly to Seek Shelter in Spacecraft' (June 5)",
     "Reuters: 'NASA reverses evacuation alert order for astronauts aboard space station' (June 5)",
-    "NASA official update: provided update on 'Space Station Leak' — framing as known, monitored, under control",
-    "The ISS has had a persistent small air leak in the Russian Zvezda module since 2019 — but the June 5-6 event appears to have been a new or significantly worsening leak requiring emergency protocols",
-    "Astronaut sheltering in Dragon/CST-100 spacecraft is the ISS emergency procedure for a depressurization event that threatens crew safety — this is not 'routine maintenance'",
+    "NASA official update: provided update on 'Space Station Leak' \u2014 framing as known, monitored, under control",
+    "The ISS has had a persistent small air leak in the Russian Zvezda module since 2019 \u2014 but the June 5-6 event appears to have been a new or significantly worsening leak requiring emergency protocols",
+    "Astronaut sheltering in Dragon/CST-100 spacecraft is the ISS emergency procedure for a depressurization event that threatens crew safety \u2014 this is not 'routine maintenance'",
     "Key unresolved: Where was the leak? How fast was air escaping? Was this the known Zvezda leak worsening, or a new leak? NASA's public statements have not specified."
   ],
-  "analysis": "Official sources say one thing. The evidence says another.\n\n- Yahoo News: 'NASA astronauts aboard International Space Station ordered to shelter in Dragon spacecraft amid worsening air leaks' (June 5, 2026)\n- BBC: 'Astronauts told to return to International Space Station after sheltering over air leak repairs' (June 5)\n- NYT: 'Leaks on Space Station Lead Astronauts Briefly to Seek Shelter in Spacecraft' (June 5)\n- Reuters: 'NASA reverses evacuation alert order for astronauts aboard space station' (June 5)\n- NASA official update: provided update on 'Space Station Leak' — framing as known, monitored, under control",
-  "verdict": "[SIPHONED VERDICT] 'Routine Emergency' — NASA's institutional reflex to classify an astronaut shelter-in-place order as 'routine' obscures a real question about ISS safety. The ISS is aging; the Zvezda module leak has been ongoing since 2019 with multiple failed repair attempts. If astronauts were ordered into their e"
+  "analysis": "Official sources say one thing. The evidence says another.\n\n- Yahoo News: 'NASA astronauts aboard International Space Station ordered to shelter in Dragon spacecraft amid worsening air leaks' (June 5, 2026)\n- BBC: 'Astronauts told to return to International Space Station after sheltering over air leak repairs' (June 5)\n- NYT: 'Leaks on Space Station Lead Astronauts Briefly to Seek Shelter in Spacecraft' (June 5)\n- Reuters: 'NASA reverses evacuation alert order for astronauts aboard space station' (June 5)\n- NASA official update: provided update on 'Space Station Leak' \u2014 framing as known, monitored, under control",
+  "verdict": "[SIPHONED VERDICT]: 'Routine Emergency' \u2014 NASA's institutional reflex to classify an astronaut shelter-in-place order as 'routine' obscures a real question about ISS safety. The ISS is aging; the Zvezda module leak has been ongoing since 2019 with multiple failed repair attempts. If astronauts were ordered into their e"
 }
