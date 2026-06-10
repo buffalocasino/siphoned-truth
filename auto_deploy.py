@@ -529,7 +529,11 @@ def main():
     # BUG FIX: --prebuilt uploads the pre-rendered static output without
     # triggering a serverless build. The old --force path ran `npm run build`
     # on Vercel's servers which hit size/compute limits on this project.
-    r = run("npx", "vercel", "--prod", "--prebuilt", "--yes")
+    # BUG FIX 2: --archive=tgz avoids the 5000-file upload limit on
+    # static-heavy projects. Without it, Vercel counts every file and
+    # rejects deploys with "Too many requests - try again in 24 hours
+    # (more than 5000, code: api-upload-free)".
+    r = run("npx", "vercel", "--prod", "--prebuilt", "--yes", "--archive=tgz")
     if not r:
         print("Vercel deploy FAILED (non-zero exit)")
         return
