@@ -1,0 +1,17 @@
+{
+  "id": "us-bombs-iran-water-proportional-strikes-vs-civilian-infrastructure-june-2026",
+  "slug": "us-bombs-iran-water-proportional-strikes-vs-civilian-infrastructure-june-2026",
+  "time": "2026-06-10T16:00:00Z",
+  "title": "US Bombs Iran's Water — 'Proportional Strikes' vs Civilian Infrastructure",
+  "narrative": "On June 10, 2026, President Trump held a meeting on Iran strike options and subsequently ordered a new wave of strikes, saying the US will be 'attacking them very hard' because negotiations are 'taking too long.' The official narrative frames these as proportional military retaliation after Iran shot down a US Apache helicopter. Trump invoked 'The West Wing' in apparent justification. The Pentagon says strikes targeted military assets.",
+  "telemetry": [
+    "Al Jazeera reports on US bombing of Iranian water facilities, suggesting potential war crimes under Geneva Convention protocols.",
+    "BBC reports three Indian sailors missing after the US struck a civilian vessel, the Settebello, off the coast of Oman; 21 crew were rescued.",
+    "BBC confirms an Apache was downed near Strait of Hormuz and notes active US naval assets in contested waters via drone rescue operations.",
+    "NYT details that Oman, a traditional US ally and Iran mediator, is now at odds with the administration due to its territory being used as a staging ground without Omani consent."
+  ],
+  "analysis": "The stated justification of proportional response (targeting military assets) directly contradicts the evidence of civilian infrastructural harm (water facilities), suggesting the strikes are not limited to military objectives. Furthermore, the collateral damage assessment is complicated by the incident with the Settebello tanker, an alleged strike on a neutral vessel, and its resulting missing crew members. Finally, the operational scope extends beyond immediate targets, impacting key stakeholders like Oman, thereby destabilizing traditional US diplomatic alliances in the region.",
+  "verdict": "[SIPHONED VERDICT]: The evidence demonstrates strategic American military action that exceeds its stated goals of proportional retaliation, creating significant collateral damage and international friction.",
+  "tags": ["geopolitics", "military", "middle-east", "iran", "war-crimes"],
+  "kanban_task": "t_e597953e"
+}

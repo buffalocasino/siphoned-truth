@@ -1,0 +1,17 @@
+{
+  "id": "us-ebola-quarantine-in-kenya-humanitarian-aid-or-neo-colonial-carve-out-june-2026",
+  "slug": "us-ebola-quarantine-in-kenya-humanitarian-aid-or-neo-colonial-carve-out-june-2026",
+  "time": "2026-06-10T16:00:00Z",
+  "title": "US Ebola Quarantine in Kenya — 'Humanitarian Aid' or Neo-Colonial Carve-Out",
+  "narrative": "As the Ebola outbreak in DRC approaches 600 confirmed cases, the United States has established a quarantine facility in Nanyuki, Kenya. US officials describe this as a necessary humanitarian measure to protect American personnel and contain the outbreak. The Kenyan government has cooperated with the arrangement.",
+  "telemetry": [
+    "NYT reports the U.S. Ebola unit has sparked protests and a political crisis in Kenya — hundreds marched, police deployed. The facility is 'reserved exclusively for American patients.'",
+    "BBC confirms a protester was shot by Kenya police during demonstrations against the US-only quarantine center — police opened fire on their own citizens to protect a facility that excludes them.",
+    "Reuters documents that DRC Ebola cases are approaching 600, and frontline Congolese health workers lack basic PPE — 'No boots, masks running out' — while the US-only facility in Kenya receives priority resourcing.",
+    "The resource asymmetry: a US sovereign-carve-out facility with armed protection for a potential of dozens of American patients, versus an active outbreak zone of nearly 600 cases operating without masks or boots."
+  ],
+  "analysis": "The 'humanitarian measure' framing collapses under the weight of documented exclusion. The Nanyuki facility is reserved exclusively for American patients — a fact the NYT confirmed and that triggered mass protests. This is not aid; it is a sovereign carve-out that extracts safety for one nationality while the affected population is left outside the gates, under armed guard. The BBC's confirmation that Kenya police shot a protester defending an Americans-only facility transforms the arrangement from 'cooperative' to coercive — the Kenyan government's cooperation appears purchased at the cost of its own citizens' safety. Meanwhile, Reuters documents the stark resource asymmetry: frontline Congolese health workers in the actual outbreak zone lack masks and boots, while a US-only facility hundreds of kilometers from the outbreak receives priority funding and armed protection. The pattern is one of medical triage by nationality, not by need. The language of 'humanitarian aid' provides diplomatic cover for what is operationally a colonial extraction of safety — a walled compound for Americans, policed by Kenyan bullets, while Congolese medics work unprotected.",
+  "verdict": "[SIPHONED VERDICT]: The US Ebola facility in Kenya is not humanitarian aid; it is a sovereign carve-out that extracts protection for Americans while the actual outbreak zone operates without basic medical supplies, enforced at gunpoint against the host nation's own citizens.",
+  "tags": ["geopolitics", "health", "africa", "ebola", "colonialism"],
+  "kanban_task": "t_aec75e31"
+}
