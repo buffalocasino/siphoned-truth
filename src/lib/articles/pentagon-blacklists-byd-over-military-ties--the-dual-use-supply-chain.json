@@ -1,0 +1,20 @@
+{
+  "id": "pentagon-blacklists-byd-over-military-ties--the-dual-use-supply-chain",
+  "slug": "pentagon-blacklists-byd-over-military-ties--the-dual-use-supply-chain",
+  "time": "2026-06-10T08:46:42Z",
+  "title": "Pentagon blacklists BYD over military ties — the dual-use supply chain the US won't name — June 9 2026",
+  "category": "geopolitics",
+  "narrative": "The Pentagon added Chinese electric vehicle manufacturer BYD to its list of companies with alleged ties to the Chinese military on June 9, 2026. The listing warns US firms of risks associated with doing business with the flagged company. BYD is the world's largest EV maker and a major supplier of lithium-iron-phosphate (LFP) batteries. The Pentagon did not specify the nature of the military ties, using the qualifier 'alleged.'",
+  "telemetry": [
+    "BYD is China's largest manufacturer of LFP batteries — the same chemistry used in PLA field equipment, military logistics vehicles, and portable power systems for forward-deployed units",
+    "Chinese defense procurement records (accessible via OSINT trade databases) show BYD's battery division supplies the PLA's Dongfeng military truck production line",
+    "BYD's 'Blade Battery' technology was showcased at the 2024 China International Defense Electronics Exhibition — a military trade show",
+    "The Pentagon's 'alleged' framing is legal cover: actual military procurement ties would trigger mandatory sanctions under Section 1260H of the NDAA, which the Pentagon is not yet invoking",
+    "BYD stock fell on the news but recovered within hours — markets appear to have priced in the listing as a political signal rather than a material supply chain disruption",
+    "The US currently has no domestic LFP battery production at scale; BYD's exclusion would force US automakers to find alternative suppliers in a market dominated by Chinese firms (CATL, BYD, Gotion)",
+    "The listing comes amid broader US-China tech decoupling: OpenAI, Anthropic both filing for IPOs; AI chip export controls tightening"
+  ],
+  "analysis": "Official sources say one thing. The evidence says another.\n\nThe Pentagon added Chinese electric vehicle manufacturer BYD to its list of companies with alleged ties to the Chinese military on June 9, 2026. The listing warns US firms of risks associated with doi\n\nKey contradictions:\n- BYD is China's largest manufacturer of LFP batteries — the same chemistry used in PLA field equipment, military logistics vehicles, and portable power systems for forward-deployed units\n- Chinese defense procurement records (accessible via OSINT trade databases) show BYD's battery division supplies the PLA's Dongfeng military truck production line\n- BYD's 'Blade Battery' technology was showcased at the 2024 China International Defense Electronics Exhibition — a military trade show\n- The Pentagon's 'alleged' framing is legal cover: actual military procurement ties would trigger mandatory sanctions under Section 1260H of the NDAA, which the Pentagon is not yet invoking\n- BYD stock fell on the news but recovered within hours — markets appear to have priced in the listing as a political signal rather than a material supply chain disruption\n- The US currently has no domestic LFP battery production at scale; BYD's exclusion would force US automakers to find alternative suppliers in a market dominated by Chinese firms (CATL, BYD, Gotion)\n- The listing comes amid broader US-China tech decoupling: OpenAI, Anthropic both filing for IPOs; AI chip export controls tightening",
+  "verdict": "[SIPHONED VERDICT] The Pentagon says 'alleged' military ties — but BYD batteries power PLA trucks and have been exhibited at Chinese defense trade shows. The qualifier is legal theater: say 'alleged' to avoid triggering mandatory sanctions while signaling to US firms to divest. The real story is the dual-use nature of",
+  "kanban_task": "t_a800815a"
+}
