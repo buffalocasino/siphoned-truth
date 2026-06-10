@@ -1,0 +1,29 @@
+{
+  "id": "us-bombs-iran-water-facilities-war-crime-vs-retaliation-narrative-june-2026",
+  "slug": "us-bombs-iran-water-facilities-war-crime-vs-retaliation-narrative-june-2026",
+  "time": "2026-06-10T14:08:13Z",
+  "title": "US Strikes on Iran Water Facilities: 'Retaliation' or War Crime Under Geneva Protocols?",
+  "narrative": "The United States launched strikes on multiple sites in southern Iran on June 10, 2026, which the Pentagon described as 'retaliatory strikes' for the downing of a US Army Apache helicopter over the Strait of Hormuz. The US military stated the targets were 'Iranian radar sites and military infrastructure' and framed the action as a proportional response to protect freedom of navigation.",
+  "telemetry": [
+    "Al Jazeera (June 10, 13:30 GMT): US struck water facilities in southern Iran, specifically in the Sirik region \u2014 headline explicitly flags significance of targeting civilian water infrastructure",
+    "WANA News Agency (June 10, 09:27 GMT): 'U.S. Attack on Southern Iran's Water Facilities Constitutes a War Crime' \u2014 explicit legal characterization from Iranian news agency",
+    "Caliber.Az (June 10, 06:08 GMT): 'Iran says US strikes spared Qeshm port but hit water facilities in Sirik' \u2014 confirms water infrastructure, not military targets, was struck",
+    "USA Today (June 10): 'US launches strikes on Iran in response to downed Army helicopter' \u2014 repeats Pentagon retaliation framing with no mention of water facility targeting",
+    "BBC (June 10, 13:19 GMT): Trump warns Iran 'will have to pay the price' for taking too long to agree a deal \u2014 framing strikes as coercive diplomacy, not military retaliation",
+    "Al Jazeera: 'Iran war day 103' \u2014 this is day 103 of active US-Iran hostilities, not an isolated incident",
+    "Iranian drones reportedly hit Kuwait airport on June 3, killing one \u2014 broader regional spillover of US-Iran conflict is documented",
+    "Apache helicopter was reportedly shot down near Strait of Hormuz \u2014 exact location, altitude, and whether in Iranian or international airspace remains disputed"
+  ],
+  "analysis": "The Pentagon's framing is direct: 'retaliatory strikes on Iranian radar sites and military infrastructure.' The language is calibrated to communicate proportionality \u2014 a military response to a military action, within the bounds of armed conflict law. USA Today and Western outlets repeat this framing without challenge.\n\nBut independently reported facts tell a different story. Al Jazeera, WANA News Agency, and Caliber.Az all report the same thing: the strikes hit water facilities in the Sirik region of southern Iran, not military installations. Water infrastructure serving civilians is explicitly protected under Protocol I of the Geneva Conventions. Targeting it is not a proportionality question \u2014 it is a targeting question. If the US intended to strike radar sites and instead hit water facilities, that is either catastrophic intelligence failure or deliberate. Neither is compatible with the 'proportional military response' narrative.\n\nThe Trump quote, reported by the BBC, changes the legal and strategic context. The president stated Iran 'will have to pay the price for taking too long to agree a deal.' This is not the language of military retaliation \u2014 it is the language of coercive diplomacy. If the strikes were designed to pressure Iran into accepting a negotiated settlement, hitting civilian water infrastructure is not a side effect \u2014 it is the mechanism. Coercing a negotiating partner by destroying their population's water supply is the exact category of action that international humanitarian law was written to prohibit.\n\nDay 103 of the US-Iran war provides the context that Western headlines omit. This is not a one-off retaliation \u2014 it is the latest escalation in a sustained conflict where both sides have already struck civilian infrastructure. The Apache helicopter's location at the time of downing is disputed, and the retaliatory strikes hit a different target class than the one the Pentagon claimed. The gap between 'radar sites and military infrastructure' and 'civilian water facilities in Sirik' is not a nuance \u2014 it is a contradiction that demands independent investigation.",
+  "verdict": "[SIPHONED VERDICT]: The Pentagon claimed strikes on 'military infrastructure' but independent sources confirm civilian water facilities in Sirik were hit \u2014 and Trump's statement that Iran must 'pay the price for taking too long to agree a deal' frames the attack as coercive diplomacy, not lawful retaliation.",
+  "tags": [
+    "geopolitics",
+    "military",
+    "middle-east",
+    "iran",
+    "war-crimes",
+    "geneva-conventions",
+    "water-infrastructure"
+  ],
+  "kanban_task": "t_7f69839a"
+}
