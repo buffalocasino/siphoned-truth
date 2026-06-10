@@ -1,0 +1,23 @@
+{
+  "id": "st-europe-heatwave-record-contradictions-may-28-2026",
+  "slug": "st-europe-heatwave-record-contradictions-may-28-2026",
+  "time": "2026-06-10T02:09:15Z",
+  "title": "Europe Heatwave Record Contradictions May 28 2026",
+  "narrative": "Portugal has broken its hottest May day record as heatwave conditions spread across Europe. French students are taking exams in extremely hot schools. Italy has issued red alerts. BBC coverage frames this as a weather event. EU climate officials have made statements about emission reduction targets in recent weeks.",
+  "telemetry": [
+    "BBC (May 28): Portugal breaks hottest May day record; France baking in exams; Italy red alerts. No quantification of climate attribution in the article framing.",
+    "EU emissions data: Check latest EEA (European Environment Agency) figures — EU total greenhouse gas emissions for 2024/2025. Are they falling fast enough to meet Paris Agreement targets?",
+    "CSIS/Climate Action Tracker: Where do EU official pledges sit vs. actual projected warming at current policy trajectories?",
+    "OSINT angle:",
+    "Compare EU leaders' recent public statements on climate ambition (UN Climate Week speeches, Nature restoration law votes) against the actual emissions trajectory.",
+    "Extreme heat attribution science: Was this specific event flagged in any seasonal forecast models weeks ago? If so, the failure to prepare is itself the story.",
+    "Grid data: electricity demand for cooling across southern Europe this week vs. same week in 2024/2025 (ENTSO-E transparency platform).",
+    "Discrepancy: \"Extreme weather\" news framing vs. the absence of any political accountability angle in coverage. Leaders who voted against stronger climate measures are not named in the weather story."
+  ],
+  "analysis": "\"The hottest May no one planned for.\" The story is not the heatwave itself — it's that European governments voted against stronger climate adaptation measures in the same legislative session where they approved the Paris-aligned rhetoric. The weather is the evidence; the contradiction is in the policy record.",
+  "verdict": "[SIPHONED VERDICT]: \"The hottest May no one planned for.\" The story is not the heatwave itself — it's that European governments voted against stronger climate adaptation measures in the same legislative session where they approved the Paris-aligned rhetoric. The weather is the evidence; the contradiction is in the policy record.",
+  "tags": [
+    "climate"
+  ],
+  "kanban_task": "t_af191268"
+}

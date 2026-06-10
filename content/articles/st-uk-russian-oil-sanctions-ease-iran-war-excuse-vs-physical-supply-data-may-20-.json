@@ -1,0 +1,25 @@
+{
+  "id": "st-uk-russian-oil-sanctions-ease-iran-war-excuse-vs-physical-supply-data-may-20-",
+  "slug": "st-uk-russian-oil-sanctions-ease-iran-war-excuse-vs-physical-supply-data-may-20-",
+  "time": "2026-06-10T02:09:15Z",
+  "title": "Uk Russian Oil Sanctions Ease Iran War Excuse Vs Physical Supply Data May 20 ",
+  "narrative": "The UK government (May 20, 2026) apologized for 'clumsily' rolling out new sanctions on Russian oil, and quietly delayed restrictions on diesel and jet fuel derived from Russian crude processed in third countries. Official line: global fuel price inflation caused by the Iran war and naval blockade made the policy revision necessary to protect British consumers. No acknowledgment of any broader strategic inconsistency.",
+  "telemetry": [
+    "AP/WFMZ (May 20), Yahoo Finance, and Kyiv Independent all confirm the UK eased sanctions the day after issuing them — a 24-hour reversal",
+    "AP explicitly frames the rollback as a response to 'rising costs from the Iran war'",
+    "However: AIS ship tracking data (MarineTraffic, VesselFinder) for May 18-20 should show actual volumes of Russian-origin fuel entering UK jurisdiction — does physical trade data match the price pressure narrative?",
+    "EU Commission briefing (May 18) shows Brussels was already aware of the optics problem before the UK moved",
+    "Ukraine's ambassador to the UK publicly condemned the reversal",
+    "The Iran blockade's actual effect on jet fuel availability is quantifiable: Hormuz traffic data has been 'muted' since April 27 per Reuters — but that's 25+ days of disruption, not a new shock"
+  ],
+  "analysis": "The 'Iran war made us do it' causal claim deserves scrutiny. If Russian fuel shipments into the UK increased during the same period prices rose — rather than decreased — the explanation falls apart. The writer should cross-reference UK import port clearance data against the stated rationale and the one-day reversal timeline.",
+  "verdict": "[SIPHONED VERDICT]: The 'Iran war made us do it' causal claim deserves scrutiny. If Russian fuel shipments into the UK increased during the same period prices rose — rather than decreased — the explanation falls apart. The writer should cross-reference UK import port clearance data against the stated rationale and the one-day reversal timeline.",
+  "tags": [
+    "war",
+    "United Kingdom",
+    "oil",
+    "Russia",
+    "Iran"
+  ],
+  "kanban_task": "t_37a0d5ee"
+}

@@ -1,0 +1,11 @@
+⬡ Nasa Iss Air Leak Astronauts Ordered To Shelter Vs Official Routine Maintenan
+
+On June 5-6, 2026, multiple outlets reported that NASA astronauts aboard the International Space Station were ordered to shelter in their Dragon spacecraft due to worsening air leaks.
+
+The telemetry doesn't lie.
+
+▸ 'Routine Emergency' — NASA's institutional reflex to classify an astronaut shelter-in-place order as 'routine' obscures a real question about ISS safety. The ISS is aging; the Zvezda module leak has been ongoing since 2019 with multiple failed repair attempts. If astronauts were ordered into their escape vehicles, something crossed a threshold that NASA's public affairs language is designed to blur. OSINT angle: ISS telemetry data (publicly available through NASA's ISS Live feed and amateur satellite tracking); comparison of cabin pressure readings before/after June 5; historical pattern of Zvezda leak repair attempts and their documented failures; crew statements vs. official NASA public affairs language. The gap between 'shelter in your escape pod' and 'everything is fine' is the story.
+
+→ https://siphonedtruth.online/article/st-nasa-iss-air-leak-astronauts-ordered-to-shelter-vs-official-routine-maintenan
+
+#SiphonedTruth #OSINT #ShadowBroker

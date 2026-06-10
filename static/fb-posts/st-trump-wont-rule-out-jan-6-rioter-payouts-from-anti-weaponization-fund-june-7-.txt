@@ -1,0 +1,14 @@
+⬡ Trump Wont Rule Out Jan 6 Rioter Payouts From Anti Weaponization Fund June 7 
+
+NBC News reports (June 7, 2026) that President Trump did not rule out the possibility of giving January 6 rioters — including those convicted of attacking police officers — financial payouts from what his administration calls the 'anti-weaponization' fund.
+
+The telemetry doesn't lie.
+
+▸ '\u2018Anti-Weaponization\u2019 or Insurrectionist Compensation? The Fund That Pays Cops\u2019 Attackers'
+- Frame: The linguistic sleight-of-hand — 'anti-weaponization' as a euphemism for rewarding those who violently attacked the Capitol and its police defenders
+- OSINT angle: Pull the specific criminal cases (PACER dockets) of Jan 6 defendants convicted of assaulting officers; calculate the total sentences; compare with Trump's public statements on law and order
+- Key question: How does paying people convicted of assaulting police officers constitute 'anti-weaponization' rather than 'pro-insurrection'?
+
+→ https://siphonedtruth.online/article/st-trump-wont-rule-out-jan-6-rioter-payouts-from-anti-weaponization-fund-june-7-
+
+#SiphonedTruth #OSINT #ShadowBroker

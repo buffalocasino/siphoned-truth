@@ -1,0 +1,28 @@
+{
+  "id": "st-pentagon-rates-israel-top-espionage-threat-while-publicly-calling-it-unshakea",
+  "slug": "st-pentagon-rates-israel-top-espionage-threat-while-publicly-calling-it-unshakea",
+  "time": "2026-06-10T02:09:15Z",
+  "title": "Pentagon Rates Israel Top Espionage Threat While Publicly Calling It Unshakea",
+  "narrative": "On June 6, 2026, the NYT's Julian Barnes and Eric Schmitt reported that Trump's Defense Department has elevated Israel's counterintelligence threat assessment to its highest level. The Pentagon believes Israel eavesdropped on US negotiations with Iran — spying on the very diplomatic backchannel the US was using to pursue a ceasefire. The DIA and counterintelligence officials have privately warned that Israel's intelligence operations against the US have intensified during the Iran war.\n\nPublicly, the Trump administration and senior officials maintain the 'unshakeable alliance' narrative. Trump and Netanyahu are pictured together as aligned partners. No public statement has acknowledged the internal threat assessment.",
+  "telemetry": [
+    "NYT primary sourcing: 'The Defense Department has increased the counterintelligence threat assessment to its highest level, and Israel is believed to have eavesdropped on American negotiations with Iran.' (Barnes/Schmitt, June 6 2026)",
+    "Historical precedent: Jonathan Pollard (1980s), Lawrence Franklin/AIPAC case (2000s), NSA document leak by Israeli mole (2019), NSO Group/Pegasus (2020s)",
+    "Known Israeli SIGINT capabilities: Unit 8200 is one of the world's most sophisticated signals intelligence agencies; Israel operates listening posts and cyber capabilities globally",
+    "Embassy proximity: Israeli embassy in DC and consulates in major US cities are known SIGINT collection hubs (per Snowden documents and subsequent reporting)",
+    "Timing: Assessment elevated during active US-Iran war — Israel has a direct stake in the outcome and motive to monitor US backchannel negotiations",
+    "Contradiction: The US continues to supply Israel with weapons and diplomatic cover while internally rating it a top-tier intelligence threat",
+    "OSINT angles: Satellite imagery of Israeli diplomatic facilities in DC/NY/LA with known SIGINT infrastructure; analysis of Unit 8200's known collection capabilities; comparison of public US-Israel joint statements vs. internal threat memos"
+  ],
+  "analysis": "'The ally who listens when you're not looking' — The Pentagon privately considers Israel among its most aggressive intelligence adversaries even as the administration publicly embraces Netanyahu. The story isn't that allies spy on each other (they all do); it's the scale of the gap between private threat assessment and public rhetoric — and what that gap reveals about who actually runs US Middle East policy. OSINT verification: map Israeli diplomatic SIGINT infrastructure, timeline of known Israeli espionage incidents against US, analysis of the civil-military coordination center at Kiryat Gat mentioned in the Pentagon assessment.",
+  "verdict": "[SIPHONED VERDICT]: 'The ally who listens when you're not looking' — The Pentagon privately considers Israel among its most aggressive intelligence adversaries even as the administration publicly embraces Netanyahu. The story isn't that allies spy on each other (they all do); it's the scale of the gap between private threat assessment and public rhetoric — and what that gap reveals about who actually runs US Middle East policy. OSINT verification: map Israeli diplomatic SIGINT infrastructure, timeline of known Israeli espionage incidents against US, analysis of the civil-military coordination center at Kiryat Gat mentioned in the Pentagon assessment.",
+  "tags": [
+    "ceasefire",
+    "espionage",
+    "defense",
+    "United States",
+    "intelligence",
+    "Israel",
+    "Iran"
+  ],
+  "kanban_task": "t_d3a694eb"
+}

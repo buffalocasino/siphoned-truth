@@ -1,0 +1,21 @@
+{
+  "id": "st-israel-strikes-tyre-before-warning-while-trump-claims-peace-deal-imminent-jun",
+  "slug": "st-israel-strikes-tyre-before-warning-while-trump-claims-peace-deal-imminent-jun",
+  "time": "2026-06-10T02:09:15Z",
+  "title": "Israel Strikes Tyre Before Warning While Trump Claims Peace Deal Imminent Jun",
+  "narrative": "On June 9, 2026, Israeli airstrikes killed at least 17 people in Tyre, Lebanon, including 9 in a public housing complex. Reuters explicitly reported Israel \"launched deadly strike on Lebanon's Tyre before warning\" — the IDF issued an evacuation order for the entire city of Tyre, including the Christian quarter, before attacking. Simultaneously, President Trump claimed the US was in the \"final throes\" of a peace deal between Israel and Iran and warned Netanyahu he'd be \"on his own\" if attacks continued. The contradiction: Trump touts imminent peace while Israel escalates with strikes on a civilian city, killing 17. The strikes occurred despite Iran ostensibly having warned Israel to stop. Al Jazeera, AP News, BBC, NBC News, and Reuters all covered the split narrative.",
+  "telemetry": [
+    "The temporal sequence matters: Reuters says the strike came \"before warning\" — meaning the evacuation order was either retroactive justification or issued as bombs were already in flight. The inclusion of the Christian quarter (where displaced people were sheltering) in the evacuation zone suggests either intelligence failure or deliberate targeting of a known civilian concentration point — a potential LOAC violation. Trump's \"final throes\" claim directly contradicts on-the-ground reality: Israel is escalating, not de-escalating. The US response is split — Trump publicly distances from Netanyahu while CENTCOM maintains full support. This is a classic performative split: the president says \"peace\" while the military enables \"war.\""
+  ],
+  "analysis": "Timeline analysis: compare IDF evacuation order timestamps against confirmed strike times. If evacuation order came after first strikes, Israel violated its own targeting protocols. Cross-reference with UNIFIL and Lebanese Civil Defense reports on civilian casualties. Check whether Trump's \"final throes\" statement was timed to coincide with the strikes or to pre-empt them. The core OSINT angle: satellite imagery or open-source bomb damage assessment of Tyre's Christian quarter — was the strike proportional, or was the civilian housing targeted? Check Sentinel-1 SAR data for damage signatures.",
+  "verdict": "[SIPHONED VERDICT]: Timeline analysis: compare IDF evacuation order timestamps against confirmed strike times. If evacuation order came after first strikes, Israel violated its own targeting protocols. Cross-reference with UNIFIL and Lebanese Civil Defense reports on civilian casualties. Check whether Trump's \"final throes\" statement was timed to coincide with the strikes or to pre-empt them. The core OSINT angle: satellite imagery or open-source bomb damage assessment of Tyre's Christian quarter — was the strike proportional, or was the civilian housing targeted? Check Sentinel-1 SAR data for damage signatures.",
+  "tags": [
+    "Lebanon",
+    "peace process",
+    "United States",
+    "Israel",
+    "military strike",
+    "Iran"
+  ],
+  "kanban_task": "t_d13c364a"
+}
