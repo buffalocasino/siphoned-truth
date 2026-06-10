@@ -1,27 +1,26 @@
 {
-  "id": "st-us-iran-ceasefire-declared-strikes-continue-may-28-2026",
-  "slug": "st-us-iran-ceasefire-declared-strikes-continue-may-28-2026",
-  "time": "2026-06-10T02:09:15Z",
-  "title": "Us Iran Ceasefire Declared Strikes Continue May 28 2026",
-  "narrative": "US and Iranian officials have repeatedly stated that a ceasefire is in effect following three months of conflict, with Secretary of State announcing 'de-escalation achieved' and peace talks ongoing in Doha. The public narrative: the war is paused, negotiations are proceeding, both sides want a deal.",
+  "id": "us-iran-ceasefire-declared-strikes-continue-may-28-2026",
+  "slug": "us-iran-ceasefire-declared-strikes-continue-may-28-2026",
+  "time": "2026-05-28T12:00:00Z",
+  "title": "US-Iran Ceasefire Declared \u2014 Strikes Continue",
+  "narrative": "A US-Iran ceasefire was announced approximately two weeks prior to May 28, 2026. On May 28, BBC timestamped reports at 05:32 GMT documented oil prices jumping after the US launched new attacks on Iran \u2014 strikes on missile sites and boats, described as \"self-defence.\" Iran said it targeted an American base after the US strikes and reported downing a US drone that \"entered Iranian airspace.\" The strikes occurred while Iranian and Qatari negotiators were in Doha for peace talks. Iranian internet shutdown ended only days prior, suggesting the regime was resuming normal communications under what it believed was an active truce.",
   "telemetry": [
-    "BBC timestamped reports (May 28, 05:32 GMT): 'Oil prices jump after US launches new attacks on Iran' — strikes on missile sites and boats, described as 'self-defence'",
-    "Iran says it targeted American base AFTER the US strikes (May 28, 11:52 GMT)",
-    "Iran reports downing a US drone that 'entered Iranian airspace' — US has not denied this",
+    "BBC May 28, 05:32 GMT: 'Oil prices jump after US launches new attacks on Iran' \u2014 strikes on missile sites and boats characterized as 'self-defence'",
+    "Iran says it targeted American base AFTER US strikes \u2014 May 28, 11:52 GMT",
+    "Iran reports downing US drone that 'entered Iranian airspace' \u2014 US has not denied this",
     "Strikes occurred WHILE Iranian and Qatari negotiators were in Doha for peace talks (BBC, May 26)",
-    "Ceasefire was announced approximately 2 weeks prior per reporting; Iranian internet shutdown ended only days ago",
-    "[OSINT ANGLE — THE CONTRADICTION]",
-    "If ceasefire is real, US strikes should have stopped. If ceasefire is real, Iran wouldn't be targeting US bases. The physical evidence (US strike timestamps, Iranian response, drone downing) directly contradicts the diplomatic narrative. Challenge: verify US strike coordinates vs. stated 'self-defence' rationale, cross-reference with flight tracking data (ADSB feeds) showing US military aircraft activity in the region, check commercial satellite tasking for impact sites."
+    "Ceasefire announced approximately 2 weeks prior; Iranian internet shutdown ended only days ago",
+    "US strike timestamps and Iranian response directly contradict diplomatic narrative of active ceasefire"
   ],
-  "analysis": "'Ceasefire in Progress' vs. 'Strikes Continue' — who's lying, the diplomats or the generals? The public is being told the war is paused while every data point shows kinetic action ongoing. Frame as documentary evidence vs. official statement.",
-  "verdict": "[SIPHONED VERDICT]: 'Ceasefire in Progress' vs. 'Strikes Continue' — who's lying, the diplomats or the generals? The public is being told the war is paused while every data point shows kinetic action ongoing. Frame as documentary evidence vs. official statement.",
+  "analysis": "If a ceasefire is real, US strikes should have stopped. If a ceasefire is real, Iran wouldn't be targeting US bases. The physical evidence \u2014 US strike timestamps, Iranian response, drone downing \u2014 directly contradicts the diplomatic narrative. BBC timestamped reports document oil prices surging on new US attacks on Iran, while Iranian and Qatari negotiators were simultaneously in Doha for peace talks. Both things cannot be true.\n\nThe question is not whether the ceasefire was violated \u2014 it was. The question is whether it ever existed as anything other than a public relations framework. The US characterizes strikes on missile sites as \"self-defence\" while Iran responds kinetically, and both sides maintain the pretense of a diplomatic process. The public is being told the war is paused while every data point shows kinetic action ongoing. The ceasefire is a diplomatic fiction \u2014 and the bombs falling on May 28 are the proof.",
+  "verdict": "[SIPHONED VERDICT]: The US bombed Iran while negotiators sat in Doha for peace talks \u2014 the ceasefire was a diplomatic fiction maintained by both sides while bombs continued to fall.",
   "tags": [
+    "geopolitics",
+    "iran",
+    "us",
     "ceasefire",
-    "peace process",
-    "war",
-    "United States",
-    "military strike",
-    "Iran"
+    "middle-east",
+    "diplomacy"
   ],
   "kanban_task": "t_208cf4c6"
 }

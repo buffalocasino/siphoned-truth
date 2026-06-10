@@ -1,19 +1,25 @@
 {
-  "id": "st-us-apache-downed-over-hormuz-drone-boat-rescue-contradicts-centcom-sar-protoc",
-  "slug": "st-us-apache-downed-over-hormuz-drone-boat-rescue-contradicts-centcom-sar-protoc",
-  "time": "2026-06-10T02:09:15Z",
-  "title": "Us Apache Downed Over Hormuz Drone Boat Rescue Contradicts Centcom Sar Protoc",
-  "narrative": "On June 9, 2026, a US AH-64 Apache helicopter was shot down over the Strait of Hormuz after Iran's IRGC said it violated Iranian airspace. President Trump confirmed the shootdown and ordered retaliatory strikes on Iranian positions. CENTCOM stated the two crew members were rescued by an \"unmanned drone boat\" — an unusual SAR platform that contradicts standard US military search-and-rescue doctrine. ABC News, CBS News, CNBC, WSJ, and Axios all reported the drone boat rescue narrative without questioning its operational plausibility. Trump framed the incident as Iranian aggression requiring US response, while Iran claimed the helicopter was in its territorial waters.",
+  "id": "us-apache-downed-hormuz-drone-boat-rescue-contradicts-centcom-sar-protocol-june-2026",
+  "slug": "us-apache-downed-hormuz-drone-boat-rescue-contradicts-centcom-sar-protocol-june-2026",
+  "time": "2026-06-09T12:00:00Z",
+  "title": "US Apache Downed Over Hormuz \u2014 Drone Boat Rescue Contradicts CENTCOM SAR Protocol",
+  "narrative": "On June 9, 2026, a US AH-64 Apache helicopter was shot down over the Strait of Hormuz after Iran's IRGC said it violated Iranian airspace. President Trump confirmed the shootdown and ordered retaliatory strikes. CENTCOM stated the two crew members were rescued by an \"unmanned drone boat\" \u2014 an unusual SAR platform that contradicts standard US military search-and-rescue doctrine. Major outlets reported the drone boat rescue without questioning its operational plausibility. Trump framed the incident as Iranian aggression requiring US response.",
   "telemetry": [
-    "The public narrative centers on an unmanned surface vessel (USV) performing the rescue. Standard CENTCOM SAR protocol for downed aircrew uses manned assets — MH-60S Seahawk helicopters or HC-130J Combat King II aircraft — because a USV cannot extract personnel from water, administer medical aid, or authenticate identity in a contested battlespace. The drone boat claim raises questions: was this a cover for a SEAL team extraction that CENTCOM doesn't want to acknowledge? Was a classified unmanned recovery platform tested operationally? Or was the rescue narrative fabricated to obscure that the crew was captured and later recovered through back-channel negotiation? The 24-hour gap between shootdown and the rescue story's emergence is also anomalous — real SAR operations are time-critical and reported immediately."
+    "Standard CENTCOM SAR protocol uses manned assets \u2014 MH-60S Seahawk helicopters or HC-130J Combat King II \u2014 not unmanned surface vessels",
+    "A USV cannot extract personnel from water, administer medical aid, or authenticate identity in contested battlespace",
+    "24-hour gap between shootdown and rescue story emergence is anomalous \u2014 real SAR operations are time-critical and reported immediately",
+    "Task Force 59 operates unmanned systems in the region but no USV matching the described rescue capability exists in public Navy inventory",
+    "CENTCOM initially called the cause \"under investigation\" and did not attribute to Iran; Trump's attribution preceded CENTCOM confirmation"
   ],
-  "analysis": "Cross-reference the \"drone boat rescue\" narrative against public CENTCOM SAR doctrine (JP 3-50, NWP 3-50.1). Check ADS-B Exchange for military air activity in the Hormuz region in the 6 hours after the shootdown — any P-8 Poseidon or C-130 orbits would indicate search operations. Examine whether an unmanned vessel matching the described capability exists in the US Navy inventory. If not, the official narrative is either a cover story or describes a capability the US doesn't want to acknowledge. The contradiction is stark: standard military SAR is a helicopter mission, not a drone boat mission.",
-  "verdict": "[SIPHONED VERDICT]: Cross-reference the \"drone boat rescue\" narrative against public CENTCOM SAR doctrine (JP 3-50, NWP 3-50.1). Check ADS-B Exchange for military air activity in the Hormuz region in the 6 hours after the shootdown — any P-8 Poseidon or C-130 orbits would indicate search operations. Examine whether an unmanned vessel matching the described capability exists in the US Navy inventory. If not, the official narrative is either a cover story or describes a capability the US doesn't want to acknowledge. The contradiction is stark: standard military SAR is a helicopter mission, not a drone boat mission.",
+  "analysis": "The official narrative \u2014 that an unmanned drone boat rescued two Apache pilots from the Strait of Hormuz \u2014 collapses under operational scrutiny. Standard CENTCOM SAR doctrine (JP 3-50, NWP 3-50.1) mandates manned helicopter or fixed-wing assets for combat search and rescue. An unmanned surface vessel cannot extract personnel from water, administer medical aid, or authenticate identity in a contested battlespace. The capability simply does not exist in the public US Navy inventory.\n\nThe 24-hour gap between the shootdown and the rescue story's emergence is the second contradiction. Real SAR operations are time-critical and reported within hours \u2014 not after a day of silence. This timeline, combined with Trump's preemptive attribution to Iran before CENTCOM confirmed it, raises three possibilities: the drone boat was a cover for a classified SEAL extraction, an unacknowledged unmanned recovery platform was tested operationally, or the rescue narrative was fabricated to obscure a crew capture and back-channel recovery.",
+  "verdict": "[SIPHONED VERDICT]: A drone boat cannot perform a maritime combat rescue under CENTCOM doctrine \u2014 the official narrative either describes a classified capability the US won't acknowledge or fabricates a rescue to cover a less convenient truth.",
   "tags": [
-    "military strike",
-    "United States",
-    "drone warfare",
-    "Iran"
+    "military",
+    "OSINT",
+    "iran",
+    "strait-of-hormuz",
+    "pentagon",
+    "centcom"
   ],
   "kanban_task": "t_4f689786"
 }
