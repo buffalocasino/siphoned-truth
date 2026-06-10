@@ -1,0 +1,20 @@
+{
+  "id": "us-ebola-facility-in-kenya",
+  "slug": "us-ebola-facility-in-kenya",
+  "time": "2026-06-10T19:16:50Z",
+  "title": "US Ebola facility in Kenya — medical apartheid and a protester shot",
+  "narrative": "On June 10, 2026, multiple outlets reported on a US-established Ebola quarantine facility in Nanyuki, Kenya. The facility is reserved exclusively for American patients — a quarantine center on Kenyan soil that Kenyans cannot use. The NYT headline: 'U.S. Ebola Unit Sparks Fury, Protests and a Political Crisis in Kenya.' The public narrative from US officials frames this as a necessary humanitarian/biosecurity measure given the growing Ebola outbreak in Congo (nearly 600 confirmed cases, per Reuters).",
+  "telemetry": [
+    "BBC News reports that a man was 'reportedly shot at Kenya protest against US Ebola quarantine centre.' Protesters are concerned about cross-border infection risks and the government's lack of transparency about the facility. Hundreds of Kenyans marched through the streets in opposition.",
+    "The NYT adds that the protests against the US-only facility have created a political crisis for Kenyan President William Ruto. The two-tier medical system — Americans get quarantine, Kenyans get exposed — is being called medical apartheid by protesters.",
+    "Meanwhile, the Congo outbreak worsens: Reuters reports nearly 600 confirmed cases with at least 90 deaths. Medical workers are running out of masks and boots. The contrast between US facilities in Kenya and the under-resourced response in Congo is stark.",
+    "Additional context: health experts are screening US wastewater for disease outbreaks during the World Cup, and the Washington Post reports on infectious disease spread concerns. The US is preparing for possible domestic cases while maintaining exclusivity on its overseas quarantine facility."
+  ],
+  "analysis": "The 'humanitarian response' narrative is contradicted by the exclusivity clause. Why is a quarantine facility built on Kenyan soil reserved for Americans only? If the facility is truly about containing Ebola, why bar Kenyans — who face direct exposure risk from cross-border traffic? The shooting of a protester and the lack of government transparency suggest the facility serves US interests, not public health.\n\nKey OSINT question: What are the terms of the US-Kenya agreement for this facility? Are there diplomatic cables or base-rights agreements? Satellite imagery of the Nanyuki site vs. the Congo outbreak zone would visually demonstrate the disparity in response.",
+  "verdict": "[SIPHONED VERDICT]: The 'humanitarian response' narrative is contradicted by the exclusivity clause.",
+  "tags": [
+    "geopolitics",
+    "public-health"
+  ],
+  "kanban_task": "t_705f8ef3"
+}

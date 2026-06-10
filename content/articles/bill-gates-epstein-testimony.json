@@ -1,0 +1,19 @@
+{
+  "id": "bill-gates-epstein-testimony",
+  "slug": "bill-gates-epstein-testimony",
+  "time": "2026-06-10T19:16:50Z",
+  "title": "Bill Gates Epstein testimony — blackmail narrative vs. timeline of meetings",
+  "narrative": "On June 10, 2026, Bill Gates appeared before Congress to testify about his relationship with Jeffrey Epstein. Gates told the House Oversight panel that meeting Epstein was a 'grave error in judgment' and claimed Epstein tried to use information about Gates's extramarital affairs to gain leverage over him. The narrative framing in major outlets (NYT, NPR, CNN, ABC) centers on Gates as a remorseful figure who was manipulated and blackmailed by a predator. Gates has repeatedly denied any knowledge of Epstein's illegal activities.",
+  "telemetry": [
+    "The timeline is the contradiction. Epstein was convicted in 2008 of procuring a minor for prostitution — a registered sex offender. Gates's meetings with Epstein began in 2011 and continued for years after the conviction. Flight logs and meeting records (WSJ reporting mentions 'Melanie Walker, the Hidden Figure With Close Ties to Bill Gates and Jeffrey Epstein') show sustained contact well into the 2010s.",
+    "The 'blackmail' framing — that Epstein weaponized Gates's infidelities — serves a dual narrative purpose: it makes Gates a victim, and it implies Epstein's leverage was personal rather than professional. But if Epstein was blackmailing Gates, why did Gates continue the meetings? The blackmail narrative is convenient but timeline-inconsistent.",
+    "The WSJ piece on 'Melanie Walker' — a hidden figure with ties to both men — suggests there may be a financial/business conduit between Gates and Epstein that has not been fully explored. The Foundation's grants, philanthropic overlaps, and Walker's role as intermediary are underexamined in the mainstream coverage."
+  ],
+  "analysis": "The 'I was blackmailed' defense collapses under its own timeline. You don't continue meeting someone who is blackmailing you for years. The physical evidence — flight logs, meeting records, the Walker conduit — tells a different story than the congressional testimony. \n\nKey OSINT question: Can flight logs be cross-referenced with Foundation grant dates? Were there Epstein-linked donations to the Gates Foundation during the period of contact? The WSJ's mention of Melanie Walker as a 'hidden figure' is the thread to pull.",
+  "verdict": "[SIPHONED VERDICT]: The 'I was blackmailed' defense collapses under its own timeline.",
+  "tags": [
+    "geopolitics",
+    "us-politics"
+  ],
+  "kanban_task": "t_e62a986b"
+}
