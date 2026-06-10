@@ -1,0 +1,19 @@
+{
+  "id": "us-ebola-quarantine-kenya-medical-apartheid-protester-shot-june-2026",
+  "slug": "us-ebola-quarantine-kenya-medical-apartheid-protester-shot-june-2026",
+  "time": "2026-06-10T00:00:00Z",
+  "title": "US-Only Ebola Quarantine Facility in Kenya Sparks Protests and a Shooting Amid Worsening Congo Outbreak",
+  "narrative": "On June 10, 2026, multiple outlets reported on a US-established Ebola quarantine facility in Nanyuki, Kenya. The facility is reserved exclusively for American patients — a quarantine center on Kenyan soil that Kenyans cannot use. The NYT headline: 'U.S. Ebola Unit Sparks Fury, Protests and a Political Crisis in Kenya.' The public narrative from US officials frames this as a necessary humanitarian and biosecurity measure given the growing Ebola outbreak in Congo, where Reuters reports nearly 600 confirmed cases.",
+  "telemetry": [
+    "BBC News reports that a man was 'reportedly shot at Kenya protest against US Ebola quarantine centre' in Nanyuki.",
+    "Protesters are concerned about cross-border infection risks and the Kenyan government's lack of transparency about the facility's terms.",
+    "The NYT reports the protests have created a political crisis for Kenyan President William Ruto, with critics calling the two-tier system 'medical apartheid.'",
+    "Reuters reports the Congo Ebola outbreak has reached nearly 600 confirmed cases with at least 90 deaths. Medical workers are running out of masks and boots.",
+    "Health experts are screening US wastewater for disease outbreaks during the FIFA World Cup, indicating domestic US preparedness concerns.",
+    "The contrast between a fully-equipped US-exclusive facility in Kenya and under-resourced responders in Congo — the actual outbreak zone — is documented across multiple outlets."
+  ],
+  "analysis": "The 'humanitarian response' framing collapses under its own exclusivity clause — a quarantine facility that bars the local population from entry is not a public health measure, it is an extraction pipeline for American nationals. If the stated purpose of the facility were genuinely biosecurity, the exclusion of Kenyans defies epidemiological logic: those living in proximity to the facility face direct exposure risk from cross-border traffic and yet are denied access. The shooting of a protester — and the Kenyan government's refusal to disclose the terms of the US-Kenya agreement governing the facility — reinforces the interpretation that this is not a collaborative health initiative but a unilateral US installation operating without local accountability. The resource gap is stark and documented: US personnel in Kenya have a dedicated quarantine center while Congolese health workers in the actual outbreak zone lack basic protective equipment. The disparity is not incidental — it is structural.",
+  "verdict": "[SIPHONED VERDICT]: A US-exclusive quarantine facility on Kenyan soil that bars Kenyans while Congo's health workers run out of masks is not a humanitarian mission — it is medical triage by passport.",
+  "tags": ["health", "africa", "colonialism"],
+  "kanban_task": "t_705f8ef3"
+}
