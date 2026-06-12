@@ -1,0 +1,11 @@
+⬡ Three Strikes, Zero Iranian Oil, One Categorical Denial: Inside the Settebello 'Precision Strike' That a Ship Manager Says Started Without a Warning Call
+
+On June 9, 2026, US Central Command announced a 'precision strike' on the engine room of M/T Settebello (Palau-flagged) in the Gulf of Oman, claiming the vessel 'violated the ongoing blockade by attempting to transport oil from Iran' and that the 'crew repeatedly failed to comply with directions from American forces.
+
+The telemetry doesn't lie.
+
+▸ The strike on M/T Settebello is on the record. The categorical denial of the company that owned the ship — 'no warning call, message, or communication was ever successfully established with the vessel prior to the actions taken against it' — is on the record. The 'Iranian oil' claim is contradicted on the public record by the operator. The 'repeatedly failed to comply' claim is unsupported by any published communications log. The Indian MEA has summoned the US chargé d'affaires twice in one week and used the word 'unacceptable' for 'lethal and deadly force against civilian shipping.' The UN IMO Secretary-General has called the conduct 'simply unacceptable.' The standard forensic trail for the US framing — VHF Channel 16 logs, AIS tracks, ACARS, P&I insurance status, Kpler/Vortexa ship-to-ship loadings, EU Copernicus imagery — is in the public domain or available to OSINT analysts, and has not been published by the US side. The three-strike pattern (Marivex, Settebello, Jalveer) repeats the same 'no warning' structure across three separate Indian-crewed, neutral-flagged vessels in four days. The story lives in the gap between a thermal-imagery video of a burning tanker and the categorical denial of the people who owned it, with three Indian seafarers dead, the Indian government summoning the US envoy, and the IMO Secretary-General on the record. The proof is in the data the US has not published. The data is the next move.
+
+→ https://siphonedtruth.online/article/centcom-precision-strike-settebello-warning-denial-ios-marine-india-mea-june-2026
+
+#SiphonedTruth #OSINT #ShadowBroker
