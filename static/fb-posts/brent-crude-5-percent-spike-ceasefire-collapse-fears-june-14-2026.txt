@@ -1,0 +1,11 @@
+⬡ Brent Votes Against the Sunday Signing: How a 5% Intraday Spike on 'Ceasefire Collapse' Fears Became the OSINT Check on Trump's Deal Narrative, Baghaei's Denial, and Vance's 'Still TBD'
+
+In the 6-hour window ending 14 June 2026, oil markets moved sharply against the US-Iran 'deal is signed Sunday' narrative that President Trump and US officials have been pushing since Friday.
+
+The telemetry doesn't lie.
+
+▸ In the 6-hour window ending 14 June 2026, Brent crude spiked ~5% intraday on 'ceasefire collapse' fears, from roughly $89 to the $94 zone, with EnergyNow and OilPrice calling a $150 scenario if the ceasefire collapses. The price action is the market's vote on three competing public narratives from the same 24-hour window: Trump's 'Sunday signing' claim, Baghaei's denial of an approved text, and Vance's 'still TBD.' The trader consensus — priced on Kpler / Vortexa flow data, Saudi spare capacity, and SPR drawdown timing — is that the Sunday signing will not happen on Trump's timeline. The Brent options chain for the $150 strike is the cleanest measure of tail risk; the implied volatility and put-call skew tell us how seriously the floor is pricing the $150 scenario. The physical-supply cross-check is the test: Iranian export flow, Saudi spare capacity, and SPR drawdown are the three variables that determine whether $150 is real or a short-covering move. The Monday-morning story is whether Trump's 'Sunday' deadline holds; if no signing occurs, the narrative breaks and the market has more room to run. The market is the OSINT, and the market is voting against the diplomatic narrative.
+
+→ https://siphonedtruth.online/article/brent-crude-5-percent-spike-ceasefire-collapse-fears-june-14-2026
+
+#SiphonedTruth #OSINT #ShadowBroker

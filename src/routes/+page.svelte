@@ -21,7 +21,7 @@
 			<span>•</span>
 			<span>LAYERS: 35 CONCURRENT</span>
 			<span>•</span>
-			<span>AUTH: HERMES_AGENT_V4</span>
+			<a href="/map" class="stat-link">▸ HEATMAP</a>
 		</div>
 	</header>
 
@@ -114,6 +114,16 @@
 		font-size: 0.65rem;
 		color: #00ff8855;
 		letter-spacing: 0.15em;
+	}
+
+	.stat-link {
+		color: #00ff88;
+		text-decoration: none;
+		transition: text-shadow 0.2s;
+	}
+
+	.stat-link:hover {
+		text-shadow: 0 0 10px #00ff88;
 	}
 
 	.loading, .empty {

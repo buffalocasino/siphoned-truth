@@ -8,11 +8,13 @@ export interface Article {
 	article_body?: string;
 	content?: string;
 	summary?: string;
-	telemetry?: string[];
+	telemetry?: string[] | string;
 	analysis?: string;
 	verdict?: string;
 	coverImage?: string;
 	coverPrompt?: string;
+	tags?: string[];
+	coords?: { lat: number; lon: number; region?: string };
 }
 
 export function getAllArticles(): Article[] {

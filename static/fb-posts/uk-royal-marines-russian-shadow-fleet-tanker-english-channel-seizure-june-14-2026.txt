@@ -1,0 +1,11 @@
+⬡ Royal Marines Board in the Channel: The First UK Seizure of a Russian 'Shadow Fleet' Tanker, the AIS Gap, and the Flag-Hop Trail That Brought Her In
+
+On 14 June 2026, Royal Marines and Royal Navy warships conducted the first British seizure of a Russian 'shadow fleet' oil tanker in the English Channel.
+
+The telemetry doesn't lie.
+
+▸ On 14 June 2026, Royal Marines and Royal Navy warships conducted the first British seizure of a Russian 'shadow fleet' oil tanker in the English Channel. UK Ministry of Defence footage shows the boarding with fast boats and a Wildcat helicopter; the vessel was reported under a third-country flag of convenience in the Gabon / Cameroon / Guinea-Bissau pattern typical of the ~600-ship shadow fleet. The UK explicitly framed the action as sanctions enforcement, not NATO Article 5. The four OSINT fingerprints that distinguish a textbook shadow-fleet ship — flag-hopping history, AIS gap pattern, non-IG P&I insurance, and price-cap attestation gaps — are the testable claims. The vessel's name, IMO, and 24-month port-call history were not released in the 6-hour window, but Equasis, the IMO database, MarineTraffic, and VesselFinder carry the public flag-hop trail for verification. The price cap ($60/barrel) is enforced against the cargo, not the vessel — seizure of the ship is symbolic if the cargo was already sold above the cap. The Russian response is the next 24 hours: the standard Moscow pattern is to deny the 'shadow fleet' as a category and call the seizure piracy, but escalation beyond the standard statement would be a significant signal. The 'first UK seizure' framing is the political narrative; the OSINT angle is whether the UK picked a representative shadow-fleet ship or a defensible low-risk test case. The four-fingerprint test is the answer.
+
+→ https://siphonedtruth.online/article/uk-royal-marines-russian-shadow-fleet-tanker-english-channel-seizure-june-14-2026
+
+#SiphonedTruth #OSINT #ShadowBroker
