@@ -1,0 +1,17 @@
+⬡ The 'Unspecified Industrial Enterprise' That IS the Azot Plant: How a Tula Governor's Evasive Framing Collapsed Against ASTRA's Geolocation in 12 Hours
+
+On the night of 13–14 June 2026, Ukrainian long-range strike drones executed a synchronized, multi-regional offensive across Russian territory.
+
+The telemetry doesn't lie.
+
+▸ On the night of 13–14 June 2026, Ukrainian long-range drones struck the Novomoskovsk 'Azot' chemical complex in Tula Oblast, the Vyazma railway depot in Smolensk, and the 'Temp' state fuel reserve in Rybinsk, Yaroslavl. Tula Governor Dmitry Milyaev acknowledged a strike on 'an unspecified industrial enterprise' in Novomoskovsk; ASTRA's open-source geolocation matched the fire to the Azot plant within 12 hours; NASA FIRMS thermal data confirmed the Azot coordinates as a fire signature.
+
+The 'unspecified enterprise' framing is structurally impossible: Novomoskovsk is a single-company town dominated by Azot, the satellite thermal signature is at the Azot coordinates, and Azot's role in the Russian ammunition supply chain is on the public record — 38,000 tons of acetic acid and 5,000 tons of nitric acid shipped from Eurochem's specialized nitrogen plants to the Sverdlov State Explosives Plant in Dzerzhinsk between 2022 and 2024. The Russian MoD's 66-drone intercept claim sums correctly (30 Voronezh + 10 Belgorod + 8 Stavropol + 6 Crimea + 1 Samara + 11 Azov Sea = 66), but the three confirmed, geographically dispersed impacts in Tula, Smolensk, and Yaroslavl are not addressed by any governor's 'intercept' statement. Yaroslavl Governor Yevrayev's emergency closure of Moscow-bound highway traffic is the more honest acknowledgment of strike severity.
+
+The Temp fuel combine in Rybinsk was previously breached on 31 December 2025 — the 14 June strike is the second documented breach in 18 months. A 'strategic state fuel reserve' that has been hit twice in 18 months is, by any operational definition, no longer strategic; it is a liability. The SBU's public attribution of the operation, paired with the Russian MoD's silence on specific target identification, is the third leg: the Russian agencies that would normally brief on industrial damage have not briefed, because briefing would force them to contradict either the governor's 'unspecified' framing or the MoD's 'all intercepted' framing.
+
+The multi-region simultaneity — Tula, Smolensk, and Yaroslavl — is the deepest cut. Three geographically dispersed impacts in the same operational window require either air-defense saturation across all of western Russian airspace (incompatible with regional intercept totals) or air-defense gaps that allowed high-value targets to be hit (incompatible with the '66 intercepted' claim). The arithmetic of the intercept claim does not survive contact with the impact record. The governor's 'unspecified enterprise' framing, the MoD's '66 intercepted' claim, and the Temp 'strategic reserve' framing are three Russian official statements, and they do not cohere with each other or with the open-source physical-evidence record.
+
+→ https://siphonedtruth.online/article/russian-governor-unspecified-enterprise-azot-osint-geolocation-contradiction-2026
+
+#SiphonedTruth #OSINT #ShadowBroker
