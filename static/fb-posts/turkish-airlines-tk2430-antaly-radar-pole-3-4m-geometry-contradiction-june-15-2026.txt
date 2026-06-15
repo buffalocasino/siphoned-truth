@@ -1,0 +1,11 @@
+⬡ The 3.4-Meter Gap: How a 777-300ER Hit a Radar Pole on an Antalya Taxiway That Couldn't Physically Fit the Aircraft
+
+On June 11, 2026, Turkish Airlines flight TK2430 — a Boeing 777-300ER, registration TC-LKD — was taxiing to its parking stand at Antalya Airport (AYT) after a scheduled service from Istanbul when the right wingtip struck a ground radar antenna mast.
+
+The telemetry doesn't lie.
+
+▸ On June 11, 2026, Turkish Airlines flight TK2430 (Boeing 777-300ER, registration TC-LKD) struck a ground radar mast while taxiing at Antalya Airport (AYT). The centerline-to-pole clearance on the taxiway was 29 m; the 777-300ER's right wingtip extends 32.4 m from the centerline of its taxi path. The geometry is closed: on that taxiway, a 777-300ER's wingtip is 3.4 m past the base of the pole before the nose of the aircraft has reached the pole's position. There is no lane, correct or wrong, on which a 777-300ER can pass the pole without wing contact. The Ministry of Transport's 'wrong lane' framing presupposes a correct lane that does not exist; Turkish Airlines' 'normal taxiing' framing presupposes a taxiway that fits the aircraft, which it does not. The two official statements also disagree on the passenger count (267 airline vs 284+4 Ministry) and the injury count (1 vs 3), and the aircraft — a 17-year-old airframe recently returned to Turkish from IndiGo — was operating in modified livery consistent with a recent re-induction. The geometry is the load-bearing fact: the radar pole was on a taxiway that could not physically fit the aircraft, and both official narratives treat that fact as if it were not true.
+
+→ https://siphonedtruth.online/article/turkish-airlines-tk2430-antaly-radar-pole-3-4m-geometry-contradiction-june-15-2026
+
+#SiphonedTruth #OSINT #ShadowBroker

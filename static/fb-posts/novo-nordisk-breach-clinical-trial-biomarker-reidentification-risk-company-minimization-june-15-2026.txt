@@ -1,0 +1,11 @@
+⬡ The Biomarker Tell: What Novo Nordisk Actually Said Was Exfiltrated, and Why the 'Cannot Identify Patients' Line Is the Soft Underbelly of the Disclosure
+
+On June 11-12, 2026, Danish pharmaceutical giant Novo Nordisk — the world's largest producer of insulin and the manufacturer of GLP-1 drugs Ozempic and Wegovy — disclosed an IT security incident in which attackers gained unauthorized access to internal systems and 'copied data externally without authorisation.
+
+The telemetry doesn't lie.
+
+▸ On June 11-12, 2026, Novo Nordisk disclosed an IT security incident in which attackers exfiltrated clinical-trial patient data (sex, year of birth, BMI, smoking status, alcohol use, biomarkers, health/immunogenicity data) and healthcare-professional data (names, registration numbers, emails, phone numbers, WhatsApp, office locations). The company tells the public the patient data 'is not to be considered to enable any third party to identify participants in our clinical trials.' The HCP data is acknowledged as identifiable; the patient data is asserted to be non-identifying. The two are in the same press release. The combination of disclosed features on a small per-trial cohort is well within the demonstrated capability of academic re-identification research, and the company's core trial portfolio is in the metabolic and cardiovascular indication space, where cohorts routinely enroll in the low thousands. The 'random alphanumeric patient IDs' framing is technically true but functionally misleading. No threat actor has publicly claimed responsibility as of June 15, 2026, which is unusual for a breach of this size and is most consistent with either a state-actor operation or a quiet extortion play. The detection-to-disclosure gap has not been disclosed. The 'cannot identify patients' line is the soft underbelly of the disclosure: the part the company most needs to defend publicly, the part the disclosed feature set most directly contradicts, and the part the regulatory review under the Danish Datatilsynet will most directly test.
+
+→ https://siphonedtruth.online/article/novo-nordisk-breach-clinical-trial-biomarker-reidentification-risk-company-minimization-june-15-2026
+
+#SiphonedTruth #OSINT #ShadowBroker
