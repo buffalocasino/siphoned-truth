@@ -1,0 +1,11 @@
+⬡ The 'Southern Highway Totally Safe' Strait of Hormuz — and the One Commercial Ship That Actually Transited It on Monday
+
+On Monday 15 June 2026, the same day the Trump administration announced a memorandum of understanding with Iran to 'completely' reopen the Strait of Hormuz, US President Donald Trump posted on Truth Social that ships were moving out of the strait 'many loaded up with Oil' along a 'Southern Highway' route that he described as 'totally safe, secure, and pristine.
+
+The telemetry doesn't lie.
+
+▸ On 15 June 2026, Donald Trump posted on Truth Social that the Strait of Hormuz's 'Southern Highway' was 'totally safe, secure, and pristine' and that ships 'many loaded up with Oil' were moving through it. The open-source record for the same 24-hour window: one commercial vessel (the Petronet LNG tanker Disha, already west of the strait) transited Hormuz on Monday, per Kpler / LSEG / Marine Link / Profit tracking. Windward's live tracker headline for 15 June: 'Hormuz Traffic Near Zero as Dark Exports Continue.' SAR imagery from 11 June still showed three dark-vessel contacts inside the deep-water channel. BIMCO and Mitsui O.S.K. both refused to characterise the strait as open for commercial transit. INTERTANKO's own guidance describes the 'Southern Highway' as a ~15-vessels-per-day Omani coastal corridor never intended to handle TSS volume. Kpler's 155-tanker Gulf-area queue and ICIS analyst David Jorbenaze's '2027 story' timeline make 'completely opened Friday' physically indefensible on de-mining, insurance, and production-recovery curves. The structural contradiction is between the political language of a 'totally safe' highway and a tracking record that shows the highway is open only on Truth Social. The OSINT verdict: the Strait of Hormuz is closed for normal commercial traffic on the day the White House announced it was open. The 'Southern Highway' is a wartime Omani workaround, not a reopened TSS, and the AIS-dark vessel pattern is the inverse signal of 'pristine.'
+
+→ https://siphonedtruth.online/article/trump-southern-highway-hormuz-one-ship-tracker-contradiction-june-15-2026
+
+#SiphonedTruth #OSINT #ShadowBroker
