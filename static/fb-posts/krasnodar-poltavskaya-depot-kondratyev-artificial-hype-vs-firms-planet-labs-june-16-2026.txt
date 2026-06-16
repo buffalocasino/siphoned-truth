@@ -1,0 +1,11 @@
+⬡ FIRMS Shows the Fire; Kondratyev Calls It 'Hype': The Internal Russian Contradiction at the Poltavskaya Depot (15-16 June 2026)
+
+In the overnight 15-16 June 2026 strikes on Krasnodar Krai, Ukrainian drones hit the oil depot at Poltavskaya — a Cossack village in the region that sits on the fuel-distribution network feeding filling stations across southern Russia.
+
+The telemetry doesn't lie.
+
+▸ In the overnight 15-16 June 2026 strikes, Ukrainian drones hit the Poltavskaya oil depot in Krasnodar Krai — a transit node on the regional fuel-distribution network — while a separate strike hit the Kavkaz port oil terminal in Temryuk district (fire confirmed by NASA FIRMS) and a third, partisan-attributed strike hit the Palkino pumping station in Yaroslavl Oblast (Planet Labs image published by Radio Liberty 15 June). The triple-strike pattern over 72 hours is a deliberate Ukrainian tempo choice that is now hitting both primary refining (CDU/ELOU-AVT units) and the depot-and-pumping layer beneath them. Russian regional authorities attributed the Poltavskaya fire to 'falling debris from intercepted drones' — the same boilerplate that has followed every prior strike of the campaign. Krasnodar Krai governor Veniamin Kondratyev dismissed the shortages on his own Telegram channel as 'artificial hype' — a position directly contradicted by the federal Energy Ministry task force (8 June), the 700-billion-ruble ($9.7 billion) oil-company subsidy program, the Euro-3/Euro-5 quality downgrade, and Finam strategist Yaroslav Kabakov's on-record 'supply-side' assessment. The crisis has spread to at least 25 Russian oblasts and 6 occupied Ukrainian oblasts. NASA FIRMS thermal data and Planet Labs commercial imagery are the two independent third-party evidence layers; the Russian 'debris from intercepted drones' framing does not engage with either. The clearest internal contradiction in the Russian position is a regional governor publicly denying a crisis that the federal government is actively subsidizing — and the physical evidence (FIRMS thermal anomalies, Planet imagery) confirms actual thermal events at the exact sites attributed to falling debris.
+
+→ https://siphonedtruth.online/article/krasnodar-poltavskaya-depot-kondratyev-artificial-hype-vs-firms-planet-labs-june-16-2026
+
+#SiphonedTruth #OSINT #ShadowBroker
