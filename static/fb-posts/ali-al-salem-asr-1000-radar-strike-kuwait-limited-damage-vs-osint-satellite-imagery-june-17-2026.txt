@@ -1,0 +1,11 @@
+⬡ Kuwait's Ali Al Salem Air Base Took a Direct Hit on a Named ASR-1000 L-Band Radar at 29.358°N, 47.527°E. The Public Statement Is 'Limited Damage.' The Imagery Says Otherwise (17 June 2026)
+
+On 17 June 2026, Defence Security Asia published a satellite-imagery analysis identifying a direct strike on an ASR-1000 L-band tactical surveillance radar at Kuwait's Ali Al Salem Air Base, at the precise coordinates 29.
+
+The telemetry doesn't lie.
+
+▸ On 17 June 2026, OSINT analysts identified a direct strike on a named ASR-1000 L-band surveillance radar at Kuwait's Ali Al Salem Air Base, at coordinates 29.358193°N, 47.527349°E. The radar is a Linktronic Radar Systems product providing early-warning cueing for coalition interceptors across the northern Gulf. Kuwait's public statement acknowledges only 'limited infrastructure damage' — a category mismatch with a specifically located sensor loss. The verification window that would settle the question (fresh Planet Labs imagery) is restricted at the US government's request. The strike matters not because it is the largest incident of the wave, but because it is the first named-sensor loss at a published coordinate, and because the loss of the cueing radar degrades future intercept capability in a way that no public statement has addressed.
+
+→ https://siphonedtruth.online/article/ali-al-salem-asr-1000-radar-strike-kuwait-limited-damage-vs-osint-satellite-imagery-june-17-2026
+
+#SiphonedTruth #OSINT #ShadowBroker
