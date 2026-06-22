@@ -1,0 +1,71 @@
+{
+  "slug": "fed-chair-warsh-removed-forward-guidance-2-year-yield-hawkish-june-22-2026",
+  "id": "fed-chair-warsh-removed-forward-guidance-2-year-yield-hawkish-june-22-2026",
+  "time": "2026-06-22T13:30:00Z",
+  "title": "Fed Chair Warsh Cut the FOMC Statement to 132 Words, Declined to File His Own Dot, and Said 'Financial Market Prices Are Probably the Most Important Source of Information to Guide Central Bankers.' The 2-Year Treasury Jumped 11 Basis Points the Same Day, and Fed Funds Futures Flipped to a 76% Probability of a September Hike (17 June 2026)",
+  "category": "markets",
+  "narrative": "On 17 June 2026, Kevin Warsh chaired his first Federal Open Market Committee meeting two weeks after being sworn in as Fed chair on 22 May. The FOMC voted 12–0 to hold the target range for the federal funds rate at 3.50%–3.75% — the fourth straight hold. That decision was the least interesting thing Warsh did.\n\nThe FOMC statement was cut to roughly 132 words, down from 341 in April and well below the 300+ standard in recent meetings. The statement contained no information on how members voted (previously a fixture), no characterization of inflation trends beyond 'elevated relative to the Committee's 2 percent goal,' and no forward guidance about whether policymakers were leaning toward future cuts or hikes. Warsh broke with convention by declining to publish his own interest-rate projection in the dot plot; the 18 other policymakers submitted theirs. Warsh described the change as 'a new chapter' for the central bank. He said 'financial market prices are probably the most important source of information to guide central bankers' and that extensive forward guidance had been a source of policy mistakes.\n\nMarkets read the move as more hawkish than expected. The S&P 500 fell 1.2% on the day. The 2-year Treasury yield — which closely tracks expectations for Fed action — rose from 4.05% to 4.16%, the highest level of 2026. The 10-year yield moved from 4.43% to 4.49% before easing slightly on Thursday. US Fed Fund futures, which at the start of 2026 had been pricing in two rate cuts by year-end, now imply a 76% probability of a rate hike at the September meeting. Several bond investors told the Financial Times they expect the increased uncertainty to push Treasury yields and broader borrowing costs higher.",
+  "telemetry": {
+    "sources": [
+      "Federal Reserve FOMC statement, 17 June 2026 — 132 words (down from 341 in April); 12–0 vote to hold at 3.50%–3.75%",
+      "Federal Reserve Summary of Economic Projections (SEP), June 2026 — 9 of 18 FOMC members expect rate hikes by year-end; Warsh abstained",
+      "Kevin Warsh press conference transcript, 17 June 2026 — 'a new chapter,' 'financial market prices are probably the most important source of information to guide central bankers,' forward guidance 'a source of policy mistakes'",
+      "Federal Reserve dot plot, June 2026 — Warsh did not file a dot; 18 forecasts only",
+      "FRED DGS2 (2-year Treasury yield) — 4.05% to 4.16% on 17 June, highest 2026 level",
+      "FRED DGS10 (10-year Treasury yield) — 4.43% to 4.49% on 17 June, eased slightly on Thursday",
+      "S&P 500, 17 June 2026 — down 1.2%",
+      "CME FedWatch fed funds futures — 76% probability of September rate hike (vs start-of-2026 pricing of two cuts)",
+      "Financial Times, 18 June 2026 — bond investors expect increased uncertainty to push yields higher",
+      "Federal Reserve press conference cadence — Bernanke held them only after every other meeting, Powell after every meeting; Warsh signaling both may change",
+      "FOMC implementation note — unanimous 12–0 vote, no dissent registered"
+    ],
+    "timestamps": {
+      "warsh_sworn_in": "22 May 2026",
+      "fomc_meeting": "17 June 2026",
+      "2yr_yield_jump": "17 June 2026, intraday (4.05% → 4.16%, 11 bp)",
+      "10yr_yield_jump": "17 June 2026 (4.43% → 4.49%)",
+      "ft_bond_investor_coverage": "18 June 2026"
+    },
+    "policy_rate_context": {
+      "current_target_range": "3.50%–3.75% (4th straight hold)",
+      "start_of_2026_implied_path": "2 rate cuts by year-end",
+      "current_implied_path": "76% probability of September hike",
+      "2yr_yield_pre_war_baseline": "3.95% (pre-28 February 2026 Iran war)",
+      "2yr_yield_current": "4.16% (highest of 2026)"
+    }
+  },
+  "analysis": "The Warsh story is a documentary-credibility piece about Fed communication, not a markets-prediction piece. The structural finding is that a Fed chair who explicitly removes forward guidance, refuses to publish his own dot, and cuts the FOMC statement to 132 words is, in market terms, equivalent to a regime change — even though the policy rate did not move. The bond market is pricing the new reaction function as more hawkish than the dot plot itself suggests. Below the surface, four specific findings make the 17 June 2026 FOMC a beat-distinct piece.\n\n**Finding 1 — The 132-word statement is itself the policy signal.** FOMC statements in 2024–25 averaged 300+ words; the April 2026 statement was 341 words. Cutting to 132 is not a stylistic choice — it eliminates the standard inflation-trend characterization ('inflation has moved closer to the Committee's 2 percent objective' or 'remains elevated'), the forward-looking rate-path guidance ('the Committee will be prepared to adjust the stance of monetary policy as appropriate'), and the post-meeting implementation-note detail on dissents and vote splits. The only forward-looking line in the 17 June statement is 'the Committee will deliver price stability.' A statement with no forward guidance is operationally identical to a chair who has told the market: 'I will not telegraph my next move.' A Fed chair who will not telegraph is asking the market to price a wider band of outcomes. The 76% September-hike probability is the market's response to that request.\n\n**Finding 2 — The 18-dots-only dot plot is not symmetric.** In every prior SEP, the chair's dot has been a focal point — markets parsed Powell's March 2024 dot against his December 2023 dot to extract his personal rate-path lean. Warsh's dot abstention converts the published dot plot from a 19-forecast aggregate into an 18-forecast aggregate, where the missing 19th is the chair. The published SEP shows 9 of 18 FOMC members expecting rate hikes by year-end. The honest read is that the chair's view is structurally uncertain — it could be aligned with the 9 hawks or with the 9 doves or somewhere outside the 18-forecast distribution. Markets cannot extract a chair-specific signal from the SEP because the chair has declined to file one. The 11-bp jump in the 2-year yield is the bond market's pricing of that uncertainty as hawkish-tail risk.\n\n**Finding 3 — The 'financial market prices are probably the most important source of information' formulation is a Friedman-era position rediscovered.** Milton Friedman argued for a k-percent rule precisely because central-bank reaction functions are politically captured and prone to systematic forecast error; Warsh's formulation is the same position stated in 2026 idioms. The implication is that the Fed under Warsh is willing to accept a wider distribution of outcomes in exchange for not baking its forecast errors into forward guidance. The empirical question is whether the bond market is a better aggregator of inflation expectations than the SEP. From late 2025 (consensus: two cuts) to mid-June 2026 (76% probability of a hike) the SEP would have predicted a different rate path than the bond market priced. The bond market is the empirical winner so far.\n\n**Finding 4 — The pre-war 2-year baseline is the load-bearing number.** Before the Iran war began on 28 February 2026, the 2-year Treasury yield was 3.95%. The current 4.16% is 21 bp above that baseline — and 11 bp of that 21 bp moved in one day on 17 June. The 2-year at 4.16% is now well above the pre-war baseline regardless of the central bank's communication posture. A Fed chair who explicitly removes forward guidance while the bond market is already pricing 'higher for longer' is asking the market to widen the band further. Several FT-quoted bond investors said exactly this. The 10-year yield's smaller 6-bp move on the day reflects the longer duration's lower sensitivity to near-term Fed-action expectations; the 2-year's 11-bp move is the load-bearing number for the September-meeting hike debate.",
+  "verdict": "[SIPHONED VERDICT]: On 17 June 2026, Kevin Warsh cut the FOMC statement to 132 words, declined to file his own dot, and said financial market prices are 'probably the most important source of information to guide central bankers.' The 2-year Treasury yield jumped 11 basis points the same day — from 4.05% to 4.16%, the highest level of 2026 and 21 bp above the pre-Iran-war baseline — and CME FedWatch now implies a 76% probability of a September hike. The rate did not change; the reaction function did. The bond market priced the new reaction function as more hawkish than the published SEP (9 of 18 members expect hikes, Warsh abstaining) suggests. Three things would clarify the question — a final SEP dot from Warsh at the September meeting, a press-conference cadence decision (Powell held one after every meeting; Bernanke after every other; Warsh signaling both may change), and any published Fed commentary on whether the 21-bp yield premium over the pre-war baseline reflects expected-rate-path shifts or term-premium expansion. None of those have been released. The honest journalistic frame is not 'Warsh is hawkish' — it is 'a Fed chair who will not telegraph is asking the market to widen the band, and the market priced the wider band as hawkish the same day.' The 17 June FOMC is the first empirically measurable test of an explicit no-forward-guidance framework in the modern SEP era.",
+  "tags": [
+    "fed",
+    "federal-reserve",
+    "fomc",
+    "kevin-warsh",
+    "warsh",
+    "forward-guidance",
+    "dot-plot",
+    "sep",
+    "summary-of-economic-projections",
+    "2-year-treasury",
+    "10-year-treasury",
+    "dgs2",
+    "dgs10",
+    "fred",
+    "fed-funds-futures",
+    "cme-fedwatch",
+    "76-percent",
+    "september-hike",
+    "hawkish",
+    "reaction-function",
+    "term-premium",
+    "132-words",
+    "press-conference-cadence",
+    "bernanke",
+    "powell",
+    "friedman",
+    "k-percent-rule",
+    "iran-war-baseline",
+    "implementation-note",
+    "12-0-vote"
+  ]
+}

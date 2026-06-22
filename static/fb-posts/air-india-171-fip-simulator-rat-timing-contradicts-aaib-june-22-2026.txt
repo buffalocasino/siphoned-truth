@@ -1,0 +1,11 @@
+⬡ Air India 171's Preliminary Report Says the Fuel Switches Moved in 4 Seconds. A Federation of Indian Pilots EASA-Certified Level-D Simulator Says That Timeline Is Physically Impossible — and the AAIB Has Not Reconciled the Gap (22 June 2026)
+
+On 12 June 2025, Air India Flight 171 (Boeing 787-8 VT-ANB) crashed into a college hostel in Ahmedabad shortly after takeoff, killing 260 of the 271 people on board.
+
+The telemetry doesn't lie.
+
+▸ On 19–20 June 2026, the Federation of Indian Pilots produced 10 Level-D simulator runs under EASA-certified match conditions showing that the AAIB's 4-second fuel-cutoff timeline for Air India 171 is 'physically and technically impossible' under a manual shutdown scenario. The AAIB has not produced a contradicting test protocol. The Caravan magazine's Air India 787 engineers say the AAIB's implied relight chain cannot be reconciled with GE's GEnx-1B FADEC behavior; the Free Press Journal's AFR analysis shows the APU did not come online at the moment the AAIB's timeline would require. Three documents would settle the question — the full ACARS maintenance log, the CVR transcript, and the Boeing MEL remediation timeline for the Core Network System item deferred on 9 June 2025 — and the AAIB has released none of them. India's Solicitor General told the Supreme Court on 13 November 2025 that the preliminary report does not actually blame the pilots; the agency's six-week silence on its own minister's public commitment to publish a final report is the procedural fact that converts the FIP challenge from a domain-practitioner critique into a documented evidence asymmetry. The AAIB's central causal claim ('pilot moved the switches') is now in open conflict with an EASA-certified Level-D simulator, and the agency has not addressed the conflict.
+
+→ https://siphonedtruth.online/article/air-india-171-fip-simulator-rat-timing-contradicts-aaib-june-22-2026
+
+#SiphonedTruth #OSINT #ShadowBroker
