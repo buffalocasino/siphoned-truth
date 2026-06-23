@@ -1,0 +1,11 @@
+⬡ Commerce Department Went on the Record on 22 June With a Specific Allegation Against ASML — Specialized EUV Transport Equipment and Components to Chinese Entities. ASML Categorically Denied. The Public Allegation Is Documented; the Documentary Evidence Is Classified (22 June 2026)
+
+On 22 June 2026, the U.
+
+The telemetry doesn't lie.
+
+▸ On 22 June 2026, the U.S. Department of Commerce went on the record for the first time with a specific allegation that ASML shipped specialized transport equipment and components compatible with EUV systems to Chinese entities. ASML categorically denied the allegation in a formal 'No indication of any ASML EUV System in China' document, citing 314 operating EUV machines globally, 26 decommissioned, zero in China; continuous connectivity telemetry; and 180-ton / 100,000-part physical intractability. The U.S. has not released the documentary evidence that would either confirm or falsify ASML's empirical counter-claims. Commerce officials indicated concern about 'technological support provided to SwaySure,' a publicly named partner of Huawei, as the most specific operational allegation. The 'specially designed' standard in the Export Administration Regulations is the legal crux: component-level enforcement does not require proof of an intact EUV machine crossing the border. The classified-evidence posture makes the ASML case the test of whether Western export-control enforcement can rest on intelligence the targeted company is not allowed to examine, and whether the SwaySure channel becomes the precedent that accelerates MATCH Act-style legislative action against existing DUV licenses.
+
+→ https://siphonedtruth.online/article/asml-euv-component-allegation-commerce-department-classified-evidence-vs-asml-categorical-denial-314-machine-telemetry-swaysure-huawei-match-act-june-22-2026
+
+#SiphonedTruth #OSINT #ShadowBroker
