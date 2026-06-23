@@ -1,0 +1,11 @@
+⬡ Tesla's 73 mph, 100% Accelerator Claim at the Katy Wall: Why a Self-Reported Telemetry Reading Cannot Settle a Tesla Autopilot Fatality
+
+On Friday 19 June 2026, a Tesla Model 3 left the road in the 23600 block of Stratmore Meadows Lane, in the Stratmore Meadows subdivision off FM 1463 in unincorporated Harris County, Texas, and slammed into the front room of a single-story home, killing 76-year-old Martha Avila, who was inside the house.
+
+The telemetry doesn't lie.
+
+▸ Tesla's 73 mph / 100% accelerator / still-pressed-after-impact rebuttal is a self-reported telemetry reading from the company that owns the vehicle, wrote the firmware, controls the EDR, and runs the FSD software stack. None of those artifacts have been produced for independent review. The Harris County Sheriff's Office has the driver telling deputies Autopilot was engaged; the company is the sole source of the contrary 'manual override' claim; NHTSA has just opened the 46th such investigation in a decade, with the standard 6 to 18 month timeline ahead. The story is the asymmetry — not the question of whether the driver pressed the pedal, but the structural pattern of company-first denial pending slow regulatory follow-through, played out for the 46th time. Until the EDR, the firmware version, the system-state log, and the iBooter/ESP arbitration record are produced, Tesla's three specific numbers are not evidence. They are a press statement.
+
+→ https://siphonedtruth.online/article/tesla-katy-house-crash-elluswamy-73mph-100-accelerator-vs-hcso-driver-autopilot-statement-june-23-2026
+
+#SiphonedTruth #OSINT #ShadowBroker
