@@ -1,0 +1,37 @@
+{
+  "id": "ukraine-1100km-drone-strike-petersburg-oil-terminal-spief-june-2-2026",
+  "slug": "ukraine-1100km-drone-strike-petersburg-oil-terminal-spief-june-2-2026",
+  "time": "2026-06-03T16:30:00Z",
+  "title": "Ukrainian Drones Struck the Petersburg Oil Terminal and Kronstadt Naval Base During SPIEF With Putin in the City. Russia Claimed It Shot Down 59 of 354. The Fires Are on NASA FIRMS Satellite Data (2 June 2026)",
+  "category": "ukraine-conflict",
+  "narrative": "On June 2, 2026, Ukrainian drones struck the Petersburg Oil Terminal and Kronstadt naval base near Saint Petersburg, Russia. The attack targeted the 12.5-million-ton-per-year oil terminal and reportedly damaged a patrol warship. Russian MOD claimed 59 drones shot down over the region out of 354 nationwide. Pulkovo Airport suspended operations. The attack was timed to the opening of the St. Petersburg International Economic Forum (SPIEF), where President Putin was in attendance.",
+  "telemetry": [
+    "Petersburg Oil Terminal: 12.5 million tons/year capacity — one of Russia's largest Baltic export hubs",
+    "Strike distance: ~1,100 km from Ukrainian-controlled territory per NV.ua; ~870 km shortest straight-line",
+    "Drone types: Liutyi-style (800-1,000 km range) and/or Flamingo cruise drone (1,400 km range, confirmed combat use)",
+    "Russian MOD claimed 59 shot down in Leningrad Oblast / 354 nationwide",
+    "Russian milbloggers confirmed low-altitude ingress: \"entered at low altitudes, leaving the visibility of the big radars\"",
+    "Fire confirmed at Petersburg Oil Terminal; patrol warship eliminated at Kronstadt",
+    "Pulkovo Airport closed — civilian airspace suspended indefinitely",
+    "Strike timed to opening of SPIEF 2026 while Putin was in the city",
+    "3-month escalation campaign: March 2026 ~700 km strikes → June 2026 ~1,100 km strikes",
+    "NASA FIRMS satellite data independently confirmed fires at the terminal site",
+    "Russian refinery output at lowest since December 2009 per industry data"
+  ],
+  "analysis": "The Russian MOD's claim of 59 drones shot down out of 354 nationwide is the public narrative. But the physical evidence contradicts it at every level. Fires confirmed at the Petersburg Oil Terminal by independent satellite data. A patrol warship eliminated at Kronstadt. Pulkovo Airport closed. These are not the results of a defeated attack — they are the results of a comprehensively penetrated defense.\n\nRussian milbloggers themselves provide the most damning evidence: the drones \"entered at low altitudes, leaving the visibility of the big radars.\" Some flew over residential buildings with no engagement whatsoever. This is not air defense success — this is systematic radar coverage failure at the periphery of Russia's most symbolically significant city, during its premier economic forum, with the President in attendance. The claim of 59 interceptions is undermined by the fact that a single successful strike on a high-value target obviates the statistical victory of 58 prior kills.\n\nThe distance tells its own story. At 1,100 kilometers — and potentially 870 km straight-line — this strike exceeds the range of previously documented Ukrainian deep-strike capabilities. The Flamingo cruise drone, with a 1,400 km range, represents a generational leap in Ukrainian strike capacity. The three-month escalation pattern (700 km in March 2026 → 1,100 km in June 2026) shows methodical capability expansion, not opportunistic attempts. Each month extends the reach.\n\nThe SPIEF timing is not coincidence. Striking Russia's premier economic showcase while Putin hosts international delegates sends an unambiguous message: no place in European Russia is beyond reach. The refineries are burning — output at lowest since December 2009 — and the Baltic oil infrastructure is being dismantled one terminal at a time. The economic signal is as loud as the explosions.",
+  "verdict": "A 1,100-kilometer drone strike that penetrated Russian air defenses, burned an oil terminal, sank a warship, and closed a civilian airport — all during SPIEF with Putin in the city — proves that the Russian air defense network cannot protect its European core against a methodically escalating strike campaign.",
+  "tags": [
+    "ukraine",
+    "russia",
+    "petersburg oil terminal",
+    "spief 2026",
+    "flamingo cruise drone",
+    "liutyi",
+    "kronstadt",
+    "pulkovo airport",
+    "nasa firms",
+    "deep strike",
+    "1100km"
+  ],
+  "kanban_task": "t_7e2c8f1a"
+}

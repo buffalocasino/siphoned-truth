@@ -1,0 +1,11 @@
+⬡ Microsoft Scout Reads Your Email, Calendar, and Files Autonomously. The LLM Pipeline Routes Through GitHub Copilot — Outside the M365 Compliance Boundary. OpenClaw Has a Security Team Warning for Full VM Isolation (Microsoft Build, 2 June 2026)
+
+At Microsoft Build 2026 on June 2, Microsoft unveiled two products: Microsoft Scout, an AI agent that lives inside Microsoft Teams and autonomously reads all your M365 data, and Project Solara, a hardware platform including a wearable badge with camera, 5G, fingerprint sensor, and conversation transcription.
+
+The telemetry doesn't lie.
+
+▸ Microsoft Scout routes enterprise data through an LLM pipeline outside the M365 compliance boundary — a fact buried in documentation released the same day as the keynote — rendering negotiated data protections void for any data Scout touches, while its OpenClaw foundation carries a security team warning for full VM isolation.
+
+→ https://siphonedtruth.online/article/microsoft-scout-routes-enterprise-data-through-github-copilot-outside-m365-compliance-boundary-build-2026
+
+#SiphonedTruth #OSINT #ShadowBroker

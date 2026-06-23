@@ -1,0 +1,42 @@
+{
+  "id": "microsoft-scout-routes-enterprise-data-through-github-copilot-outside-m365-compliance-boundary-build-2026",
+  "slug": "microsoft-scout-routes-enterprise-data-through-github-copilot-outside-m365-compliance-boundary-build-2026",
+  "time": "2026-06-03T16:30:00Z",
+  "title": "Microsoft Scout Reads Your Email, Calendar, and Files Autonomously. The LLM Pipeline Routes Through GitHub Copilot — Outside the M365 Compliance Boundary. OpenClaw Has a Security Team Warning for Full VM Isolation (Microsoft Build, 2 June 2026)",
+  "category": "tech-surveillance",
+  "narrative": "At Microsoft Build 2026 on June 2, Microsoft unveiled two products: Microsoft Scout, an AI agent that lives inside Microsoft Teams and autonomously reads all your M365 data, and Project Solara, a hardware platform including a wearable badge with camera, 5G, fingerprint sensor, and conversation transcription. Scout is described as a productivity assistant. Microsoft's Responsible AI FAQ states Scout processes data through GitHub Copilot.",
+  "telemetry": [
+    "Microsoft Scout: desktop AI agent inside Teams — reads email, calendar, chats, files, SharePoint, OneDrive",
+    "Operates in \"heartbeat mode\" — autonomous, continuous, no user trigger required",
+    "Built on OpenClaw: Microsoft's own security team warned it needs \"full VM isolation\" due to attack surface",
+    "Project Solara: wearable badge with camera, 5G, fingerprint sensor, ambient microphone",
+    "Scout's LLM processing routes through GitHub Copilot, NOT Microsoft 365 compliance boundary",
+    "Data residency, retention policies, eDiscovery, and sensitivity labels DO NOT apply to Scout-processed data",
+    "This compliance gap buried in documentation updated same day as Build announcement, 2 June 2026",
+    "Precedent: Amazon warehouse worker trackers (2018-2024); Microsoft Productivity Score (2020, rolled back after backlash)",
+    "Scout described as \"AI Coworker That Never Logs Off\" in WIRED coverage",
+    "Enterprise contracts: Azure EA customers get Scout bundled; pricing model embeds per-seat surveillance cost"
+  ],
+  "analysis": "The public narrative positions Scout as a productivity tool — an assistant that helps you work faster. But the architecture tells a different story. Scout operates in \"heartbeat mode\" — autonomous, continuous, reading everything without being asked. It does not wait for a prompt. It does not require user invocation. It is not a tool. It is an observer embedded in your tenant with omnivorous read access to every document, email, chat, and calendar entry.\n\nThe compliance boundary gap is the smoking gun. Scout's LLM processing routes through GitHub Copilot, which operates outside the M365 compliance boundary. This means data residency guarantees, retention policies, eDiscovery obligations, and sensitivity labels do not apply to any data Scout processes. Enterprise customers who have negotiated specific data handling terms with Microsoft — often after months of legal review — will find those terms void for any data Scout touches. This was disclosed, but buried in documentation updated the same day as the Build announcement, when media attention was focused on the keynote stage and the Solara wearable reveal.\n\nThe OpenClaw connection is equally damning. Microsoft's own security team warned that OpenClaw needs \"full VM isolation\" due to its attack surface. Yet Scout, built on OpenClaw, is being deployed inside enterprise tenants with access to every document, email, and chat. The gap between the security team's warning and the product team's deployment is not a disagreement — it is organizational capture. Security's role has been reduced to writing warnings that product ignores.\n\nProject Solara adds the physical surveillance layer. A wearable badge with camera, 5G, fingerprint sensor, and conversation transcription. Combined with Scout's data access, this creates a panopticon: every document you read, every meeting you attend, every conversation you have — captured, processed, and routed through an LLM pipeline outside your organization's compliance boundary.",
+  "verdict": "Microsoft Scout routes enterprise data through an LLM pipeline outside the M365 compliance boundary — a fact buried in documentation released the same day as the keynote — rendering negotiated data protections void for any data Scout touches, while its OpenClaw foundation carries a security team warning for full VM isolation.",
+  "tags": [
+    "microsoft scout",
+    "build 2026",
+    "teams",
+    "openclaw",
+    "github copilot",
+    "m365 compliance boundary",
+    "data residency",
+    "ediscovery",
+    "sensitivity labels",
+    "project solara",
+    "wearable badge",
+    "5g",
+    "fingerprint sensor",
+    "ambient microphone",
+    "ai coworker",
+    "panopticon",
+    "enterprise surveillance"
+  ],
+  "kanban_task": "t_9d4e6b33"
+}
