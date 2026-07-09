@@ -71,6 +71,8 @@
 		<span>BASEMAP: CARTO DARK_MATTER (OSM)</span>
 		<span>•</span>
 		<span>RESOLVER: TAG/TOKEN GAZETTEER v1</span>
+		<span>•</span>
+		<a href="https://deflock.org" target="_blank" rel="noopener" class="footer-link">▸ DEFLOCK.ORG / FLOCK CAM</a>
 	</footer>
 </main>
 
@@ -209,5 +211,15 @@
 		font-size: 0.6rem;
 		color: #00ff8833;
 		letter-spacing: 0.15em;
+	}
+
+	.footer-link {
+		color: #00ff8877;
+		text-decoration: none;
+		transition: color 0.2s;
+	}
+
+	.footer-link:hover {
+		color: #00ff88;
 	}
 </style>

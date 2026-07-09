@@ -154,6 +154,10 @@
 			<span>SIG: SHADOW_NODE_01</span>
 			<span>•</span>
 			<span>SEC_LEVEL: UNRESTRICTED_PUBLIC</span>
+			<span>•</span>
+			<a href="/map" class="footer-link">▸ HEATMAP</a>
+			<span>•</span>
+			<a href="https://deflock.org" target="_blank" rel="noopener" class="footer-link">▸ DEFLOCK.ORG</a>
 		</footer>
 	</article>
 </main>
@@ -337,6 +341,17 @@
 		font-size: 0.6rem;
 		color: #00ff8833;
 		letter-spacing: 0.15em;
+		flex-wrap: wrap;
+	}
+
+	.footer-link {
+		color: #00ff8877;
+		text-decoration: none;
+		transition: color 0.2s;
+	}
+
+	.footer-link:hover {
+		color: #00ff88;
 	}
 
 	.share-bar {
