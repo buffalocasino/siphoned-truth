@@ -1,0 +1,28 @@
+{
+  "title": "Trump says Iran called to negotiate. Qalibaf says the deal is dead. The physical evidence tells a different story.",
+  "slug": "iran-us-mou-collapse-hormuz-qalibaf-rejects-trump-negotiation-claim-july-9-2026",
+  "date": "2026-07-09",
+  "beat": "Iran",
+  "narrative": "Donald Trump declared the three-week-old US-Iran memorandum of understanding (MoU) \"over\" on July 8, hours after the US launched approximately 90 strikes against Iranian military targets — the largest single US operation since the February 28 war began. Trump simultaneously posted on Truth Social: \"This is in retribution for yesterday's bombing of ships by Iran. If it happens again, it will get much worse!\" but also told reporters on Air Force One that Iranian officials \"called a little while ago\" and \"want to make a deal,\" and that \"anything that happens is going to happen very fast\" and \"will only make it safer.\" Iran's Parliament Speaker Mohammad Bagher Qalibaf responded: \"Let me be clear: If you strike, you will be struck back. The Strait of Hormuz will be reopened only under Iranian arrangements, not through US threats.\" Iran struck four US bases in Kuwait and Bahrain (Camp Arifjan, Ali Al Salem, Juffair, Sheikh Isa) and fired 10 ballistic missiles at Jordan's Azraq base. US strikes hit Bushehr (nuclear site perimeter), Golestan railway bridge, and Chabahar port.\n\nThe Al Rekayyat LNG tanker remains stranded off Oman with engine room fire — physical evidence of the Iranian strike the US cited as the trigger for the escalation. No independent damage assessment has been published.",
+  "analysis": "The documentary record breaks into three layers that contradict each other.\n\nFirst layer: Trump's \"they called\" claim. Trump said Iranian officials called to negotiate. Qalibaf — who was at the table in the June 18 Geneva MoU talks as Iran's top legislative official — issued a categorical rejection on the same day. Qalibaf's statement was not a negotiating position; it was a rejection of the premise that negotiations were ongoing. No independent corroboration of the \"call\" has been published by any third party, news organization, or government.\n\nSecond layer: the MoU violation question. The June 18 MoU required Iran to allow safe passage through Hormuz; US officials say Iran violated it by charging fees and directing routes without coordination. Iran says the US violated it by routing ships through a southern Omani lane without Iranian approval. Both claims cannot be simultaneously true at the point of first violation. The physical record — the Al Rekayyat stranding with an engine room fire — is verifiable via AIS tracking and satellite imagery. Whether the stranding preceded or followed the US strikes determines which party broke the MoU first.\n\nThird layer: the strike record. CENTCOM released black-and-white footage of strikes on an airport runway and missile launchers. It provided no independent damage assessment for the Bushehr nuclear site. Iranian state media reported the Bushehr IRGC aerospace facility \"caught fire.\" The nuclear site perimeter was hit; the warhead storage or reactor core was not — a distinction that matters for whether the strikes were calibrated or accidental. Brent crude hit a two-week high above $78/barrel, then fell back the same day as investors weighed whether the exchange was tactical or structural.\n\nThe physical evidence — Al Rekayyat stranding, Bushehr fire, Golestan bridge strike — is verifiable via satellite and AIS. The \"they called\" claim has no third-party corroboration. The question is what the documented sequence of strikes and counter-strikes proves about which party broke the MoU first, and whether Trump's negotiating claim has any documentary basis beyond his own social media.",
+  "verdict": "Trump and Qalibaf are both telling partial truths. The MoU collapse is real. The strike-counterstrike record is verifiable. The \"they called to negotiate\" claim exists in Trump's social media feed and his Air Force One briefing — and nowhere else. The Al Rekayyat LNG tanker is the load-bearing physical exhibit: it is stranded, on fire, and verifiable. Its position and status before the strikes is a question satellite imagery and AIS tracking can answer. That answer determines who broke the MoU first — and whether Trump's negotiating claim is a fact or a performance.",
+  "telemetry": {
+    "documents_in_evidence": [
+      "Trump Truth Social post, July 8 2026",
+      "Qalibaf statement, July 8 2026",
+      "CENTCOM strike footage release, July 8 2026",
+      "Iranian state media Bushehr fire report, July 8 2026",
+      "Al Rekayyat LNG tanker AIS tracking data (Kpler/LSEG)"
+    ],
+    "documents_absent": [
+      "Third-party corroboration of Trump \"Iran called\" claim",
+      "Independent damage assessment of Bushehr nuclear site perimeter",
+      "Independent damage assessment of Al Rekayyat engine room",
+      "US briefing document on Hormuz MoU fee-dispute specifics",
+      "Iranian government statement on southern Omani lane routing dispute"
+    ],
+    "beat_cluster": "Iran-MoU-Hormuz",
+    "load_finding": "Trump \"they called\" claim has no third-party corroboration; Qalibaf's categorical rejection issued same day; physical evidence (Al Rekayyat stranding) is verifiable but its pre-strike status is not yet confirmed"
+  },
+  "tags": ["Iran", "Hormuz", "MoU", "Trump", "Qalibaf", "CENTCOM", "Al Rekayyat", "Bushehr"]
+}

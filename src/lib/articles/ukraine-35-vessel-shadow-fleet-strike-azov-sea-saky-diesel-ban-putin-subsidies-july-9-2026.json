@@ -1,0 +1,29 @@
+{
+  "title": "Ukraine drone fleet has struck 35 vessels in four days. Putin just banned diesel exports and issued Crimea fuel subsidies.",
+  "slug": "ukraine-35-vessel-shadow-fleet-strike-azov-sea-saky-diesel-ban-putin-subsidies-july-9-2026",
+  "date": "2026-07-09",
+  "beat": "Ukraine",
+  "narrative": "Ukrainian Unmanned Systems Forces Commander Robert \"Madyar\" Brovdi reported that Ukrainian long-range drones struck 35 Russian vessels — including 12 shadow-fleet tankers — over a 96-hour window (July 6-9) in the Sea of Azov. Brovdi identified 12 tankers struck overnight July 8-9 alone, including Captain Barmin, Sanar-3, Sanar-17 (second strike), Klimena (second strike), Efrosinya B, Maria, and others. The Saky thermal power plant and three fuel storage facilities in occupied Crimea were also struck. Rostov Region Governor Yuriy Slyusar confirmed two tankers damaged in Taganrog Bay overnight July 8-9, with fires aboard both vessels. The Kremlin announced a ban on diesel exports through end of July. Putin publicly called on the Finance Ministry to issue Crimea fuel subsidies \"as quickly as possible\" so \"citizens shouldn't feel a burden.\"\n\nBrovdi's Telegram posts name specific vessels — Chelsea-6, Auratanker Sonar-1, Ilya Repin, Galiaskar Kamal, Captain Barmin, Sanar-3, Sanar-17, Klimena, Efrosinya B, Maria — each verifiable against AIS tracking databases and Kpler/LSEG shipping data. The Saky thermal power plant has been struck multiple times this summer; cumulative thermal output is visible in FIRMS satellite data across June and July 2026.",
+  "analysis": "The 35-vessel figure over 96 hours represents a strike rate of approximately one vessel every 2.7 hours — physically verifiable via AIS gap analysis at known chokepoints including the Kerch Strait Bridge corridor and Taganrog Bay approaches. Each named vessel in Brovdi's list can be cross-referenced against Equasis, Marine Traffic, and Kpler shipping databases to confirm whether the vessels were present in the Sea of Azov during the reported window and whether they went dark (AIS gap) during or after the reported strike date.\n\nThe Kremlin's response is its own evidence. Putin's diesel export ban — a total prohibition through end of July — is not a sanction. It is a signal that domestic fuel supply is being prioritized over foreign revenue. Diesel is Russia's largest petroleum export by volume. A total export ban means refineries are being directed to the domestic market at the expense of export income. The Kremlin does not do this unless the logistics pressure is severe.\n\nPutin's Crimea fuel subsidy decree is an official Kremlin admission that the supply chain to occupied Crimea is under sufficient pressure to require direct civilian subsidies. This is a departure from prior official statements that denied supply difficulties. The Saky thermal plant has been struck at least twice in the prior two weeks. Three fuel storage facilities were struck in this window. The cumulative logistics damage — not any single strike — is what produced the subsidy decree.\n\nThe asymmetry: Brovdi publishes names, timestamps, and thermal imagery. The Kremlin publishes denials and diesel bans. The physical evidence — AIS gaps for named vessels, FIRMS thermal signatures at Saky, the official subsidy decree — is on the record.",
+  "verdict": "The physical evidence supports Brovdi's \"industrial scale\" characterization. The diesel export ban and the Crimea subsidy decree are Kremlin-owned admissions that the logistics chain is under pressure. Each named vessel in Brovdi's list is verifiable via AIS tracking. The Saky thermal plant's cumulative strike history is in the public FIRMS record. The question is not whether the strikes happened — it is whether the cumulative attrition rate is sufficient to confirm the logistics collapse the Kremlin has now officially acknowledged. The diesel ban and the subsidy decree answer that question in the affirmative.",
+  "telemetry": {
+    "documents_in_evidence": [
+      "Brovdi Telegram posts, July 6-9 2026 (35 vessels, 12 tankers named)",
+      "Rostov Governor Slyusar confirmation, July 9 2026",
+      "Kremlin diesel export ban decree, July 9 2026",
+      "Putin Crimea fuel subsidy statement, July 9 2026",
+      "FIRMS thermal satellite data, Saky power plant, June-July 2026",
+      "AIS tracking data for named vessels (Kpler/LSEG/Equasis)"
+    ],
+    "documents_absent": [
+      "Russian Ministry of Defense strike denial",
+      "Independent damage assessment for any named vessel",
+      "Satellite imagery of Saky thermal plant post-strike damage",
+      "Russian government statement on shadow fleet losses",
+      "Insurance claims data for any named vessel"
+    ],
+    "beat_cluster": "Ukraine-shadow-fleet-Azov",
+    "load_finding": "35 vessels in 96h is materially different from July 7's 8-vessel report; diesel export ban and Crimea subsidy decree are Kremlin-owned logistics collapse admissions absent from prior coverage"
+  },
+  "tags": ["Ukraine", "shadow fleet", "Sea of Azov", "Madyar", "Brovdi", "Saky", "diesel ban", "Putin", "Crimea"]
+}
