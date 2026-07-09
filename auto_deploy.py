@@ -3,6 +3,26 @@ import subprocess, json, shutil, urllib.request, time, os
 from pathlib import Path
 from datetime import datetime
 
+def _load_hermes_env():
+    """Source keys from ~/AppData/Local/hermes/.env if not already in os.environ.
+    The blog pipeline runs from cron where env vars from the user shell aren't inherited.
+    Keys with special characters break shell interpolation, so we parse the file directly.
+    """
+    env_path = Path.home() / 'AppData' / 'Local' / 'hermes' / '.env'
+    if not env_path.exists():
+        return
+    for line in env_path.read_text(encoding='utf-8', errors='ignore').splitlines():
+        line = line.strip()
+        if not line or line.startswith('#') or '=' not in line:
+            continue
+        k, v = line.split('=', 1)
+        k = k.strip()
+        v = v.strip()
+        # Don't clobber an explicitly set value
+        os.environ.setdefault(k, v)
+
+_load_hermes_env()
+
 # Resolve BLOG to the directory containing this script — works on WSL, Windows, native Linux
 SCRIPT_DIR = Path(__file__).resolve().parent
 BLOG = SCRIPT_DIR
@@ -13,8 +33,13 @@ COVERS.mkdir(parents=True, exist_ok=True)
 PROCESSED_MARKER = BLOG / ".deployed_slugs"
 FB_POSTS_DIR = BLOG / "static" / "fb-posts"
 
-MINIMAX_MEDIA_KEY = os.environ.get('MINIMAX_KEY', 'sk-cp-iwiL6pOy3nspdEU5U-a0v6wrSKxo06qIBf8GsagrC7yx6TIIq6vf7x7c2ay09lOPbZ2S2jEnM4LPv0TeyElzqIoK3_9coTDkKeJIPZBJSG2Kjhahe1LD2tU')
-OPENROUTER_KEY = os.environ.get('OPENROUTER_KEY', '')
+MINIMAX_MEDIA_KEY = os.environ.get('MINIMAX_API_KEY', '')
+OPENROUTER_KEY = os.environ.get('OPENROUTER_API_KEY', os.environ.get('OPENROUTER_KEY', ''))
+
+if not MINIMAX_MEDIA_KEY:
+    print("WARNING: MINIMAX_API_KEY not set — MiniMax tier disabled")
+if not OPENROUTER_KEY:
+    print("WARNING: OPENROUTER_API_KEY not set — OpenRouter tier disabled")
 GROUP_ID = '2038430040336634210'
 
 CATEGORY_PROMPTS = {
@@ -346,13 +371,32 @@ def main():
     processed = load_processed()
     new_articles = []
 
+    # Map article tags → cover category. Articles store `tags` not `category`,
+    # and the MiniMax/OpenRouter/Pillow tiers all key off category. Without
+    # this, every article gets the generic 'default' prompt and dark grey cover.
+    TAG_TO_CATEGORY = {
+        'aviation': 'aviation',
+        'geopolitics': 'geopolitics', 'us-politics': 'geopolitics', 'eu-politics': 'geopolitics',
+        'energy': 'energy', 'oil': 'energy', 'gas': 'energy', 'lng': 'energy',
+        'maritime': 'maritime', 'shipping': 'maritime', 'hormuz': 'maritime', 'tanker': 'maritime',
+    }
+
+    def _resolve_category(article):
+        cat = article.get('category')
+        if cat:
+            return cat
+        for t in article.get('tags', []):
+            if t in TAG_TO_CATEGORY:
+                return TAG_TO_CATEGORY[t]
+        return 'default'
+
     for f in (BLOG / "content/articles").glob("*.json"):
         try:
             article = json.load(open(f))
             slug = article.get('slug') or article.get('id', '')
             if slug and slug not in processed:
                 title = article.get('title', '')
-                category = article.get('category', 'default')
+                category = _resolve_category(article)
                 result = generate_cover(slug, title, category)
                 if result:
                     processed.add(slug)
@@ -391,31 +435,65 @@ def main():
         ["git", "status", "--porcelain", "-uall", "--", "src/", "content/", "static/covers/", "static/fb-posts/", ".deployed_slugs"],
         cwd=BLOG, capture_output=True, text=True
     )
+    # Check for uncommitted config files too — these need to go through build+deploy
+    # even when no new articles exist (e.g. svelte.config.js precompress toggle).
+    config_files = ["svelte.config.js", "vite.config.js", "vercel.json"]
     uncommitted = [l for l in result.stdout.splitlines()
                   if l.startswith("??") or l.startswith(" M") or l.startswith(" D")]
 
-    if not uncommitted:
+    # Check all config files: modified (git diff) or newly added (git status -u)
+    diffed = subprocess.run(["git", "diff", "--name-only"], cwd=BLOG, capture_output=True, text=True).stdout.strip().splitlines()
+    status_all = subprocess.run(["git", "status", "--porcelain", "-uall"], cwd=BLOG, capture_output=True, text=True).stdout
+    config_changed = any(
+        f in diffed or any(f in l for l in status_all.splitlines())
+        for f in config_files
+    )
+
+    if not uncommitted and not config_changed:
         print("No new articles.")
         return
 
+    # BUG FIX (July 9 2026): always build+deploy even when no new articles land.
+    # The original "if not uncommitted: return" blocked deploys when only
+    # config/build files (svelte.config.js, vite.config.js) changed.
+    # Config-only changes now continue to build+deploy.
+    # NEW: also include svelte.config.js / vite.config.js / vercel.json in git add
+    # so build config changes are committed even when no new articles exist.
     new_count = len([l for l in uncommitted if l.startswith("??")])
-    print(f"Staging {len(uncommitted)} file(s) ({new_count} new)")
 
-    if not run("git", "add", "src/", "content/", "static/covers/", "static/fb-posts/", ".deployed_slugs"):
+    if uncommitted:
+        print(f"Staging {len(uncommitted)} file(s) ({new_count} new)")
+        if not run("git", "add", "src/", "content/", "static/covers/", "static/fb-posts/",
+                    ".deployed_slugs", "svelte.config.js", "vite.config.js", "vercel.json"):
+            return
+        ts = datetime.utcnow().strftime("%Y-%m-%d %H:%M UTC")
+        msg = f"auto-deploy {len(uncommitted)} files ({new_count} new articles) - {ts}"
+        if not run("git", "commit", "-m", msg):
+            return
+        if not run("git", "push", "origin", "master"):
+            return
+    elif config_changed:
+        # Config-only change: add and commit it even with no article changes.
+        # NOTE: git push is skipped here — if config files were changed manually
+        # and pushed before running this script, the push will be empty-nonce (fine).
+        # If nothing was pushed yet, run `git push origin master` manually afterward.
+        print("Config file(s) changed — staging...")
+        if not run("git", "add", "svelte.config.js", "vite.config.js", "vercel.json"):
+            return
+        ts = datetime.utcnow().strftime("%Y-%m-%d %H:%M UTC")
+        msg = f"auto-deploy config - {ts}"
+        if not run("git", "commit", "-m", msg):
+            return
+        # Push only if there are actually changes to push (ignore empty-nonce failure).
+        run("git", "push", "origin", "master")
+    else:
+        print("No new articles.")
         return
 
-    # Commit
-    ts = datetime.utcnow().strftime("%Y-%m-%d %H:%M UTC")
-    msg = f"auto-deploy {len(uncommitted)} files ({new_count} new articles) - {ts}"
-
-    if not run("git", "commit", "-m", msg):
-        return
-
-    # 1. Build via `vercel build` (not `npm run build`).
-    #    npx vercel build writes the correct .vercel/output/config.json with
-    #    version:3 (Build Output API v3). npm run build (vite) only populates
-    #    the build/ directory and never touches .vercel/output/, leaving a
-    #    stale config that fails deploys with "Expected version: 3".
+    # Always run the build, even when only config files changed.
+    # NOTE: `npx vercel build` re-writes .vercel/output/config.json correctly
+    # (version:3), so the manual write in step 1b-1d only fires on first run
+    # when .vercel/output/static/ doesn't exist yet.
     print("Building via vercel build...")
     if not run("npx", "vercel", "build", "--prod"):
         print("Build failed, aborting deploy.")
@@ -523,7 +601,7 @@ def main():
     if not run("git", "push", "origin", "master"):
         print("GitHub push failed, continuing with Vercel deploy...")
 
-    print("Pushed. Deploying to Vercel (--prebuilt)...")
+    print("Pushing. Deploying to Vercel (--prebuilt)...")
 
     # Vercel --prod deploy with --prebuilt to bypass server-side build
     # BUG FIX: --prebuilt uploads the pre-rendered static output without
@@ -537,6 +615,22 @@ def main():
     if not r:
         print("Vercel deploy FAILED (non-zero exit)")
         return
+
+    # 4. Patch .vercel/output/config.json AFTER deploy — vercel build regenerates
+    #    config.json on every run and only preserves vercel.json settings. The
+    #    static-host routing (map.html, article/{slug}.html rewrites) must be
+    #    written AFTER vercel build so they persist into the uploaded artifact.
+    vercel_config = BLOG / ".vercel/output/config.json"
+    cfg = {"version": 3, "routes": [
+        {"src": r"^/covers/(.*)$", "dest": "/covers/$1"},
+        {"src": r"^/_app/(.*)$", "dest": "/_app/$1"},
+        {"src": r"^/article/([^/]+)$", "dest": "/article/$1.html"},
+        {"src": r"^/map$", "dest": "/map.html"},
+        {"handle": "filesystem"},
+        {"src": r"^(?!/api).*$", "status": 404, "dest": "/404.html"},
+    ]}
+    vercel_config.write_text(json.dumps(cfg, indent=2))
+    print("Patched routing config with /map and /article/{slug} rewrites")
 
     # Extract URL from output
     for line in r.stdout.splitlines():
