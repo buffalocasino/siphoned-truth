@@ -22,8 +22,10 @@
 			<span>LAYERS: 35 CONCURRENT</span>
 			<span>•</span>
 			<a href="/map" class="stat-link">▸ HEATMAP</a>
-		</div>
-	</header>
+			<span>•</span>
+			<a href="https://deflock.org" target="_blank" rel="noopener" class="stat-link">▸ DEFLOCK MAP</a>
+			</div>
+			</header>
 
 	{#if articles.length === 0}
 		<div class="empty">
