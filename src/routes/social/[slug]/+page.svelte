@@ -30,12 +30,12 @@
 	});
 
 	const shareUrl = $derived(
-		`https://siphonedtruth.online/article/${article.slug?.toLowerCase() ?? article.id.toLowerCase()}`
+		`https://siphonedtruth.online/article/${(article.slug ?? article.id ?? '').toLowerCase()}`
 	);
 
 	const coverUrl = $derived(
 		article.coverImage ||
-		`https://siphonedtruth.online/covers/${(article.slug?.toLowerCase() ?? article.id.toLowerCase())}.jpg`
+		`https://siphonedtruth.online/covers/${((article.slug ?? article.id ?? '').toLowerCase())}.jpg`
 	);
 
 	const tags = $derived(

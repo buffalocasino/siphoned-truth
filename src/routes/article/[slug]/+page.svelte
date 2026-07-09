@@ -14,7 +14,7 @@
 				: []
 	);
 
-	const shareUrl = $derived(`https://siphonedtruth.online/article/${article.slug?.toLowerCase() ?? article.id.toLowerCase()}`);
+	const shareUrl = $derived(`https://siphonedtruth.online/article/${(article.slug ?? article.id ?? '').toLowerCase()}`);
 	const shareTitle = $derived(encodeURIComponent(article.title ?? ''));
 
 	const parseContent = (text: string) => {
@@ -53,8 +53,8 @@
 	<meta property="og:title" content={article.title || 'Article'} />
 	<meta property="og:description" content={(narrative || '').slice(0, 200)} />
 	<meta property="og:type" content="article" />
-	<meta property="og:url" content={`https://siphonedtruth.online/article/${article.slug?.toLowerCase() ?? article.id.toLowerCase()}`} />
-	<meta property="og:image" content={article.coverImage || `https://siphonedtruth.online/covers/${(article.slug?.toLowerCase() ?? article.id.toLowerCase())}.jpg`} />
+	<meta property="og:url" content={`https://siphonedtruth.online/article/${(article.slug ?? article.id ?? '').toLowerCase()}`} />
+	<meta property="og:image" content={article.coverImage || `https://siphonedtruth.online/covers/${((article.slug ?? article.id ?? '').toLowerCase())}.jpg`} />
 	<meta property="og:image:width" content="1280" />
 	<meta property="og:image:height" content="720" />
 	<meta property="article:published_time" content={article.time} />
@@ -62,8 +62,8 @@
 	<meta name="twitter:card" content="summary_large_image" />
 	<meta name="twitter:title" content={article.title} />
 	<meta name="twitter:description" content={narrative.slice(0, 200)} />
-	<meta name="twitter:image" content={article.coverImage || `https://siphonedtruth.online/covers/${(article.slug?.toLowerCase() ?? article.id.toLowerCase())}.jpg`} />
-	<link rel="canonical" href={`https://siphonedtruth.online/article/${article.slug?.toLowerCase() ?? article.id.toLowerCase()}`} />
+	<meta name="twitter:image" content={article.coverImage || `https://siphonedtruth.online/covers/${((article.slug ?? article.id ?? '').toLowerCase())}.jpg`} />
+	<link rel="canonical" href={`https://siphonedtruth.online/article/${(article.slug ?? article.id ?? '').toLowerCase()}`} />
 </svelte:head>
 
 <main>
@@ -81,7 +81,7 @@
 		</header>
 
 		<div class="cover-image">
-				<img src={article.coverImage || `/covers/${(article.slug?.toLowerCase() ?? article.id.toLowerCase())}.jpg`} alt={article.title} />
+				<img src={article.coverImage || `/covers/${((article.slug ?? article.id ?? '').toLowerCase())}.jpg`} alt={article.title} />
 			</div>
 
 	<section class="section">
