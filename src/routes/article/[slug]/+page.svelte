@@ -261,10 +261,10 @@
 		margin: 0;
 	}
 
-	.narrative-text p,
-	.analysis-text p,
-	.narrative-text .content-strong,
-	.analysis-text .content-strong {
+	.narrative-text :global(p),
+	.analysis-text :global(p),
+	.narrative-text :global(.content-strong),
+	.analysis-text :global(.content-strong) {
 		font-size: 1rem;
 		color: #00ff88cc;
 		line-height: 1.9;
