@@ -1,0 +1,21 @@
+{
+  "title": "India's 8-day oil reserve ceiling: the ONGC board approved a confession",
+  "slug": "india-ongc-mangaluru-1-75-mmt-strategic-reserve-hormuz-gap-july-10-2026",
+  "date": "2026-07-10",
+  "beat": "global-energy",
+  "narrative": "On July 9–10, 2026, Oil and Natural Gas Corporation received board approval to develop a 1.75 million metric tonne Strategic Petroleum Reserve extension at Mangaluru, Karnataka — the first time a state-run company has been directed to build and fill a strategic reserve rather than the government-owned Indian Strategic Petroleum Reserves Ltd. The project requires approximately $1.6 billion: $670 million in construction and $930 million to fill the cavern with crude at current prices. India currently holds approximately 21 million barrels of strategic crude stock — equal to roughly 8 days of imports. By comparison, China holds 1,397 million barrels, the US holds 413 million, and Japan holds 263 million. India's oil ministry had by June 30 convened a committee to study expanding reserves of crude, LPG, and LNG to cover up to a month's demand, explicitly citing the Iran war and Hormuz closure as exposing India's limited strategic reserves and vulnerability to supply shocks.",
+  "analysis": "The public narrative from New Delhi frames the Mangaluru expansion as a proactive energy security upgrade. The physical record tells a different story. India went from the Iran war to rationing diesel, LPG, and gas supplies at home and reaching out to Japan and South Korea for emergency assistance within weeks of Hormuz closing. China's crude imports fell by approximately one-third in May as prices surged during the Iran war — a shock China absorbed with its 1,397 million barrel reserve. India could not. The 21-million-barrel pre-war figure was not a strategic choice; it was the actual ceiling of India's preparedness, and that ceiling was reached and exceeded within days of a real supply disruption. The proposed 1.75 MMT Mangaluru extension adds approximately 12.8 million barrels, bringing total Indian strategic reserve capacity to roughly 51.8 million barrels — still less than 11 days of consumption at 5 million barrels per day. India is the world's most populous nation and a major crude importer. Its diesel rationing during the Hormuz closure directly affected agricultural and transport sectors.",
+  "verdict": "India's official statement frames the Mangaluru project as a strategic upgrade prompted by lessons learned. The physical evidence — near-collapse of domestic supply within weeks of Hormuz closing, the emergency outreach to Japan and South Korea, the 8-day pre-war reserve ceiling, the 11-day post-expansion ceiling — frames it as a confession of systemic failure. The comparison table (India 21M barrels vs China 1,397M / US 413M / Japan 263M) is the load-bearing data point: India's reserve is not a strategic buffer, it is a rounding error on China's position.",
+  "tags": ["india", "ongc", "strategic-petroleum-reserve", "hormuz", "iran-war", "energy-security", "mangaluru", "china", "oil", "imports"],
+  "telemetry": {
+    "sources": ["ONGC board resolution July 9-10 2026", "Economic Times June 30 2026", "Indian oil ministry committee June 30 2026", "International Energy Agency stock data"],
+    "documents_in_evidence": ["ONGC board resolution July 9-10 2026", "Economic Times 'India mulls expanding oil reserves after Iran war exposes 8-day supply gap' June 30 2026"],
+    "documents_absent": ["Indian Strategic Petroleum Reserves Ltd official statement on 21M barrel ceiling", "Indian government denial of Japan/South Korea emergency outreach"],
+    "key_figures": ["Indian oil ministry officials", "ONGC board"],
+    "facilities": ["Mangaluru SPR extension Karnataka", "Indian Strategic Petroleum Reserves Ltd facilities"],
+    "claim_exchanges": {
+      "india_public": "Proactive strategic upgrade prompted by lessons learned from Hormuz crisis",
+      "physical_record": "Emergency fuel rationing within weeks of Hormuz closure; emergency outreach to Japan and South Korea; 8-day pre-war reserve ceiling reached within days of real disruption"
+    }
+  }
+}

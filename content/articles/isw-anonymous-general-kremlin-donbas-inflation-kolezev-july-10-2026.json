@@ -1,0 +1,22 @@
+{
+  "title": "ISW anonymous general: Kremlin's public Donbas narrative is an information operation",
+  "slug": "isw-anonymous-general-kremlin-donbas-inflation-kolezev-july-10-2026",
+  "date": "2026-07-10",
+  "beat": "russia-ukraine",
+  "narrative": "On July 9, 2026, the Institute for the Study of War published its daily Russian Offensive Campaign Assessment citing an interview by Russian journalist Dmitry Kolezev with an anonymous active-duty Russian general. The general stated that Kremlin military command is reporting to Putin that Russian forces will seize all of Donbas by end of 2026 — a deadline the general called 'unrealistic' given Russia's manpower crisis. The general said Kremlin propaganda is inflating Russian battlefield successes to create a 'false perception of Russian sweeping advances' while maintaining a war of attrition Russia cannot win. ISW assessed the anonymous general's account as consistent with its own finding that 'Putin's assessment of the battlefield is divorced from reality.'",
+  "analysis": "The public Kremlin narrative — that Russia is achieving decisive, inevitable advances toward taking all of Donbas — directly contradicts the internal assessment attributed to an active-duty Russian general published by a Russian journalist on July 6. The anonymous source account was not denied or retracted. ISW corroborated the account with Reuters sourcing of three Kremlin-connected individuals who confirmed Putin believes forces will soon seize Donbas and is rejecting negotiations on current lines. The physical evidence layer: Ukrainian forces struck the Stavropol oil depot (585 km from frontline), the Tverskaya Neftobaza in Tver (520 km), the Yug Rusi Bataysk terminal (215 km), and two tankers in Taganrog Bay on the night of July 8–9 alone. Russia claims 73 drones downed; Ukraine reports 94 launched and 72 intercepted — a mathematical discrepancy in Russia's own MoD figures. The 55,000–60,000 monthly recruitment figure cited by the anonymous general is not reflected in any public Russian mobilization data. The pattern — anonymous source through a Russian journalist to a Russian audience — suggests the domestic information environment is not fully controlled.",
+  "verdict": "The Kremlin's public Donbas narrative is a documented information operation. Its own active-duty general called it 'unrealistic.' The Peskov statement that Trump's Patriot interceptor license is a 'misconception' directly contradicts the anonymous general's framing that Moscow is inflating claims specifically to prevent this kind of Western support from changing the outcome. Moscow is simultaneously telling domestic audiences it is winning and Western audiences the Patriot decision doesn't matter.",
+  "tags": ["russia", "ukraine", "isw", "information-operation", "donbas", "propaganda", "kremlin", "putin", "peskov", "kolezev"],
+  "telemetry": {
+    "sources": ["ISW July 9 ROCA", "Reuters July 9 Kremlin sources", "Dmitry Kolezev interview July 6", "Ukrainian Air Force July 9 report", "Russian Defense Ministry July 9 briefing"],
+    "documents_in_evidence": ["ISW Russian Offensive Campaign Assessment July 9 2026", "Kolezev interview with anonymous Russian general July 6 2026", "Reuters three-Kremlin-source report July 9 2026"],
+    "documents_absent": ["Putin July 9 public statement on Donbas timeline", "Russian Defense Ministry vessel-loss acknowledgment", "Official recruitment figures confirming 55,000-60,000/month need"],
+    "key_figures": ["Anonymous active-duty Russian general (via Dmitry Kolezev)", "Dmitry Peskov", "Maria Zakharova", "Putin"],
+    "facilities": ["Stavropol oil depot (585km)", "Tverskaya Neftobaza Tver (520km)", "Yug Rusi Bataysk terminal (215km)", "Taganrog Bay"],
+    "claim_exchanges": {
+      "kremlin_public": "Russia is achieving decisive, inevitable advances toward taking all of Donbas by end of 2026",
+      "anonymous_general_internal": "Kremlin propaganda inflating successes; deadline 'unrealistic'; manpower crisis requires 55,000-60,000 recruits/month; war of attrition Russia cannot win",
+      "kremlin_on_patriot_license": "Trump's Patriot license is a 'misconception'; US disinterested in European security"
+    }
+  }
+}
