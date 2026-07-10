@@ -1,0 +1,11 @@
+⬡ Russian MoD's Command-Post Maps Shown to Putin Inflated Territory by 1,900 km² — OSINT Analysis
+
+The article's load-bearing finding is the cartographic fabrication at the command-post level: the maps presented to Putin — and released by the Kremlin as authoritative — contain a 1,900 km² discrepancy against independent OSINT verification.
+
+The telemetry doesn't lie.
+
+▸ The maps the Russian Ministry of Defense presented to Putin at the July 3 command-post briefing — and that the Kremlin released as authoritative — contain a 1,900 km² discrepancy against the DeepState OSINT baseline. This is not spin, not exaggeration, not diplomatic imprecision. It is a falsified map, presented to the head of state, used as the evidentiary basis for a public territorial claim. The fabrication runs through the institutional chain: MoD maps → Putin briefing → Kremlin release. The anonymous Russian general's acknowledgment that the Kremlin is 'inflating battlefield successes' contextualizes this as policy, not error.
+
+→ https://siphonedtruth.online/article/mod-cartographic-1900km2-inflation-putin-command-post-maps-deepstate-july-3-2026
+
+#SiphonedTruth #OSINT #ShadowBroker
