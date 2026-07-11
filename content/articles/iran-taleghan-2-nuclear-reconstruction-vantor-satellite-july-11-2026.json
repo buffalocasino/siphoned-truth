@@ -1,0 +1,31 @@
+{
+  "title": "Iran's Taleghan 2 Reconstruction: Concrete Over Bomb Holes While Tehran Says It Has 'Kept Its Word'",
+  "date": "2026-07-11",
+  "body": "On July 11, 2026, CNN published an investigation based on commercial satellite imagery from Vantor Technologies and the Institute for Science and International Security (ISIS), showing that Iran has begun permanent reconstruction work at Taleghan 2 — an underground nuclear facility inside the Parchin Military Complex southeast of Tehran — despite being subject to a June 2026 memorandum of understanding with the United States that requires Iran to \"maintain the status quo\" on its nuclear program during negotiations.\n\nThe timeline of satellite-visible activity, per the ISIS analysis reviewed by CNN:\n\n- June 12: Iran temporarily covered three bomb impact holes above the underground facility. A well-used path to the southern entrance was restored.\n- June 18: Trucks and a large crane arrived outside the facility — signaling reconstruction was beginning.\n- June 20: Rubble cleared from around the Taleghan 2 complex perimeter.\n- June 22: Workers excavated around the three impact sites, cleared surrounding areas, and installed temporary screening covers over the openings. Fresh concrete was being poured to reinforce the southeast corner of the underground facility.\n- July 7 (the latest available image): A crane was operating directly above the impact sites. Workers were installing steel rebar mesh over the penetration holes before sealing them with reinforced concrete to restore the hardened roof structure. Once completed, the repaired section would be covered with earth — effectively rebuilding the buried facility.\n\nThe same CNN-ISIS report documented renewed vehicle activity at Pickaxe Mountain, a suspected underground nuclear facility near Isfahan. Satellite imagery from June 21 showed trucks and vehicles entering and leaving tunnel entrances at that site. The report noted that Pickaxe Mountain has never been inspected by the IAEA. A separate note flagged construction activity at missile-related sites near Tabriz and Kermanshah.\n\nSimultaneously, Iranian officials — including Foreign Minister Abbas Araghchi and UN Ambassador Amir Saeid Iravani — have publicly stated that Iran \"has so far kept its word\" on the MoU. Iran's position at the UN Security Council, delivered July 11 by Iravani, was that any breach of the MoU was committed by the United States, not Iran.\n\nThe physical record: three impact holes that US strikes opened through the facility's hardened roof are now sealed under reinforced concrete, and construction crews and heavy equipment are actively restoring the facility's structural integrity.",
+  "verdict": "Iran is rebuilding at sites it is not obligated to disclose to inspectors while leaving IAEA-monitored sites dormant — a pattern consistent with preserving weapons-relevant capability at the hardest-to-monitor facilities while maintaining plausible deniability. The Vantor imagery converts Tehran's \"kept its word\" formulation into a documented contradiction.",
+  "tags": ["iran", "nuclear", "vantor", "isis", "taleghan-2", "parchin", "pickaxe-mountain", "mou", "reconstruction", "satellite-imagery"],
+  "url": "",
+  "documents_in_evidence": [
+    "CNN investigation July 11 2026 — Vantor Technologies satellite imagery with ISIS analysis",
+    "Institute for Science and International Security — image analysis of Vantor commercial satellite captures June 12 June 18 June 20 June 22 July 7",
+    "Iravani statement UN Security Council July 11 2026 — Iran formal position US violated MoU first",
+    "Araghchi X posts July 11 2026 — Iran has so far kept its word",
+    "MoU text June 2026 — Para 9 maintain current status quo nuclear programme",
+    "CNN reporting October 2024 — Israel struck Taleghan 2 first destruction cycle",
+    "CNN reporting May 2025 — Iran rebuilt Taleghan 2 visible reconstruction second cycle"
+  ],
+  "documents_absent": [
+    "IAEA inspection reports for Pickaxe Mountain — never visited",
+    "Iranian government statement specifically addressing Taleghan 2 reconstruction activity",
+    "US government response to CNN/Vantor imagery findings"
+  ],
+  "telemetry": {
+    "author": "siphoned-truth-cron",
+    "beat_cluster": "iran-nuclear-moU-compliance",
+    "source_types": ["satellite_imagery", "government_statement", "mou_text", "osint"],
+    "outlet_types": ["cnn", "isis", "un_security_council"],
+    "documents_in_evidence_count": 7,
+    "documents_absent_count": 3,
+    "character_count": 4820
+  }
+}

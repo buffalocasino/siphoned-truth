@@ -1,0 +1,30 @@
+{
+  "title": "Russia's Three-Layer Fuel Collapse: The 65% Production Figure Moscow Won't Say Out Loud",
+  "date": "2026-07-11",
+  "body": "On July 10-11, 2026, three distinct but connected physical signals emerged from Russia that, taken together, show the Russian domestic fuel system under strain at multiple levels simultaneously — despite official Russian government statements projecting stability and controlled mitigation.\n\nSignal 1 — Don-Azov Canal closure: Three grain-export industry sources told Reuters on July 10 that Russia had temporarily halted all shipping through the Don-Azov Canal — a navigable waterway linking the Don River to the Sea of Azov — following Ukrainian strikes on vessels in the Sea of Azov. Russia's border guards notified shipping companies that no passage requests through the Kerch Strait (which links the Sea of Azov to the Black Sea) would be accepted from 6:10pm local time on July 10. No timetable was given for reopening. The canal handles approximately one-quarter of Russia's wheat exports.\n\nSignal 2 — 21 tanker strikes in the Sea of Azov: The same day, Ukraine's General Staff and drone forces commander Robert Brovdi separately reported that Ukrainian forces had struck 21 Russian tankers in the Sea of Azov over the preceding days. Brovdi stated that Ukraine had damaged almost 50 fuel vessels in a five-day period. The ISW confirmed strikes on the Azovnefteprodukt oil depot in Azov (Rostov Oblast) and the Kurgannefteprodukt oil terminal in Taganrog, both of which support fuel infrastructure in the Azov Sea region.\n\nSignal 3 — Physical fuel shortages: ISW, citing Reuters reporting from July 10, confirmed that Russian gasoline production had fallen to approximately 65 percent of average seasonal domestic consumption — a deficit of roughly 35 percent. Deputy Prime Minister Alexander Novak acknowledged on July 10 that some refineries had partially halted due to Ukrainian drone strikes, stating that authorities would ensure additional gasoline supplies to federal subjects. Regional authorities in Russia and occupied Crimea have been imposing restrictions on gasoline sales, and some authorities have called on Russians to work remotely and limit travel. Kazakhstan's Ministry of Internal Affairs reported deploying 59 police posts along its border and restricting foreign car entries to combat illegal fuel smuggling — with individuals caught attempting to transport gasoline back to Russia rising sharply in June 2026.\n\nThe structural asymmetry: Russia's official acknowledgment covers the refinery-level disruption (which can be framed as a manageable military consequence), but does not address the systemic domestic supply chain collapse visible at three levels simultaneously: production at 65 percent of demand, border-level fuel smuggling crackdowns by Kazakhstan, and canal closure that simultaneously cuts wheat export revenue while blocking fuel import alternatives. Novak's statement was calibrated to acknowledge damage at the refinery level without acknowledging the downstream retail, agricultural export, and border-smuggling consequences.\n\nThe 65-percent-of-demand figure comes from Reuters, citing two industry sources — not from Russian official statements. Novak's acknowledgment of \"partial shutdowns\" does not quantify the 35-percent deficit. Kazakhstan's deployment of 59 police posts is an involuntary physical signal: a neighboring state does not mobilize border enforcement assets unless the scale of fuel crossing its border has become materially unmanageable. The Don-Azov Canal closure is the most visible voluntary concession: Russia voluntarily halted one-quarter of its wheat export revenue to prevent further tanker losses in the Sea of Azov.\n\nThe physical record across three simultaneous data points — production, border pressure, and canal access — describes a domestic fuel system under strain at every level of the supply chain.",
+  "verdict": "Russia's government is managing a three-layer domestic fuel crisis through parallel admission streams that don't cross-reference each other. The 65-percent production figure is confirmed by Reuters industry sources but unacknowledged in any official Russian statement. The Kazakhstan police deployment and the canal closure are involuntary physical signals that confirm the severity.",
+  "tags": ["russia", "fuel", "don-azov-canal", "kazakhstan", "gasoline", "novak", "tanker", "ukraine", "shortage", "refinery"],
+  "url": "",
+  "documents_in_evidence": [
+    "Reuters July 10 2026 — three grain industry sources Don-Azov Canal halt; 65 percent gasoline production figure; Lukoil-NORSI Omsk refinery shutdowns; Saratov CDU-6 damage",
+    "ISW Russian Offensive Campaign Assessment July 10 2026 — confirms 65 percent figure; Kazakhstan 59 police posts; regional Russian restrictions",
+    "Rostov Oblast Governor Yuri Slyusar July 10 2026 — fires at Taganrog seaport two Azov oil storage facilities",
+    "Ukrainian General Staff night of July 9-10 — Ilsky Oil Refinery Krasnodar Krai; Kurgannefteprodukt Taganrog; Azovnefteprodukt Azov; Novatek Ust-Luga Leningrad Oblast ~855km",
+    "Kazakhstan Ministry of Internal Affairs July 9 2026 — 59 police posts; illegal fuel export surge June 2026",
+    "Regional Russian authorities Crimea Rostov — retail gasoline sale restrictions; remote-work calls"
+  ],
+  "documents_absent": [
+    "Russian official statement quantifying the 35 percent production deficit",
+    "Russian official statement on Don-Azov Canal halt",
+    "Russian official statement on Kazakhstan border fuel smuggling scale"
+  ],
+  "telemetry": {
+    "author": "siphoned-truth-cron",
+    "beat_cluster": "russia-ukraine-domestic-fuel",
+    "source_types": ["reuters", "isw", "regional_government_statement", "kazakhstan_government_statement", "ukrainian_general_staff"],
+    "outlet_types": ["reuters", "isw"],
+    "documents_in_evidence_count": 6,
+    "documents_absent_count": 3,
+    "character_count": 4580
+  }
+}
