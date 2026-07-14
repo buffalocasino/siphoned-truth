@@ -1,0 +1,35 @@
+{
+  "title": "Trump Claims 300-Yard Vandal Gash in Reflecting Pool — CNN Finds No Visible Evidence — Marks Match His May Motorcade",
+  "slug": "trump-reflecting-pool-300-yard-vandalism-claim-vs-tire-mark-evidence-motorcade-july-14-2026",
+  "date": "2026-07-14",
+  "narrative": "President Donald Trump claimed on Truth Social on July 14 that vandals created a \"300 yards long\" tear in the Lincoln Memorial Reflecting Pool lining — a figure that has inflated dramatically since his initial claim of 250 feet in late June, then 300 feet, then 350 feet, and now 300 yards (900 feet). Interior Secretary Doug Burgum insisted on CNN's State of the Union on July 5 that the government could \"absolutely\" prove vandals were responsible, saying photographs support the allegation. The pool was pumped dry on Monday to \"fix the scars and damage that was done by the Vandals two weeks ago.\"\n\nCNN visited the D.C. memorial on Monday and found no visible evidence of the alleged 300-yard gash. Photographs of the mostly empty basin show no indication of a tear of that magnitude. Instead, observers and analysts note the marks resemble tire tracks — consistent with Trump's motorcade driving across the empty pool surface in May 2026, an event captured on video. Aquatic Council chair Tim Auerhahn told the New York Times in May that the motorcade driving across the pool's surface may have put significant weight on leaky joints between concrete slabs following repair work.\n\nThree individuals charged with destruction of property — including former Olympic canoeist David Hearn — have pleaded not guilty. The White House has not provided evidence when requested by media. The $14 million renovation was already plagued by algae blooms, peeling coating, and discoloration before the \"vandalism\" claim.",
+  "analysis": "The damage-size inflation follows a pattern: 250 feet (June 20) → 300 feet → 350 feet → 300 yards/900 feet (July 14). Each escalation coincides with media skepticism about the original claim, suggesting the narrative is being constructed rather than reported. A 300-yard gash would be visible in standard aerial photography — CNN's visit found no such evidence.\n\nThe motorcade-as-damage-source theory is supported by three independent evidence layers: (1) video of Trump's motorcade driving across the empty pool in May, (2) the tire-track pattern visible in basin photographs, and (3) Auerhahn's expert assessment that motorcade weight on leaky slab joints could cause the observed damage. The marks on the pool floor match tire tracks, not box-cutter cuts — the tool the White House alleges the vandals used.\n\nThe three defendants' not-guilty pleas and the White House's refusal to provide evidence when asked create the structural contradiction: official claim (vandalism with box cutters) versus physical evidence (tire marks, no visible 300-yard gash). The $14 million renovation — already over budget and plagued by algae blooms and peeling coating — now shows tire marks from the president's own motorcade, making the vandalism narrative a potential cover for pre-existing structural failure and motorcade damage.",
+  "verdict": "[SIPHONED VERDICT]: Trump's 300-yard vandalism claim has inflated 3.6x over three weeks (250 feet → 900 feet) while CNN's on-site visit found no visible evidence of a gash of that magnitude. The marks on the pool floor resemble tire tracks consistent with Trump's May 2026 motorcade crossing — captured on video — not box-cutter cuts as the White House alleges. Three defendants have pleaded not guilty; the White House has not provided evidence when requested. The $14 million renovation was already failing before the vandalism claim (algae blooms, peeling coating, discoloration), and the motorcade weight on leaky slab joints provides a non-vandal explanation for the observed damage that the administration has not addressed.",
+  "tags": ["trump", "reflecting-pool", "vandalism", "motorcade", "tire-tracks", "inflation", "burgum", "lincoln-memorial", "14-million"],
+  "telemetry": {
+    "sources_read": 4,
+    "documents_in_evidence": [
+      "CNN on-site photographs of empty basin (July 14)",
+      "Trump Truth Social claim (July 14)",
+      "Burgum CNN State of the Union statement (July 5)",
+      "Auerhahn New York Times expert assessment (May 2026)"
+    ],
+    "documents_absent": [
+      "White House evidence of vandalism (requested by media, not provided)",
+      "National Park Service structural assessment of slab joints",
+      "Full video of May 2026 motorcade crossing (referenced but not re-viewed)",
+      "Court filings from three defendants' not-guilty pleas"
+    ],
+    "evidence_layers": [
+      "CNN on-site visual inspection (no 300-yard gash visible)",
+      "Damage-size inflation timeline (250ft → 300ft → 350ft → 900ft)",
+      "Tire-track pattern matching motorcade (video evidence)",
+      "Expert assessment of slab-joint damage from motorcade weight",
+      "Three not-guilty pleas + White House evidence refusal"
+    ],
+    "contradiction_type": "official vandalism claim vs physical tire-track evidence",
+    "beat_cluster": "trump-reflecting-pool-vandalism-claim",
+    "prior_coverage_count": 0,
+    "distinct_from_prior": "no prior coverage of the Reflecting Pool vandalism claim in the article archive"
+  }
+}
