@@ -1,0 +1,39 @@
+{
+  "title": "Wrong Person, Same Script: ICE Fatal Shooting in Biddeford Follows identical 'Weaponized Vehicle' Template as Houston Killing Six Days Earlier",
+  "slug": "ice-biddeford-wrong-target-guerrero-weaponized-vehicle-body-cameras-missing-july-14-2026",
+  "date": "July 14 2026",
+  "body": "On July 13, 2026, an ICE officer fatally shot Joan Sebastian Guerrero, a 26-year-old Colombian national, during a traffic stop in Biddeford, Maine. DHS released a statement nearly 12 hours after the shooting claiming the officer fired \"fearing for public safety\" because the vehicle \"attempted to flee the scene.\" Homeland Security Secretary Markwayne Mullin initially told Senator Angus King that Guerrero was the target of a warrant with a final removal order. Three hours later, Mullin called back to correct himself — Guerrero was NOT the target. DHS's own statement did not disclose this critical fact.\n\nThis is the second fatal ICE shooting in six days. On July 7, ICE agents killed Lorenzo Salgado Araujo, a 52-year-old Mexican man in Houston, also claiming he \"weaponized\" his vehicle. In both cases, agents were not wearing body cameras despite DHS's earlier commitment to equip all officers with the devices after citizens Good and Pretti were killed by ICE agents in Minneapolis in January.\n\nThe physical evidence contradicts the official narrative on multiple fronts. Daniel Boucher, a third-floor resident at the Biddeford scene, saw the car \"turned 90 degrees to the curb\" with the driver injured. He heard Guerrero say \"I tried to stop.\" Laundromat owner Cory Poulin's security cameras captured the car moving toward the intersection AFTER shots were fired — Poulin said \"I don't believe he was alive when the car started rolling.\" Maine State Police asked Poulin NOT to release the footage.\n\nSenator King confirmed body cameras are \"not everywhere, and apparently not in Biddeford, Maine.\" The AG's office said the man \"attempted to flee in a vehicle in the direction of the officer\" based on \"initial statements collected by investigators\" — not physical evidence. No video evidence exists to verify the agent's account because no body cameras were worn.\n\nThe Houston shooting also targeted the wrong person. Salgado Araujo was mistaken for someone else. DHS's \"weaponized vehicle\" framing was deployed identically in both cases — the same template, the same language, the same absence of body camera footage, the same wrong-person outcome.\n\nNationwide ICE arrests reached approximately 2,000 per day by late June — double the prior rate. Governor Mills called the Biddeford shooting \"reckless and haphazard.\" The 12-hour delay in DHS's statement, followed by Mullin's correction on the target identity, suggests the narrative was being constructed, not reported. The Maine State Police request to suppress the laundromat security footage adds an evidence-suppression layer to a pattern that now spans two states, two victims, and six days.",
+  "narrative": "On July 13, 2026, an ICE officer fatally shot Joan Sebastian Guerrero, a 26-year-old Colombian national, during a traffic stop in Biddeford, Maine. DHS released a statement nearly 12 hours after the shooting claiming the officer fired \"fearing for public safety\" because the vehicle \"attempted to flee the scene.\" Homeland Security Secretary Markwayne Mullin initially told Senator Angus King that Guerrero was the target of a warrant with a final removal order. Three hours later, Mullin called back to correct himself — Guerrero was NOT the target. DHS's own statement did not disclose this critical fact.\n\nThis is the second fatal ICE shooting in six days. On July 7, ICE agents killed Lorenzo Salgado Araujo, a 52-year-old Mexican man in Houston, also claiming he \"weaponized\" his vehicle. In both cases, agents were not wearing body cameras despite DHS's earlier commitment to equip all officers with the devices after citizens Good and Pretti were killed by ICE agents in Minneapolis in January.",
+  "analysis": "The \"weaponized vehicle\" script is being deployed as a templated justification across multiple fatal shootings. The physical evidence — security camera footage showing the car moving after shots were fired, witness testimony of \"I tried to stop,\" the absence of body cameras that DHS promised, and the fact that the victim was NOT the target — directly contradicts the official narrative.\n\nThe 12-hour delay in DHS's statement, followed by Mullin's correction on the target identity, suggests the narrative was being constructed, not reported. The Maine State Police request to suppress the laundromat security footage adds an evidence-suppression layer.\n\nTwo fatal ICE shootings in 6 days, both involving wrong-person targeting, both using identical \"weaponized vehicle\" framing, both without body camera footage. The pattern is the story. Nationwide ICE arrests reached approximately 2,000 per day by late June — double the prior rate. The operational tempo has outpaced the accountability infrastructure.",
+  "verdict": "[SIPHONED VERDICT]: DHS's \"weaponized vehicle\" script is a templated justification deployed across two fatal wrong-person shootings in six days. The laundromat security footage showing the car moving AFTER shots were fired, the witness \"I tried to stop,\" and the absence of body cameras that DHS promised expose the gap between the narrative and the physical record.",
+  "tags": ["siphoned-truth", "investigative", "ice", "deportation", "enforcement", "maine", "houston", "body-cameras", "wrong-person", "weaponized-vehicle"],
+  "documents_in_evidence": [
+    "DHS statement July 13 2026 — officer fired fearing for public safety vehicle attempted to flee",
+    "Senator Angus King confirmation — Mullin called back to correct Guerrero was not the target",
+    "Cory Poulin laundromat security camera footage — car moving toward intersection AFTER shots fired",
+    "Daniel Boucher witness testimony — heard Guerrero say I tried to stop",
+    "Maine State Police request to suppress laundromat footage",
+    "Senator King body camera confirmation — not everywhere and apparently not in Biddeford",
+    "AG office statement — attempted to flee based on initial statements not physical evidence",
+    "DHS body camera commitment after Minneapolis Good and Pretti January 2026",
+    "Houston ICE shooting July 7 2026 — Salgado Araujo wrong-person identical framing",
+    "Governor Mills reckless and haphazard statement"
+  ],
+  "documents_absent": [
+    "Body camera footage from Biddeford shooting — cameras not worn",
+    "Body camera footage from Houston shooting — cameras not worn",
+    "DHS disclosure of target confusion in initial statement — omitted",
+    "Laudromat security footage — suppressed at Maine State Police request",
+    "Any independent forensic analysis of vehicle trajectory vs agent account"
+  ],
+  "telemetry": {
+    "author": "siphoned-truth-cron",
+    "beat_cluster": "ice-enforcement-wrong-person-shootings",
+    "source_types": ["government_statement", "witness_testimony", "security_footage", "senator_confirmation"],
+    "outlet_types": ["local_news", "senate_record"],
+    "documents_in_evidence_count": 10,
+    "documents_absent_count": 5,
+    "character_count": 5100
+  },
+  "published": false
+}
