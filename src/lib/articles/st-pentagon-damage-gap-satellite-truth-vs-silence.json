@@ -1,0 +1,21 @@
+{
+  "slug": "st-pentagon-damage-gap-satellite-truth-vs-silence",
+  "id": "ST-PENTAGON-DAMAGE-GAP-20260728",
+  "time": "2026-07-28T12:00:00Z",
+  "title": "The Pentagon's Damage Gap — Satellite Truth vs. Official Silence",
+  "narrative": "The Pentagon has publicly characterized Iranian missile and drone strikes on U.S. bases across the Middle East as causing 'minimal operational impact' and 'minor structural damage.' Pentagon spokespeople have declined to provide a precise number of bases affected, describing the inquiry as 'operationally sensitive.' CENTCOM has remained silent on specific damage, letting host nations (Qatar, Bahrain) confirm destruction that Washington would not. The U.S. government also asked major satellite providers (Vantor/Planet Labs) to 'limit, delay, or indefinitely withhold' imagery of the region — a request made less than two weeks into the war.",
+  "telemetry": [
+    "Washington Post investigation verified 228 structures/pieces of equipment damaged or destroyed at 15+ U.S. military sites since February 2026",
+    "ABC Australia (July 25): Some bases rendered 'all but uninhabitable'; cost to rebuild estimated ~$9 billion",
+    "NYT visual analysis (July 22): Iran has struck 9+ U.S. locations in the past two weeks alone, hitting living quarters, drone shelters, radar systems, THAAD components",
+    "Specific confirmed hits: Fifth Fleet HQ Bahrain (2x $100M satellite comms terminals destroyed); Al Dhafra Air Base UAE — craters inside perimeter, barracks destroyed",
+    "Ali Al Salem Kuwait — repeated hits, 20+ injured; Muwaffaq al-Salti Jordan — fuel storage destroyed, THAAD radar destroyed ($400M); Al Udeid Qatar — satellite comms site hit",
+    "Congress report (May 2026): 42 U.S. aircraft destroyed including F-15s, F-35s, 24 MQ-9 Reapers, A-10; half of U.S. air defense interceptor stockpile depleted",
+    "US government asked satellite providers to suppress imagery while Iran publishes its own — and independent OSINT verification confirms Iran's images are authentic",
+    "Senate Armed Services Committee requested classified briefings; senators from both parties express concern public statements don't match intelligence briefings"
+  ],
+  "analysis": "The Pentagon's 'minimal damage' framing is contradicted by a growing body of independently verified evidence. The Washington Post verified 228 structures or pieces of equipment damaged at 15+ US military sites. ABC Australia reported some bases rendered 'all but uninhabitable' with a $9 billion rebuild estimate. The New York Times' visual analysis confirmed Iran struck 9+ US locations in two weeks alone.\n\nThe specific hits tell the story: two $100M satellite communications terminals destroyed at Fifth Fleet HQ in Bahrain. A $400M THAAD radar destroyed in Jordan. Forty-two aircraft lost — including F-15s, F-35s, and 24 MQ-9 Reapers. Half the interceptor stockpile depleted. These are not 'minor structural damage.' These are strategic losses.\n\nThe information warfare dimension is the most revealing. The Pentagon asked commercial satellite providers to suppress imagery of the region less than two weeks into the war. The US government tried to control the visual evidence at the same time it was telling the public the damage was minimal. But Iran published its own imagery of strikes — and independent OSINT analysts (Bellingcat, Middlebury Institute) confirmed it was authentic. The US can no longer control the battlefield narrative because satellite imagery, OSINT analysts, and even enemy propaganda (when independently verified) tell a different story than official briefings.",
+  "verdict": "[SIPHONED VERDICT]: The Pentagon says damage to US bases is 'minimal.' Washington Post verified 228 structures destroyed at 15+ sites. ABC Australia says some bases are 'all but uninhabitable' at a $9 billion rebuild cost. 42 aircraft destroyed, half the interceptor stockpile gone. The Pentagon's request that satellite companies suppress imagery tells you more about the damage than any official briefing.",
+  "tags": ["pentagon", "iran", "military-bases", "satellite-imagery", "osint", "damage-assessment", "centcom", "information-warfare", "thaad"],
+  "kanban_task": "t_7c55ec66"
+}

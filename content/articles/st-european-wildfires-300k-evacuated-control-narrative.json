@@ -1,0 +1,21 @@
+{
+  "slug": "st-european-wildfires-300k-evacuated-control-narrative",
+  "id": "ST-EUROPE-WILDFIRES-20260728",
+  "time": "2026-07-28T12:00:00Z",
+  "title": "'Under control' means 420 sq km of France burned in four days — a crisis of scale",
+  "narrative": "French and Spanish authorities say wildfires are being 'brought under control' ahead of the fourth heat wave of the summer. France evacuated nearly 4,000 people from Atlantic coast tourist sites on Tuesday. But the scale tells a different story: the Gironde blaze near Bordeaux has burned 162+ square miles (420 sq km) in less than four days — four times the size of Paris. The Madrid region fires are the worst in the region's recorded history, burning 297 sq miles (770 sq km). Over 300,000 people have been evacuated across both countries. French officials say 200,000 fled Gironde alone.",
+  "telemetry": [
+    "France says fire 'coming under control' while ordering 4,000 more evacuations — timing mismatch between narrative and operations",
+    "Gironde blaze near Bordeaux: 420 sq km burned in <4 days — four times the size of Paris",
+    "Madrid region: 770 sq km burned — worst in the region's recorded history",
+    "Blaze threatened French ballistic missile facilities, rocket motor plants, and hazardous chemical processors near Bordeaux — classified sites now in burn scar zones",
+    "Fire created a pyrocumulonimbus thunderstorm — self-sustaining fire weather that creates its own lightning",
+    "Military assets deployed: A400M transport aircraft dropping retardant, Canadair water bombers — military resources diverted from other duties",
+    "Tour de France final stage shortened — police and security reassigned to firefighting; cascading resource drain",
+    "Fourth heat wave of summer; July temps above 40°C across wide area"
+  ],
+  "analysis": "The language of crisis management is doing heavy lifting here. French officials say the fire is 'coming under control' at the same moment they order 4,000 more evacuations. 'Under control' means the fire hasn't reached Bordeaux city center. It does not mean the fire is contained. 420 square kilometers in four days is a burn rate that consumes 105 sq km per day — an area larger than Disneyland Paris every 24 hours.\n\nThe classified infrastructure angle adds a dimension the official narrative doesn't address. French ballistic missile facilities, rocket motor plants, and chemical processors sit in the burn scar zone. These are not forests. These are sites with hazardous materials adjacent to an uncontrolled fire that generated its own thunderstorm — a pyrocumulonimbus cloud that creates lightning and wind patterns independent of the weather system.\n\nThe cascading resource drain tells the real story: A400M military transport aircraft dropping retardant, Canadair water bombers diverted from other duties, Tour de France security reassigned to firefighting, police reallocated. When a state moves military aviation assets and police forces to fight a fire, the situation is not 'under control' — it is an emergency that is consuming the state's capacity to do anything else.",
+  "verdict": "[SIPHONED VERDICT]: French officials say the Gironde fire is 'coming under control' while 200,000 people are evacuated, military aircraft drop retardant, and the blaze generates its own thunderstorm. 420 sq km burned in four days across classified military and chemical sites. The official narrative of control is contradicted by every operational metric.",
+  "tags": ["wildfires", "france", "spain", "gironde", "bordeaux", "climate", "evacuation", "military", "heatwave"],
+  "kanban_task": "t_ff20eb15"
+}

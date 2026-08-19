@@ -1,0 +1,21 @@
+{
+  "slug": "st-debris-only-hits-factories-moscow-drone-damage-control",
+  "id": "ST-MOSCOW-DEBRIS-DAMAGE-20260728",
+  "time": "2026-07-28T12:00:00Z",
+  "title": "Debris That Only Hits Factories — Russia's Moscow drone attack damage control",
+  "narrative": "Moscow Mayor Sergei Sobyanin claims over 390 drones were launched at Moscow overnight (July 27-28), with Russian air defenses 'destroying 81 on approach to Moscow.' The Russian Defense Ministry claims 356 drones were shot down across 13 regions. Moscow Region Governor Andrei Vorobyov describes only minor damage: a residential building hit in Chekhov, some tire fires at an open storage site, a private house fire in Vaulovo, and drone debris damaging a country house. The official narrative: massive attack, near-total interception, minimal damage — all residential/accidental.",
+  "telemetry": [
+    "OSINT project Astra geolocated the 'tire fire' to the Chekhov Regeneration Plant — one of Russia's largest tire recycling and rubber processing facilities",
+    "Ukrainian monitoring channel Exilenova+ reported Hydrostalkonstruktsiya steel fabrication factory struck in Chekhov — a military-industrial target",
+    "Telegram channel Supernova Plus reported a 3PL logistics warehouse caught fire in Koledino (Podolsk district) next to a major Wildberries distribution center",
+    "Three Moscow airports (Vnukovo, Domodedovo, Zhukovsky) suspended operations — significant capital disruption",
+    "Pattern consistent with two years of Russian information management: fires at industrial/military sites described as 'debris' from intercepted drones",
+    "390+ drone figure would be the single largest drone attack on Moscow ever — yet Russia claims near-perfect interception with only residential damage",
+    "Separate blackout reported in occupied Crimea after Ukrainian drone strikes on Feodosia electric substation the same night",
+    "Ukraine has not officially confirmed the attack, maintaining standard operational security"
+  ],
+  "analysis": "Russia's air defense narrative has a recurring and statistically improbable problem: the 'debris' from successfully intercepted drones keeps falling exclusively on strategically important industrial and military sites. Every fire is explained as 'debris,' every target is described as 'residential,' and military-industrial damage is never admitted.\n\nThe Chekhov tire fire illustrates the pattern perfectly. Governor Vorobyov described it as 'some tire fires at an open storage site.' OSINT analysts geolocated the fire to the Chekhov Regeneration Plant — a major tire recycling and rubber processing facility that serves Russian industry. Not a random storage area. An industrial plant.\n\nThe Hydrostalkonstruktsiya steel fabrication factory in Chekhov is a military-industrial target. The 3PL logistics warehouse in Koledino serves multiple Russian companies and sits next to a Wildberries distribution hub. Three Moscow airports suspended operations. These are not accidents of debris dispersal.\n\nTwo years of this pattern establish a clear information operation: every successful Ukrainian strike on industrial or military targets is laundered through the 'intercepted debris' narrative. The 390+ drone figure — if true — represents the single largest drone attack on Moscow ever. Russia claims near-perfect interception. And yet every visible fire just happens to be at a strategically significant site.",
+  "verdict": "[SIPHONED VERDICT]: Russia claims it intercepted nearly 400 drones over Moscow with only residential debris damage. OSINT analysts geolocated the fires to a tire regeneration plant, a steel fabrication factory, and a major logistics hub — all industrial targets. The 'debris' narrative is a two-year information operation to mask damage to strategic infrastructure behind a claim of total air defense success.",
+  "tags": ["russia", "moscow", "drone-attack", "ukraine", "osint", "damage-control", "propaganda", "chekhov", "air-defense"],
+  "kanban_task": "t_4cd0590a"
+}

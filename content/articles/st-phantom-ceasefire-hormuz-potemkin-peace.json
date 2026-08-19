@@ -1,0 +1,21 @@
+{
+  "slug": "st-phantom-ceasefire-hormuz-potemkin-peace",
+  "id": "ST-PHANTOM-CEASEFIRE-20260728",
+  "time": "2026-07-28T12:00:00Z",
+  "title": "The Phantom Ceasefire — Hormuz negotiations as Potemkin peace",
+  "narrative": "President Trump claims 'very friendly negotiations' are underway with Iran, the US has paused strikes since Friday, and the UN Ambassador says the administration is 'giving diplomacy some space.' Trump told a Michigan rally: 'Right now, there are very friendly negotiations going on.' CENTCOM says maritime traffic continues through the Strait of Hormuz and the blockade on Iranian ports 'remains in full effect.' Oil prices have fallen and markets rallied on peace hopes.",
+  "telemetry": [
+    "straits.live tracker: Strait of Hormuz effectively CLOSED (Day 149 as of July 28); only 7 vessels passed through Sunday, 3 on Saturday",
+    "8 of the world's largest container carriers have suspended Hormuz transits; war-risk insurance at 8.0× normal",
+    "~430 vessels stranded inside the Gulf; Iran's Foreign Ministry: 'the situation in the Strait of Hormuz has not changed and it remains closed'",
+    "Drone attacks CONTINUED during the 'ceasefire': Saudi Arabia intercepted drones targeting oil facilities in Eastern Province and Riyadh",
+    "Jordan shot down a drone Tuesday; drones targeted Erbil, Iraq — some heading toward US Consulate; Houthis claimed attacks on Saudi oil infrastructure",
+    "Iran denies ANY direct talks with the US, contradicting Trump's 'friendly negotiations' claim — only indirect messages via Oman, Pakistan, Qatar",
+    "Israel continues bombing Lebanon and Gaza despite ceasefire terms; Netanyahu in DC meeting Trump",
+    "Brent crude above $100/barrel; June 17 Islamabad Memorandum collapsed within days; this is the third 'ceasefire' attempt since February"
+  ],
+  "analysis": "Every party to the conflict except the White House acknowledges the war is ongoing. The Strait of Hormuz — the single most important metric — remains closed by any meaningful measure: 7 vessels on Sunday, 3 on Saturday, compared to a pre-war baseline of 88-153 per day. Iran's own foreign ministry states the closure has 'not changed.' The shipping industry has voted with its hulls — 8 of the largest carriers have suspended transits, and war-risk insurance at 8× normal makes the strait commercially unviable.\n\nMeanwhile, the kinetic reality: Saudi Arabia intercepted drones on Monday. Jordan shot down a drone on Tuesday. Drones hit Erbil, Iraq. Houthis claimed strikes on Saudi oil infrastructure. The only thing that paused was US airstrikes — everything else continued.\n\nTrump's claim of 'friendly negotiations' is directly contradicted by Iran's denial of any talks whatsoever. Iran says it only receives messages through intermediaries. The gap between the White House's diplomatic framing and the operational reality is not a misunderstanding — it is a Potemkin ceasefire designed to calm oil markets and provide political cover while the underlying military standoff continues unresolved.",
+  "verdict": "[SIPHONED VERDICT]: Trump sells a peace deal to markets and voters while the region burns. The Hormuz remains closed, drones still fly, Iran denies any talks, and the only thing that paused was US airstrikes. This is the third 'ceasefire' since February — and like the first two, it's a Potemkin peace designed to calm markets, not end the war.",
+  "tags": ["hormuz", "iran", "ceasefire", "trump", "oil", "shipping", "potemkin", "drone-attacks", "diplomacy"],
+  "kanban_task": "t_ff1ce1e8"
+}
