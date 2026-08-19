@@ -21,6 +21,14 @@ def _load_hermes_env():
         # Don't clobber an explicitly set value
         os.environ.setdefault(k, v)
 
+    # BUG FIX (Aug 19 2026): a stale GITHUB_TOKEN in the hermes .env overrides
+    # `gh auth git-credential`'s keyring token (gh prefers the env var), so
+    # `git push origin master` fails with "Invalid username or token" even
+    # though `gh auth status` is healthy. Drop both token env vars after the
+    # load so git/gh fall back to the valid keyring credential.
+    for _k in ('GITHUB_TOKEN', 'GH_TOKEN'):
+        os.environ.pop(_k, None)
+
 _load_hermes_env()
 
 # Resolve BLOG to the directory containing this script — works on WSL, Windows, native Linux
